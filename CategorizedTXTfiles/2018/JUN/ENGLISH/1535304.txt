@@ -1,0 +1,77 @@
+      Ministry of Railways
+
+      Cashless Ticketing through 'Utsonmobile' app developed by CRIS
+      Posted On: 13 JUN 2018 5:51PM by PIB Delhi
+
+
+    Continuing towards digitalization and moving towards becoming a cashless economy, the initiative of faster and more techno-advanced transactions in Indian Railways is being taken up, the Centre for Railway Information System (CRIS) has developed a mobile based application ‘utsonmobile'. This application has the following features:
+
+
+    1. The ‘utsonmobile’ application enables booking and cancellation of unreserved tickets, issue and renewal of season and platform tickets, check and load R-wallet balance and helps maintain user profile management and booking history.
+
+
+    2. The 'utsonmobile' application is very handy, free and is available for both Android and Windows smart phone. Users can download this app from Google Play Store or Windows store free of cost.
+
+
+    3. First the passenger will get registered by providing his/her mobile number, name, city, default booking train type, class, ticket type, number of passenger and frequently travelling routes.
+
+
+    4. Upon successful registration, Railway Wallet (R-Wallet) will be created automatically with zero balance to the passenger. There will be no extra cost for creating R-Wallet.
+
+
+    5. The R-Wallet can be recharged either at any of the UTS counter or through recharge option available in the https://www.utsonmobile.indianrail.gov.in website.
+
+
+    6. In case internet connection of the mobile is not up, then ticket booking is not allowed.
+
+
+    7. No advance ticket booking is allowed. (i.e.) the journey date will always be current date.
+
+
+    8. Paperless Ticket: The passenger can travel without taking hardcopy of the ticket. Whenever Ticket Checking Staff asks for ticket, the passenger will use 'Show Ticket' option in the app.
+
+
+    · The smart phone should be GPS enabled to book paperless ticket.
+
+
+    · The paperless tickets are not allowed for cancellation.
+
+
+    · The journey should commence within one hour after booking paperless ticket.
+
+
+    · The Season ticket can be issued/renewed from mobile application and it will be valid from the next day of booking the ticket. No need of GPS for issue/renewal of Season Ticket.
+
+
+    · Platform Ticket can also be booked from mobile application.
+
+
+    · In case passenger is not able to show the ticket on mobile then it is considered as ticketless travel.
+
+
+    9. Paper Ticket: The passenger can book ticket through the mobile app. On booking of ticket, he/she will get Booking ID along with other ticket details. The booking details will also be available in booking history. The booking ID will also be conveyed through an SMS.
+
+
+    · After booking Paper ticket, Passenger can go to the journey originating (source) station to take ticket print out from any of the ATVM there, by entering his/her registered mobile number and booking ID. The Journey is valid only with printed ticket.
+
+
+    · The cancellation of Paper ticket is allowed either at the counter after printing the ticket or through the app before printing the ticket. However, in both the cases, cancellation fee is applicable.
+
+
+    · The journey should commence within one hour after printing paper ticket in the kiosk.
+
+
+    10. For detailed help, visit website " https://www.utsonmobile.indianrail.gov.in ".
+
+
+    ***
+
+
+    SBS/MKV/ENS
+
+    
+    
+    (Release ID: 1535304) Visitor Counter : 1837
+    
+    
+      Read this release in: Hindi

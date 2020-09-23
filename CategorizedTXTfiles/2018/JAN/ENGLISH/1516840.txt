@@ -1,0 +1,68 @@
+      Ministry of Science & Technology
+
+      “Government committed to harness science and technology for the preservation of environment”: Dr. Harsh Vardhan
+      
+      Commencement of “DST-Intel Collaborative Research for Real-time River Water and Air Quality Monitoring (WAQM)” and announcement of Research Projects
+      
+      Posted On: 16 JAN 2018 4:15PM by PIB Delhi
+
+
+    Union Minister for Science & Technology, Environment, Forest and Climate Change and Earth Sciences, Dr. Harsh Vardhan, has said that under the leadership of the Prime Minister, Shri Narendra Modi, the Government is committed to harness science and technology for the preservation of environment. Presiding over the function to mark the commencement of DST-Intel Collaborative Research for real-time river water and air quality monitoring and announcement of research projects at Hotel Taj Mahal here today, Dr. Harsh Vardhan emphasised that research has to be increasingly made people-centric and research must find solutions to the problems of the people. The Minister also stressed the need to change the definition of “impact factor” to include how much the research will impact the common and lead to an alleviation of sufferings of the people. Dr. Harsh Vardhan said that real time water and air quality monitoring is another initiative of the Government towards scientific social responsibility. “The scientific vision of the Government has been demonstrated through state-of-the-art technology solutions delivered through global partnership”, he stated.
+
+
+    Congratulating the scientists on the occasion, the Minister pointed out that India stands third in the field of nano-technology. “India’s R&D efforts have been hailed by the entire world”, he said. “There is nothing on this planet that cannot be solved with the help of science”, Dr. Harsh Vardhan averred. The Minister added that national missions like Namami Gange can really benefit from science and that Mission Namami Gange needs help from scientists. He stated that development and application of advanced tools and techniques by leading Indian and US institutions for real time water and air quality monitoring is of utmost importance to address the critical scientific challenges involved.
+
+
+    Speaking on the occasion, Secretary, Department of Science and Technology Prof. Ashutosh Sharma, highlighted the technology-based solutions provided to address the challenges of water availability and water quality. He also underlined the significant investment made in national, bilateral and multilateral research efforts to address water challenges. “The department is committed to contribute to national missions through science and technology and current endeavour for the development of online autonomous sensor networks for water and air quality monitoring is one such step”, he said.
+
+
+    Addressing the gathering, vice president, Internet of Things Group (IOTG), Intel Corporation, Mr. Jonathan Ballon said, “Intel continues its focus on supporting innovation and technology research aimed at creating solutions to help improve the quality of life. The initiative will draw meaningful insights that will help towards developing end-to-end IoT-based real-time water and air quality monitoring solutions, creating affordable and applicable solutions for India’s community challenges.”
+
+
+    Department of Science and Technology (DST) and Intel have jointly initiated a research programme titled, “Research Initiative for Real-time River Water and Air Quality Monitoring” to develop low-cost and low-power autonomous wireless sensor technologies for sensing, communication and analysis of large-scale data collected from autonomous networks of perpetual/ long-lived sensor nodes. The development of these technologies will be followed by integration and deployment for water and air quality monitoring in real time. This real-time data will significantly strengthen and complement the Missions of national priority like Namami Gange, by serving as critical data feeders for pre and post treatment analysis.
+
+
+    The joint programme is co-funded by DST and Intel and implemented by the bilateral Indo-U.S. Science and Technology Forum (IUSSTF). The programme offers a unique opportunity for the academia and industries across the two countries (India and USA) to collaborate and develop end-to-end Internet of Things (IoT)-based Water and Air Quality Management (WAQM) solution [End-to-End IoT WAQM]. The development of such an end-to-end solution, composed of several individual research elements, can also potentially impact environmental quality monitoring systems in diverse contexts such as urban, domestic and industrial settings.
+
+
+    Four Projects selected in real-time air and water quality monitoring:
+
+
+    After a comprehensive review, two projects each in Air and Water Quality Monitoring have been selected. These research projects will be pursued by leading Indian scientific and technical institutions such as IITs and IISc in collaboration with top US institutions like Duke University, University of South California, Michigan State University, Stanford University etc.
+
+
+    The two Air Quality Monitoring projects are:
+
+
+    1. Streaming Analytics over Temporal Variables from Air quality Monitoring (SATVAM)
+
+
+    2. High resolution air quality monitoring and air pollutant data analytics
+
+
+    These projects will lead to development of systems to report and visualize scientifically validated PM2.5 and gas measurements. This project will have the potential for replication in 500 cities and towns across India. The projects will also lead to development and validation of low-cost sensor systems with improved techniques of sampling and calibrations towards developing the air quality index and identifying sources of pollutants with focus on vehicular pollution.
+
+
+    The two Water Quality Monitoring projects are:
+
+     1. Aquatic Autonomous Observatory ( Niracara Svayamsasita VedhShala - NSVS )
+     2. Integrated low-cost water sensors for real- time river water monitoring and decision- making (SensorWarn).
+
+    These projects will lead to the design and development of low-cost, multi-parameter, water quality platforms with auto-sampling capabilities integrated with energy harvesting system. The projects will also result in development of sensors for water quality and water flow integrated with communication system to develop an early warning mechanism.
+
+
+    ***
+
+
+    HK
+
+    
+    
+    (Release ID: 1516840) Visitor Counter : 2842
+    
+    
+    
+    
+    
+
+2.

@@ -1,0 +1,50 @@
+      Ministry of Communications
+
+      The Telecom Regulatory Authority of India launches integration & availability of TRAI Mobile Apps on UMANG platform
+      
+      TRAI integrates its Mobile App DND 2.0 & MyCall with UMANG Platform with the objective of reaching out to consumers and safeguarding their interests
+      
+      Posted On: 07 AUG 2018 5:08PM by PIB Delhi
+
+
+    Policy initiatives of TRAI, over the years, have been to protect the interests of the consumers. Recognizing the importance of reaching out to the consumers and to safeguard their interests, TRAI has now integrated its Mobile Apps namely DND 2.0 & MyCall with UMANG Platform.
+
+
+    UMANG (Unified Mobile Application for New-age Governance) is developed by National e-Governance Division (NeGD), Ministry of Electronics and Information Technology (MeitY). UMANG provides a single platform for all Indian Citizens to access pan India e-Gov services ranging from Central to Local Government bodies and other citizen centric services. It provides a unified approach where citizens can install one application to avail multiple government services. From now onwards, TRAI’s Mobile Appsnamely DND 2.0 &MyCall shall also be available on Umang Platform.
+
+
+    Presently, Umang has more than 50 lakhs downloads and TRAI apps individually have more than 4 lakhs downloads. With a view to increase reachability and facilitate citizens, NeGD and TRAI have integrated DND 2.0 and My Call App on UMANG Android platform (App). Consumers having Android phones can either download the TRAI apps individually from Google Playstore or can Access it directly from the Umang application.
+
+
+    Chairperson, TRAI launched integration and availability of following TRAI apps in a function held at TRAI, New Delhi today. Certain key features of these applications are:
+
+
+    (a) TRAI MyCall App
+
+
+    TRAI MyCall is an intuitive and user friendly application for Crowdsourced Voice Call Quality Monitoring. The Application helps Mobile phone users to rate their experience about voice call quality in real time and help TRAI gather consumer experience data along with Network data.
+
+
+    A pop up requests the user to rate the call after it ends. Callers simply select their rating in the form of stars and indicate if the calls were made in indoor, outdoor or while travelling. Callerscan also provide additional details such as noise or audio delay or mark a call-drop.
+
+
+    (b) DND 2.0 App
+
+
+    DND (Do Not Disturb) Services App enables smart phone users to register their mobile number under DND and report spam messages or calls to avoid Unsolicited Commercial Communication (UCC)/Telemarketing Calls/SMS.
+
+
+    For further information/clarifications, Sh. Sanjeev Banzal, Advisor (IT&CA), may be contacted at Tel No. 011-23210990 or on email: advisorit@trai.gov.in
+
+
+    *****
+
+
+    APS/AS
+
+    
+    
+    (Release ID: 1541941) Visitor Counter : 1295
+    
+    
+      Read this release in: Bengali

@@ -1,0 +1,29 @@
+      Election Commission
+
+      Webinar Organised On Technology Aspects of Remote Voting
+      Posted On: 11 AUG 2020 4:37PM by PIB Delhi
+
+
+    Election Commission of India, in partnership with Tamil Nadu e-governance Agency organized a webinar on “Technology aspects of remote voting: Exploring Block chain” on 10th August 2020. The webinar brought together technologists, academicians, policy practitioners, cyber security experts from India and around the world. The initial idea for using block chain based voting solution emerged from an initial discussion of Chief Election Commissioner, Sh Sunil Arora, during his visit to Indian Institute of Technology, Madras on 30 th October 2019.
+
+
+    Election Commissioner Sh Sushil Chandra delivered the keynote address in the webinar. Sh Chandra stressed upon the importance of ensuring greater “inclusiveness in elections.” He emphasized that a large number of voters are unable to exercise their franchise on account of a geographical barrier. By virtue of occupation, education, medical treatment or other reasons, there have been instances of current residence of such electors being different from the place of registration in electoral rolls. Sh Chandra however emphasised that in designing a technology based solution, the primary consideration should be the ability to “inspire trust of all stakeholders, assure integrity of electoral process and secrecy and inviolability of ballot.” Political parties, he felt, need to be reassured that the system is tamper proof and secure. Remote voting, Sh Chandra said, marks a departure from conventional polling station, which was tied to a geographical location. However, he clarified that the Commission is not envisioning internet based voting from home. Remote voting project aspires for enablement of voters residing in remote locations, away from their designated polling stations, to cast ballot in a secured fashion. Sh Chandra expressed optimism that deliberations amongst experts will help the Commission in designing a robust remote voting model which is more inclusive and empowering.
+
+
+    More than 800 people signed up for the webinar from around the world. Speakers drew upon global experience of blockchain technology, dwelling upon possibilities of scalability; issues of data privacy and regulation; data security; authentication and verifiability. The webinar was addressed by Principal Scientific Adviser to Government of India, Prof K Vijay Raghavan, Director of IIT Bhilai, Prof Rajat Moona, Director of IIT Madras, Prof Bhaskar Ramamurthi. Sandra Ro, CEO of Global Blockchain Business council, Monique Bachner, Member of International Association for Trusted Blockchain applications, Ismael Arribas, President of Kunfud Spanish chapter of Government Blockchain application also addressed different sessions.
+
+
+    The webinar was convened by Deputy Election Commissioner, Sh Ashish Kundra, in charge of the IT division, ECI as part of a wider consultation exercise with various stakeholders to dwell on different aspects of remote voting.
+
+
+    *************
+
+
+    SBS/MR/AC
+
+    
+    
+    (Release ID: 1645063) Visitor Counter : 971
+    
+    
+      Read this release in: Urdu , Hindi , Bengali , Manipuri , Punjabi , Tamil , Telugu

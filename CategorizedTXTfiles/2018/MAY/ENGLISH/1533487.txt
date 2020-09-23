@@ -1,0 +1,67 @@
+      Ministry of Electronics & IT
+
+      ShriRavi Shankar Prasad to inaugurate cloud enabled Data Centre at Bhubaneshwar
+      Posted On: 25 MAY 2018 3:10PM by PIB Delhi
+
+
+    National Informatics Centre has set up a new state-of-the-art cloud enabled National Data Centre at Bhubaneswar. The data center to be inaugurated by Union Minister of Electronics & IT and Law & Justice, Sh. Ravi Shankar Prasad in the presence of Union Minister of Petroleum & Natural Gas and Skill Development & Entrepreneurship, Sh. Dharmendra Pradhan willoffer 24*7 operations with secure hosting for e-Governance applications of the Government and its departments. The unified and shared infrastructure is flexible enough to rapidly respond to Infrastructure requirements and also accommodate future technology enhancements, distributed applications, database applications running on bare metal, virtualized applications running in multi-hypervisor environments, and cloud-based applications that are available on demand.
+
+
+    A centralized cloud environment has been established to host multiple applications with simplified operations and increased application responsiveness to support the new generation of distributed applications while accommodating existing virtualized and non-virtualized environments. The Data Centre and Cloud Services are being offered from the Data Centres established by NIC.
+
+
+    The ICT Infrastructure at Bhubaneswar will be energized in the modular fashion with software defined ICT Infrastructure. This will facilitate provisioning of services over Cloud with more agility and will also integrate with the NIC National Cloud Services.
+
+
+    The National Cloud Services Bhubaneswar will provide following benefits:
+
+
+    • On-demand access to ICT Infrastructure to ensure easy availability and quick deployment of applications.
+
+
+    • Standardized platforms of deployment to deliver ICT systems that are compliant to government policies and enable easy sharing of data across applications.
+
+
+    • Service-oriented approach for sharing ICT infrastructure to achieve economies of scale.
+
+
+    • Cost-effective, service-oriented approach for sharing computing resources.
+
+
+    Release of NIC Services
+
+
+    During the Inaugural event, the following portals will be released under NIC Offerings:
+
+
+     1. All districts of Odisha has been converted into SwaaS websites: In a major boost, all districts of Odisha have migrated into NIC's S3WaaS platform (Secure, Scalable & Sugamya Website as a Service).
+
+
+    Districts are the key entities in the government structure where actual execution of schemes and programmes take place and district level websites is an implicit cyber space and an important link between the administration and citizen. S3Waas has been envisaged to bridge this gap and built with an objective to empower the District administrations to generate, configure, deploy and manage secure, scalable and accessible websites for publishing district specific information and services without much effort and technical knowhow.
+
+
+     1. Launch of E-Saubhagya- Mobile Application
+
+
+    With the launching of NDC Bhubaneswar Cloud service offerings of NIC would allow departments to provision infrastructure and add to the computing capacity on demand and release them when not required. This elastic nature of the cloud allows departments not only to bring the solution to deployment quickly but also to scale up based on the demand of peak or low loads. In the traditional model departments has to budget and procure infrastructure at the commencement of the project, this results in either over provisioning of infrastructure or under sizing of the requirements which leads to scalability challenges. This would result in waste of resources and refreshing technology would take longer.
+
+
+    The Data Centres are the ideal solutions for offering a robust & highly available infrastructure with adequate redundancy enabling government to render effectively the e-Governance services to the citizens. Realizing the importance of Data Centres, National Informatics Centre (NIC) has established National Data Centres at Delhi, Hyderabad and Pune. The establishment of National Data Centre at Bhubaneswar will further enhance the range of Data Centre related services offered by NIC.
+
+
+    National Informatics Centre (NIC) was established in 1976, and has since emerged as a "prime builder" of e-Government / e-Governance applications up to the grassroots level as well as a promoter of digital opportunities for sustainable development. NIC, through its ICT Network, "NICNET", has institutional linkages with all the Ministries /Departments of the Central Government, 36 State Governments/ Union Territories, and about 708 District administrations of India. NIC has been instrumental in steering e-Government/e-Governance applications in government ministries/departments at the Centre, States, Districts and Blocks, facilitating improvement in government services, wider transparency, promoting decentralized planning and management, resulting in better efficiency and accountability to the people of India.
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1533487) Visitor Counter : 590
+    
+    
+      Read this release in: Urdu , Hindi , Tamil
+    
+    
+    
+
+1.

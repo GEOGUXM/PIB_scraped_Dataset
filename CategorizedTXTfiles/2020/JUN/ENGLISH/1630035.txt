@@ -1,0 +1,52 @@
+      Ministry of Science & Technology
+
+      ARCI develops Rare earth based magnetocaloric material for cancer treatment
+      
+      Magnetocaloric materials can provide controlled heating required to kill the tumor cells
+      
+      Used in conjunction with radiation therapy, the method would reduce the side effects, and also the treatment time
+      
+      Posted On: 07 JUN 2020 2:56PM by PIB Delhi
+
+
+    Scientists at the International Advanced Research Centre for Powder Metallurgy and New Materials (ARCI), an autonomous R&D Centre of Department of Science and Technology (DST) has developed a rare-earth-based magnetocaloric material that can be effectively used for cancer treatment. The magnetocaloric materials (certain materials in which application and removal of a magnetic field causes the materials to become warmer or cooler) developed by ARCI are being tested at Sree Chitra Tirunal Institute for Medical Sciences & Technology (SCTIMST). A paper on the research work has been published in the Journal of Alloys and Compounds.
+
+
+    Advancements in magnetic materials led to the development of magnetic hyperthermia to try to address the issues of side effects of cancer treatment like chemotherapy. In magnetic hyperthermia, magnetic nanoparticles are subjected to alternating magnetic fields of few Gauss, which produce heat due to magnetic relaxation losses. Usually, the temperature required to kill the tumor cells is between 40 and 45°C. However, the drawback in magnetic hyperthermia is the lack of control of temperature, which may damage the healthy cells in the body and also have side effects like increased blood pressure etc.
+
+
+    These problems can be avoided by using magnetocaloric materials, as it can provide controlled heating. The advantage of magnetocaloric materials which heat up or cool down with the application and removal of the magnetic field, respectively is that as soon as the magnetic field is removed, cooling effect is generated, unlike in magnetic nanoparticles where overheating persists, even after removal of the magnetic field.
+
+
+    Fig.1Magnetocaloric effect: Application of magnetic field leads to heating and removal of magnetic field causes cooling in the system under study
+
+
+    The team at ARCI chose rare-earth-based alloy for studies as some of the rare earth materials are human body compatible. They optimized the alloy composition so that the Curie temperature came close to the therapeutic range (i.e. 42-46 0 C) required for destroying cancer cells. Preliminary hyperthermia measurements were carried out using Ambrell EASY HEAT laboratory induction heating system for 15 minutes; with temperature measured every 1 minute at SCTIMST (Fig.2). With the application of the magnetic field on dry powders, the temperature of the rare-earth nanoparticles rose to 59 0 C. To simulate injection into tumour, particles were dispersed in distilled water, and the temperature was found to be 38 0 C. It is expected that the heating capacity would increase with the increase in the magnetic field. ARCI and SCTIMST are carrying out vitro measurements on the tumour cells with rare-earth nanoparticles dispersed in fluids for testing with MRI at a higher magnetic field of 0.5 Tesla to generate more data.
+
+
+    Fig 2: Hyperthermia measurement shows an increase in the temperature of the dry rare-earth-based nanoparticles, and decrease in the temperature when dispersed in a distilled water
+
+
+    This method, when used in conjunction with radiation therapy, would reduce the side effects, damage caused to the human body and also reduce the treatment time of cancer tumours.
+
+
+    [For further details, Dr S. Kavita (srikanti.kavita@gmail.com) can be contacted.
+
+
+    Publication details: [A. M Tishin, Y. I Spichkin, The Magnetocaloric Effect and its Applications. Bristol, MA, USA: IoP, (2003), S Kavita, G Anusha, P Bhatt, V Suresh, R Vijay, K Sethupathi, R Gopalan, Journal of Alloys and Compounds 817 (2020)153232])
+
+
+    https://doi.org/10.1016/j.jallcom.2019.153232]
+
+
+    *****
+
+
+    NB/KGS/(DST)
+
+    
+    
+    (Release ID: 1630035) Visitor Counter : 1458
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Bengali , Tamil

@@ -1,0 +1,192 @@
+      Ministry of Earth Science
+
+      Year End Review: Ministry of Earth Sciences.
+      Posted On: 21 DEC 2018 1:19PM by PIB Delhi
+
+
+    The Ministry of Earth Sciences (MoES) is mandated to provide services for weather, climate, ocean and coastal state, hydrology, seismology, and natural hazards; to explore marine living and non-living resources in a sustainable way and to explore the three polar-regions (Arctic, Antarctic and Himalayas). Several major milestones have been accomplished under various schemes of the Ministry of Earth Sciences during the last four years and especially in the year 2018. These achievements include a wide variety of services that are relevant to the society. Some of the most important achievements in this context are given below:
+
+
+    High Performance Computing (HPC)
+
+
+    The Ministry of Earth Sciences has augmented its HPC facility by 6.8 Peta Flops (PF) which has been installed at two of its constituent units namely, Indian Institute of Tropical Meteorology (IITM), Pune with 4.0 Peta Flops capacity and National Centre for Medium Range Weather Forecasting (NCMRWF), Noida with 2.8 Peta Flops capacity. The HPC facility ‘Pratyush’ at IITM and “MIHIR” at NCMRWF were dedicated to the nation by Union Minister for Earth Sciences,Dr. Harsh Vardhan, on 8 January 2018 and 30 January 2018, respectively. With this facility, a paradigm shift in weather and climate modeling activity for operational weather forecast has been achieved.
+
+
+    India’s ranking has moved from the 368th position to around the top 30 in the Top500 list of HPC facilities in the world . India is now placed at the 4thposition after Japan, UK and USA for dedicated HPC resources for weather/climate community.
+
+
+    This facility is part of Ministry’s continuous endeavor to provide world class forecast services to the citizens of India through its various operational and research and development activities. The Ministry of Earth Sciences has developed several services for societal benefits catering to a variety of sectors of economy by building state-of-the-art systems for multi-hazard risk reduction from cyclones; floods/droughts; heat/cold waves; earthquakes; tsunamis; etc.
+
+
+    Improved Weather and Cyclone Predictions
+
+
+    A very high resolution (12 km) state of the art Global Ensemble Prediction Systems (EPS) were commissioned by MoES on 01 June 2018. The resolution (12 km) of the EPS is the highest among all the operational global operational weather forecast centres in the world. The Ensemble forecasts enhance the weather information being provided by the current models by quantifying the uncertainties in the weather forecasts and generate probabilistic forecasts.
+
+
+    The quality of weather services by the Ministry has shown appreciable improvements during the past 4 years. Specifically, noticeable improvements have been achieved in prediction skills of heavy rainfall and tropical cyclones.
+
+
+    The track forecast error during 2014-17 has been 89, 142, 207 km against 125, 202, 268 km during 2007-13 for 24, 48 and 72 hrs lead period respectively. The period during 2014-17 registered a decrease in track forecast error by 29, 30 & 23% as compared to 2007-13 for 24, 48 and 72 hours lead period respectively.
+
+
+    During 2018, six tropical cyclones formed over North Indian Ocean (NIO)against the normal frequency of 4.5 cyclones. The World Meteorological Organization (WMO) appreciated IMD for tropical cyclone advisory services during Cyclonic Storm SAGAR over Arabian Sea (16-21 May), Extremely Severe Cyclonic Storm MEKUNU over Arabian Sea (21-27 May), VSCS Luban (06-15 October) and VSCS Titli (08-13 October) which helped minimize the impact and saved many lives
+
+
+    A Mumbai Weather Live Mobile App has been developed by collating ground measurements recorded by IMD and the Municipal Corporation of Greater Mumbai, observations from SAFAR-Mumbai, to provide live location specific information on rainfall. Currently, the app covers about 100 sites spread across Mumbai city, suburban areas, Navi Mumbai and surrounding areas.
+
+
+    Agro-Meteorological Advisory Services (AAS)
+
+
+    The Ministry in collaboration with the Indian Council of Agricultural Research (ICAR) provides the district level Agromet Advisory Services (AAS) for the benefit of farmers. Farmers make use of these services for planning the operations like sowing, irrigation, application of fertilizer and pesticide, harvest and protection of crops from weather disasters. Currently, about 40 million farmers are receiving crop specific agro-meteorological advisories in vernacular languages. During monsoon 2018, Experimental Block level agromet advisory services has been started from existing AMFUs in 200 blocks of 50 districts.
+
+                                                                                                                                                                                        
+Activity                               Position in 2014                                                    Position in 2018                                                             
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+Agro-Meteorological Advisory Services  About 7 million farmers were receiving AAS in vernacular languages  About 40 million farmers are currently receiving AAS in vernacular languages.
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+
+    Services to Power Sector
+
+
+    India Meteorological Department (IMD) and POSOCO have launched a web portal dedicated exclusively to energy sector. A Reference Document on Weather Portal for Energy Sector was launched by Union Minister of State (IC), Ministry of Power and New & Renewable Energy, Shri RK Singh on 29 August, 2018. As the demand of power consumption changes due to change in weather conditions, the forecasts of weather including temperature, wind and rainfall helped in better load assessment including generation and distribution of power.
+
+
+    Potential Fishing Zone (PFZ) Advisories
+
+
+    The Indian National Centre for Ocean Information Services (INCOIS) continued to provide its flagship service of Potential Fishing Zone (PFZ) advisories, which contains information on the regions of fish availability. PFZ advisories are generated based on the satellite data on Sea Surface Temperature (SST) and ocean colour along with other environmental parameters such as water clarity and sea level. There was a remarkable growth in user community during 2018
+
+
+    The advisories are being disseminated in smart map and text form on daily basis, depending on satellite data availability, except fishing-ban period and during adverse sea-state. During the period Jan 1-Oct 25, 2018, multilingual Potential Fishing Zones (PFZ) advisories were made available on 225 days. In addition, during the FY 2017-18, INCOIS provided 220 Tuna advisories also, that included information on the maximum fishing depth.
+
+
+    Desalination of water
+
+
+    Union Minister of Earth Sciences Dr. Harsh Vardhan laid the foundation stone for the world’s first ever Ocean Thermal Energy Conversion (OTEC) powered desalination project in Kavaratti, Lakshadweep on 22.10.2018.
+
+
+    OTEC is a renewable form of energy utilizing thermal gradient present across the ocean depth. The existing desalination plants in Lakshadweep put up by NIOT, utilize diesel generators for their operation. The proposed plant will utilize clean and green energy provided by OTEC to power desalination and this plant will be set up at Kavaratti. This would not only pave the way for setting up of more environmentally friendly self-sustainable desalination plants but also help in scaling up the OTEC technology for mainland uses.
+
+
+    NIOT also has taken up the task of establishing 1.5 Lakh liters per day capacity LTTD plants in Amini, Androth, Chetlat, Kadamat, Kalpeni, and Kiltan Islands of UT Lakshadweep at a cost of Rs. 187.87 crores with a project duration of 2 years.
+
+
+    Dr Harsh Vardhan, Union Minister along with the Lakshadweep Administrator at the Foundation Stone laying ceremony at Kavaratti.
+
+
+    Ocean Science and Technology for Islands
+
+
+    The Atal Centre for Ocean Science and Technology for Islands in Port Blair was inaugurated by Union Minister for Science & Technology, Environment & Forest and Earth Sciences, Dr.HarshVardhan, on 15 th September 2018. The activities are focused towards offshore open sea cage culture for marine fishes, deep sea microbial technology aimed at the production of novel bioactive compounds from actinobacteria and other deep sea microorganisms, isolation and production of bio-molecules from macro algae and seawater quality monitoring.
+
+
+    Coastal Research
+
+
+    Recognizing the importance of diverse and productive ecosystems of Indian Coast such as estuaries, lagoons, mangroves, mudflats, rocky shores, coral reefs, MoES had reorganized the existing centre into a Centre of Excellence for Coastal Research in April 2018 at Chennai. The National Centre for Climate research (NCCR) is an attached office of the ministry with a mandate to address societal needs of the country.The NCCR would provide scientific and technical support to the coastal states for conservation and sustainable management of the resources to address blue economy in association with the coastal states. This would provide a strong institutional and scientific backing to solve the critical coastal issues and aid in the Nation building exercise.
+
+
+    Dr. Harsh Vardhan, Union Minister of Ministry of Science & Technology, Ministry of Environment, Forest and Climate Change and Ministry of Earth Sciences laid the foundation stone for the National Centre for Coastal Research (NCCR) and a joint training facility of NCCR and India Meteorological Department (IMD) at Dolphin Hill, Visakhapatnam, Andhra Pradesh on 2 nd November, 2018.
+
+
+    Under the Sea Water Quality Monitoring (SWQM) program along Indian Coast, NCCR has seasonal data on >25 parameters pertaining to physico-chemical, biological and microbiological characteristics of seawater and sediment are systematically collected and analyzed using standard protocols. Water (surface, mid-depth and bottom) and sediment samples are being collected at each location at 0/0.5 km (shore), 2/3 km (near-shore) and 5 km (offshore) distance from the shore. Based on the data collected under SWQM program, a status report on, “Seawater quality at selected locations along India coast” was released on 27th July, 2018 in New Delhi on the occasion of Foundation Day of MoES.
+
+
+    The coastline of India is undergoing changes due to various anthropogenic and natural interventions. Population explosion along the coastal area has added to an increase demand for coastal resources. Precise information on shoreline changes is essential to address the various coastal problems such as coastal erosion; closure of river / lagoons /creeks mouths, etc. NCCR has prepared a status report on shoreline changes for the period 26 years (1990 to 2016) . It provides details of shoreline changes, 3 types of map, shoreline vulnerability for erosion /accretion, land loss / land gain etc. for entire mainland coast of India. This report will be very useful to coastal managers and other stakeholders in identifying critical area for coastal management to safeguard property and population living in coastal areas .
+
+
+    Metropolitan Air Quality and Weather Services
+
+
+    Dr. Harsh Vardhan, Union minister of S&T, Earth Sciences, Environment, Forecast and Climate Change inaugurated an air quality monitoring and forecasting station for the benefit of the citizens of one of the most crowded locations of Delhi in Chandni Chowk near Town Hall which will also monitior PM1, Hg and UV-radiations, in addition to routine air pollutants and weather parameters.
+
+
+    Air Quality Early Warning System for Delhi: A new early warning system of air quality in Delhi developed in collaboration with National Center for Atmospheric Research (NCAR), USA was launched on 15 October 2018. The system will assimilate data from around 36 monitoring stations run by the Central Pollution Control Board (CPCB), Delhi Pollution Control Committee (DPCC), and System of Air Quality and Weather Forecasting and Research (SAFAR). Information from satellites on stubble burning in northwest India or dust storms along with the prevalent meteorological factors will help improve the initial conditions of the dynamical chemistry transport model thereby resulting in accurate prediction of air-quality. This newly developed system will enable the Graded Response Action Plan to be implemented in advance.
+
+
+    Chennai Flood Mitigation
+
+
+    National Centre for Coastal Research (NCCR), Ministry of Earth Sciences (MoES), has signed a Memorandum of Understanding (MoU) with Chennai and Revenue Administration, Disaster Management and Mitigation Department is to provide technical support in the areas related to Coastal Flood Warning System for Greater Chennai Corporation area, which will be extended to the new CMA area in a Phased manner.
+
+
+    NCCR has developed the Chennai Flood Warning System (C-FLOWS) for Greater Chennai Corporation (GCC). The design of the system involved coupling of regional weather forecast model, tide forecast model, tidal flood model, along with flood forecasting and inundation models. As the expert system is multi-disciplinary in nature, multiple institutions and organizations were involved. Indian Institute of Technology Bombay (IITB) is the lead institution along with participation of the Indian Institute of Technology Madras (IITM), Anna University, the ESSO-National Centre of Medium Range Weather Forecasting (NCMRWF) and the ESSO-India Meteorological Department (IMD). The system will provide information about flood-levels ward-wise within 1 hour (for real time simulation) and 30 minutes (from expert system) after the weather forecast is received .The updates will be provided every 6 hours for deterministic forecasts and 24 hours for quantile forecasts.
+
+
+    C-FLOWS will be tested for 2018 Northeast Monsoon situation and would provide scientific advisory through development of a dashboard and Mobile application connecting risk forecasts.
+
+
+    Coastal Engineering
+
+      * Design of the Offshore reef with beach nourishment for coastal protection at Puducherry :
+
+    Further to the gain of beach width of 60m formed near the northern side, a submerged steel wedge was successfully installed as a near shore submerged reef in the northern side. It is a triangular steel wedge, of 800 tonnes, with dimension 50m x 60m x2.5m and was successfully installed at 2.5 m water depth off Puduchery coast as part of Beach Restoration project on August 23, 2018. The Beach Restoration project in Puducherry has been successfully completed. Demonstration of submerged reef at Puducherry has resulted in formation of wide beach.
+
+
+    A workshop on Puducherry beach Restoration was organised on 11 th October 2018 at Puducherry . Dr. KiranBedi, IPS, (Retd.) Hon’ble Lt. Governor of Puducherry unveiled the video on Puducherry Beach restoration project and Shri.V.Narayanasamy, Hon’ble Chief Minister of Puducherryreleased the Brochure about the Project. The work carried out was appreciated by the Government of Puducherry, media and public.
+
+  
+  
+  
+
+    Transfer of Technology (ToT)
+
+                                             
+                                             
+                                             
+                                             
+Technology Transfer to industry in April 2018
+                                             
+                                             
+      * NIOT signed an agreement for Transfer of Technology (ToT) of Robo coastal observer to CT control technology, through NRDC, on
+        27 th April 2018, at Hyderabad in the presence of Secretary MoES.
+      * NIOT signed an agreement for Transfer of Technology (ToT) of Remotely Operable Vehicle to L&T heavy industries through NRDC, on 27 th April 2018, at Hyderabad in the presence of Secretary MoES.
+      * Transfer of Technology of the patented transducer (patent no 278301) was given to Bharat Electronics Limited (BEL) and is in production level.
+      * NIOT has signed a MoU through NRDC, for technology transfer of Ocean drifter and expandable CTD to Indian industries – M/s.Norinco, Mumbai, M/s.Astra Microwave, Hyderabad and M/s.Azista Industries Pvt. Ltd., Ahmedabad on 31.8.2018, in the presence of Secretary MoES.
+
+    Microzonation of selected cities:
+
+
+    The Seismic Microzonation work related to Geophysical investigations has been initiated for the four selected cities, namely, Chennai, Bhubaneswar, Coimbatore, and Mangalore. In addition, mocrozonation for 8 more cities, considered to be important from seismic point of view, is being taken up separately on priority through academic and research organizations in India. The list includes Patna, Meerut, Amritsar, Agra, Varanasi, Lucknow, Kanpur and Dhanbad.
+
+
+    Ministry has also identified new thrust areas and made strategy to further improve/strengthen and to provide the nation with best possible services.
+
+
+    ***
+
+
+    KSP/GK
+
+    
+    
+    (Release ID: 1556920) Visitor Counter : 6357
+    
+    
+      Read this release in: Hindi , Bengali , Tamil , Kannada
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+*   
+    
+*

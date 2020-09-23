@@ -1,0 +1,28 @@
+      Department of Space
+
+      Launching of Replacement Navigation Satellite
+      Posted On: 19 JUL 2018 4:06PM by PIB Delhi
+
+
+    Indian Space Research Organisation has launched IRNSS-1I on 12 th April, 2018 to replace IRNSS-1A. IRNSS- 1I carried refurbished Atomic clocks.
+
+
+    IRNSS 1A had failure of three Rubidium atomic clocks and IRNSS constellation is functioning with only six satellites. The move to launch the replacement satellite for IRNSS 1A was imperative to complete the seven satellite NavIC constellation. However, IRNSS-1A is still being used for messaging services. The Rubidium clocks were from the same Swiss company. The clocks of NavIC and GALILEO developed problems that were similar in nature.
+
+
+    A thorough analysis and simulation on the failure of the atomic clocks was done. Finally, it was traced to one of the feed through capacitor carrying the DC supply to the physics package, getting in to problem due to excess temperature rise. This was corrected in the IRNSS-1I clocks.
+
+
+    This information was provided by the Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, Dr Jitendra Singh in written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    BB/NK/PK
+
+
+    
+
+    
+    (Release ID: 1539249) Visitor Counter : 1161

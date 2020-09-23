@@ -1,0 +1,131 @@
+      Ministry of Health and Family Welfare
+
+      One of the lowest globally, India’s Case Fatality Rate 1.76% and sliding
+      
+      Health Ministry issues FAQs on better Clinical Management of COVID patients in ICUs
+
+      Posted On: 02 SEP 2020 12:35PM by PIB Delhi
+
+    India continues to report one of the lowest COVID Case Fatality Rates (CFR) when compared to several other countries. While the global CFR stands at 3.3% as on date, the comparative figure for India is 1.76%.
+
+
+    The deaths per million population in India is one of the lowest in the world. While the global average is 110 deaths /million population, India is reporting 48 deaths /million population. The comparative figure for Brazil and the UK is 12 and 13 times higher, respectively.
+
+
+    As part of the COVID management and response policy, there has been a sharp focus of the Central Government on not only containing the COVID related fatality, but to reduce deaths and to save lives by providing quality clinical care to the critical and severe patients of COVID. Collaborative efforts of the Union and State/UT governments have resulted in strengthening of the health facilities across the country. 1578 Dedicated COVID Hospitals are providing quality medical care. The Central Government has also issued the Standard of Care guidelines incorporated in the Clinical Treatment Protocol.
+
+
+    A unique initiative to build the capacities of the ICU doctors in clinical management of critical patients towards reducing the fatality, e-ICU has been started by AIIMS, New Delhi. Twice a week, on Tuesdays and Fridays, tele/video -consultation sessions are held by knowledge and domain experts for the doctors manning ICUs in the State hospitals. These sessions started from 8th July 2020.
+
+
+    Till date, 17 tele-sessions have been held, and 204 institutions have participated in them.
+
+
+    To further build the ICU/clinical management capacities of doctors for treatment of critical patients, AIIMS New Delhi in collaboration with the Health Ministry has developed FAQs. These have been posted on the MoHFW website. They can be accessed at:
+
+
+    https://www.mohfw.gov.in/pdf/AIIMSeICUsFAQs01SEP.pdf
+
+
+    The FAQs are dynamic in nature, drawing from the experience and knowledge collected during clinical management of the COVID critical care patients in the ICUs. As new challenges are posed by the treating doctors, and new concerns raised and addressed by them, the document shall be accordingly updated incorporating the evolving knowledge.
+
+
+    FAQs on COVID-19 from AIIMS e-ICUs
+
+         1. Should we use HCQ as prophylaxis in health care workers (HCW)?
+
+    Hydroxychloroquine (HCQ) has been advised as prophylaxis in HCW and high-risk contacts without contraindications. It can be used along with proper use of PPE and other infection control practices to protect from COVID 19.
+
+         1. Can Ivermectin be used for COVID patients?
+
+    Ivermectin has been found to be a potent inhibitor of SARS CoV2 replication in vitro, but the doses required to achieve this effect in vivo far exceeds the usual dose. It is currently not recommended in the national guidelines but can be used in patients in whom HCQ is contraindicated.
+
+         1. Should we continue using anticoagulation post discharge?
+
+    In our experience, there have been no delayed post-COVID thrombotic complications. Since the prothrombotic state parallels the viremic and inflammatory phase, once the patient has been discharged, the thrombotic risk also decreases. So, we don’t recommend anti-coagulation at discharge in routine COVID patients unless indicated for other reasons like DVT, prosthetic valve etc.
+
+         1. Sudden deaths in COVID-19
+
+    Sudden deaths have been reported both at presentation to emergency department (ED) as well as in hospital. Reasons that have been proposed include a sudden cardiac event/ ACS, preceding silent hypoxia that went unnoticed or due to a thrombotic complication such as pulmonary thromboembolism. Patients with risk factors to develop severe COVID or with prior comorbid conditions such as CAD or chronic lung disease should be strictly monitored for their saturation. They should not be allowed to move unattended. Anticoagulant should be used in all at-risk patients who do not have any risk factors of bleeding.
+
+         1. Methyl prednisolone vs dexamethasone
+
+    Corticosteroids are currently indicated in moderate to severe COVID-19 patients. Recovery trial has used dexamethasone. However, both IV dexamethasone or methyl prednisolone may be used based on the availability.
+
+         1. What is the role of Tocilizumab?
+
+    Tocilizumab has been approved by DCGI on compassionate ground in view of ongoing pandemic. However, it is an experimental therapy, has a limited role, and should be used only in patients with cytokine syndrome after ruling out active infections.
+
+         1. What is the role of Plasma therapy?
+
+    Convalescent plasma collected from ABO matched donors with high neutralizing titers can be given to patients at risk of developing severe COVID in early stages of the disease. However, it should also be considered an experimental therapy and should be used with caution.
+
+         1. Role of Favipiravir
+
+    Studies have used Favipiravir mainly in mild or asymptomatic COVID, claiming to prevent progression, whereas majority of this cohort recover with just supportive care and monitoring and usually require no specific therapy. Evidence is weak for the use of Favipiravir and is currently not recommended in national guidelines.
+
+         1. Role of antifibrotic in prevention of lung fibrosis
+
+    There is no evidence to support the use of antifibrotic agents like pirfenidone in preventing COVID related fibrosis and hence should not be used.
+
+         1. How to prevent depression in COVID 19 patients?
+
+    Depression is a common finding in patients with COVID which may be because of number of reasons including staying in isolation, anxiety related to disease, social stigma, among others. Such patients need empathy and psychological counselling preferably by a trained HCW like a psychologist / psychiatrist.
+
+         1. Can we give Remdesivir/TCZ in a highly suspect patient who is COVID negative on all reports?
+
+    Remdesivir/TCZ are experimental therapies, approved by DCGI in view of the ongoing pandemic. Therefore, they should not be used as empirical therapy for suspected cases. You should use these agents only in proven COVID patients, where clinically indicated.
+
+         1. Can we try Methylene blue?
+
+    No, there is no role of methylene blue in the management of COVID.
+
+         1. How long can we give Remdesivir?
+
+    Remdesivir is currently recommended for 5 days in once daily dosing.
+
+         1. Can we use Remdesivir/TCZ prophylactically in asymptomatic patients with comorbidities?
+
+    There is no evidence to support the use of Remdesivir/TCZ in asymptomatic patients with comorbidities.
+
+         1. Should relatives be allowed to visit COVID-19 patients admitted in the wards?
+
+    No, relatives are not allowed to visit COVID-19 patients as they have chances to get infected and transfer it to the community.
+
+         1. Can parents be allowed to stay with COVID-19 positive children?
+
+    Parents can stay with the children after explaining the risk and taking consent for the same.
+
+         1. Should we continue steroids on discharge?
+
+    No, there is no role of steroids at the time of discharge unless indicated for any other concomitant disease.
+
+         1. How do we maintain nutrition in a patient on ventilation?
+
+    Patients on ventilator may require TPN or Ryle’s tube feeding depending on their underlying condition.
+
+         1. When should we shift from NIV to invasive ventilation?
+
+    If the patient is not able to maintain saturation, going into respiratory fatigue, or the GCS is poor to tolerate NIV, they should be considered for invasive ventilation.
+
+         1. When should we consider a tracheostomy?
+
+    Patients in whom prolonged ventilation is anticipated should be considered for tracheostomy.
+
+
+    ****
+
+
+    MV/SJ
+
+    
+    
+    (Release ID: 1650585) Visitor Counter : 407
+    
+    
+      Read this release in: Urdu , Marathi , Hindi , Assamese , Bengali , Manipuri , Punjabi , Tamil , Telugu , Malayalam
+    
+    
+    
+
+1.

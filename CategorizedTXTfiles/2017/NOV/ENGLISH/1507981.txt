@@ -1,0 +1,43 @@
+      Ministry of Civil Aviation
+
+      Draft Regulation of CAR on Civil Use of Drones Announced
+      Posted On: 02 NOV 2017 12:30PM by PIB Delhi
+
+      The Directorate General of Civil Aviation announced draft regulations on civil use of Remotely Piloted Aircraft Systems, commonly known as Drones yesterday. The Union Minister of Civil Aviation Shri P. Ashok Gajapathi Raju and the Minister for State for Civil Aviation Shri Jayant Sinha presented and briefed the media about the draft regulation .
+
+        
+        As per the draft Civil Aviation Requirements for Unmanned Aircraft System (UAS),
+        the drones have been classified as follows on the basis of their maximum take-off weight :
+
+
+        
+        1) Nano : Less than or equal to 250 gm
+        2) Micro : Greater than 250 gm and less than or equal to 2 kg.
+        3) Mini : Greater than 2 kg and less than or equal to 25 kg.
+        4) Small : Greater than 25 kg and less than or equal to 150 kg.
+        5) Large : Greater than 150 kg
+        
+
+        As per the draft regulation all drones are proposed to be operated in visual line of sight, during day time only and below 200 feet. Dropping of any substance, carriage of hazardous material or animal or human payload is not permitted.
+
+
+        All commercial categories of drones except those in the Nano category and those operated by government security agencies, will have to be registered by DGCA as per ICAO proposed policy, in the form of Unique Identification Number (UIN). The Mini and above categories will require Unmanned Aircraft Operator Permit (UAOP), but the model aircraft up to maximum take-off weight of 2 Kgs flown below 200 feet inside educational institution premises will not require UIN/UAOP. The draft regulation also mandates tremote pilots to undergo requisite training, except for Nano and micro categories. As per the draft regulation, the Micro and above category drones will have to be equipped with RFID/SIM, return to home option and anti-collision lights.
+
+        
+        The draft regulation also specifies certain restricted areas for operations of drones. Drones cannot be operated within an area of 5km from airport, within permanent or temporary Prohibited, Restricted and Danger Areas as notified by AAI in AIP and without prior approval over densely populated areas or over or near an area affecting public safety or where emergency operations are underway and within 50 km from international border and beyond 500 m (horizontal) into sea along the coastline. Drones cannot be operated within 5 km radius from Vijay Chowk in Delhi and from a mobile platform such as a moving vehicle, ship or aircraft.
+        
+        The Secretary, MoCA Shri R.N. Choubey informed that the draft for CAR on UAS is available on MoCA’s website for a period of one month from today and suggestions and comments on draft is invited from public.
+
+        Click here for Presentation on UAS regulations.
+
+
+        ****
+
+
+        NP/MS
+
+
+    
+
+    
+    (Release ID: 1507981) Visitor Counter : 242

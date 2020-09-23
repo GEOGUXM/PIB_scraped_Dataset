@@ -1,0 +1,33 @@
+      Ministry of Road Transport & Highways
+
+      MoRTH asks NIC to ensure capturing FASTag details before new vehicle registration and while issuing fitness certificates for national permit vehicles
+      
+      Besides facilitating smooth commutation/transit, the move to check Covid
+      
+      NETC integration with VAHAN fully achieved
+
+      Posted On: 12 JUL 2020 10:12AM by PIB Delhi
+
+    The Ministry of Road Transport and Highways has decided to ensure capturing of FASTag details while registering or issuing fitness certificate to vehicles all over the country. In a letter addressed to NIC, with copies to all the States and UTs, the Ministry has informed that full integration of National Electronic Toll Collection (NETC) with VAHAN portal has been achieved, and the same has gone live with API on 14th May last. The VAHAN system is now getting all information on FASTags through VIN/VRN.
+
+
+    As such, the Ministry has asked to ensure capturing FASTag details while registering new vehicles, as also while issuing fitness certificates to vehicles plying under national permit.
+
+
+    The fitment of FASTag in new vehicles at the time of sales of vehicles of category M and N, was made mandatory in 2017. But the integration with bank account or they being activated was being avoided by citizens, which would be checked now. Fitment of FASTag is to ensure that vehicles crossing the National Highway fee plazas use electronic medium of FASTag payment, and cash payment is avoided. This usage and promotion of FASTag will also be effective to minimising possibilities of spreading COVID at NH Toll Plazas.
+
+
+    The Ministry had issued a Gazette notification in November 2017, on this scheme.
+
+
+    ***
+
+
+    RCJ/MS
+
+    
+    
+    (Release ID: 1638107) Visitor Counter : 1025
+    
+    
+      Read this release in: Urdu , Marathi , Hindi , Manipuri , Bengali , Punjabi , Odia , Tamil , Telugu , Malayalam

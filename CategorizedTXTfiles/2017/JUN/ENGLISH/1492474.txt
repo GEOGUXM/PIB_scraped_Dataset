@@ -1,0 +1,31 @@
+      Ministry of Finance
+
+      GSTN holds a Review Meeting with GST Suvidha Providers (GSPs) to Assess Readiness for GST roll-out from 01st July, 2017; GSPs advised to continue to visit the GSP ecosystem webpage on the GSTN website (www.gstn.org/ecosystem) for all information, latest updates and guidelines.
+      Posted On: 10 JUN 2017 11:24AM by PIB Delhi
+
+
+    
+
+    GSTN called a meeting with all the GST Suvidha Providers (GSPs) at their office at Aero City in national capital yesterday. There are 34 GSPs that have been selected by GSTN to provide additional channel of filing returns and other compliances related to GST. GSPs are expected to help large businesses with complex and varied internal processes to comply with the GST regime that becomes effective from 01st July 2017. The meeting was chaired by the Chairman, GSTN who heard and assessed the preparations of the GSPs. The meeting was also attended among others by Shri Arun Goyal, Additional Secretary, GST Security Council, who interacted with the GSPs.
+
+    
+    Of the 34 GSPs, representatives of 30 of the GSPs were present physically and 2 attended via conference call. GSTN presented the timelines of the release of updated specifications of APIs for the new GSTR forms that are to be applicable from the 01st of July. The API specifications will be released in staggered manner for all the GSPs and their partner ASPs so that they can study and analyse the same for making changes in their software developed on old design of returns. Subsequent to publishing of the specifications, GSTN will also make available live APIs on the sandbox for testing of the codes that the GSPs will modify/develop. The dates for the release of the specifications and the Live APIs for various returns for testing/integration were communicated to all the GSPs. The specifications of GSR-1 return (for uploading the supply data) was released yesterday and the live API will be made available on 29th June. The dates of release of specification and live APIs for the remaining GST return forms were also discussed and communicated. Staggered delivery of specifications and live APIs was agreed by all to manage the changes made in the rules and forms recently.
+    
+    GSTN also published and explained the method and manner in which the GSPs would be able to integrate with the GST System to be able to submit all the return forms on behalf of their clients and tax payers. The requirement of GSPs being secure and in turn ensuring security of the GST system was also highlighted and emphasised. GSPs were told that they must have their systems audited as per the prevailing ISO standard on security from one of the auditors on the panel of CERT-IN before they connect with and start pushing data into the GST System.
+    
+    GSTN advised all GSPs to continue to visit the GSP ecosystem webpage on the GSTN website (www.gstn.org/ecosystem) for all information, updates and guidelines, which are regularly updated.
+    
+    Do Taxpayers mandatorily need services of GSP or ASP under GST?
+    
+    For the convenience of taxpayers, GSTN has come-up with an Offline Tool where data on invoices (business to business), exports, supplies to consumers etc., which are required to create GSTR-1 (Outward Supply Return), can be entered in an excel sheet in offline mode (without being connected to Internet). At desired interval, the tool can be run to upload all such data on the portal. Only while uploading the data on GST portal, Internet connectivity will be required. The Offline tool will be provided free of cost and taxpayers will be able to download it from the GST portal (www.gst.gov.in) from last week of June. GSTN will release the format of Excel in which businesses will start maintaining the data from 1st of July for using the free offline tool for uploading the invoice data and other return data.
+    
+    Taxpayers using offline tool will not require services of any GSP. Similarly those having small number of business to business invoices, like retailers and small traders, can do the data entry on portal itself and they will also not require the services of GSPs.
+
+    *****
+
+
+    DSM
+
+    
+    
+    (Release ID: 1492474) Visitor Counter : 147

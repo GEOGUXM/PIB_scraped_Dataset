@@ -1,0 +1,58 @@
+      Ministry of Finance
+
+      Public Financial Management System (PFMS) Achieves a Historical Record Breaking Volume of Digital Transactions
+      Posted On: 29 MAR 2018 7:50PM by PIB Delhi
+
+
+    Public Financial Management System (PFMS) is an ambitious project of Government of India being implemented byController General of Accounts, Ministry of Finance. PFMS has proved as a robust digital platform towards Prime Minister’s vision of DIGITAL INDIA.
+
+
+    On 28 th March, 2018, an amount of Rs. 71,633.45 crores has been digitally transacted/routed through PFMS Portal for98, 19,026 transactions. This is a historic record of number of digital transactions processedin a single day.
+
+                                                                                           
+Type of Transactions                             Number of Transactions  Value             
+                                                                                           
+                                                                                           
+                                                                         (crores of Rupees)
+                                                                                           
+                                                                                           
+                                                                                           
+DBT payments by Implementing Agencies            35,22,912               2,493.58          
+                                                                                           
+                                                                                           
+                                                                                           
+Other digital payments by Implementing Agencies  2,96,265                2,472.61          
+                                                                                           
+                                                                                           
+                                                                                           
+MNREGA DBT payments                              59,04,143               340.82            
+                                                                                           
+                                                                                           
+                                                                                           
+Bharatkosh e-receipts                            874                     962.87            
+                                                                                           
+                                                                                           
+                                                                                           
+DBT Payments by PAOs                             37,282                  31.06             
+                                                                                           
+                                                                                           
+                                                                                           
+Other digital payments by PAOs                   57,408                  13,040.05         
+                                                                                           
+                                                                                           
+                                                                                           
+Transfers to State Governments                   142                     52,292.46         
+                                                                                           
+                                                                                           
+
+    PFMS provides platform for efficient management of funds through tracking of fundsand real time reporting of expenditure and receipts through Treasury and Bank Interface. The line ministries/ departments utilize this platform to monitor the utilization of funds provided to the implementing agencies and states governments.PFMS is also used for Direct Benefit Transfer (DBT) payments under MGNREGA and other notified schemes of the Government of India.
+
+
+    PFMS has organically grown on the basis of performance and user acceptance. Its user base today includes Union Ministries/Departments, Implementing Agencies and State Governments. The ability of the platform to respond to ever expending user requirements is reflective of its robustness and utility.
+
+
+    DSM/RM
+
+    
+    
+    (Release ID: 1527065) Visitor Counter : 1124

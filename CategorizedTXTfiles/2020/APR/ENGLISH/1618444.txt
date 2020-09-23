@@ -1,0 +1,53 @@
+      Ministry of Science & Technology
+
+      Study shows that COVID 19 may affect the Central Nervous System causing loss of smell and taste
+      Posted On: 26 APR 2020 6:31PM by PIB Delhi
+
+
+    Scientists of Indian Institute of Technology (IIT), Jodhpur have explored the neuroinvasive nature of the COVID 19 virus SARS-CoV-2 highlighting that loss of smell and taste of infected patients makes their entire Central Nervous System (CNS) and the underlying structures in the brain more prone to viral infection with devastating effects.
+
+
+    Dr. Surajit Ghosh and his team have pointed out that SARS-CoV-2 is known to interact with a specific human receptor known as hACE2 (human angiotensin-converting enzyme-2) which also happens to be the entry point of the virus and has an almost ubiquitous presence in most human organs ranging from lung parenchyma to nasal mucosa. The brain is also known to express this receptor.
+
+
+    They have attributed the loss of smell or taste to the fact that nose and mouth both are very important entry points of the virus, which then may be slowly making its way to the olfactory bulb using the neurons of the olfactory mucosa. The olfactory bulb located in the forebrain is the structure that is chiefly responsible for the sense of smell. This explains the loss of smell associated with many asymptomatic carriers of COVID-19 and also may be exposing the CNS to viral infection.
+
+
+    The paper accepted in ACS Chemical Neuroscience and supported by Science & Engineering Research Board (SERB), a Statutory Body of the Department of Science & Technology (DST), has suggested probable therapeutic strategies that could be adopted to combat it on the basis of understanding the neurological manifestations of the COVID-19.
+
+
+    The paper recounts a recently conducted study on the brain scans (CT and MRI) of a patient infected by COVID-19 virus that shows a rare encephalopathy called ANE, which leads to brain dysfunction with seizures and mental disorientation. It indicates that in the presence of human ACE2 receptors in CNS, the brain may be infected by the virus through the olfactory bulbs and also through other peripheral nerve terminals or simply blood circulation and may breach the blood-brain barrier to innervate and attack CNS. The scientists said that it may also completely destroy the medulla oblongata of the hindbrain, which regulates breathing, heart, and blood vessel function.
+
+
+    The paper also rings warning bells to the asymptomatic carriers of COVID-19 with anosmia (loss of smell) and ageusia (loss of taste) to self-quarantine themselves as soon as they feel these and consult specialized nephrologists before they turn into carriers. It also suggests brain autopsies of COVID-19 infected patients and analysis of their cerebrospinal fluid.
+
+
+    "The pathway of infection of SARS-CoV-2 and its impact on various organs is an important area that would also help with the future rational approaches for therapy. The neuro-invasive nature of the virus and its effects on the senses of smell and taste are thus interesting and useful areas of investigation," said Professor Ashutosh Sharma, Secretary, DST.
+
+
+    The publication highlights that activities like smoking could increase the chances of contracting COVID-19 infection, attributing this to the interactions and co-expression of the hACE2 receptor and the nicotinic receptor, which is stimulated on smoking.
+
+
+    The paper reflects upon therapeutics agents ranging from the peptide-based therapeutics, which will curb the interaction between the viral protein and the human receptor to the strategic design of small molecule inhibitors designed against the viral spike protein that interacts with the ACE2. It also suggests the development of subunit vaccines from the purified virus along with antibody-based drugs.
+
+
+    [Publication:
+
+
+    https://dx.doi.org/10.1021/acschemneuro.0c00201
+
+
+    For more details, please contact Prof Surajit Ghosh, sghosh@iitj.ac.in , Mob: +91- 9903099747]
+
+
+    ****
+
+
+    KGS/(DST)
+
+    
+    
+    (Release ID: 1618444) Visitor Counter : 955
+    
+    
+      Read this release in: Urdu , Hindi , Assamese , Bengali , Punjabi , Gujarati , Tamil , Telugu , Kannada

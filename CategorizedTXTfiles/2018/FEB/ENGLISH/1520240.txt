@@ -1,0 +1,43 @@
+      Ministry of Electronics & IT
+
+      NIC To Create Awareness About Digitalisation Initiative
+      
+      Experts discuss Cyber Security
+
+      Posted On: 10 FEB 2018 7:44PM by PIB Delhi
+
+    The second day of the 2nd National Meet on Grassroot Informatics – VIVID: Weaving a Digital India, at the India Habitat Centre, New Delhi focused on significant subject of Cyber Security, Cyber Threats & Countermeasures.
+
+
+    Digital transformation is the result of combining technology, network availability, super computing power, cloud computing and digital security. Today the requirement is to have a dynamic, agile enterprise that is able to adapt to the evolving landscape of technologies while remaining responsive to user demands. Managers and strategists are expected to predict failures in applications and deployments, plug them while ensuring service continuity, and at the same time focus on the increasing demands for innovation. To address all of the above, the sessions were held on Changing Digitisation Paradigm & its Impact on Security, Cyber Security Threats & Cyber Crimes, Perimeter and End Point Security, Securing Applications and Critical Information infrastructure protection (NIC-CERT)
+
+
+    Cyberspace has evolved in the last decade and is rapidly evolving. The sessions were very significant in view of the fact that the attacks are increasing, both in prevalence and disruptive potential, and the cybercriminals have an exponentially increasing number of potential targets, because the use of cloud services continues to accelerate and the Internet of Things (IoT) is expected to increase the attack surface. The discussions were aimed at showcasing the various initiatives of NIC in creating and enhancing the security of Digital Infrastructure in the country and the future initiatives.
+
+
+    Along with senior NIC officials eminent personalities including VP & Chief Information Security Officer, Wipro and DCP, Cyber Crimes, Delhi Police participated in the sessions.
+
+
+    Other sessions included Enterprise Level Applications. Under Digital India the scale of application deployment has changed. Enterprise level applications require that developers of today follow a well-defined practice for conducting enterprise analysis, design, planning and implementation using a comprehensive approach at all times, for the successful development and execution of strategy. They need to take into account essential considerations and technology stack for building scalable web applications. Redundancy is no longer optional. Databases need to be provisioned to offer superior performance and scalability and handle several tasks. To address all these concerns the session on Enterprise Architecture Scalable Web Application Architecture and NoSQL & New SQL for Data Scalability were held.
+
+
+    SIO’s and DIO’s are working tirelessly at the grassroots level to deliver and support the vision of the Government. In an order to boost their moral and encouraging them for more hard-work, a session was also planned to provide a platform to share their success stories. Success stories from the states of Arunachal, Himachal, Kerala, Punjab, Rajasthan, Madhya Pradesh, Tamil Nadu and West Bengal were showcased.
+
+
+    A ‘Handbook of Core NIC Services’ which includes an overview of all the core services of NIC and how to avail them was also released by DG, NIC during the occasion. NIC delivers core IT Services to the Government at the Centre States and District. These bouquet of services include Application Security, email, SMS, Domain registration, VPN, Video conferencing, Wifi etc. Collectively these services support the entire governance framework under Digital India. Supported by a network of skilled engineers, and a rapid response to any complaint through the 24x7 service desk, these services ensure dependable redundant and comprehensive ICT support to the Government.
+
+
+    In a significant step to increase capacity building and technical awareness among NIC employees, NIC also launched “VidyaKosh”, a Learning Management System (LMS) for NIC officials to make use of the latest digital technology in their day to day activities by upgrading their skills to provide better services to the citizens. VidyaKosh is a National Digital Repository to store, index, preserve, distribute and share the digital learning resources with NIC employees. The objective is to make learning easier and in a new way at their ease and convenient.
+
+
+    The three-day event was inaugurated by Shri Ravi Shankar Prasad, Hon’ble Union Minister of Electronics & Information Technology and Law & Justice, GoI in the presence of Shri Ajay Sawhney, Secretary, Ministry of Electronics & Information Technology, Ms. Neeta Verma, Director General, NIC.
+
+
+    ***
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1520240) Visitor Counter : 237

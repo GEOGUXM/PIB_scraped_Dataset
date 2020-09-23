@@ -1,0 +1,52 @@
+      Ministry of Electronics & IT
+
+      Ravi Shankar Inaugurates NIC Command & Control Centre
+      
+      Centre to Support Cloud & Data Infrastructure
+
+      Posted On: 10 JAN 2019 7:35PM by PIB Delhi
+
+    Sh. Ravi Shankar Prasad, Hon’ble Minister for Electronics & IT and Law and Justice inaugurated NIC’s Command & Control Centre (CCC) and Centre of Excellence in ArtificialIntelligence by NIC, at National Informatics Centre (NIC), today. Speaking on the occasion, Sh. Prasad said the new technologies have potential to transform societies and usher in an era of transparency and efficient governance. He said women who are more attracted towards new technologies, can further catalyze social change which these technologies are bound to bring. Institutions like NIC should not only serve government but also guide private sector in applying artificial intelligence to improve consumer centric services.
+
+
+    National Informatics Centre’s Command & Control Centre (CCC)
+
+
+    NIC has been offering Data Centre and Cloud services to the Government. Currently, it has 4 National Data Centres and 30 Mini Data Centres across the country hosting over 10,000 e-Governance applications. Majority of critical applications of the Government are hosted at these locations and the volume and nature of these critical online services have evolved and grown considerably.
+
+
+    A need was felt to set up a specialized facility with a nationwide view of ICT infrastructure for effective monitoring and management of the performance & availability of all these critical services. With this aim, NIC has set up the Command and Control Centre, making it first of its kind in the Government which will increase the agility of NIC’s nationwide ICTinfrastructure.
+
+
+    In addition to this infra monitoring setup, NIC is also in the process of having a centralized monitoring of critical websites hosted on cloud.
+
+
+    Additionally for large critical projects, NIC is proposing to provide users with a customized dashboard where they can monitor resources and availability of their applications. Applications like – eOffice, eHospital, Beneficiary Identification System under Ayushman Bharat are already on-board on this dashboard.
+
+
+    Center of Excellence in Artificial Intelligence (CoE in AI) by National Informatics Centre .
+
+
+    CoE in AI by NIC has been established with the motto of ‘Inclusive AI' for responsive governance, to work towards improving Govt. service delivery to citizens. This CoE in AI will be a platform for innovative new solutions in AI space, a gateway to test and develop solutions for projects undertaken by NIC at central and state level. CoE in AI is designed to promote innovation in application of AI to take e-Governance services to the next level.
+
+
+    It will also provide Capacity Building & Institutionalizing AI in Ministries / Departments / Organizations.
+
+
+    COE in AI@NIC is to facilitate State of the Art technology support with Supercomputing facilities for prototyping in the fields of Image & Video Analytics, Speech Synthesis & Recognition and Natural Language Processing. This newly established centre will focus on the areas of Machine Learning, NLP & AI in Text, Image Recognition, Speech Recognition & Synthesis, Deep Learning and Chatbot / Voicebots.
+
+
+    NIC has done a few Proofs of Concepts (PoCs) in image analytics as in Swachh Bharat Urban, numeric modeling as in power, text classification and summarisation etc. which will find an echo in similar use cases in other ministries and departments.
+
+
+    CEDA (Centre of Excellence for Data Analytics) : Journey so far
+
+
+    In September 2018, when CEDA was launched, a milestone step towards digital governance and data analytics in India was taken. CEDA is adopting a multi-pronged strategy to permeate a culture of data-driven governance and Capacity-building in Government. CEDA has undertaken many PoCs with various Government departments to demonstrate the usefulness of data analytics in Government. In collaboration with GSTN Council, CEDA is working on a detailed Data Analytics solution for E-Way Bill system to improve compliance and ensure better utilization of the system. Creation of skilled resources, knowledge management in the area of data analytics and promotional activities are some of the other activities which CEDA is undertaking as part of its mandate.
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1559451) Visitor Counter : 2590

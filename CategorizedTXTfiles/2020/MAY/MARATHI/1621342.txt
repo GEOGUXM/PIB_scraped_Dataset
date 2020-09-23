@@ -1,0 +1,47 @@
+      Ministry of Science & Technology
+
+      Internet of Drones Platform by DST -funded Start-Up FlytBase enables Aerial Monitoring by Police Forces during COVID-19 Lockdown
+      Posted On: 06 MAY 2020 3:55PM by PIB Mumbai
+
+
+    Mumbai: 6 May 2020
+
+
+    With the recent outbreak of COVID-19, modern technologies like autonomous drones have turned out to be an ideal tool in the battle against the pandemic. Whether for aerial monitoring, emergency response or urgent delivery of blood samples and medicines, UAVs can be deployed to help those in need, without putting human helpers at risk of contracting the Coronavirus.
+
+
+    Since practicing social distancing and isolation has become a prime necessity to prevent the spread of the virus, India has seen a rapid adoption of drones by public health and safety authorities.
+
+
+    While police authorities across the country are working round the clock to ensure that citizens abide by the nation-wide lockdown rules, drones are helping them identify people who violate the restrictions. Equipped with payloads such as beacons, loudspeakers and sirens, drones are thus serving as a public safety aid - sending live video feeds to COVID-19 control centers, warning people of the need to stay indoors, and potentially even spraying disinfectants.
+
+
+    Following are some of the COVID-19 related usages of drones:
+
+
+    FlytBase, an enterprise drone automation company has built FlytNow that has enabled police authorities to keep eagle-eye vigilance over the situation. FlytNow is an Internet of Drones (IoD) platform that allows seamless integration of intelligent fleets of drones with cloud-based business applications. FlytNow has been incubated by FlytBase, a Pune-based start-up, funded by Department of Science and Technology.
+
+
+    FlytNow is currently being used by Police of many states including Maharashtra, Gujarat, Karnataka and Andhra Pradesh. The IoD platforms assists the Police officials to stream live multi-video feeds from multiple drones to their control room, thus providing situational awareness and enabling them to respond quickly to emergencies.
+
+
+    The system also allows drone operators to help the police while remaining in the safety of their homes, eliminating the need to be present on the field. Whenever a request was triggered, operators could fly a drone from their home terrace and stream the video feed directly to the central dashboard.
+
+
+    More about FlytBase
+
+
+    Founded in 2016, FlytBase, an enterprise drone automation company has built the world’s first Internet of Drones (IoD) platform, allowing seamless integration of intelligent fleets of drones with cloud-based business applications. Incubated at the Bhau Institute’s Incubation Centre, Government College of Engineering, Pune, the team specialises in fully-autonomous drone-agnostic software solutions to help enterprises automate and scale unmanned aerial vehicles ( UAV) operations.
+
+
+    ***
+
+
+    CP/PM
+
+    
+    
+    (Release ID: 1621342) Visitor Counter : 243
+    
+    
+      Read this release in: Marathi

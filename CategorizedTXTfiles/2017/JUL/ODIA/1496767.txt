@@ -1,0 +1,36 @@
+      Ministry of Railways
+
+      Minister of Railways Shri Suresh Prabhakar Prabhu Inaugurates Round Table Conference Ensuring Cyber Security on Indian Railways
+      Posted On: 21 JUL 2017 7:33PM by PIB Bhubaneshwar
+
+
+    
+    Minister of Railways Shri Suresh Prabhakar Prabhu inaugurated Round Table Conference on “Ensuring Cyber Security on Indian Railways”. Chairman, Railway Board, Shri A. K. Mital and other Railway Board Members and senior officials were also present on the occasion.
+
+
+    Speaking on the occasion, Minister of Railways Shri Suresh Prabhakar Prabhu said that Indian Railways is striding ahead on its mission of transformation. A lot of upgradation, modernisation & maintenance of Railways has been taken up in last three years & these processes involve use of technologies. Indian Railways has recently launched Rail Cloud Server, Rail Saarthi App, work for developing E.R.P. is also underway. With the exhaustive use of technologies, there are high chances of vulnerability. Indian Railways keeps conducting audits to ensure safety checks. Cyber Security is one of the top priorities. Therefore, idea of this roundtable is to bring all stakeholders on one platform to ensure that these discussions becomes effective results for cyber security.
+
+
+    During the discussions, ideas were exchanged on Cyber threats, Security incidents and Advanced solutions. The discussions helped in understanding the issues involved and create better awareness among all stakeholders. It also helped to provide effective solutions to deal with the Cyber Security threats to IT Systems on Indian Railways.
+
+
+    Computerisation on Indian Railways started about 3 decades ago and major activities like Ticketing, Freight operations, Train operations and Asset management now rely heavily on IT Systems. Cyber Security on Indian Railway has now been identified as the focus area. Auditing of IT Systems by Standardisation Testing and Quality Certification (STQC) and close coordination with CERT-In are some of the steps taken by Indian railways.
+
+
+    Cyber Security measures must be implemented as per acceptable standards in the IT industry. This would entail creating best practices for protection of key infrastructure from cyber attacks, an emergency response system to cyber-attacks to reduce the application’s vulnerability to such threats, formulation of the policy / mechanism for ensuring adequate measures in the main areas of the Mission Critical IT application’s security, such as Access control, Confidentiality – denial of access to unauthorized person, pen / flash drives etc., Data loss / theft, Integrity – protection against unauthorized changes, Authentication – establishing the identity of actual user among other things.
+
+
+    In an increasingly digitized mode of working, there are many such applications that are accessed through personal devices like the mobile phone. Security features of such applications need to be strengthened. Apart from this,
+
+
+    readiness to defend critical digital assets of Indian Railway and preparedness to counter breach by designing the applications so robust so as to assess and strengthen the ability to detect, react to, and contain advanced attacks with speed, efficiency, and scale. With this preparedness, IT applications across Indian Railways can be confidently utilized to quickly catch attackers and prevent breaches from turning into catastrophes.
+
+
+    Although, IT applications of Indian Railway have been developed with adequate security features based on these standard principles the recent global cyber attacks in may 2017 show that we can never be complacent .The “WannaCry” ransomware attack affected more than 200,000 organizations in 150 countries. A report by CBS News said that the estimated losses due to the ransomware attack were around $4 billion.
+
+
+    ****
+
+    
+    
+    (Release ID: 1496767) Visitor Counter : 207

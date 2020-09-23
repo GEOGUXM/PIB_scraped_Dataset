@@ -1,0 +1,23 @@
+      Department of Space
+
+      Progress of IRNSS
+      Posted On: 20 NOV 2019 6:48PM by PIB Delhi
+
+
+    India’s indigenous navigation satellite system termed as Navigation with Indian Constellation (NavIC) is already established by ISRO and is functional since April 2018.NavIC consists of Space Segment (constellation of seven IRNSS satellites) and Ground Segment (spread across India).The system is providing Positioning, Navigation and Timing (PNT) service and one satellite (IRNSS-1A) is providing messaging service.
+
+
+    Use of AIS-140 compliant NavIC-based vehicle trackers system has been made compulsory to all commercial vehicles. More than 75 companies are now manufacturing NavIC based vehicle trackers, and several thousand vehicles are now plying on the roads equipped with these devices. The updated version of new mobile models will be having NavIC based positioning systems. NavIC has been accepted by 3GPP (Third Generation Project Partnership) thereby enabling incorporation of NavIC as part of assisted GNSS. NavIC is also useful for applications like timing solution, drones, surveying, weather radiosondes, forestry, precision agriculture, etc.
+
+
+    This information was provided by the Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, DrJitendra Singh in written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    VRRK/NK/JM/PJ
+
+    
+    
+    (Release ID: 1592496) Visitor Counter : 917

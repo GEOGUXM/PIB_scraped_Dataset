@@ -1,0 +1,32 @@
+      Department of Atomic Energy
+
+      Cyber Attacks on Indian Nuclear Power Plants
+      Posted On: 28 NOV 2019 4:19PM by PIB Delhi
+
+
+    Recently, there was an identification of a malware infection on Kudankulam Nuclear Power Plant (KKNPP) administrative network which is used for day to day administrative activities. The affected system contains data related to administrative function. Plant control and instrumentation system is not connected to any external network such as Intranet, Internet and administrative system. The plant systems, which are isolated and not accessible from this administrative network, were not affected.
+
+
+    Various measures for further strengthening of Information Security in administrative networks have been taken up viz. hardening of internet and administrative intranet connectivity, restriction on removable media, blocking of websites & IPs which have been identified with malicious activity etc.
+
+
+    The Computer & Information Security Advisory Group (CISAG) of Department of Atomic Energy (DAE) has recommended certain measures for immediate and short term implementation. These are being complied with.
+
+
+    The expenditure towards cyber security is a part of the regular revenue expenditure.
+
+
+    This information was provided by the Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, Dr Jitendra Singh in written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    VRRK/NK/JM/PJ
+
+    
+    
+    (Release ID: 1594020) Visitor Counter : 832
+    
+    
+      Read this release in: Urdu , Tamil

@@ -1,0 +1,53 @@
+      Ministry of Science & Technology
+
+      Bengaluru scientists fabricate invisible shield for electromagnetic interference
+      Posted On: 18 AUG 2020 10:19AM by PIB Delhi
+
+
+    H G Wells’ ‘Invisible Man’ tweaked optical properties of the body to become invisible. Scientists have now achieved a similar feat by designing a metal mesh structure instead of continuous film on desired transparent substrates to make it a transparent shield for electromagnetic interference (EMI). The invisible shield can be used in various military stealth applications and can cover electromagnetic wave emitter or absorber devices without compromising their aesthetics.
+
+
+    Scientists from Centre for Nano and Soft Matter Sciences (CeNS), Bengaluru, an autonomous institute of the Department of Science & Technology, Govt. of India have fabricated these transparent and flexible EMI shields made of metal meshes using the crack templating method via spray coating which is pioneered in their laboratory.
+
+
+    T he CeNS team has developed a copper metal mesh on polyethylene terephthalate (PET) sheet as its substrate, which exhibited a visible transmittance (T), a parameter of visible transparency of about 85% and sheet resistance (R s ) ~ 0.83 ohm per square. These transparent and flexible EMI shields made of metal mesh coatings on desired transparent substrate they have developed through their research published in the journal ‘ Bulletin of Materials Science’ showed remarkably high values for total EMI shielding (SE T ), with the average value being ~ 41 dB over a wide spectral range of the Ku band (12 to 18 GHz).
+
+
+    Instead of continuous film of metal (Cu) coating on any transparent substrate (glass, PET) where transparency can be compromised. In this method, the CeNS team has deposited metal mesh networks on the substrate, which covers only 7% area of substate, unlike 100% coverage of continuous film. This makes metal mesh transparent compare to continuous metal film. Metal mesh provides better electromagnetic shielding compare to same thickness of continuous metal film where transparency can be compromised.
+
+
+    This metal mesh can be created on any desired substrates such as acrylic, polycarbonate, glass, etc. without compromising the conductivity of the electrodes.
+
+
+    Dr. Ashutosh K Singh, Scientist at CeNS and working on this project, said, “this invention has the potential to satisfy the huge demand for highly effective transparent and flexible EMI shields, which can cover electromagnetic wave emitter/absorber devices without compromising their aesthetics.”
+
+
+    These transparent EMI shields have been exhibited in various prestigious Expos and conferences such as Bangalore INDIA NANO-2018 & 2020, ICONSAT-2018 & 2020, SPIE-2019, etc. for dissemination and marketing purpose. The shields are available for onsite testing and validation purposes.
+
+
+    The team lead by Prof. G U Kulkarni, along with his co-workers from CeNS and industrial partner Hind High Vacuum (HHV) Pvt. Ltd. have set-up a semi-automated production plant funded by DST-Nanomission in CeNS-Arkavathi campus for production of transparent conducting glasses which shows the potential for transparent EMI shields as well.
+
+
+    Figure: (a) shows the superior visibility through transparent EMI shield, (b) shows the EMI shield effectiveness of Cu mesh when compared with Cu film; (c) setup showing Wi-Fi router, a mobile phone kept inside a metal box open to EMI. Extent of Wi-Fi signal (EMI) attenuation when the phone is covered with a lid with transparent (d) PET sheet without coating and (e) PET sheet with Cu mesh coating
+
+
+    [Publication details: S. Walia, A. K. Singh, Veena S. G., S. Bose, G. U. Kulkarni, Metal mesh-based transparent electrodes as high-performance EMI shield, Bull. Mater. Sci. 43, 187 (2020).
+
+
+    https://doi.org/10.1007/s12034-020-02159-7
+
+
+    For more details, Dr. Ashutosh K Singh (aksingh@cens.res.in) can be contacted.]
+
+
+    *****
+
+
+    NB/KGS/(DST Media Cell)
+
+    
+    
+    (Release ID: 1646583) Visitor Counter : 625
+    
+    
+      Read this release in: Urdu , Hindi , Bengali , Manipuri , Tamil

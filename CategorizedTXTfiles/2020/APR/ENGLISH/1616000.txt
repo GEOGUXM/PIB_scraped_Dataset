@@ -1,0 +1,59 @@
+      Ministry of Science & Technology
+
+      ARI researchers develop bug sniffer for efficient detection of pathogens
+      Posted On: 19 APR 2020 2:13PM by PIB Delhi
+
+
+    Researchers at the Agharkar Research Institute (ARI), Pune, an autonomous institute under the Department of Science &Technology, Govt. of India, have developed a sensitive and low-cost sensor to rapidly detect bacteria. The portable device can detect as low as ten bacterial cells from a sample size of one milliliter in just 30 minutes. At present, they are working on a method for simultaneous separation and detection of Escherichia coli and Salmonella typhimurium.
+
+
+    Lead researcher Dr. Dhananjay Bodas and his team from ARI call it the ‘bug sniffer,’ which is a biosensor that uses synthetic peptides, magnetic nanoparticles, and quantum dots to detect the presence of bacteria, providing a cost- and time-effective way of screening water and foodborne pathogens. The researchers also developed a chip comprising of microchannels made from copper wires and poly (dimethylsiloxane) The conventional techniques available for pathogen detection are less sensitive and cannot detect low cell numbers, besides being time-consuming and laborious whereas the ARI device, can detect pathogens with a limit of detection of 10 cells per 1 mL within 30 minutes.
+
+
+    The most common disease-causing bacteria Escherichia coli and Salmonella typhimurium can be detected individually and simultaneously using the in-house developed synthetic peptides, which act as a recognition element and provide the specificity to the detection. These peptides, which are highly specific to the bacteria to be detected, have extremely low cross-reactivity. In their work, which was published in the Journal of Biotechnology, initially, magnetic nanoparticles attached to the peptides were allowed to flow through the microchannel along-side the bacteria.
+
+
+    On applying an external magnetic field, the bacteria attached to the peptide were isolated and immobilised. Finally, the peptide tagged with quantum dots was passed through the microchannels to complete the sandwiched peptide assay. After capturing the bacteria, microchannels exhibited strong and stable fluorescence due to the quantum-dot-tagged peptides.
+
+
+    The bug sniffer is affordable, and the raw materials required for making it are readily available. Lead researcher Dr. Dhananjay Bodas said that the nanosensor and research for developing it open up many possibilities for a speedy lab-on-a-chip diagnostics.
+
+
+    Currently, the researchers are working with simultaneous separation and detection of Escherichia coli and Salmonella typhimurium using LAMP (Loop-mediated isothermal amplification), a single-tube technique for the amplification of DNA and a low-cost alternative to detect certain diseases. This work is funded by ICMR.
+
+
+    [References
+
+
+    1. T. Akbar, B. Ibarlucea, L. Baraban, G. Cuniberti, A. Ascoli, R. Tetzlaff, T. Rim, C. Baek, and D. Bodas, Phage-based environmental nano biosensor, Proc. IEEE, 2016 49-50.
+
+
+    2. S Agrawal, P Kulabhusan, M Joshi, D Bodas, and K Paknikar, A high-affinity phage-displayed peptide as a recognition probe for the detection of Salmonella Typhimurium, J. Biotechnol. 231 2016 40-45.
+
+
+    3. S Agrawal, K Paknikar and D Bodas, Development of immunosensor using magnetic nanoparticles and circular microchannels in PDMS, Microelec. Engg., 115 2014 66-69.
+
+
+    4. S Agrawal, A Morarka, K Paknikar and D Bodas, Multiplexed detection of waterborne pathogens in circular microfluidics, Applied Biochem. And Biotechnol. 167-6 2012 1668-1677.
+
+
+    5. A Morarka, S Agrawal, S Kale, A Kale, S Ogale, K Paknikar and D Bodas, Quantum dot based immunosensor using 3D circular microchannels fabricated in PDMS, Biosens. and Bioelectron., 26 2011 3050-3053.
+
+
+    Link to paper: https://doi.org/10.1016/j.jbiotec.2016.05.027
+
+
+    Dr Dhananjay Bodas ( dsbodas@aripune.org, 020-25325127 ), Scientist, Nanobioscience Group, and Dr PK Dhakephalkar, Director (Officiating), ARI, Pune, (director@aripune.org, pkdhakephalkar@aripune.org, 020-25325002) can be contacted for details. ]
+
+
+    ****
+
+
+    KGS/( DST)
+
+    
+    
+    (Release ID: 1616000) Visitor Counter : 754
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Bengali , Tamil

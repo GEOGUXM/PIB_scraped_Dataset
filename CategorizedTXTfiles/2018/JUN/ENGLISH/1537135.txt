@@ -1,0 +1,35 @@
+      Ministry of Commerce & Industry
+
+      Suresh Prabhu launches Mobile App 'ReUnite'
+      Posted On: 29 JUN 2018 2:53PM by PIB Delhi
+
+
+    Suresh Prabhulaunching mobile application ReUnite to track and trace missing children
+
+
+    Union Minister of Commerce & Industry and Civil Aviation, Suresh Prabhu today launched a mobile application called ReUnite which helps to trackandtrace missing and abandoned children in India. Speaking on this occasion the Minister appreciated the work being done by the NGO,BachpanBachaoAndolan&Capgemini for developing this app.
+
+
+    The Minister said that this effort to reunite parents whose children have gone missing is a wonderful use of technology to address real life social challenges.
+
+
+    The app is multiuser where parents and citizens can upload pictures of children, and provide detailed description like name, birth mark, address, report to the police station, search and identify missing kids. The photographs will not be saved in the mobile phone’s physical memory. AmazonRekognition, web facialrecognition service, is being used to identify missing kids. The app is available for both Android and iOS.
+
+
+    BachpanBachaoAndolan, (BBA) is India’s largest movement for the protection of children and works along with law enforcement agencies and policymakers. BBA has played a very important role in formulation of several lawsfor protection of child’s rights. It began from the Nithari case in 2006 which finally culminated with the Supreme Court passing the landmark judgement in 2013 ordering that FIR has to be lodged in all cases of missing children.
+
+
+    Nobel Laureate and founder of BachpanBachaoAndolan, Kailash Satyarthi, was alsopresent on this occasion.
+
+
+    ***
+
+
+    MM
+
+    
+    
+    (Release ID: 1537135) Visitor Counter : 2522
+    
+    
+      Read this release in: Marathi , Hindi , Tamil

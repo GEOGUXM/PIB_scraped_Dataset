@@ -1,0 +1,46 @@
+      NITI Aayog
+
+      NITI Aayog, Intel and TIFR collaborate to set up a Model International Center for Transformative AI (ICTAI)
+      Posted On: 11 SEP 2018 10:50AM by PIB Delhi
+
+
+    Aiming to solve major challenges in India, the center will focus on application-based AI research in healthcare, agriculture and smart mobility
+
+
+    NITI Aayog, Intel, and Tata Institute of Fundamental Research (TIFR) announced on 7 th September that they are collaborating to set up a Model International Center for Transformative Artificial Intelligence (ICTAI) towards developing and deploying AI-led application-based research projects. This initiative is part of NITI Aayog’s ‘ National Strategy for Artificial Intelligence ’ Discussion Paper that focuses on establishing ICTAI in the country through private sector collaboration.
+
+
+    Based in Bengaluru, the Model ICTAI aims to conduct advanced research to incubate AI-led solutions in three important areas – healthcare, agriculture and smart mobility – by bringing together the expertise of Intel and TIFR.It aims to experiment, discover and establish best practices in the domains of ICTAI governance, fundamental research, physical infrastructure, compute and service infrastructure needs, and talent acquisition.
+
+
+    Through this collaborative effort, the model ICTAI is chartered to develop AI foundational frameworks, tools and assets, including curated datasets and unique AI algorithms.The intent is to develop standards and support policy development related to information technology such as data-storage, information security, privacy, and ethics for data capture and use. The model Centre also plans to develop AI foundational technologies to promote applied research that can scale for national impact and will lead to the creation of a vibrant and self-sustaining ecosystem.
+
+
+    Another key area of its focus will be collaboration with industry leaders, startups, and AI services and product companies to productize technologies and IP that are developed at the model ICTAI.And finally, the goal is to support skilling and talent development for world-class AI talent.
+
+
+    The learning and best practices developed through this model ICTAI will be used by NITI Aayog to set up the future ICTAIs across country.
+
+
+    Anna Roy, Advisor, NITI Aayog, said“NITI Aayog had recommended ICTAIs for applied research in AI in the National Strategy Paper. Private sector collaboration is deemed tobe essential in making fundamental research get adopted for solving actual problems India faces, especially in the five sectors identified in the paper – Healthcare, Agriculture, Education, Smart cities and Mobility. This collaboration with TIFR and Intel will help us experiment and establish the foundational governance practices required to enable such applied research institutions succeed in the long term. ”
+
+
+    Nivruti Rai, Country Head, Intel India, & Vice President, Data Center Group, said, “Artificial Intelligence is going to be a transformative driver of economic growth and social progress, and Intel’s vision is to drive human-centric AI to benefit humanity in an inclusive manner. In India, through the AI-for-All initiative, we aim to deliver the twin goals of solving hard problems of humanity, and helping India achieve its vision of global AI leader, by bringing together a rich ecosystem of research, innovation, technology development and deployment. We take immense pride in being the Industry lead along with NITI Aayog and TIFR, and I believe the model ICTAI will pave the way for application-based AI research and solutions needed in India for critical domains such as healthcare, agriculture, and smart mobility.”
+
+
+    Professor Sandip Trivedi, Director TIFR, said,``This collaboration is a very exciting beginning where we plan to bring fundamental and applied research, innovation and technology development together to solve important problems facing our nation with potentially transformative effects on society. There are also a number of important issues related to ethics, privacy, etc, that AI and related technologies raise which are important to address. TIFR is excited to be in this collaboration; this center will be an important role model for future partnerships between industry, academia and government, which are the need of the hour in our country today. ”
+
+
+    *****
+
+
+    AKT/KP
+
+
+    
+
+    
+    (Release ID: 1545607) Visitor Counter : 1513
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Tamil

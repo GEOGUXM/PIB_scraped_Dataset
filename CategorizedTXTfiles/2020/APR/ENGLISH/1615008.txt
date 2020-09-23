@@ -1,0 +1,29 @@
+      Ministry of Home Affairs
+
+      MHA issues Advisory on Secure use of ZOOM Meeting Platform
+      Posted On: 16 APR 2020 4:30PM by PIB Delhi
+
+
+    The Cyber Coordination Centre (CyCord), under the Union Ministry of Home Affairs (MHA), has issued an advisory on secure use of ZOOM Meeting Platform by private individuals. This advisory states that the platform is not for use by Government officers/officials for official purposes.
+
+
+    The document makes reference to earlier advisories of the Indian Computer Emergency Response Team (Cert-In) and states that Zoom is not a safe platform. The guidelines have been issued to safeguard private individuals who would still like to use the platform for private purposes.
+
+
+    The broad objective of this advisory is to prevent any unauthorized entry into a Zoom Conference Room and prevent the unauthorized participant to carry out malicious attacks on the terminals of other users in the conference.
+
+
+    The details of protective measures to be taken by individuals may be accessed in the document attached at this link .
+
+
+    *****
+
+
+    VG/SNC/VM
+
+    
+    
+    (Release ID: 1615008) Visitor Counter : 39741
+    
+    
+      Read this release in: Punjabi , Telugu , Assamese , Urdu , Hindi , Marathi , Bengali , Gujarati , Odia , Tamil , Kannada , Malayalam

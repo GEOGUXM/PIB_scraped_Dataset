@@ -1,0 +1,20 @@
+      PIB Headquarters
+
+      FIRE ACCIDENT IN BSNL TELEPHONE EXCHANGE
+      Posted On: 01 AUG 2019 2:47PM by PIB Chennai
+
+
+    There has been a major fire accident in Harbour Telephone Exchange, a five storey building around 5.15 am today. No human causalities are reported and the fire could be brought under control after ten fire engines and nearly hundred fire men were pressed into service. The fire is suspected to have emanated from the first floor, which was under locked condition. Though the root cause is yet to be analysed, it is felt that a leakage in the A/c duct could be the reason. The cables in the exchange room was gutted completely before being extinguished. The exchange has 35k capacity with 29k working lines, 3k broadband connections. The building has two blocks and the block which had caught fire is housing a mobile BSC, Transmission systems, and related batteries and power plants, in addition to the MSU. The other block houses the Internet Data Center, where TN government servers are located. Because of the fire, telephone, broadband and mobile services are affected in Harbour area. Though the fire has been put out, the smoke and heat is very high and hence the building cannot be entered upon. As a precautionary measure the power supply to both the blocks has been cut off. The extent of damage to the equipments could not be figured out immediately.
+
+
+    Restoration activities are being undertaken on war footing basis but however it may take a weeks time to restore the services. Inconvenience caused to the customers is deeply regretted. This has been said in the press release issued by BSNL.
+
+
+    *****
+
+    
+    
+    (Release ID: 1581017) Visitor Counter : 33
+    
+    
+      Read this release in: Tamil

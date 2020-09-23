@@ -1,0 +1,78 @@
+      Ministry of Education
+
+      Union HRD Minister and Union Health Minister jointly launch the Drug Discovery Hackathon 2020 (DDH2020)
+      
+      Drug Discovery Hackathon is first of its kind national initiative for supporting drug discovery process - Shri Ramesh Pokhriyal Nishank
+      
+      Hackathon is open for participants from across the globe to attract international talent - Shri Ramesh Pokhriyal Nishank
+      
+      In-Silico drug discovery which utilizes computational methods such as machine learning, AI and big data will help in accelerating this process- Dr Harsh Vardhan
+      Posted On: 02 JUL 2020 5:03PM by PIB Delhi
+
+
+    Union Minister for Human Resource Development Shri Ramesh Pokhriyal ‘Nishank’, and, Union Minister for Health and Family Welfare and Ministry of Science and Technology Dr. Harsh Vardhan today launched Drug Discovery Hackathon in the presence of MoS Shri Sanjay Dhotre through online platform. This Drug Discovery Hackathon is a joint initiative of MHRD, AICTE and CSIR and supported by partners like CDAC, MyGov, Schrodinger and ChemAxon. Prof. Vijay Raghavan, Principal Scientific Advisor, Prof. Anil Sahasrabudhe, Chairman AICTE, Dr. Shekhar Mande, DG CSIR, Dr. Rajive Kumar, Secretary AICTE, Prof. B Suresh, President, Pharmacy Council of India and Dr. Abhay Jere, Chief Innovation Officer, MHRD were also present during the online launch program.
+
+
+    Launching #DrugDiscoveryHackathon 2020' along with my colleague, Union Minister of MoHFW and MoST Shri @drharshvardhan ji and MoS for MHRD Shri @SanjayDhotreMP ji via video conferencing today. @PrinSciAdvGoI @PMOIndia @HMOIndia @DDNewslive https://t.co/IoEKJpFBqv
+
+    — Dr. Ramesh Pokhriyal Nishank (@DrRPNishank) July 2, 2020
+
+    Speaking on the occasion Shri Pokhriyal said that this hackathon is first of its kind national initiative for supporting drug discovery process. The minister further disclosed that to attract international talent, the hackathon will be open to participation from across the globe from professionals, faculty, researchers and students from varied fields like computer science, chemistry, Pharmacy, medical sciences, basic sciences and biotechnology. He further said that MHRD and AICTE have vast experience in organizing Hackathons but for the first time, we are using hackathon model for tackling a great scientific challenge. More importantly, this initiative is open for researchers/faculty across the globe as we are keen on attracting international talent to join and support our efforts.
+
+
+    While addressing the participants Dr. Harsh Vardhan, Minister for S&T said, “we need to establish the culture of computational drug discovery in our country. In this initiative, MHRD’s Innovation cell and AICTE will focus on identifying potential drug molecules through the Hackathon while CSIR will take these identified molecules forward for synthesis and laboratory testing for efficacy, toxicity, sensitivity and specificity.” He said, “the objective is to identify drug candidates against SARS-CoV-2 by in-silico drug discovery through the hackathon and follow up by chemical synthesis and biological testing”. Pointed out that drug discovery is a complex, expensive, and arduous process, taking more than 10 years to develop a new drug, Dr Harsh Vardhan said, “while we pursue clinical trials of few repurposed drugs for Covid-19, as they are faster and can quickly be launched, it is also important that we find other suitable repurposed drugs and also on new drug discovery to develop specific drugs against Covid-19”. He said, “in-silico drug discovery which utilizes computational methods such as machine learning, AI and big data will help in accelerating this process”.
+
+
+    Minister of State, HRD Shri Sanjay Dhotre also appreciated the concept and said that government has kick-started Hackathon culture in this country which is very critical for challenging our youngsters to solve some of the daunting problems faced by our nation.
+
+
+    Prof K. VijayRaghavan, PSA, Govt. of India & Chairman of the organizing committee said that this Hackathon will help India establish new model for expediting drug discovery process. It will have three phases of three months each and the whole exercise is projected to be completed by April-May 2021. At the end of each phase, successful teams will be rewarded. The ‘lead’ compounds identified at the end of phase 3 will be taken forward for experimental level at CSIR and other interested organizations.
+
+
+    Hackathon will primarily focus on computational aspects of drug discovery and will have three Tracks. Track-1 will deal with computational modelling for drug design or identifying ‘lead’ compounds from existing databases that may have the potential to inhibit SARS-CoV-2 while Track-2 will encourage participants to develop new tools and algorithms using data analytics and AI/ML approach for predicting drug-like compounds with minimal toxicity and maximal specificity and selectivity. A third track, named Track 3 is a Moon-shot approach which will only deal with novel and out-of-the-box ideas in this field.
+
+
+    The first phase of the three-phase competition is being launched today. The hackathon consists of challenges that are posted as problem statements and, are based on specific drug discovery topics which, are open to the participants to solve. The competition is open to all Indian students and researchers from India and abroad. Hope that thousands of students will participate in the competition. It is an online competition and anybody anywhere in the country or world can participate. The winners will be given prizes and the best entries will be taken into stage 2 of the competition. The best of stage 2 will go to stage 3. The plan is that at the end of the stage 3 competition the best solutions such as drug molecules or drug targets will be taken to the experimental level and validated for their predictions by either CSIR labs or start-ups.
+
+
+    During the launch function, Dr. Abhay Jere, Chief Innovation Officer explained the concept of Drug Discovery Hackathon, while Prof. Anil Sahasrabudhe extended all the support from AICTE side and appealed all technical institutions to participate in this initiative in big number. Prof. Sahasrabudhe also expressed gratitude to all the experts for supporthe ting development of Problem statements.
+
+
+    Background Information and Methodology of Hackathon:
+
+
+    · The hackathon consists of challenges that are posted as problem statements and, are based on specific drug discovery topics which, are open to the participants to solve.
+
+
+    · My Gov portal is being used and any Indian student can participate.
+
+
+    · Professionals and researchers from anywhere in the world can participate.
+
+
+    · Two kinds of challenges problem statements (PS) are being offered and a total of 29 have been identified.
+
+
+    · Track 1 will primarily deal with drug design for anti-COVID-19 hit/lead generation: this is done using tools such as molecular modeling, pharmacophore optimization, molecular docking, hit/lead optimization, etc.
+
+
+    · Track 2 will deal with designing/optimizing new tools and algorithms which will have an immense impact on expediting the process of in silico drug discovery
+
+
+    · There is also a third track called “Moon shot “which allows for working on problems which are ‘out of the box’ nature.
+
+
+    click the link https://innovateindia.mygov.in/ddh2020/ for more details on Drug Discovery Hackathon 2020
+
+
+    *****
+
+
+    NB/AKJ/AK
+
+    
+    
+    (Release ID: 1635913) Visitor Counter : 1245
+    
+    
+      Read this release in: Urdu , Marathi , Hindi , Bengali , Punjabi , Odia , Tamil , Telugu

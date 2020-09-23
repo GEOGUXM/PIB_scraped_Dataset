@@ -1,0 +1,36 @@
+      Ministry of Railways
+
+      Procedure for Refund/Cancellation of PRS and UTS tickets Booked through PoS Machine
+      Posted On: 20 JAN 2017 6:53PM by PIB Delhi
+
+      
+
+    With a view to facilitate convenient booking of reserved and unreserved tickets by passengers through cashless modes of payment viz. Credit/Debit cards even at the ticket booking counters, it has been decided to install 10,000 POS (Point of Sale) (Swpie) machines at the PRS (Passenger Reservation System) and UTS counters (including Suburban stations). Following procedure is proposed with regard to cancellation of the tickets booked through POS machines.
+
+
+    1. 	 Cancellation cum refund procedure for UTS/PRS tickets booked using SBI POS for payment:
+
+    Refund of PRS/UTS tickets shall be done using the offline process as detailed below:
+
+    i) 	 The offline process of refund shall be followed in case of tickets booked using SBI POS for payment which means that the refund amount shall be credited to the account of card holder without any need to swipe his card at the time of cancellation at the counter.
+
+
+    ii) 	 The customer can approach to any counter anywhere for cancellation of ticket booked from SBI POS. Needless to mention that PRS ticket can be cancelled only at any PRS/PRS cum UTS counter and UTS ticket shall be cancelled only at any UTS/PRS cum UTS counter.
+
+
+    iii) 	 The print of cancelled PRS ticket would have a message indicating that “Electronic Refund” for the information of the customer. The customer may also be informed verbally or through information board that the refund shall be credited to the account of card holder within 7 days.
+
+
+    2. 	 IRCTC customer care dealing with the refund issues of e-tickets is entrusted with the responsibility to address refund related complaints of tickets issued using POS. IRCTC shall coordinate with SBI, CRIS and concerned Zonal Railways to monitor the processing of refunds on daily basis and to resolve the issues/complaints in expeditious manner.
+
+
+    3. 	 Cancellation cum refund procedure for PRS tickets issued from POS of other banks.
+
+    There are around 75 POS machines which were operational at different locations of Indian Railways prior to awarding contract for  installing 10,000 POS machines to SBI. The refund is processed through online method in this POS machines, wherein, the customer needs to swipe his credit/debit card at the POS machine at the time of cancellation of the ticket and the due refund amount as fed by the booking/reservation clerk is credited to the account of the card holder. However, this process of refund is possible only at locations having POS machines. At non POS locations, the Ticket Deposit Receipt (TDR) is issued to affect the refund. This procedure shall continue till further advice. However, the refund of the ticket issued using SBI POS shall not be processed by swiping the card on non SBI POS. While cancelling the ticket, the system shall prompt the booking clerk about the POS (SBI or other bank) which was used at the time of booking and advise the booking clerk not to swipe the card.
+      ***
+    AKS/MKV/AK/SK
+
+    
+
+    
+    (Release ID: 1480909) Visitor Counter : 29

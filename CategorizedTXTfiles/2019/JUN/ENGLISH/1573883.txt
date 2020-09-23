@@ -1,0 +1,35 @@
+      Ministry of Finance
+
+      Transition plan to the new GST Return
+      Posted On: 11 JUN 2019 3:17PM by PIB Delhi
+
+
+    The GST Council in its 31 st meeting decided that a new GST return system will be introduced to facilitate taxpayers. In order to ease transition to the new return system, a transition plan has been worked out. The details of the indicative transition plan are as follows: -
+
+     1. In May, 2019 a prototype of the offline tool has already been shared on the common portal to give the look and feel of the tool to the users. The look and feel of the offline tool would be same as that of the online portal. Taxpayers may be aware that there are three main components to the new return – one main return (FORM GST RET-1) and two annexures (FORM GST ANX-1 and FORM GST ANX-2) .
+     2. From July, 2019, users would be able to upload invoices using the FORM GST ANX-1 offline tool on trial basis for familiarisation. Further, users would also be able to view and download, the inward supply of invoices using the FORM GST ANX-2 offline tool under the trial program. The summary of inward supply invoices would also be available for view on the common portal online. They would also be able to import their purchase register in the Offline Tool and match it with the downloaded inward supply invoices to find mismatches from August 2019.
+     3. Between July to September, 2019 (for three months), the new return system (ANX-1 & ANX-2 only) would be available for trial for taxpayers to make themselves familiar. This trial would have no impact at the back end on the tax liability or input tax credit of the taxpayer. In this period, taxpayers shall continue to fulfil their compliances by filing FORM GSTR-1 and FORM GSTR-3B i.e. taxpayers would continue to file their outward supply details in FORM GSTR-1 on monthly / quarterly basis and return in FORM GSTR-3B on monthly basis. Non-filing of these returns shall attract penal provisions under the GST Act.
+     4. From October, 2019 onwards, FORM GST ANX-1 shall be made compulsory and FORM GSTR-1 would be replaced by FORM GST ANX-1. The large taxpayers (i.e. those taxpayers whose aggregate annual turnover in the previous financial year was more than Rs. 5 Crore) would upload their monthly FORM GST ANX-1 from October, 2019 onwards. However, the first compulsory quarterly FORM GST ANX-1 to be uploaded by small taxpayers (with aggregate annual turnover in the previous financial year upto Rs. 5 Crore) would be due only in January, 2020 for the quarter October to December, 2019. It may be noted that invoices etc. can be uploaded in FORM GST ANX-1 on a continuous basis both by large and small taxpayers from October, 2019 onwards. FORM GST ANX-2 may be viewed simultaneously during this period but no action shall be allowed on such FORM GST ANX-2 .
+     5. For October and November, 2019, large taxpayers would continue to file FORM GSTR-3B on monthly basis. They would file their first FORM GST RET-01 for the month of December, 2019 by 20 th January, 2020.
+     6. The small taxpayers would stop filing FORM GSTR-3B and would start filing FORM GST PMT-08 from October, 2019 onwards. They would file their first FORM GST-RET-01 for the quarter October, 2019 to December, 2019 from 20 th January, 2020.
+     7. From January, 2020 onwards, all taxpayers shall be filing FORM GST RET-01 and FORM GSTR-3B shall be completely phased out.
+
+    Separate instructions shall be issued for filing and processing of refund applications between October to December, 2019.
+
+
+    *****
+
+
+    DSM/RM/KN
+
+    
+    
+    (Release ID: 1573883) Visitor Counter : 12267
+    
+    
+      Read this release in: Urdu , Hindi , Bengali
+    
+    
+    
+
+7.

@@ -1,0 +1,94 @@
+      Ministry of Power
+
+      Frequently Asked Questions on BEE recommendations on temperature setting of Air Conditioners
+      Posted On: 29 JUN 2018 12:16PM by PIB Delhi
+
+
+      1. What is the objective of the BEE (Bureau of Energy Efficiency) for recommending optimum temperature setting of air conditioners?
+
+
+      Answer: Bureau of Energy Efficiency (Ministry of Power) has issued the guidelines to major commercial establishments with the objective of conserving energy through optimum temperature settings for the Air Conditioners, within the comfort zone /chart.It is estimated that changing the temperature from conventional 20-21 degree Celsius can result in approximately at 24 per cent of energy savings.
+
+
+      2. What is the estimated saving potential due to this initiative?
+
+
+      Overall potential for energy conservation through such measures is estimated to the tune of 20 billion units(worth Rs10,000 crores) annually. If about half (50%)the consumers adopt to such recommendations, this would result in about 10 billion units of electricity, which is equivalent to reduction of 8.2 Million tonne of CO 2 per year.
+
+
+      3. What does default setting at 24-degreeCelsius mean? Whether the consumers will be able to adjust their ACs to a lower temperature?
+
+
+      Answer: Default setting is the setting at which a machine comes from the factory. Therefore, when the machine is switched on then it will have a preset temperature of 24 degrees Celsius.However, a user can adjust or set the air conditioner at a lower (or higher) temperature, as per her choice.
+
+
+      4. Whyis it beneficial topreset the temperatureof AC equipment at 24-degree Celsius?
+
+
+      Answer: Normal human body temperature is between 36-37 degree Celsius. It is generally observed that in large commercial establishments,e.g.hotels, Airports and offices, the AC operating staff, try to set the lower temperature (around 18-21 degree Celsius), believing that it indicates a better cooling performance of AC system. However, technically this is not true and the cooling action of compressor is same at other settings also. On the other hand, setting the temperature in the range of 18-21 degree Celsius results into a very cool internal ambient conditions, which compels people to wear warm clothing leading to wastage of energy. As per the comfort chart, the temperatures upto 25 deg. C are quite comfortable for human body, along with desired humidity and air movement values.
+
+
+      5. If there are more persons in the room, will it be possible to maintain comfort conditions?
+
+
+      Answer: The same temperature setting would enable AC equipment to provide sufficient cooling, even if there are more persons. The compressor will work slightly longer till such time equilibrium is reached.
+
+
+      6. What are the advantages of setting AC default temperature at 24 degree Celsius?
+
+
+      Answer: It is estimated that by increase in temperature of room by 1 degree Celsius, we can save about 6 per cent of electricity. Typically, room temperature is set between 20-21 degree Celsius whereas, as per standard comfort conditions, ideal temperature is 24-25 degree Celsius. Considering change from 20degree Celsius to 24 degree Celsius, there is potential to increase at least 4 degrees Celsius, which will lead to savings of about 24 per cent of electricity.
+
+
+      Therefore, the users will be able to save significant amount of energy (and money) by running their air-conditioners at 24-degree Celsius.
+
+
+      7. Which are the potential buildings/areas that BEE is targeting to implement the guidelines?
+
+
+      Answer: The Guidelines have been recommended to the major commercial establishments such as Airports, Hotels, Shopping Malls, Offices and Government Buildings (Ministries & attached offices, State Government and Public-Sector Undertakings).
+
+
+      8. What do you mean by comfort chart /zone?
+
+
+      Answer: According to (ASHRAE Standard 55-2013 Thermal Environmental Conditions for Human Occupancy) Thermal comfort zone is the condition of mind which expresses satisfaction with the thermal environment. This condition is defined using temperature, humidity level and air flow experienced by the human body, apart from individual parameters such as clothing, metabolism, etc. We feel thermally comfortable within a particular range of these parameters. Technical analysis indicates that in order to achieve desired comfort level at steady state, the temperature setting can be between 24-25 degree Celsius, at desired levels of humidity and air movement. The chart below suggests that the comfort zone in Indian climatic condition.
+
+
+      9. Is the advisory mandatory right now?
+
+
+      Answer: The advisory for thecommercial establishments has been issued for voluntary adoption. The aim is to increase awareness and encourage consumers to adopt the guidelines.A public survey would be conducted after 4-6 months awareness campaign by the Ministry of Power/ Bureau of Energy Efficiency.
+
+
+      10. Does setting the thermostat at 18 degree Celsius cool the room faster than keeping it at 24 degree Celsius?
+
+
+      Answer: No. The thermostat [1] just checks the temperature of the air inside the room and stops the compressor when the temperature reaches the desired level. This means that the compressor will work longer if the temperature is set to a lower level, i.e it will work more and use more electricity if temperature is set to 18-degree Celsius than if it is set to 24-degree Celsius. This is because it will take less time for air to reach to 24-degree Celsius than 18 degree Celsius, as the compressor is working with the same power or wattage.
+
+
+      11. Why is this move important for India?
+
+
+      Answer: Bureau of Energy Efficiency estimates that considering the current market trend, total connected load in India due to air conditioning will be about 200 GW by 2030 and this may further increase as today only 6 per cent of households are using one or more air conditioners. If the measures are followed by all consumers, India can save about 23 billion units of electricity. The total installed capacity of air conditioner is about 80 million TR, which will increase to about 250 million TR in 2030.
+
+
+      12. Is India the first country to take such a measure?
+
+
+      Answer: No. Countries like Japan and US [2] have already put in regulations for the functioning of air conditioners. Japan introduced a default setting for air conditioners at 28 degrees Celsius. While in U.S, states like California have enforced limits on lowering the air condition beyond 26 degrees Celsius.
+
+
+      *****
+
+
+      MS
+
+
+    
+
+    
+    (Release ID: 1537124) Visitor Counter : 5897
+    
+    
+      Read this release in: Tamil

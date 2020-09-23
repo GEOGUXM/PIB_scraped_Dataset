@@ -1,0 +1,50 @@
+      Ministry Of Law & Justice
+
+      Live Electronic Exchange of data between Courts and Police
+      Posted On: 19 DEC 2018 4:42PM by PIB Delhi
+
+
+    eCourts has now become interoperable with other pillars of the criminal justice delivery system. In a landmark achievement, a pilot was inaugurated on 15 th December, 2018 by Hon'ble Mr. Justice Madan B. Lokur, Chairman of Inter-operable Criminal Justice System (ICJS) and Judge-In-Charge eCommittee, Supreme Court of India through Video Conferencing, in the State of Telangana at Warangal through Live Electronic Exchange of data between Courts and Police.
+
+
+    Inter-operable Criminal Justice System (ICJS) is an ambitious project aiming to integrate the Crime and Criminals Tracking Network and Systems (CCTNS) project with the e-courts and e-prisons databases, as well as with other pillars of the criminal justice system such as Forensics, Prosecution, and Juvenile homes in a phased manner.
+
+
+    The eCourts project aiming at computerisation of district and subordinate courts across the country has reached the final stages of implementation, achieving all the objectives of the mission mode project. The eCourts has now ICT enabled 16,755 district and subordinate courts around the country. National Judicial Data Grid as an output of the project hosts a dynamic repository of over 10 crores cases and provides case information online to all stakeholders. Delivery of citizen centric court case information services is now a reality, through web, email, SMS, Mobile application, kiosks and Judicial Service Centres.
+
+
+    CCTNS, one of the pillars of the ICJS, makes police functioning citizen friendly and more transparent by automating the functioning of police stations. It provides the Investigating Officers with tools, technology, and information to facilitate investigation of crime and detection of criminals.
+
+
+    Dr. Alok Srivastava, Secretary (Justice) speaking during the event lauded the efforts of the eCommittee, National Informatics Centre and the Police Department of Telangana for integrating the two pillars. The integration between these two crucial pillars of the criminal justice delivery system i.e., courts and police stations is central to the success of the Inter-operable Criminal Justice System. With the digital interoperability between courts and police achieved today In Warangal , the stage is now set for all other districts of Telangana as well as other states to utilise the available IT systems in judiciary as well as police, and integrate both the pillars. It is now crucial for all other pillars also, such as prisons, Forensics, Prosecution, and Juvenile homes to computerize and evolve IT systems and integrate with eCourts. The readiness of the eCourts system to integrate with other pillars was highlighted.
+
+
+    Now Courts can consume live data of FIR and Charge-Sheet from police. If FIR is ready in electronic form in system of police, ICJS interface will indicate to the Court that about readiness to FIR data to be consumed. On consumption Court will get details of FIR Number, names of the accused, details of the offence, Time, date, place of occurrence, details of arrest etc. Courts will be able to consume this live electronic data from police. In reciprocation, Courts will send all remand details, bail details, property release etc. to police. Police will be able to see the updates of each FIR and will also be able to see orders passed by the Court in remand, bail or release of property.
+
+
+    When Charge Sheet is ready in electronic form with Police, it will be notified through ICJS interface, and Courts will consume the charge sheet data. On such consumption Courts will get details about names of the accused and their details, names of victim and their details, names of witnesses and their details, and name of the Investigating officer etc. Apart from these details, Acts, sections, date of arrest, on bail or in jail, other details of offence, charge sheet number, FIR Number will be sent to Court. Court can consume this data and accept the same in Case Information System. In reciprocation, Court will send CNR Number link to Police, the link of CNR number will give all the details of case, parties, advocates, date of registration, first hearing and next hearing date and entire history of the case and business recorded.
+
+
+    Police will continue to get updates along with all the details of the case from day to day with the help of CNR Number link until final termination of case. Police will get orders and Judgements passed by the Court from time to time including final order or judgment that may be passed in a given case.
+    This exchange of electronic data between Courts and Police will have multiple advantages.
+
+     1. Both the system will be able to get real time updates,
+     2. Auto generation of processes and its electronic transmission will be done in second phase.
+     3. System can easily monitor under trial prisoner with correct and updated information
+     4. Both the system can get alerts about the period of detention undergone by the under trial prisoner.
+     5. Absconding accused and accused on proclamation and non bailable warrants can now be brought to justice more effectively and quickly.
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1556649) Visitor Counter : 1086
+    
+    
+    
+    
+    
+
+   
+   
+5.

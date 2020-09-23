@@ -1,0 +1,67 @@
+      Ministry of Railways
+
+      E-Ticket Facility in Indian Railways
+      Posted On: 17 JUL 2019 5:39PM by PIB Delhi
+
+
+    Online ticketing through Indian Railway Catering and Tourism Corporation (IRCTC) website was started in 2002 by introducing the concept of i-ticket where the ticket was booked through IRCTC website and the physical ticket was delivered through courier at the address given by the passenger. Subsequently in 2005, e-ticketing was introduced wherein passenger was required to take a print-out of the Electronic Reservation Slip (ERS) and carry one of the prescribed proofs of identity in original for undertaking travel subject to appearance of name in the reservation chart. At present, passengers who have booked e-tickets can either take a print-out of the Electronic Reservation Slip (ERS) or can display the Virtual Reservation Message (VRM)/Short Message Service (SMS) sent by IRCTC containing all vital details.
+
+
+    The details of earnings from e-ticketing during last two years and the current year are as under:-
+
+                                                            
+Financial Year       Earnings from e-ticketing ( ₹ in crore)
+                                                            
+                                                            
+                                                            
+2017-18              28,475.46                              
+                                                            
+                                                            
+                                                            
+2018-19              32,069.68                              
+                                                            
+                                                            
+                                                            
+2019-20 (upto June)  8,791.12                               
+                                                            
+                                                            
+
+    The year-wise details of total number of tickets cancelled along with percentage of e-tickets cancelled with respect to total tickets cancelled are as under:-
+
+                                                                                                                                            
+Financial Year       Total number of tickets cancelled (in lakhs)  Percentage of e-tickets cancelled with respect to total tickets cancelled
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+2017-18              755.95                                        73.36                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+2018-19              837.47                                        77.73                                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+2019-20 (upto June)  237.90                                        79.17                                                                    
+                                                                                                                                            
+                                                                                                                                            
+
+    In order to enhance passenger convenience, a tool to predict the probability of waitlisted ticket getting confirmed at the time of booking as well as during PNR enquiry of waitlisted ticket has been integrated with IRCTC website. Further, with a view to providing confirmed accommodation to waiting list passengers and to ensure optimal utilization of available accommodation, a scheme known as Alternate Train Accommodation (ATAS) known as “VIKALP” has been introduced to cover all types of trains on all sectors. The scheme aims at providing waiting list passengers accommodation in alternate train having vacant accommodation. For this facility, waiting list passenger has to give an option at the time of booking of ticket and passengers with waiting list status at the time of preparation of first reservation charts are shifted to other trains, subject to availability of vacant accommodation.
+
+
+    The waiting list position of trains is monitored on regular basis and to cater to additional rush during peak periods special trains are run and load of existing trains are augmented subject to operational feasibility. The current provisions/schemes aim at reducing uncertainty regarding confirmation of ticket and provide reserved accommodation to the extent possible. This is an on-going and continuous process.
+
+
+    In case the status of an e-ticket continues to remain fully waitlisted even after the preparation of first reservation chart, then the names of all such passengers booked on that Passenger Name Record (PNR) are dropped from the reservation chart. The due refund of fare is credited directly to the account from which booking transaction is done in such cases. Due to the auto-refund facility for fully waitlisted e-tickets, such passengers are saved from the botheration of taking refund from the Railway reservation counters.
+
+
+    This information was given by the Minister of Railways and Commerce & Industry, Shri Piyush Goyal in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    SVS/MKV/AP
+
+    
+    
+    (Release ID: 1579186) Visitor Counter : 536

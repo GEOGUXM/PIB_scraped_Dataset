@@ -1,0 +1,39 @@
+      Ministry of Science & Technology
+
+      Measurement Science Meet at National Physical Laboratory (CSIR -NPL)
+      Posted On: 29 NOV 2017 6:45PM by PIB Delhi
+
+      The 33 rd Asia Pacific Metrology Program General Assembly and Related Meetings 2017 (APMP GA 2017) are being held at CSIR-National Physical Laboratory, New Delhi during November 24 -December 01, 2017.
+
+        On this occasion, a symposium on “ Indian Strategy for Quality Infrastructure ” was inaugurated by Minister of Science & Technology, Earth Sciences and Environment, Forests & Climate Change, Dr. Harsh Vardhan. President, International Bureau of Weights and Measures (BIPM) Dr. Milton Martin, presided over the function. Chairperson, Asia Pacific Metrology Program(APMP) Dr. T. Toshiyuki and several other dignitaries were also present.
+
+
+        CSIR-National Physical Laboratory, (CSIR-NPL) is the National Metrology Institute (NMI) of India and has responsibility of realization, establishment, maintenance and dissemination of Indian Primary Standards to the nation, at par to the international level, through R & D and most up-to-date technologies. This has been mandate by the Act of Parliament.
+
+
+        As the NMI, CSIR-NPL is responsible for the highest level of time and frequency measurements in India, maintenance and dissemination of Indian Standard Time (IST) and keeping it traceable to the International organizations including International Bureau of Weights and Measures (BIPM).
+
+
+        International Atomic Time, TAI is the coordinated reference time established by the International Bureau of Weights and Measures (BIPM) at Paris and it is not a physical clock. It is a system time or a “paper clock”, calculated using more than 450 clocks in approximately 75 laboratories around the globe as a weighted mean value. Universal Coordinated Time or UTC is also derived based on atomic time, but its time is adjusted by 1sec after certain time to keep it in phase with Universal Time, UT, which is based on the Earth’s rotation around its own axis. A time scale is defined by a starting point and is thereafter continuously accumulated in time units. CSIR-NPL maintains a timescale to realize its local UTC, known as UTC (NPLI) which is traceable BIPM.
+
+
+        The present timescale consists of five high performance Cesium clocks, one active Hydrogen Maser and those are contributing to International Atomic Time (TAI) maintained by BIPM. CSIR- NPL providing time and frequency traceability link to different sectors within the country using different advanced technologies like Two-way Satellite Time and Frequency Transfer (TWSTFT ) and Common View Global Navigational Satellite System (CVGNSS) . Over several decades CSIR-NPL also providing a service of IST dissemination through internet and telephone for the use of public and government sectors.
+
+
+        Through a Memorandum of Understanding (MoU) with Indian Space Research Organisation (ISRO), CSIR- NPL is providing Time and Frequency Traceability from the National Time Scale of CSIR-NPL to IRNWT-I and IRNWT-II of ISTRAC/ISRO for synchronizing Indian regional navigational satellite system (NAVIC) with the IST. Additionally, the accurate time as per the international standard has many more applications in advanced technologies and sciences. As for example navigation, meteorology, surveillance, electronic transaction, online trade and so on relies on IST at various accuracy levels from few ns to few 100 ms. Upcoming state of the art scientific activity, LIGO India, a very large baseline radio telescope and neutrino detection experiment also requires accurate time synchronization.
+
+
+        India’s indigenously developed global positioning system called NavIC, has been configured to synchronize its clocks to time provided by the CSIR-NPL. Till recently, the satellites on the NavIC managed by ISRO, relied on US-based GPS system. The linking with CSIR-NPL will aid in high precision satellite based communication, precise guidance of missiles and navigation.
+
+
+        The event is being attended by. more than 350 delegates from 31 countries around the world.
+
+
+        ***
+
+
+        RDS/GM/nb
+
+    
+    
+    (Release ID: 1511265) Visitor Counter : 171

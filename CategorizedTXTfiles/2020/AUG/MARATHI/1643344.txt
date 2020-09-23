@@ -1,0 +1,67 @@
+      Ministry of Health and Family Welfare
+
+      Case Fatality Rate in the country is the lowest since announcement of first lockdown: Health Ministry
+      
+      Health Ministry narrates the saga of India becoming Aatma Nirbhar in COVID-19 ventilators
+      
+      States should analyse testing data and mount locally specific data-driven response at state and district levels: DG, ICMR
+      
+      COVID-19 Vaccine: Prioritization and fair distribution, logistics of roll-out in cold chain, stock-piling and training of people administering vaccine crucial, says DG, ICMR
+      Posted On: 04 AUG 2020 6:59PM by PIB Mumbai
+
+
+    New Delhi / Mumbai, July 30, 2020
+
+
+    In India, more than 2 crore COVID-19 tests have been conducted and more than 6.6 lakh tests have been done in the last 24 hours itself. The number of recovered cases is now double of the active cases. Further, Case Fatality Rate is now the lowest (2.10%) since the first lockdown started on 25th March, 2020. This has been stated by the Secretary, Ministry of Health and Family Welfare, Shri Rajesh Bhushan, in course of a press briefing on the actions taken, preparedness and updates on COVID-19 held at National Media Centre in New Delhi today.
+
+
+    The Health Secretary further informed, 24 States and UTs have fared better on Monday (August 3) than the national average of 15,119 tests per million. Goa leads with 84,927 tests per million, followed by Delhi having conducted 57,855 tests per million population. This indicates that many states and UTs have increased their testing capacities - both RT-PCR and Rapid Antigen, stated Shri Bhushan. Further, 28 States and UTs are performing more tests than World Health Organisation's guideline of 140 tests per day per million population. The country, on an average, is conducting 479 tests per day per million population. 28 States/UTs are showing a positivity rate of less than 10%. In this connection, Shri Bhushan stated that the Health Ministry analyses positivity on the basis of three parameters: 1) measure of positivity in total numbers, 2) measure on the basis of total testing in the country and in individual states and UTs, and 3) measure on the basis of 7 days' rolling average. The cumulative positivity of India presently stands at 8.89%. In the last week, the country's positivity rate was 11%, which means that there are still certain states which needs focus as the positivity is rising in those states, said the Health Secretary.
+
+
+    As on date, there are 5,86,298 active cases as against 12,30,509 recovered cases which is almost double the number of active cases. On the other hand, the Case Fatality Rate has seen a progressive decline from 3.36% in the second week of June and then 2.69% in the second week of July to its lowest at 2.10% as on date. "This decline is continuing which is a good sign", remarked Shri Bhushan. Again, the Mortality analysis on the basis of age and gender show that: 1) 68% deaths have been among male patients, 32% among female patients 2) 50% deaths have occurred to people aged above 60 years, while 37% of deaths occurred to people in the age group of 45- 60 years. Stating this, the Health Secretary reiterated the need to take special care of senior citizens and their physical distancing. He also noted that data shows 45-60 years’ age group is also vulnerable and called for them to remain safe and follow the COVID Appropriate Behaviours , especially if they have co-morbidities.
+
+
+      The Health Secretary also threw light on the saga of how Indian domestic industry and innovators combined with the Union Government to develop basic ICU-Ventilators. Starting from a scenario where India's domestic manufacturing of ventilators was insignificant, now the Union Government has accorded permission for export of ventilators. Prior to COVID-19, 755 of ventilators in India were imported. Since March 2020, the demand for ventilators spiked all over the world and many ventilator producing countries imposed an export-restriction. At that time, even the limited number of domestic manufacturers were dependent on imported components. At that time, there was a projected requirement of 60,000 ventilators in the country, although the situation was dynamic and evolving. "However, now we find ourselves in a comfortable situation as far as patients requiring ventilator-support are concerned", stated Shri Bhushan. Further, there was no domestic standards for ventilators in India at that time, nor were these a regulated medical device having BIS certification or under CDSCO regulations. At that time, the Committee of Technical Experts under DGHS convened several meetings with subject experts and came up with prescribed minimum essential specifications for the basic ventilators to be procured for Covid-19 purposes. Then, orders were placed based on the recommendations of the Technical Committee of domain experts under DGHS. This was the beginning of the 'Make In India' Ventilators for ICU. Two PSUs - Bharat Electronics Limited and Andhra Med-Tech Zone played an important role by supplying 30,000 and 13,500 domestic ventilators respectively. Maruti Suzuki, from the automobile industry supported by providing its infrastructure to be used by the domestic manufacturer AgVA to produce 10,000 ventilators. DRDO played a vital role in local designing and manufacturing of components. Starting with the roll-out of the First 'Make in India' BEL make Ventilator on 30 May, 18,000 such ventilators are being provided and installed in 700 hospitals. Health Ministry is tracking real time status of dispatch, delivery and installation of ventilators through a dashboard. Each of these ventilators are Geo tagged to track their location. Further, the Health Ministry has created 36 WhatsApp Groups for each state and UT with officials from Health Ministry, HLL, State representatives, doctors from hospitals and suppliers in group, where issues related to ventilators are raised and resolved by the concerned party.
+
+
+      Director-General, ICMR, Dr. Balram Bhargava stated, a policy of intelligent and calibrated testing is being followed, depending on which areas need more testing and setting up of labs are identified. "We have also tried to set-up high throughput laboratories in SEZs such that our economy also progresses and testing can happen more where there are large international airports. The states have also been cooperating immensely in testing and we are requesting them to reach up to 10 lakh tests per day." He further said, it is important for states to analyse the data and mount locally specific data driven response at the state-level and district-level, what is called as 'Knowing The Epidemic'. Enough data is now available for every state, district and testing laboratory and it will go a long way in tackling the epidemic, he added.
+
+
+      Speaking about vaccines, the DG, ICMR briefed, the pandemic is progressing rapidly and to develop a vaccine, it needs time, not only in respect of science, but also social, cultural and regulatory aspects. Presently there are three vaccines in different phases pf clinical trials -
+
+
+    1) Bharat Biotech's inactivated virus vaccine which has completed its Phase I safety and early efficacy studies in 11 sites. Phase II studies have been commenced for it.
+
+
+    2) Zydus Cadila's DNA vaccine has also completed Phase I studies in 11 sites and has started its Phase II trials.
+
+
+    3) Recombinant Oxford vaccine to be manufactured by Serum Institute of India, Pune has been given approval yesterday for Phase I and II clinical trials to be started soon at 17 sites.
+
+
+    DG, ICMR also said, once a safe and effective vaccine comes, we need to focus on prioritization and fair distribution, logistics of roll-out in cold chain, stock-piling and training of people. However, till vaccines become available and even after, sustainable behavioural changes like physical distancing, wearing of mask etc. should be maintained.
+
+
+    In reply to a media query, the Health Secretary stated, Health Ministry has issued guidelines clarifying that deaths of COVID19 patients with co-morbidities are to be treated as COVID-19 deaths, not death due to co-morbidities, to bring in a standardized way of death reporting in the country. States including Maharashtra, which have reported maximum number of COVID-19 cases and deaths, have a high rate of death registration. The proportion of medically certified deaths among total deaths too is high in these states. Hence, it is unjustified to say that deaths are under-reported, he said.
+
+
+    In reply to a query on the virus’ mutation, DG-ICMR stated, no major mutation has occurred in the strain of SARS-COV2 virus. A mutation which results in total change of the virus takes 10 -15 years, he added.
+
+
+    @PIBMumbai tweets on today’s press conference can be found in this link
+
+
+    *****
+
+    DJM/SC
+
+
+    *
+
+
+    Follow us on social media: @PIBMumbai / PIBMumbai /pibmumbai pibmumbai@gmail.com
+
+    
+    
+    (Release ID: 1643344) Visitor Counter : 204

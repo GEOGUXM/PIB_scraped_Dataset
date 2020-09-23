@@ -1,0 +1,99 @@
+      Ministry of Finance
+
+      Ecosystem for Fin Tech Companies
+      Posted On: 16 MAR 2018 5:55PM by PIB Delhi
+
+
+    The Reserve Bank of India (RBI) had set up an inter-regulatory Working Group (WG) to look into and report on the granular aspects of Fin Tech and its implications so as to review and reorient appropriately the regulatory framework and respond to the dynamics of the rapidly evolving Fin Tech scenario. The report of the Working Group that inter-alia contains various recommendations has been released by RBI for public comments and is available at https://www.rbi.org.in. Key recommendations of the Report are annexed.
+
+
+    In pursuance to the announcement in the Budget Speech of 2018-19, a Steering Committee has been constituted under the Chairmanship of Secretary, Department of Economic Affairs (DEA) Ministry of Finance on 5 th March, 2018; to consider various issues relating to development of Fin Tech space in India with a view to make Fin Tech related regulations more flexible and generate enhanced entrepreneurship in an area where India has distinctive comparative strengths vis-à-vis other emerging economies. The Steering Committee will also focus on how Fin Tech can be leveraged to enhance financial inclusion of Micro, Small & Medium Enterprises (MSMEs). The Terms of Reference of the Steering Committee include:
+
+
+     1. To take stock of the developments in the Fin Tech sector globally, and in India, and arrive at a common shared understanding of the current state of play;
+
+     2. To analyse critically the regulatory regime spread over different entities that has impacted the growth of Fin Tech in India;
+     3. To consider how Fin Tech can be leveraged in critical sectors of the economy, especially financing of MSMEs, affordable housing, delivery of e-services to vulnerable sections, provision of land record management and other government services, access and adoption of digital payments, and to study the developments in these areas;
+     4. To develop regulatory interventions, e.g., regulatory sandbox model, that will enhance the role of Fin Tech in the sectors identified for focused interventions;
+     5. To promote ease of doing business in the Fin Tech sector;
+     6. To consider means of using data with Goods and Services Tax Network (GSTN) and data residing with information utilities such as Credit Information Companies (CICs), etc in open domain with a view to developing applications for financing of MSMEs;
+     7. To work with Government agencies like Unique Identification Authority of India (UIDAI) to explore creation and use of unique enterprise identification number;
+     8. To consider international cooperation opportunities in Fin Tech with countries like Singapore, UK, China, etc.
+
+    ANNEX
+
+
+    Key recommendations of the report of the Working Group on Fin Tech and Digital Banking submitted to the Reserve Bank of India
+
+
+      * There is a need to have a deeper understanding of various Fin Tech products and their interaction with the financial sector and, thereby, the implications on the financial system, before regulating this space.
+
+      * The regulatory actions may vary from “Disclosure” to “Light-Touch Regulation & Supervision” to a “Tight Regulation and Full-Fledged Supervision”, depending on the risk implications.
+
+    · There is a need to develop a more detailed understanding of risks inherent in platform based Fin Tech.
+
+
+    · Various financial sector regulators to identify sector specific Fin Tech products and regulatory approaches.
+
+
+    · The adoption of digital channels to replace manual time-consuming processes to empower customers and / or workforce in insurance sector.
+
+
+    · Innovation labs may be established, including within insurance companies, to combine brand and product managers with technological and analytical resources.
+
+      * As and when any securities market Fin-Tech products are introduced or emerge in the market, regulators may assess the product and see whether it can be monitored by way of registering them as an intermediary or through the activity regulations.
+
+    · Insurance companies may collaborate with “Insurtech” entities or start-ups to provide better customer experience in a cost effective manner.
+
+      * Financial sector regulators need to engage with Fin Tech entities in order to chalk out appropriate regulatory response and with a view to re-align regulation and supervision in response to the changing environment.
+      * In order to identify and monitor the challenges associated with the development of major Fin Tech innovations and to assess respond to opportunities and risks arising for the financial system from these innovations, a ‘dedicated organizational structure’ within each regulator needs to be created.
+
+    · To provide an environment for developing Fin Tech innovations and testing of applications/ application programming interfaces (APIs) developed by banks and Fin Tech companies.
+
+      * An appropriate framework may be introduced for “Regulatory Sandbox/innovation hub” within a well-defined space and duration where financial sector regulators will provide the requisite regulatory support, so as to increase efficiency, manage risks and create new opportunities for consumers in Indian context similar to other regulatory jurisdictions.
+      * In view of Institute for Development & Research in Banking Technology (IDRBT)’s unique positioning as a research and development institute, and as indicated by some of its activities, it is felt that IDRBT is well placed to create and maintain a regulatory sandbox in collaboration with RBI for enabling innovators to experiment with their banking/payments solutions for eventual adoption. The Institute may continue to interact with RBI, banks, solution providers regarding testing of new products and services and over a period of time upgrade its infrastructure and skill sets to provide full-fledged regulatory sandbox environment. The Reserve Bank of India may actively engage with the Institute in this regard.
+
+    · Regulatory and legal reforms are essential to enable the sustained development of a digital financial industry for the future.
+
+
+    · Partnerships / engagements among regulators, existing industry players, clients and Fin Tech firms will enable the development of a more dynamic and robust financial services industry.
+
+
+    · Regulators may explore the use of Reg Tech that may facilitate the delivery of regulatory requirements more efficiently and effectively than existing capabilities.
+
+      * The organizational structure and human resources (HR) practices of regulators have to be reoriented to meet the challenges of innovation, in terms of adapted HR hiring profiles, learning and educational programmes.
+
+    · There is a need for a stand-alone data protection and privacy law in the country.
+
+      * Banks / Regulated entities may be encouraged to collaborate with Fin Tech/start-ups to improve their customer experience and operational excellence. They may also consider undertaking Fin Tech activity in areas such as payments, data analytics and risk management.
+
+    · Models of engagement and checklist to be developed by each regulator for each of the activities.
+
+      * Given that Fin Tech companies are in their infancy but are growing at a rapid pace, the Government may consider introducing tax subsidies for merchants that accept a certain proportion of their business revenues from the use of digital payments.
+
+    · The requirement of increasing the levels of education/ awareness of customers should be highlighted by all market regulators.
+
+
+    · A self-regulatory body for Fin Tech companies may be encouraged.
+
+
+    This was stated by Shri Shiv Pratap Shukla, Minister of State for Finance in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    DSM/RM/KA
+
+
+    
+
+    
+    (Release ID: 1524874) Visitor Counter : 436
+    
+    
+    
+    
+    
+
+*

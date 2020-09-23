@@ -1,0 +1,53 @@
+      Ministry of Earth Science
+
+      AGRO-Meteorology Services
+      Posted On: 12 APR 2017 6:45PM by PIB Delhi
+
+        India Meteorological Department (IMD), Ministry of Earth Sciences (MoES) is implementing Agrometeorological Advisory Services (AAS) under the scheme “Gramin Krishi Mausam Seva (GKMS)” in the Country.
+        GKMS of IMD is rendered twice a week to farmers in collaboration with State Agricultural Universities (SAUs), Institutions of Indian Council of Agricultural Research (ICAR), IITs etc. District level weather forecast for next 5-days in respect of Rainfall, maximum temperature, minimum temperature, wind speed, wind direction, relative humidity and clouds, weekly cumulative rainfall forecast and Crop specific advisories are provided to farmers. GKMS of IMD has been successful in providing crop specific advisories to farmers through different print/visual/Radio/ IT based media including short message service (SMS) and Interactive Voice Response Service (IVRS) facilitating for appropriate field level actions. Weather forecast based agrometeorological advisories are disseminated through Kisan portal launched by Ministry of Agriculture and also under public private partner.
+        All the districts of Kerala have been covered under the scheme. Details of the districts in Kerala covered under the scheme are given below:
+  District for which AAS bulletins made    Agro                     No. of Farmers receiving Agromet Advisory through SMS
+                                           Meteorological                                                                
+                                           Field Unit (AMFU)                                                             
+                                                                                                                         
+  Wayanad                                  Ambalavayal              72048                                                
+                                                                                                                         
+  Idukki                               
+                                       
+  Allepy                                   Kumarakom                56120                                                
+                                                                                                                         
+  Kottayam                             
+                                       
+  Malappuram                               Pillicode                240408                                               
+                                                                                                                         
+  Kozhikode                            
+                                       
+  Kannur                               
+                                       
+  Kasargod                             
+                                       
+  Palakkad                                 Trissur (Vellanikara)    76644                                                
+                                                                                                                         
+  Thrissur                             
+                                       
+  Ernakulam                            
+                                       
+  Thiruvanathpuram                         Vellayani                74837                                                
+                                                                                                                         
+  Kollam                               
+                                       
+  Pattanamthitta                       
+                                       
+  Total                                    520057               
+                                                                
+        Presently IMD is providing Agromet services to farming community at District level. Research efforts are initiated by IMD to explore possibility of generating sub district scale Agrometeorological forecast with acceptable level of verification skill in a pilot mode.
+        There is mechanism for dissemination of Agromet Advisories through multi-mode communication channels including mass and electronic media and also through SMS and IVR (Interactive Voice Response Technology) through Kisan Portal launched by Ministry of Agriculture, Govt. of India as well as private companies under PPP mode. At present 21.16 million farmers are receiving the information through SMS on regular basis.
+        Under modernization plan, IMD has installed 550 AWS and 127 Agro-AWS throughout the country, so that the observational network would be strengthened. These AWS data would be useful in generating high resolution weather forecast. At present the scheme is implemented at district level covering 636 districts in the country.
+        This information was given by Minister of State for Ministry of Science & Technology and Ministry of Earth Sciences Shri Y.S.Chowdary in a written reply to a question in Lok Sabha today.
+        ***
+
+      RDS/nb
+
+    
+    
+    (Release ID: 1487724) Visitor Counter : 143

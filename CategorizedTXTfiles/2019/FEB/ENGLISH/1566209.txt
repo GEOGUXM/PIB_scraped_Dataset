@@ -1,0 +1,29 @@
+      Ministry of Finance
+
+      Successful Operationalisation of Electronic Transfer of Funds to a Large Number of Farmer Beneficiaries under the Scheme PM Kisan Samman Nidhi (PM-KISAN) with in a short timeline through Public Finance Management System (PFMS): A Historic Achievement
+      Posted On: 25 FEB 2019 3:28PM by PIB Delhi
+
+
+    The Prime Minister, Shri Narendra Modi launched the PM-KISAN Scheme on 24 th February 2019 at Gorakhpur in Uttar Pradesh (UP) to electronically transfer the First Installment of Rs 2,021 crore directly into the bank accounts of 1,010,6,880 (One Crore One Lakh Six Thousand Eight Hundred Eighty) Eligible Farmers of 24 States and the Union Territories. Under the Scheme, Rs 6,000 will be given each year to eligible Small and Marginal Farmer families having combined land holding/ownership of up to 2 hectares. The amount will be given in three installments of Rs.2000 each.
+
+
+    The Direct Benefit Transfer (DBT) under the Scheme PM-KISAN is being done through the System of Public Finance Management System (PFMS), a web-based payment and MIS IT application of the Government of India administered by the Controller General of Accounts (CGA), Ministry of Finance, Government of India. DBT process through PFMS ensures digitally authenticated payments, without any manual intervention, directly into the bank accounts of the beneficiaries in a transparent manner and without any delay. The integration of PFMS with about 273 banks enables validation of bank account details of beneficiaries before making payments directly into their bank accounts. All DBT payments for the Government of India Schemes are being done through PFMS.
+
+
+    For PM-KISAN Scheme, the PFMS team managed the process in the very short time available. The Scheme was announced on 1 st February 2019 and by 24 th February 2019, the work of Configuration of a Separate Server, Creation of Scheme, Registration of State/UT Agencies, Validation of Bank Accounts of Beneficiaries, Issuance of Payment Orders and Transfer of Funds to Sponsor Banks, NPCI and finally into Beneficiaries’ Accounts was completed in a record time without any slippage. PFMS team was constantly following-up with the Ministry of Agriculture, Department of Financial Services (DFS), Ministry of Finance and 202 banks of beneficiaries, the RBI and NPCI to ensure smooth operationalisation. In the next few weeks, the process of Bank Account Validation and Direct Transfer of First Installment into the bank accounts of all remaining Identified Eligible Beneficiaries (total around 12 crore beneficiaries all across the country) shall be completed. This will be a record Direct Benefit Transfer volume of transactions under any one Scheme of the Government of India.
+
+
+    The successful operationalisation of electronic transfer of funds to a large number of beneficiaries of this magnitude under the Scheme PM-KISAN by PFMS within a very short timeline is a historic achievement of PFMS, which has further reinforced the Digital India initiative of the Government of India.
+
+
+    *****
+
+
+    DSM/KA
+
+    
+    
+    (Release ID: 1566209) Visitor Counter : 1448
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Tamil

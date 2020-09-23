@@ -1,0 +1,38 @@
+      PIB Headquarters
+
+      PSLV – C43 launched successfully by ISRO
+      Posted On: 29 NOV 2018 12:12PM by PIB Chennai
+
+
+    PSLV – C43 successfully launched India’s modern earth observation satellite HysIS and 30 foreign co-passenger satellites at 9.57.30 hrs this morningfrom the Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. 17 minutes and 25 seconds after the lift-off, the Hyper-Spectral Imaging Satellite (HysIS) was separated and placed in thepolar sun-synchronous transfer orbit. And by 11.50 am all other 30 foreign satellites were separated and injected in their respective positions.
+
+
+    The Satellites carried on board were injected in two different orbits. The primary satellite HysIS was placed in 636 km polar Sun Synchronous Orbit (SSO) and the co-passengers are placed in 504 km polar SSO after restarting the fourth stage of PSLV (PS4) engines twice.
+
+
+    HysIS is an earth observation satellite developed by ISRO. It is the primary satellite of the PSLV-C43 mission.This satellite is built around ISRO’s Mini Satellite – 2 (IMS -2) bus and the mass of the spacecraft is about 380 kg. The mission life of HysIS is 5 years.
+
+
+    The primary goal of HysIS is to study the earth’s surface in visible, near infrared and shortwave infrared regions of the electromagnetic spectrum.
+
+
+    The HySIS satellite has critical chip called an 'optical imaging detector array',indigenously developed by ISRO. This was designed by the payloads development centre, Space Applications Centre (SAC) in Ahmedabad. It was manufactured in Chandigarh at ISRO's electronics arm, the Semi-Conductor Laboratory. It can read upto 1000 x 66 pixels.
+
+
+    Hyperspectral imaging is an imaging spectroscopy which combines the power of digital imaging and spectroscopy. This imaging technology enables us to distinct the identification of objects, materials or processes on Earth by reading the spectrum for each pixel of a scene from space.
+
+
+    The co-passengers of HysIS include 1 Micro and 29 Nano satellites from 8 different countries. These satellites includes one each from Australia, Canada, Columbia, Finland, Malaysia, Netherlands, Spain and 23 from USA. The combined weight of 30 foreign co-passenger satellites is 261.5 kg. These satellites have been commercially contracted for launch through Antrix Corporation Limited, the commercial arm of ISRO.
+
+
+    PSLV is a four stage launch vehicle with alternating solid and liquid stages. PSLV-C43 is the Core Alone version of PSLV which is the lightest version of PSLV.
+
+
+    For more details on Satellites launched, visit https://www.isro.gov.in/pslv-c43-hysis-mission/pslv-c43-hysis-mission-press-kit
+
+    
+    
+    (Release ID: 1554174) Visitor Counter : 61
+    
+    
+      Read this release in: Tamil

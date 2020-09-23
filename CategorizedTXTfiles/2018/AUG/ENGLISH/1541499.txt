@@ -1,0 +1,50 @@
+      Ministry of Railways
+
+      Confirmation Prediction Tool for Wait-Listed Rail Tickets
+      Posted On: 03 AUG 2018 3:45PM by PIB Delhi
+
+
+    A tool has been developed to predict the probability of waitlisted ticket getting confirmed at the time of booking as well as during Passenger Name Record (PNR) enquiry of waitlisted ticket. The tool has been developed using the algorithm of Machine learning. The machine learning model has been developed using the waitlisted PNR data of past 2 years. This model creates the pattern for the various waitlist scenarios and predicts the probability for the future date journey.
+
+
+    The salient features of the scheme are as under:-
+
+
+    (i) It predicts the probability of waitlist status for General Quota.
+
+
+    (ii) The tool considers the high waitlist scenario of Holiday rush.
+
+
+    (iii) It displays the trend of last waitlist ticket got confirmed for the same journey during previous year.
+
+
+    (iv) Prediction of dynamic probability is based on current status.
+
+
+    Currently this feature is integrated with Indian Railway Catering & Tourism Corporation (IRCTC) website only. In IRCTC website this feature is operational w.e.f. 13 June, 2018 as under:-
+
+
+    (i) When the user is doing the booking transaction, and if the status of accommodation availability of the input journey is waitlisted, then the user can check the probability of confirmation.
+
+
+    (ii) At the time of PNR enquiry of waitlisted ticket, the user can check the probability of confirmation.
+
+
+    This facility is not available without login. Further, prediction is based on past trend analysis and gives fairly good probability of right waitlist prediction.
+
+
+    This information was given by the Minister of State of Railways, Shri Rajen Gohain in a written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    SVS/MKV/ENS
+
+    
+    
+    (Release ID: 1541499) Visitor Counter : 580
+    
+    
+      Read this release in: Marathi , Bengali , Tamil

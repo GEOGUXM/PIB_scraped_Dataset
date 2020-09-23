@@ -1,0 +1,23 @@
+      Ministry of Defence
+
+      DEVELOPMENT OF AI ENABLED COVID-19 DETECTION TOOL USING THE CHEST DIGITAL X-RAY IMAGE BY DIAT, PUNE
+      Posted On: 02 JUN 2020 6:10PM by PIB Mumbai
+
+
+    Pune: June 2, 2020
+
+
+    Defence Institute of Advanced Technology (Deemed to be University), Pune has developed an Artificial Intelligence enabled COVID - 19 detection tool using the Chest digital X-ray image of the patient.
+
+
+    The Chest X-ray of a suspected patient is uploaded in this AI tool which then immediately confirms whether the patient has developed any kind of abnormality in X-ray image due to COVID or any other kind of respiratory symptoms. This will be a very useful tool for Radiologists and also for use in telemedicine. DIAT has decided to make it freely available to all those who would like to use the same. It can be accessed through DIAT website (www.diat.ac.in) where a link is provided, which is very user friendly.
+
+
+    It is noteworthy to mention that DIAT has recently launched for commercial production a Microwave based Sterilizer for COVID- 19 called “ATULYA”. DIAT, has a NIRF ranking of 57 th in 2019 , is an institute of higher learning offering M Tech & PhD programs only.
+
+
+    MI
+
+    
+    
+    (Release ID: 1628688) Visitor Counter : 248

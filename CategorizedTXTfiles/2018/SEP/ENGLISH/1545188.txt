@@ -1,0 +1,78 @@
+      Ministry of Railways
+
+      Ministry of Railways organises seminar on ‘Leveraging IT for Mobility’
+      
+      Piyush Goyal says “Paperless Unreserved Tickets have moved up from 195 in 2014-15 to 67,000 last year, which is a 35,000 % increase over a period of three years”
+      
+      Shri Piyush Goyal launches “AAPOORTI” mobile app of ‘Indian Railways e-procurement system’
+      
+      This App provides information and data related to e-tendering and e-auction related activities of Indian Railways
+      
+      Posted On: 06 SEP 2018 6:01PM by PIB Delhi
+
+
+    Ministry of Railways & Centre for Railway Information Systems (CRIS) organised a seminar on “Leveraging IT for Mobility” here today. Minister of Railways & Coal, Shri Piyush Goyal graced the occasion as the Chief Guest. Shri Goyal also launched a new app – “AAPOORTI’ mobile App of ‘Indian Railways e-procurement system’.
+
+
+    Speaking on this occasion, Shri Piyush Goyal said, “It's time we get the charm back to the Indian Railways and to my mind, technology can be that defining factor that will help Indian railways change both its direction and its face. There are so many new transformations that the railways is working on related to the tracks, safety, signalling, catering, punctuality, and modernizing our inspection processes which will make them more efficient and clinically sound. A rapid scale-up of technology is what the nation expects out of us, and that's where we can take the help of the private sector in helping us develop and use that technology. It is encouraging to note that Paperless Unreserved Tickets have moved up from 195 in 2014-15 to 67,000 last year, which is a 35,000 % increase over a period of three years. We have now taken Wifi to 710 railway stations, best in the country in terms of speed. I am proud of Railwaymen who have done that. We have to make Indian Railways efficient, better & customise it for better customer experience by changing the mindset.”
+
+
+    Shri Girish Pillai, Member Traffic, Railway Board, Shri Mukesh Nigam, MD, CRIS, Shri V.P.Pathak, DG/Store, Railway Board, Shri Anand Mathur, DG/Personnel, Railway Board, Ms. Sunira Bassi, Additional Member, C&IS, Railway Board & other senior Railway officers were also present on the occasion. The seminar was organised in four sessions namely i) Mobility for Passenger Business, ii) Continuous Cargo Visibility, iii) Network Optimisation, iv) IoT ( Internet of Things) and Mobile Data in Maintenance, Repair and Operations.
+
+
+    About the seminar:
+
+
+    During the sessions in the seminar, it was deliberated how IT can be leveraged to facilitate mobility in a number of ways. Speakers during the sessions spoke how IT can be used to enhance mobility can give rise to a number of solutions for the Railways such as continuous information availability to customers, network optimisation, end-to-end visibility of cargo, and maintenance of assets using IoT. These solutions which came during seminar can help to make Railway operations more effective to serve customers.
+
+
+    Apart from computers and information processing systems, communication networks play a crucial role in leveraging IT for mobility. Efficient communication networks can be designed using latest technologies, to provide reliable high-bandwidth channels for fixed and moving devices.
+
+
+    Similarly, modern IoT devices provide high processing power in small packages with low power consumption to ensure that workers are facilitated even while working in harsh environments.
+
+
+    Mobility being such an important part of the overall productivity of the nation’s enterprises, this seminar served a good platform to deliberate upon the technology alternatives that can best facilitate it.
+
+
+    Background material:
+
+
+    IT can be leveraged to facilitate such mobility in a number of ways .
+
+
+    Firstly, mobile apps on hand-held devices connected through reliable networks to central IT systems can provide information to consumers while they are on the move. Such devices also facilitate collection of information for further processing. Secondly, IT systems can help to optimise the resources that make mobility possible. Examples are information systems that can optimise the routing of traffic through the rail network. Thirdly, IoT (the Internet of Things) enables data to be collected automatically using remote devices placed on fixed or moving assets to ensure that these are optimally utilised. This helps to provide reliable transportation systems for mobility. Fourthly, the use of IT can enable information to be seamlessly exchanged across organisational, even national boundaries, to provide efficient and uninterrupted movement of goods and people across these boundaries.
+
+
+    About Aapoorti (IREPS Mobile App) :
+
+
+    The ‘Aapoorti’ mobile App of ‘Indian Railways e-procurement system’.
+
+      * This App provides information and data related to e-tendering and e-auction related activities of Indian Railways.
+      * For e-tendering activities, users can see details related to tenders published, tenders closed, purchase orders placed.
+      * For activities related to e-auction of scrap sale, users can see upcoming auctions, auction schedules, sale conditions, details of material available for e-auction, auctioning units.
+      * User manuals of IREPS are also made available on the App.
+      * The App also provides for rating of the app and taking feedback from users which shall help us continuously improve the app.
+
+    Digitization of Railway supply chain is an ongoing program with new features and facilities being added through the e-procurement system “IREPS”. Complete tendering activity of Indian Railways for procurement of goods, services & works and e-auction of scrap sale is on IREPS. IREPS system is largest such G2B portal in India. It has helped in achieving objectives of Transparency, Efficiency and improving Ease of Doing Business. During 2017-18, Four lakh Forty Four Thousand e-tenders valuing more than Rs One lakh Fifty Thousand crores were issued on IREPS. Online scrap sale of Rs Two Thousand Eight Hundred crores was also done last year through e-auction. Ninety Thousand vendors have registered themselves on IREPS website. Central Vigilance Commission has recognized and awarded the system under “Vigilance Excellence Awards-2017” for outstanding contribution in the category of “IT initiatives for transparency in the organization”.
+
+
+    ***
+
+
+    APS/MKV/ENS
+
+
+    
+
+    
+    (Release ID: 1545188) Visitor Counter : 914
+    
+    
+      Read this release in: Marathi , Tamil
+    
+    
+    
+
+*

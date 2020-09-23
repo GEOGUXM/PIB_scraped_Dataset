@@ -1,0 +1,275 @@
+      Ministry of Statistics & Programme Implementation
+
+      Year End Review of Ministry of Statistics & Programme Implementation ( MoSPI)
+      Posted On: 18 DEC 2017 3:54PM by PIB Delhi
+
+
+    1. The Ministry of Statistics and Programme Implementation has two wings, one relating to Statistics and the other Programme Implementation. The Statistics Wing called the National Statistical Office(NSO) consists of the Central Statistical Office (CSO), the Computer centre and the National Sample Survey Office (NSSO). The Programme Implementation Wing has three Divisions, namely, (i) Twenty Point Programme (ii) Infrastructure Monitoring and Project Monitoring and (iii) Member of Parliament Local Area Development Scheme. Besides these two wings, there is National Statistical Commission created through a Resolution of Government of India (MOSPI) and one autonomous Institute, viz., Indian Statistical Institute declared as an institute of National importance by an Act of Parliament.
+
+
+    2. The Ministry of Statistics and Programme Implementation attaches considerable importance to coverage and quality aspects of statistics released in the country. The statistics released are based on administrative sources, surveys and censuses conducted by the Central and State Governments and non-official sources and studies. The surveys conducted by the Ministry are based on scientific sampling methods. Field data are collected through dedicated field staff. In line with the emphasis on the quality of statistics released by the Ministry, the methodological issues concerning the compilation of national accounts are overseen Committees like Advisory Committee on National Accounts, Standing Committee on Industrial Statistics, Technical Advisory Committee on Price Indices. The Ministry compiles data sets based on current data, after applying standard statistical techniques and extensive scrutiny and supervision.
+
+
+    3. India is a subscriber to the International Monetary Fund (IMF) Special Data Dissemination Standards (SDDS) and is currently fulfilling the Standards. The Ministry maintains an ‘Advance Release Calendar’ for its data categories covered under the SDDS, which is disseminated on the Ministries website as well as on the Dissemination Standards Bulletin Board (DSBB) of the IMF. The Ministry releases the data sets covered under the Real Sector of SDDS through press notes, Press Information Bureau Press releases and its web-site simultaneously. The Ministry has been designated as the nodal Ministry to facilitate the implementation of the SAARC Social Charter in India. The Ministry organizes technical meetings on a regular basis on various topics to assess the data-gaps in the system and the quality of statistics currently released. The CSO staff participates in meetings and seminars organized by international and regional organizations such as the United Nations Economic and Social Commission for Asia and the Pacific, on statistical compilations and international practices. The Indian statistical system is one of the best systems in the world. The Ministries officials have been associated with international agencies on the development of methodologies, particularly in the areas of national accounts, informal sector statistics, large-scale sample surveys, conduct of censuses, service sector statistics, non-observed economy, social sector statistics, environmental statistics and classifications. The contribution of the Ministries officials in international meetings on these subjects is highly appreciated.
+
+
+    4. This year has been very significant year in terms of major policy decisions and adoption of new technology and systems for more efficient and effective data management and dissemination. Following are the major highlights of the activities of the Ministry during the year 2017:
+
+
+     1. United Nations Fundamental Principles of Official Statistics
+
+
+    § Adopted since June 2016, to enhance professional independence, impartiality, accountability and transparency in methods of collection and dissemination of Official Statistics;
+
+
+    § Adoption of these principles would help build and retain trust of the public in Official Statistical System and honour citizens’ / users’ entitlement of Official Statistics as ‘public good’.
+
+
+    II. Revision of Base Year of GDP and related Macro-economic aggregates
+
+
+    § Macro-economic aggregates of National Accounts like GDP, Savings, Capital Formation, etc. released by CSO are indicators of the country’s economic health;
+
+
+    § Base Year of National Accounts revised from 2004-05 to 2011-12 in 2015.
+
+
+    § Improvements in the Revised Series include:
+
+
+    - Use of corporate sector data of Ministry of Corporate Affairs for about 5.5 lakh companies in mining, manufacturing and services sectors
+
+
+    - Use of latest data of National Sample Survey
+
+
+    - Improved coverage of Local Bodies and Autonomous Institutions
+
+
+    III. Revision of Base Year of Index of Industrial Production (IIP)
+
+
+    § IIP estimates revised periodically through Base Year Revision.
+
+
+    § New series of IIP released on 12 th May 2017 with change of Base Year from 2004-05 to 2011-12.
+
+
+    § The structural changes in the industrial sector over the years are better captured in the revised series.
+
+
+    § New series indices are more robust and representative with the change in methodology of drawing items / weights and factories.
+
+
+    IV. Revision of Base Year of Consumer Price Index (CPI)
+
+
+    § Revised series of CPI launched in January 2015
+
+
+    § Base Year changed from 2010 to 2012
+
+
+    § Basket of items and weighing diagram based on Modified Mixed Reference Period (MMRP) of Consumer Expenditure Survey – consistent with International Practice.
+
+
+    § Use of Geometric Mean of Price Relatives with respect to Base Prices for elementary indices – Also consistent with International Practice.
+
+
+    § Sample size for house rent data doubled from 6,684 to 13,368.
+
+
+    V. Periodic Labour Force Survey (PLFS)
+
+
+    § Large scale employment surveys in India have so far been conducted usually at 5-year intervals.
+
+
+    § PLFS launched in April 2017 to obtain employment data at shorter intervals.
+
+
+    § PLFS aims to –
+
+
+    (i) Measure quarterly changes in statistical indicators of labour market in Urban Areas;
+
+
+    (ii) Generate annual estimates of labour force indicators in both Rural and Urban Areas.
+
+      * PLFS will use the Computer Assisted Personal Interview (CAPI) technique, which involves direct entry of data in Tablets at the field level. This will lead to higher accuracy and faster processing of data.
+
+    VI. Collection of Statistics (Amendment) Bill 2017
+
+      * Collection of Statistics Act, 2008 is a Central Act that allows Central, State and Local Governments to collect statistics on socio-economic aspects;
+      * This Act is not applicable to J&K.
+      * To address this legislative vacuum, the Collection of Statistics (Amendment) Bill, 2017 has been introduced in Parliament during Budget Session 2017.
+
+    VIII. Revision of Advance Release Calendar of GDP Estimates
+
+      * Before 2017, First Advance Estimates of GDP were usually released on 7 th February, 3 weeks before the date of presentation of Union Budget
+      * The First Advance Estimates of GDP constitute important inputs in formulation of Union Budget for the forthcoming year
+      * With the date of presentation of Union Budget for 2017-18 advanced from 28 th February to 1 st February in 2017, MoSPI made available the First Advance Estimates of GDP on 6 th January, 2017 well before the presentation of the Union Budget
+      * This revised release calendar will henceforth be adopted for subsequent years.
+
+    IX. Surveys of NSSO
+
+
+    § NSSO has been conducting large scale surveys on multi-purpose socio-economic subjects
+
+
+    § During last three years, NSSO conducted surveys on
+
+
+    Ø Domestic Tourism Expenditure;
+
+
+    Ø Household Consumption Expenditure on Services and Durable goods;
+
+
+    Ø Unincorporated Non-Agricultural Enterprises in Manufacturing, Trade and Other services sector (excluding Construction); and
+
+
+    Ø Enterprise focussed Survey of Services Sector
+
+     1. Standardisation of procedures, E -governance and Data Dissemination
+      * National Accounts Division of CSO and Survey Design & Research Division of NSSO have been certified ISO-9001:2008 compliant for quality of performance.
+      * Data Dissemination through website of Ministry brings an improvement in overall usability quotient and technical competence
+      * Recent adoption of the IHSN toolkit by MoSPI, as per International practice, for creating a web-based Survey Data Catalogue/ Micro Data Archive to disseminate NSS Survey, ASI and Economic Census Data.
+      * Bharatkosh, e-receipt portal gateway, has been set up for use by Indian users for dissemination of Unit level data of NSS, ASI and Economic Census. Introduction of online payment by non-Indians for supply of data is in the pipeline.
+      * NSSO has undertaken the work of digitisation of Urban Frame Survey (UFS) maps in collaboration with National Informatics Centre (NIC) and the National Remote Sensing Centre (NRSC). This will help in improvement of identification and demarcation of boundaries for smooth data collection.
+
+     1. Use of technology in data collection
+
+
+    § Computer Assisted Personnel Interviewing ( CAPI ) technique for data collection through tablets will be used in PLFS
+
+
+    § Web-portal for collection of data directly from data source for the Annual Survey of Industries ( ASI )
+
+
+    § Submission of online data for Consumer price Index ( CPI ) – By NSSO field offices for urban areas and by designated Post offices for rural areas
+
+
+    § These measures lead to reduction in time lag in compilation and release of data.
+
+     1. Sustainable Development Goals (SDGs)
+      * In September 2015, UN adopted the Resolution on ‘Transforming our World: The 2030 Agenda for Sustainable Development’ consisting of 17 Sustainable Development Goals (SDGs) and associated 169 targets to be achieved by 2030
+      * India is one of the countries that are party to this resolution
+      * Comprehensive exercise for mapping of SDG Goals and Targets vis-à-vis national development strategies undertaken
+      * Draft framework of indicators has been developed and is under finalization
+      * Regional SDG Workshop, involving all States/UTs were held at Ahmedabad, Lucknow, Chennai, Guwahati, Bhubaneswar.
+     1. Recent Initiatives on Multilateral Forums
+
+    § MoSPI organised 8th Meeting of Heads of National Statistics Offices (NSOs) of BRICS Nations in November, 2016 in India to discuss issue of Statistical measurement.
+
+
+    § India also hosted the 8th Meeting of Heads of SAARC Statistical Organizations (SAARCSTAT) in August 2016 to promote enhanced regional co-operation and initiatives in the field of Official Statistics for SAARC Nations.
+
+
+    § India has co-chaired the meeting Friends of Chair (FOC) group, constituted for the evaluation of International Comparison Programme (ICP), 2011, at the 47 th Session of United Nation Statistics Commission at New York in March, 2016.
+
+
+    § India has co-chaired the ICP Governing Board meeting held in November, 2016 at Washington, DC, USA, and also the meeting of Regional Advisory Board (RAB) held in January, 2017 at Hanoi, Vietnam.
+
+
+    § The 32nd meeting of the Voorburg Group on Service Statistics was hosted by the Ministry during 23 rd to Friday the 27 th of October 2017.
+
+     1. Capacity Building of States/UTs
+      * Trainings/ workshops organised for the statistical personnel of the State/UT Governments to strengthen their technical capabilities and to apprise them of the developments in the field of Official Statistics. These programmes were held in different States across the country to facilitate better participation
+      * Grants released to various States/ UTs for improving their Statistical infrastructure under Support for Statistical Strengthening Scheme – including physical infrastructure as well as skill enhancement of personnel
+     1. Members of Parliament Local Area Development Scheme (MPLADS)
+      * The Scheme is implemented as per the provisions of the Guidelines on MPLADS
+      * Several amendments have been made in Guidelines of the Scheme to cater to the welfare requirements of the general public.
+      * A few major amendments are:
+
+    Ø Ceiling for contribution of Hon'ble MPs in case of calamity of severe nature raised from Rs 50 lakh to Rs 1 crore
+
+
+    Ø Purchase of medical equipment costing not less than Rs 5 lakh made permissible for Government Hospitals
+
+
+    Ø Purchase of equipment for skill development allowed
+
+
+    Ø Financial assistance allowed for purchase of tricycle (manual/battery/operated/motorized), wheelchair (motorized/battery operated) and artificial limbs for differently abled deserving persons with disabilities
+
+
+    Ø Purchase of ambulances for transporting sick/injured animals allowed
+
+      * Integrated MPLADS Portal for use of all the stakeholders developed that also provides an opportunity to the Citizens for suggesting the developmental works in their areas to the Hon’ble MPs.
+     1. Monitoring of Infrastructure Projects
+      * On-going Central Sector Infrastructure Projects costing Rs. 150.00 crore and above are being monitored on time and cost overruns through an Online Computerized Monitoring System (OCMS)
+      * OCMS enables project implementing agencies to regularly upload the status of projects in real time
+      * A total of 229 projects completed in last 3 years as a result of close monitoring
+      * Cost overruns have come down from 19% in March 2014 to 11.19% in January 2017
+     1. Publications
+      * Millennium Development Goals Final Country Report of India
+      * National Accounts Statistics 2017
+      * Sarvekshana 103rd issue
+      * Annual Report on TPP 2006 for the year 2015-16
+      * Achieving Millennium Development Goals: Target year factsheet - India
+      * Domestic Tourism in India
+      * Key Indicators of Unincorporated Non-Agricultural Enterprises (Excluding Construction) in India (July 2015-June 2016)
+      * Statistical Year Book India 2017
+      * Selected Socio-Economic Statistics
+     1. Indian Statistical Institute
+      * Setting up of RC Bose Centre for Cryptology and Security
+
+    § Conduct of Joint Post Graduate Diploma Course on Business Analytics with IIT, Kharagpur and IIM, Kolkata.
+
+
+    § Setting up the DBT funded Systems Medicine Cluster as a member of the consortia of six prominent Institutes in and around Kolkata, led by National Institute of Biomedical Genomics (NIBMG), Kalyani, West Bengal.
+
+
+    § ISI is a major participant in technology development of Indian languages like Hindi, Bengali, Gujarati, Tamil, Telugu etc.
+
+
+    Ø Covers: Translation, Information Retrieval, Optical Character Recognition, Handwriting recognition and Corpora Development
+
+
+    § Major breakthrough in theoretical research like solving the Zariski Cancellation Problem that was open for several decades.
+
+
+    § ISI has also been involved in
+
+
+    Ø Estimation of counterfeit currency
+
+
+    Ø International Passenger Survey
+
+
+    Ø Evaluation study of the MNREGA scheme over several states of India
+
+
+    Ø Evaluation of Border Area Development Program in West Bengal and several North Eastern States
+
+     1. Regional Sustainable Development Goals (SDG) Workshops
+
+    § Five regional SDG workshops involving all States/UTs were held at Ahmadabad, Lucknow, Chennai, Guwahati and Bhubaneswar.
+
+
+     1. Review of Central Sector Projects and MPLADS
+
+      * Union Minister Shri Sadanand Gowda reviewed Central Sector Projects and MPLADS in Manipur, Tripura, Meghalaya and Karnataka.
+      * Minister of State Shri Vijay Goel reviewed Central Sector Projects and MPLADS in Jhansi, Jammu, Amritsar and Bikaner.
+     1. Data Users’ workshop for new series of all-India IIP
+      * The Ministry has organised a half-day Data Users’ Workshop for new series of all-India IIP at Vigyan Bhawan New Delhi on 30.08.2017 with a view to apprise the users of IIP about the changes introduced in the new series with base 2011-12.
+
+    ******
+
+
+    RDS/sk
+
+
+    
+
+    
+    (Release ID: 1513004) Visitor Counter : 3704
+    
+    
+    
+    
+    
+
+*

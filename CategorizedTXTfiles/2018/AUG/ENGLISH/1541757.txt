@@ -1,0 +1,25 @@
+      Ministry of Rural Development
+
+      Compensation paid to workers under MGNREGS
+      Posted On: 06 AUG 2018 5:27PM by PIB Delhi
+
+
+    As per the provisions in Schedule-II of the Act, in case the payment of wages is not made within fifteen days from the date of closure of the Muster Roll, wage seekers are entitled to receive payment of compensation for the delay, at the rate of 0.05% of the unpaid wages per day for the duration of delay beyond the sixteenth day of closure of muster roll. The NREGASoft have a provision to automatically calculate the compensation payable based on the date of closure of the Muster Roll and the date of deposit of wages in the accounts of the wage seekers.
+
+
+    As per Management Information System (MIS), the State/UT-wise details of compensation paid to workers under MGNREGS by the State Governments during the last three years are given at
+
+
+    This information was provided by the Minister of State for Rural Development, Shri Ram Kripal Yadav today in a written reply to a question in Rajya Sabha.
+
+
+    *****
+
+
+    APS/AS
+
+
+    
+
+    
+    (Release ID: 1541757) Visitor Counter : 462

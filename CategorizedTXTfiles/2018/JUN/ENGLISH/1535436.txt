@@ -1,0 +1,45 @@
+      Ministry of Finance
+
+      Change of email and mobile number of the authorized signatory by taxpayers with assistance from the jurisdictional tax officer under GST system
+      Posted On: 14 JUN 2018 11:48AM by PIB Delhi
+
+
+    Complaints are being received from taxpayers that the intermediaries who were authorized by them to apply for registration on their behalf had used their own email and mobile number during the process. They are now not sharing the user credentials with the taxpayer on whose behalf they had done the registration in the first place and the taxpayer is at their mercy.
+
+
+    With a view to address this difficulty of the taxpayer, a functionality to update email and mobile number of the authorized signatory is available in the GST System. The email and mobile number can be updated by the concerned Jurisdictional tax authority of the taxpayer as per the following procedure:
+
+
+    Steps to be followed :-
+
+
+      * Taxpayer is required to approach the concerned jurisdictional Tax Officer to get the password for the GSTIN allotted to the business.
+
+      * <Jurisdiction can be checked through Search Taxpayer option available on https://www.gst.gov.in ,>. Allotted jurisdiction is displayed in red text>
+      * Taxpayer would be required to provide valid documents to the tax officer as proof of his/her identity and to validate the business details related to his GSTIN.
+      * Tax officer will check if the said person is added as a Stakeholder or Authorized Signatory for that GSTIN in the system.
+      * Tax officer will upload necessary proof on the GST Portal in support to authenticate the activity.
+      * Tax officer will enter the new email address and mobile phone number provided by the Taxpayer.
+      * After upload of document, Tax officer will reset the password for the GSTIN in the system.
+      * Username and Temporary password reset will be communicated to the email address as entered by the Tax Officer.
+      * Taxpayer need to login on GST Portal https://www.gst.gov.in/ using the First time login link.
+      * After first time login with the Username and Temporary password that was emailed to him, system would prompt the taxpayer to change username and password. The said username and password can now be used by the taxpayer.
+
+    ******
+
+
+    DSM/RM/KA
+
+
+    
+
+    
+    (Release ID: 1535436) Visitor Counter : 5717
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+*

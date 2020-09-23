@@ -1,0 +1,90 @@
+      Ministry of Electronics & IT
+
+      Government announces Bug Bounty Programme for Aarogya Setu
+      
+      Find a security flaw in the App, Get Rewarded ₹ 1 lakh
+      Posted On: 27 MAY 2020 2:50PM by PIB Mumbai
+
+
+    New Delhi / Mumbai, May 27, 2020
+
+
+    Following the historic launch of the open source code of the Android version of Aarogya Setu mobile application yesterday , the Government of India has launched a unique reward programme for those who can help further improve the app. The goal of the Aarogya Setu Bug Bounty Programme is to partner with security researchers and Indian developer community to test the security effectiveness of Aargoya Setu and also to improve or strengthen its security and build user’s trust.
+
+
+    The app has been designed with the principle of “Privacy by Design” – in other words, user privacy has been kept in mind in all features of the app. The reward programme has however been launched, considering that vulnerabilities may exist, despite best possible measures. Through the Bounty Programme, the Government likes to learn of any potential risks as soon as possible, allowing swift action to fix the vulnerabilities and thereby enhance the security. In addition to security, code changes which improve the app efficiency are also encouraged. The programme is thus in line with the Government’s commitment to keep Aarogya Setu application, its supporting systems, data and network secure and address any security issues through a coordinated and constructive approach designed to drive the best possible protection for citizen data.
+
+
+    Fix Vulnerabilities or Make Improvements
+
+
+    The Bug Bounty Programme enables and encourages security researchers and developers to compete for bounties / rewards for reporting two types of issues. One, Vulnerabilities impacting the privacy and information security of the application; and two, improvements to the source code of the app. To be eligible for a reward, the vulnerability or improvement must not be publicly disclosed before the issue is resolved; it must first be reported to the Aarogya Setu team, in what constitutes responsible disclosure.
+
+
+    Three types of vulnerabilities are eligible for a reward :
+
+     1. Ability to access a user's Aarogya Setu app data: By exploiting the vulnerability, one should be able to access an individual’s Aarogya Setu data on an Android phone, or remotely submit a self-assessment through the phone.
+     2. Ability to access other people's app data: By exploiting the vulnerability, one should be able to access other people’s data from an individual’s app or phone - other than their own Aarogya Setu data and other than Digital ID (DiD) data broadcast by bluetooth in the vicinity of the phone.
+     3. Ability to crash / hack app servers, leading to data expose: The Vulnerability should be able to compromise Aarogya Setu servers or hack the servers such that the servers become buggy, crash or expose any personal data other than the User’s own data or services already provided by the existing APIs (Application Programming Interfaces).
+
+    A Maximum Bounty of ₹ 3 Lakh for Vulnerabilities, ₹ 1 Lakh for each type of Vulnerability
+
+
+    A maximum bounty of 1 lakh rupees will be given for reporting each of the three types of vulnerabilities. A participant can submit either one type of vulnerability or all three, and can thus bag a maximum amount of 3 lakh rupees for reporting vulnerabilities.
+
+
+    To be eligible for a reward, the above vulnerabilities should be exploitable on an unrooted phone running a version of Android supported by Aarogya Setu, with ADB (Android Debug Bridge) Disabled and with all default android security features in place. Further, the vulnerability should be present in the Aarogya Setu App or its source code or back end Server, and not in the platform (such as operating system) or related technology / services (such as GPS, Bluetooth).
+
+
+    A Maximum Bounty of ₹ 1 Lakh for Code Improvements
+
+
+    As regards code improvements, to be eligible for the bounty, they should significantly improve the app’s overall performance, reduce battery usage, memory and bandwidth, resulting at least 10% performance improvement on all supported android versions. Implementing the improvement should also not lead to any security issues. The submission should contain the detailed code change, test data and a Proof of Concept demonstrating its impact.
+
+
+    Programme participants are eligible for a maximum bounty of 1 lakh rupees for reporting code improvements as above.
+
+
+    All qualifying submissions will receive a certificate of appreciation from the Aarogya Setu team.
+
+
+    Who Gets the Bounties
+
+
+    Be the first person to alert Aarogya Setu team to a previously unknown valid security vulnerability or code improvement, within the scope of the programme guidelines, following the principle of responsible disclosure. That is how you qualify for a bounty in the programme. Three key factors will be considered while evaluating reported vulnerabilities in deciding upon the winners:
+
+     1. Ease of exploiting the risk
+     2. Impact
+     3. Extent and type of data expose
+
+    If more than one qualifying submission is received from multiple researchers/companies, the Aarogya Setu team may shortlist the submissions based on their ease of exploitation, severity, impact and exposure of data (if any), for further consideration. The reward amount may accordingly be divided among the winners.
+
+
+    The programme rewards are for people residing in India. Non-residents too can participate, but they will be given certificates of appreciation, not rewards, if their entries are shortlisted. Both individuals and groups of individuals (maximum group size – 5) can participate. Participation can be in the name of an organization as well, after obtaining due authorization. The Programme Rules contain adequate safeguards to ensure that user privacy and security are not compromised in any way during the testing which will be done by the programme participants.
+
+
+    The programme has been opened to the public, with the unveiling of the source code of the application, on Github , at May 26, 2020 midnight. The programme will be open for one month, till June 26, 2020 midnight.
+
+
+    The full details of the Bug Bounty Programme can be accessed here .
+
+
+    ***
+
+
+    DJM
+
+
+    Follow us on social media: @PIBMumbai / PIBMumbai /pibmumbai pibmumbai@gmail.com
+
+    
+    
+    (Release ID: 1627154) Visitor Counter : 432
+    
+    
+      Read this release in: Marathi
+    
+    
+    
+
+3.

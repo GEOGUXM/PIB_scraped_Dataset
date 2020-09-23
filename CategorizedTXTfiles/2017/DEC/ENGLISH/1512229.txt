@@ -1,0 +1,137 @@
+      Election Commission
+
+      100 % deployment of VVPATs at all Polling Stations bolsters confidence of voters in free & fair elections
+      
+      Strict adherence to ECI’s stringent security & administrative protocols leaves no room for any possibility of electoral malpractices
+      
+      ECI puts in place robust administrative safeguards and security protocols for use of Electronic Voting Machines (EVMs) and Voter Verifiable Paper Audit Trail (VVPATs) for 2nd phase of polls in Gujarat on 14th December, 2017
+
+      Posted On: 12 DEC 2017 1:05PM by PIB Delhi
+
+    The Election Commission has put in place an elaborate framework of administrative system, security protocols and procedural checks-and-balances in Gujarat, which prevent any possible misuse of EVMs/VVPATs or procedural lapses in the use of EVMs and VVPATs during polls. These safeguards are being implemented by ECI, in total transparently, with the active and documented involvement of Political Parties, Candidates and their Representatives at every stage, so as to build their confidence on efficacy and reliability of EVMs and VVPATs. All these functions and procedures are implemented through the District Election Officers (DEOs), Returning Officers (ROs), Assistant Returning Officers (AROs) and other election related officers concerned, who are on deemed deputation to the ECI and are under its superintendence, direction and control.
+
+
+    Due to Strict adherence to ECI’s robust security & administrative protocols by Election machinery, there was no room for any possibility of electoral malpractices during the Ist phase of Polling held on 9th December, 2017. A miniscule percentage of technical glitches (broken/stuck buttons, no display etc) in the EVMs & VVPATs were reported, which were immediately addressed by replacing the machines for smooth conduct of polls. During Ist Phase of polling, only 0.75 % of Ballot Units (BUs), 0.75% of Control Units (CUs) and 2.8% of VVPATs developed technical glitches (broken/stuck buttons, no display etc) . With 100 % deployment of VVPATs at all polling stations, voters felt confident & reassured about the transparency and fairness of the electoral process.
+
+
+    Here are the complete details of the administrative protocols and procedural safeguards :-
+
+
+    The comprehensive framework of administrative protocols and procedural safeguards comprise of the First Level Checking of all EVMs and VVPATs, strict regime of Mock Polls conducted on each and every EVM and VVPAT during the FLC, Candidate Setting and Poll Day (before the beginning of actual polls), 2-stage randomization of EVMs and VVPATs, stringent security protocols for storage of EVMs and VVPATs before, during and after the polls, and comprehensive videography and CCTV coverage of all EVM & VVPAT related activities and storage in strong-rooms. It is pertinent to highlight that all the above election-related activities are carried out in the presence of the representatives of political parties and candidates/election agents.
+
+
+    First Level Checking of EVMs & VVPATs : First level checking (FLC) of EVMs and VVPATs was done for every EVM and VVPAT, which will be used in the ensuing elections in Gujarat. The FLC was conducted by the engineers of the manufacturers in the presence of political parties’ representatives. The entire FLC process was carried out at the District level under the supervision of the DEO concerned under continuous videography/CCTV coverage. Any malfunctioning EVM and VVPAT was sent to the factories, so that the same cannot be used in the election.
+
+
+    i. Manufacturers certify at the time of FLC that all components in the EVM are original. After this, the plastic cabinet of Control Unit of the EVM is sealed, which is also signed by representatives of political parties and stored in strong rooms. After this stage, the plastic cabinet of control unit of the EVMs cannot be opened.
+
+
+    ii. Mock poll with a few votes is conducted on every functioning EVM at the time of FLC. Additionally, at the time of FLC, 1200 votes were cast in 1% of EVMs, 1000 votes in 2% and 500 votes in another 2% of EVMs in the presence of the representatives of political parties . A printout of the results of this mock poll as well as a sequential print out of every vote polled during the mock poll were shown to the representatives of political parties. Representatives of political parties were allowed to pick machines randomly for this purpose. In rest of the machines, numbers of votes polled during the mock poll were to the satisfaction of the representatives of political parties. Representatives of political parties were allowed to do mock poll themselves. In VVPATs, mock-poll with 6 votes against each of the 16 candidate buttons was done for each VVPATs.
+
+
+    Gujarat has 50,128 polling stations, excluding Auxiliary polling stations, for the ensuing General Elections, for which 81,860 Ballot Units (BUs); 66,358 Control Units (CUs) and 71,564 VVPATs have been deployed, which translate into a more than adequate reserve of 63% BUs, 32% CUs and 43% VVPATs for the actual polls. First phase of polling has already been successfully completed on 09.12.2017, wherein 66.75% voters exercised their franchise in a free, fair, transparent and participative manner.
+
+
+    The 2nd phase of polling is due on 14.12.2017, where 93 Assembly Constituencies having 25,515 Polling Stations will have the elections. For these, 25,515 polling stations, the Commission has deployed 40, 027 Ballot Units (BUs), 32,633 Control Units (CUs) and 35061 VVPATs, which effectively provide a reserve of 57% BUs, 28% CUs and 37% VVPATs for the actual polls.
+
+
+    In the run up to the elections, comprehensive cascaded training and capacity building of the election-related personnel has been carried out by the Election Commission in the State of Gujarat. Till Date, 3,350 batches of trainings have been completed in which 1,93,962 polling staff comprising of Polling Personnel, Sector Officers and Nodal Officers, were trained . All these polling staff were provided hands-on training on the various aspects of EVM and VVPAT functioning for the smooth and effective conduct of polling.
+
+
+    Security measures for EVMs and VVPATs after FLC: After FLC, EVMs and VVPATs were kept in strong room under round the clock security and CCTV coverage.
+
+
+    Randomization of EVMs and VVPATs: FLC-OK EVMs and VVPATs were randomized twice, once for allocation of machines to assembly constituencies and second to polling stations in the presence of candidates or their representatives before they are distributed for use in individual polling stations. The randomizations were carried out through EVM Tracking Software (ETS) by the DEO in the presence of the representatives of political parties/candidates for complete transparency. The lists of EVMs and VVPATs containing serial number of EVM and VVPAT allocated to particular polling station were provided to the political parties/candidates.
+
+
+    Candidate setting in EVMs and VVPATs (Candidate Setting) : Candidate setting in EVMs and VVPATs for 2nd phase of Gujarat elections has already been completed in the presence of contesting candidates or their representatives. For this purpose, the contesting candidates were invited by the Returning Officers through advance written communication under proper acknowledgment.
+
+
+    Candidate setting in EVMs and VVPATs was done in fully sanitized hall. Every entry to the hall is guarded by security personnel and have a door-frame metal detector. Every person who enters the hall is frisked at every entry and only authorized officials are allowed to enter the hall.
+
+
+    It must be noted here that the arrangement of names of candidates in the ballot paper, and hence the Ballot Unit, is in alphabetical order , first for the National & State Recognized parties, followed by other State Registered Parties, and then by Independents. Thus, the sequence in which the candidates appear on the Ballot Unit is contingent on the names of the candidates and their party affiliation and cannot be ascertained beforehand. This arrangement of sequencing names of candidates in ballot paper effectively precludes the possibility of any pre-determined manipulation of software for rigging the votes . Hence, the serial number of the candidates of any particular political party will vary in each constituency and cannot be determined beforehand thereby ruling out any possibility of manipulation.
+
+
+    Once the candidate setting is done, the Ballot Unit of the EVM is also sealed so that nobody has access to the inside of the Ballot Unit too. These seals also bear signatures of candidates/their representatives.
+
+
+    Serial numbers, names of candidates and symbols allotted is loaded in VVPAT with the help of engineers. A test printout is checked with the ballot paper in Balloting Unit (BU). Then one vote to each candidate is given to check that the VVPAT is printing the paper slips accurately.
+
+
+    During candidate setting in EVMs and VVPATs, casting of votes against all 16 candidate switches, observation of result & clearing of mock poll data is done for each EVM . In addition, in 5 % of machines at least 1000 votes are polled during the mock poll at the time of preparation of machines. In rest of the machines number of votes polled during the mock poll are subject to the satisfaction of the candidates/ their representatives and they are also allowed to do the mock poll themselves. The whole process of candidate setting of EVMs and VVPATs is videographed.
+
+
+    Poll Day : On the poll day, a mock poll by casting at least 50 votes will be conducted at every polling station by the Presiding Officer in the presence of the polling agents one hour before start of actual poll . After the mock poll, Presiding Officer will ascertain the result in the CU, count the VVPAT paper slips in the presence of the polling agents and confirm that the results tally for each candidate. All mock poll data in CU and VVPAT paper slips from VVPAT will be removed by the Presiding Officer and the empty drop box verified by the Polling Agents. The mock poll VVPAT paper slips will be stamped on their back side with rubber stamp having inscription “MOCK POLL SLIP”, thereafter these mock poll VVPAT paper slips will be kept in an envelope made of thick black paper and sealed with the seal of the Presiding Officer. A mock-poll certificate to that effect will be obtained from every Presiding Officer.
+
+
+    Storage of EVMs and VVPATs after poll: After poll, EVMs and VVPATs will be sealed in their respective carrying cases and polling agents will also be allowed to put their signatures on the seals, which they can check for the intactness of the seal before counting. Candidates/representatives will also be allowed to follow the vehicles (with escorts) carrying EVMs and VVPATs from polling stations to counting storage rooms.
+
+
+    Storage of Polled EVMs and VVPATs in Strong Rooms after poll :
+
+
+    i The strong rooms will have double lock system. One key will be kept with District Election Officer and the other with Returning Officer of concerned assembly constituency.
+
+
+    ii Two cordoned security arrangements will be made round the clock for the strong rooms having polled EVMs and VVPATs kept for counting of votes. The CPF will man the innermost perimeter security immediately outside the strong room and the State Armed Police will man the outermost perimeter security.
+
+
+    iii All contesting candidates will be intimated in writing to depute their representatives to keep a close watch on security arrangement of strong room. They will be allowed to stay outside the inner perimeter at a location, which enables them to view the entry points of the strong room. As far as possible, facilities such as proper shade, drinking water, etc. shall be provided to them. If there is no direct view to the entry point of the strong room, CCTV is arranged at such location, from where they can see the strong room door on CCTV. In such a case, they will also be taken periodically to the inner perimeter in batches, to see, verify and satisfy themselves regarding the security of strong room. The CCTV display of Strong Room will be arranged on a large TV screen at the place earmarked for the representatives of Political Parties and agents of the candidates, so that they can continuously monitor the Strong Room.
+
+
+    iv A control room adjacent to the strong room will be operated round the clock.
+
+
+    v A Gazetted officer along with a senior police officer will be put on duty round the clock for monitoring the security arrangements of strong room.
+
+
+    vi No one will be allowed to enter the inner perimeter without adhering the following protocols:-
+
+
+    a) The log book will be maintained by the CPF in which entry should be made about date, time, duration and name(s) of person(s) crossing the second security ring i.e. the middle perimeter. This includes visits by the Observers or DEOs or SPs or candidates or their agents or any other person.
+
+
+    b) Video cameras will be provided to the CPF contingent to record all visits made by such visitors.
+
+
+    vii All the entry points (doors etc.) of strong rooms will be under constant videography using the web-cams and laptops available. If there are other doors of the strong room, they will also be covered by the web-cams/videography. Persons coming to take back-up from the laptops should have identity cards given to them and their names should be recorded in advance with the CPF contingent stationed there. Their visits will be videographed by the CPF contingent with the video camera provided, for the entire duration.
+
+
+    viii Returning Officers should visit the storage campus (upto the inner perimeter only) every day in the morning and evening and check the log book and videography and send a report to the DEO on the status every day. In case of strong rooms located in the district headquarters, the DEO should do the same. Where the strong rooms are situated outside the District Headquarters, DEO should visit the same as frequently as possible and at least once in 3 to 4 days.
+
+
+    ix No vehicle, including that of any official or ministers or any other political functionary, will be allowed inside the secured campus where the EVMs and VVPATs are stored. Alighting point for the vehicles should be marked clearly ahead of the outer security perimeter itself beyond it, it should be a pedestrian zone only.
+
+
+    x DCs and SPs will be personally responsible for security of strong room within the district and meticulous implementation of the protocol.
+
+
+    Counting: On the day of counting of votes, the strong room will be opened in the presence of candidates/their representative, RO and Observer under videography.
+
+
+    For the ensuing elections in Gujarat and Himachal Pradesh, the Commission has decided to undertake a mandatory verification of VVPAT paper slips of randomly selected 01 (one) polling station per Assembly Constituency on a pilot basis for greater transparency and credibility of the election process. Hence, a mandatory verification of at least 182 polling stations in Gujarat and 68 polling stations in Himachal Pradesh through the recount of VVPATs paper slips would be done during the Counting process in these States.
+
+
+    After completion of counting of votes, Control Units and VVPATs shall again be sealed as and shifted back to Strong Room for safe storage.
+
+
+    The Commission is confident and has firm conviction that no unauthorised person is allowed access to EVMs and VVPATs before, during or after the polls. Besides, no unaccounted EVMs and VVPATs can enter the election eco-system at any stage, since all EVM/VVPAT activities are done in presence of stakeholders and tracked through the ETS.
+
+
+    The Commission would like to reassure the people of the country that the Commission would leave no stone unturned in preserving the purity, integrity and credibility of the elections and reinforcing the faith and trust of the people in the electoral democracy of our county.
+
+
+    Election Commission of India
+
+
+    New Delhi : 12 th December ,2017
+
+
+    RM/VM
+
+
+    
+
+    
+    (Release ID: 1512229) Visitor Counter : 319

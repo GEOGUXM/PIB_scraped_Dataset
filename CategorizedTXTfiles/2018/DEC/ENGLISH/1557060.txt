@@ -1,0 +1,81 @@
+      Ministry of Finance
+
+      Recommendations made during 31st Meeting of the GST Council
+      Posted On: 22 DEC 2018 4:45PM by PIB Delhi
+
+
+    The GST Council in its 31 st meeting held today at New Delhi made the following policy recommendations:
+
+     1. There would be a single cash ledger for each tax head. The modalities for implementation would be finalised in consultation with GSTN and the Accounting authorities.
+     1. A scheme of single authority for disbursement of the refund amount sanctioned by either the Centre or the State tax authorities would be implemented on pilot basis. The modalities for the same shall be finalized shortly.
+     2. The new return filing system shall be introduced on a trial basis from 01.04.2019 and on mandatory basis from 01.07.2019.
+     3. The due date for furnishing the annual returns in FORM GSTR-9, FORM GSTR-9A and reconciliation statement in FORM GSTR-9C for the Financial Year 2017 – 2018 shall be further extended till 30.06.2019.
+     4. The following clarificatory changes, inter-alia, shall be carried out in the formats/instructions according to which the annual return / reconciliation statement is to be submitted by the taxpayers:
+
+     1. Amendment of headings in the forms to specify that the return in FORM GSTR-9 & FORM GSTR-9A would be in respect of supplies etc. ‘made during the year’ and not ‘as declared in returns filed during the year’;
+
+     2. All returns in FORM GSTR-1 & FORM GSTR-3B have to be filed before filing of FORM GSTR-9 & FORM GSTR-9C ;
+     3. All returns in FORM GSTR-4 have to be filed before filing of FORM GSTR-9A ;
+     4. HSN code may be declared only for those inward supplies whose value independently accounts for 10% or more of the total value of inward supplies;
+     5. Additional payments, if any, required to be paid can be done through FORM GST DRC-03 only in cash;
+     6. ITC cannot be availed through FORM GSTR-9 & FORM GSTR-9C ;
+     7. All invoices pertaining to previous FY (irrespective of month in which such invoice is reported in FORM GSTR-1 ) would be auto-populated in Table 8A of FORM GSTR-9 ;
+     8. Value of “non-GST supply” shall also include the value of “no supply” and may be reported in Table 5D, 5E and 5F of FORM GSTR-9 ;
+     9. Verification by taxpayer who is uploading reconciliation statement would be included in FORM GSTR-9C .
+
+     1. The due date for furnishing FORM GSTR-8 by e-commerce operators for the months of October, November and December, 2018 shall be extended till 31.01.2019.
+
+
+     1. The due date for submitting FORM GST ITC-04 for the period July 2017 to December 2018 shall be extended till 31.03.2019.
+
+
+     1. ITC in relation to invoices issued by the supplier during FY 2017-18 may be availed by the recipient till the due date for furnishing of FORM GSTR-3B for the month of March, 2019, subject to specified conditions.
+
+
+     1. All the supporting documents/invoices in relation to a claim for refund in FORM GST RFD-01A shall be uploaded electronically on the common portal at the time of filing of the refund application itself, thereby obviating the need for a taxpayer to physically visit a tax office for submission of a refund application. GSTN will enable this functionality on the common portal shortly.
+
+
+     1. The following types of refunds shallalso be made available through FORM GST RFD-01A :
+
+     1. Refund on account of Assessment/Provisional Assessment/Appeal/Any Other Order;
+     2. Tax paid on an intra-State supply which is subsequently held to be inter-State supply and vice-versa;
+     3. Excess payment of Tax; and
+     4. Any other refund.
+
+     1. In case of applications for refund in FORM GST RFD-01A (except those relating to refund of excess balance in the cash ledger)which are generated on the common portal before the roll out of the functionality described in point (10) above, and which have not been submitted in the jurisdictional tax office within 60 days of the generation of ARN, the claimants shall be sent communications on their registered email ids containing information on where to submit the said refund applications. If the applications are not submitted within 15 days of the date of the email, the said refund applications shall be summarily rejected, and the debited amount, if any, shall be re-credited to the electronic credit ledger of the claimant.
+
+
+     1. One more window for completion of migration process is being allowed. The due date for the taxpayers who did not file the complete FORM GST REG-26 but received only a Provisional ID (PID) till 31.12.2017 for furnishing the requisite details to the jurisdictional nodal officer shall be extended till 31.01.2019. Also, the due date for furnishing FORM GSTR-3B and FORM GSTR-1 for the period July, 2017 to February, 2019/quarters July, 2017 to December, 2018 by such taxpayers shall be extended till 31.03.2019.
+
+
+     1. Late fee shall be completely waived for all taxpayers in case FORM GSTR-1, FORM GSTR-3B & FORM GSTR-4 for the months / quarters July, 2017 to September, 2018, are furnished after 22.12.2018 but on or before 31.03.2019.
+
+
+     1. Taxpayers who have not filed the returns for two consecutive tax periods shall be restricted from generating e-way bills. This provision shall be made effective once GSTN/NIC make available the required functionality.
+
+
+     1. Clarifications shall be issued on certain refund related matters like refund of ITC accumulated on account of inverted duty structure, disbursal of refunds within the stipulated time, time allowed for availment of ITC on invoices, refund of accumulated ITC of compensation cess etc.
+
+
+     1. Changes made by CGST (Amendment) Act, 2018, IGST (Amendment) Act, 2018, UTGST (Amendment) Act, 2018 and GST (Compensation to States) Amendment Act, 2018 and the corresponding changes in SGST Acts would be notified w.e.f. 01.02.2019.
+
+
+    The requisite Notifications/Circulars for implementing the above recommendations of the GST Council shall be issued shortly.
+
+
+    *****
+
+
+    DSM/RM/KMN
+
+    
+    
+    (Release ID: 1557060) Visitor Counter : 10350
+    
+    
+      Read this release in: Marathi , Tamil
+    
+    
+    
+
+1.

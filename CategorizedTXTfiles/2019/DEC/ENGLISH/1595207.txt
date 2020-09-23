@@ -1,0 +1,843 @@
+      Ministry of Health and Family Welfare
+
+      Funds for Anaemia Control
+      Posted On: 06 DEC 2019 1:40PM by PIB Delhi
+
+      * As per the National Family Health Survey (NFHS) - IV (20015-16), 54.2 percent women (15-49 years) and 59.5 percent children (6-59 months) in rural area of the country are anaemic.
+      * As per Comprehensive National Nutrition Survey (2016-18), 19% children aged 1-4 years, 17 % children aged 5-9 years and 32% adolescents aged 10-19 years have zinc deficiency in the country.
+      * The most common cause of anaemia is iron deficiency, caused by inadequate dietary iron intake or absorption, increased needs for iron during pregnancy or growth periods, and increased iron losses as a result of menstruation and helminth (intestinal worms) infestation.
+      * Other important causes of anaemia include hemoglobinopathies such as Sickle Cell anemia, Thalassaemia etc, Malaria and Flurosis.
+      * The State/UT-wise detail of anaemia prevalence in women and children in rural areas as per NFHS-4 is given below:
+
+    State wise Anaemia prevalence among women of reproductive age (15-49 years)- Rural
+
+
+    Source NFHS-IV
+
+                                                                                                                            
+Sr no  State and UT                 Any (< 12 gm/dl)  Mild (10.0-11.9 gm/dl)  Moderate (7.0-9.9 gm/dl)  Severe (<7.00 gm/dl)
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+1      Andaman And Nicobar Islands  65.9              41.3                    23.2                      1.4                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+2      Andhra Pradesh               61.2              39.9                    19.4                      1.9                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+3      Arunachal Pradesh            43.9              34.3                    8.8                       0.8                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+4      Assam                        46.3              37.3                    8.4                       0.6                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+5      Bihar                        60.6              45.8                    14.1                      0.7                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+6      Chandigarh                   92.3              76.9                    15.4                      0.0                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+7      Chhattisgarh                 48.2              38.6                    8.8                       0.8                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+8      Dadra And Nagar Haveli       86.6              63.8                    21.5                      1.3                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+9      Daman And Diu                56.3              43.1                    11.3                      1.9                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+10     Goa                          32.1              26.1                    5.1                       0.9                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+11     Gujarat                      57.5              41.3                    14.5                      1.7                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+12     Haryana                      63.9              43.1                    19.3                      1.5                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+13     Himachal Pradesh             53.4              39.6                    13.1                      0.7                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+14     Jammu And Kashmir            48.5              32.5                    14.5                      1.5                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+15     Jharkhand                    67.3              50.2                    16.2                      0.9                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+16     Karnataka                    46.2              33.5                    11.5                      1.2                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+17     Kerala                       32.6              28.1                    4.1                       0.4                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+18     Lakshadweep                  51.6              35.0                    16.1                      0.5                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+19     Madhya Pradesh               53.8              40.2                    12.5                      1.1                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+20     Maharashtra                  47.8              36.2                    10.6                      1.0                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+21     Manipur                      26.3              22.1                    3.9                       0.3                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+22     Meghalaya                    59.6              40.5                    17.6                      1.5                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+23     Mizoram                      30.0              25.7                    4.2                       0.1                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+24     Nagaland                     29.5              22.8                    5.8                       0.9                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+25     Delhi                        78.0              43.7                    32.0                      2.3                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+26     Odisha                       51.8              40.8                    10.2                      0.8                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+27     Puducherry                   54.8              41.4                    12.3                      1.1                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+28     Punjab                       54.3              42.6                    11.2                      0.5                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+29     Rajasthan                    49.0              35.7                    12.1                      1.2                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+30     Sikkim                       35.1              27.2                    7.3                       0.6                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+31     Tamil Nadu                   56.8              40.6                    14.4                      1.8                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+32     Tripura                      54.1              42.2                    11.4                      0.5                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+33     Uttar Pradesh                52.3              38.6                    12.6                      1.1                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+34     Uttarakhand                  46.2              34.6                    10.3                      1.3                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+35     West Bengal                  64.3              50.4                    13.2                      0.7                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+36     Telangana                    58.1              37.3                    18.3                      2.5                 
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+       All India                    54.2              40.3                    12.8                      1.1                 
+                                                                                                                            
+                                                                                                                            
+
+    Table 2: State wise Anaemia prevalence among children (6-59 months)- Rural
+
+
+    Source NFHS-IV
+
+                                                                                                                            
+Sr no  State and UT                 Any (< 11 gm/dl)  Severe (<7.00 gm/dl)  Mild (10.0-10.9 gm/dl)  Moderate (7.0-9.9 gm/dl)
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+1      Andaman And Nicobar Islands  50.0              0.8                   22.5                    26.7                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+2      Andhra Pradesh               60.8              2.3                   30.6                    27.9                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+3      Arunachal Pradesh            55.0              1.1                   24.2                    29.7                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+4      Assam                        36.5              0.4                   11.7                    24.4                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+5      Bihar                        64.0              1.3                   32.2                    30.5                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+6      Chandigarh                   100.0             12.5                  62.5                    25.0                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+7      Chhattisgarh                 41.2              0.5                   17.0                    23.7                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+8      Dadra And Nagar Haveli       87.7              2.2                   51.5                    34.0                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+9      Daman And Diu                76.7              1.3                   35.5                    39.9                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+10     Goa                          41.2              0.5                   14.8                    25.9                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+11     Gujarat                      64.5              1.9                   30.7                    31.9                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+12     Haryana                      73.0              3.2                   41.3                    28.5                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+13     Himachal Pradesh             53.3              2.5                   28.1                    22.7                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+14     Jammu And Kashmir            55.6              2.6                   30.9                    22.1                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+15     Jharkhand                    71.5              1.1                   38.4                    32.0                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+16     Karnataka                    63.4              1.0                   30.3                    32.1                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+17     Kerala                       35.9              0.4                   12.9                    22.6                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+18     Lakshadweep                  67.2              0.0                   30.0                    37.2                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+19     Madhya Pradesh               69.8              1.9                   38.1                    29.8                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+20     Maharashtra                  54.0              0.8                   25.5                    27.7                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+21     Manipur                      23.3              0.2                   6.8                     16.3                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+22     Meghalaya                    48.9              0.6                   17.8                    30.5                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+23     Mizoram                      24.5              0.9                   8.0                     15.6                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+24     Nagaland                     28.0              0.4                   11.4                    16.2                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+25     Delhi                        88.2              8.7                   57.5                    22.0                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+26     Odisha                       45.6              0.9                   19.7                    25.0                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+27     Puducherry                   48.5              0.7                   16.3                    31.5                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+28     Punjab                       57.1              1.1                   28.1                    27.9                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+29     Rajasthan                    61.6              2.0                   32.5                    27.1                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+30     Sikkim                       52.7              0.5                   20.7                    31.5                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+31     Tamil Nadu                   52.5              1.3                   23.9                    27.3                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+32     Tripura                      49.2              0.3                   18.8                    30.1                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+33     Uttar Pradesh                62.6              2.1                   33.9                    26.6                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+34     Uttarakhand                  59.2              2.2                   30.6                    26.4                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+35     West Bengal                  53.7              0.6                   21.4                    31.7                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+36     Telangana                    67.4              3.4                   39.2                    24.8                    
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            
+       All India                    59.5              1.5                   29.8                    28.2                    
+                                                                                                                            
+                                                                                                                            
+
+    Government is implementing various schemes in order to reduce anemia cases in the country. The details of these schemes/programmes are as below:
+
+
+      * The Ministry of Health & Family Welfare has launched “Anaemia Mukt Bharat” strategy for prevention and treatment of anaemia in children (6-59 months), pre- school children (5-9 years), adolescents girls and boys (10-19 years), pregnant and lactating women and in women of reproductive age group (15-49 years) in programme mode through life cycle approach via Iron & Folic Acid (IFA) supplementation across life stages.
+
+      * Since the initiation of the strategy, various activities have been conducted. These are in the form of guidelines and dissemination, training package, supply chain management assessment, quarterly dashboard report for monitoring and review of programme coverage.
+      * Universal screening of pregnant women for anaemia is a part of ante-natal care and all severely anaemic mothers are line listed and followed up for comprehensive management at higher facilities.
+      * Both the Health Management Information System & Mother Child Tracking System are reporting the cases of anaemic and severely anaemic pregnant women.
+      * In malaria endemic areas, to tackle the problem of anaemia due to malaria particularly in pregnant women and children, Long Lasting Insecticide Nets (LLINs) and Insecticide Treated Bed Nets (ITBNs) are being distributed.
+      * Health and nutrition education through IEC & BCC to promote dietary diversification, inclusion of iron folate rich food as well as food items that promotes iron absorption.
+      * Safe Motherhood Booklet is being distributed to the pregnant women for educating them on dietary diversification and promotion of consumption of IFA.
+      * The details of fund sanctioned and utilized for the anaemia prevention and control programme during the last three years and current year are given below:
+
+    Details on funds released and spent on Anemia control for last three financial years (2016-17, 2017-18, 2018-19 and 2019-209 till Q-2)
+
+                                                                                                                                                                                                                                                                                                                               
+State-wise details of State Programme Implementation Plans Approvals and Expenditure for Anemia under NHM from the F.Y. 2016-17 to 2019-20                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      (Rs. in Lakhs)  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+S.No.                                                                                                                                       State                                                                                                                                                                                2016-17 (Rs in lakhs)  2017-18 (Rs in Lakhs)  2018-19 (Rs in Lakhs)  2019-20 till Q-2 (Rs in Lakhs)           
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+A. High Focus States                                                                                                                                                                                                                                                                                                             SPIP                   EXP                    SPIP                   EXP                             SPIP       EXP       SPIP       EXP             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+1                                                                                                                                           Bihar                                                                                                                                                                                5856.69                268.77                 4665.79                1670.42                         13205.59   4029.99   12827.90   1096.17         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2                                                                                                                                           Chattisgarh                                                                                                                                                                          2784.50                633.34                 4023.29                862.81                          4041.01    610.77    3351.31    1134.99         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+3                                                                                                                                           Himachal Pradesh                                                                                                                                                                     60.77                  58.22                  109.50                 29.13                           1727.14    1201.32   1207.60    340.85          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+4                                                                                                                                           Jammu & Kashmir                                                                                                                                                                      736.98                 199.78                 911.30                 86.70                           3160.14    2016.69   2311.87    682.90          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+5                                                                                                                                           Jharkhand                                                                                                                                                                            2083.53                535.25                 1417.08                1064.94                         6524.48    5190.68   3791.72    1245.76         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+6                                                                                                                                           Madhya Pradesh                                                                                                                                                                       2212.28                1551.86                2075.22                1077.63                         10219.90   5954.13   10644.91   2323.41         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+7                                                                                                                                           Orissa                                                                                                                                                                               408.91                 115.33                 2535.50                1186.22                         5498.59    2794.04   2462.95    183.23          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+8                                                                                                                                           Rajasthan                                                                                                                                                                            2273.28                802.37                 1643.52                973.49                          7828.55    7630.83   9040.06    1074.75         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+9                                                                                                                                           Uttar Pradesh                                                                                                                                                                        2765.30                2352.07                7189.98                1950.75                         29094.66   21104.70  26713.02   3597.80         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+10                                                                                                                                          Uttarakhand                                                                                                                                                                          133.28                 192.28                 490.89                 339.49                          1289.98    1498.70   1114.02    777.18          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                            Sub Total                                                                                                                                                                            19315.52               6709.26                25062.07               9241.58                         82590.04   52031.85  73465.36   12457.04        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+B. NE States                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+11                                                                                                                                          Arunachal Pradesh                                                                                                                                                                    61.11                  109.02                 692.11                 192.45                          457.03     273.75    651.03     37.86           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+12                                                                                                                                          Assam                                                                                                                                                                                2528.34                875.24                 2359.00                1122.00                         6422.18    2442.58   4519.78    904.37          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+13                                                                                                                                          Manipur                                                                                                                                                                              172.62                 155.34                 188.13                 60.27                           404.71     278.77    529.57     57.14           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+14                                                                                                                                          Meghalaya                                                                                                                                                                            470.40                 492.83                 1623.62                791.87                          847.10     2331.98   839.31     149.94          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+15                                                                                                                                          Mizoram                                                                                                                                                                              228.13                 126.76                 436.91                 121.68                          305.12     165.94    336.68     35.85           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+16                                                                                                                                          Nagaland                                                                                                                                                                             160.49                 115.37                 312.61                 436.35                          413.91     217.30    488.86     40.05           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+17                                                                                                                                          Sikkim                                                                                                                                                                               59.00                  15.28                  65.87                  35.60                           137.23     46.59     92.91      11.75           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+18                                                                                                                                          Tripura                                                                                                                                                                              88.07                  177.72                 501.98                 189.33                          869.09     543.74    529.08     109.61          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                            Sub Total                                                                                                                                                                            3768.16                2067.56                6180.23                2949.56                         9856.37    6300.63   7987.22    1346.56         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+C. Non-High Focus States                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+19                                                                                                                                          Andhra Pradesh                                                                                                                                                                       1420.18                670.49                 1847.01                1199.06                         4661.23    3408.76   4671.53    1299.53         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+20                                                                                                                                          Goa                                                                                                                                                                                  57.66                  43.00                  96.86                  62.59                           194.96     103.43    131.94     42.29           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+21                                                                                                                                          Gujarat                                                                                                                                                                              2092.35                1970.50                2006.09                1777.60                         4672.28    3684.33   4630.87    1366.57         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+22                                                                                                                                          Haryana                                                                                                                                                                              228.10                 36.64                  752.23                 123.13                          1696.82    767.90    1511.18    376.32          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+23                                                                                                                                          Karnataka                                                                                                                                                                            1435.33                1343.73                4228.65                1435.29                         6137.54    3016.99   6852.27    1255.81         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+24                                                                                                                                          Kerala                                                                                                                                                                               590.92                 615.72                 606.76                 436.60                          2286.59    2031.74   2768.28    424.73          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+25                                                                                                                                          Maharashtra                                                                                                                                                                          5761.67                1785.26                7415.30                1090.56                         6187.73    3940.79   17158.08   628.94          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+26                                                                                                                                          Punjab                                                                                                                                                                               1280.14                1161.75                1372.64                329.04                          3934.19    343.36    4255.40    586.93          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+27                                                                                                                                          Tamil Nadu                                                                                                                                                                           1746.72                1961.67                907.48                 1264.48                         7193.91    5775.45   8824.07    2314.01         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+28                                                                                                                                          Telangana                                                                                                                                                                            1582.83                417.75                 852.06                 1388.81                         3045.94    1587.74   2049.41    857.34          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+29                                                                                                                                          West Bengal                                                                                                                                                                          3718.45                1979.34                4016.35                3394.70                         9058.50    6348.74   12782.80   2274.88         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                            Sub Total                                                                                                                                                                            19914.36               11985.84               24101.43               12501.85                        49069.69   31009.23  65635.83   11427.36        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+D. Small States/UTs                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+30                                                                                                                                          Andaman & Nicobar Islands                                                                                                                                                            47.37                  10.66                  74.65                  7.95                            32.37      20.50     23.99      11.17           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+31                                                                                                                                          Chandigarh                                                                                                                                                                           15.91                  1.87                   2.25                   0.42                            126.57     106.93    1.20       0.12            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+32                                                                                                                                          Dadra & Nagar Haveli                                                                                                                                                                 119.59                 9.54                   30.24                  102.76                          124.16     23.37     15.97      0.00            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+33                                                                                                                                          Daman & Diu                                                                                                                                                                          13.56                  4.09                   24.38                  11.17                           30.31      7.02      33.20      0.05            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+34                                                                                                                                          Delhi                                                                                                                                                                                38.45                  15.34                  203.16                 11.08                           1523.28    154.58    1839.66    46.29           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+35                                                                                                                                          Lakshadweep                                                                                                                                                                          7.07                   0.00                   14.30                  3.03                            45.94      4.42      9.71       1.64            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+36                                                                                                                                          Puducherry                                                                                                                                                                           130.83                 132.19                 124.74                 86.68                           320.16     186.59    356.80     13.68           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                            Sub Total                                                                                                                                                                            372.78                 173.68                 473.72                 223.07                          2202.79    503.41    2280.53    72.95           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                            Grand Total                                                                                                                                                                          43370.82               20936.35               55817.45               24916.06                        143718.89  89845.12  149368.93  25303.91        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                            Note:                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                            1. SPIP means State Programme Implementation Plan.                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                            2. Expenditure includes expenditure against central Release, State release & unspent balances at the beginning of the year. Data is as updated up to 30.09.2019, hence provisional.                                              
+                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                            3. The above data is as per FMR submitted by States, hence provisional.                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+    The Minister of State (Health and Family Welfare), Sh Ashwini Kumar Choubey stated this in a written reply in the Lok Sabha here today.
+
+
+    *****
+
+
+    MV/LK
+
+
+    
+
+    
+    (Release ID: 1595207) Visitor Counter : 432
+    
+    
+    
+    
+    
+
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+*

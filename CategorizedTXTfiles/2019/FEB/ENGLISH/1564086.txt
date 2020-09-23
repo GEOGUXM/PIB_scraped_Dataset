@@ -1,0 +1,48 @@
+      Ministry of Finance
+
+      Taxation of Digital Businesses
+      Posted On: 12 FEB 2019 5:41PM by PIB Delhi
+
+
+    The Government has not held any consultation regarding taxation of digital businesses as such. However, to address the challenges posed by the enterprises who conduct their business through digital means and carry-out activities in the country remotely, the following measures have been taken:
+
+
+     1. A new levy by the name of ‘Equalisation Levy’ was introduced vide Chapter VIII of the Finance Act, 2016. The introduction of the levy was based on the recommendations of a Committee, comprising of officers of the Income-tax Department and member of the general public, constituted by the Government to deliberate on the issue of taxation of the digital economy in the light of the report on Action Plan 1 of the OECD Base Erosion and Profit Shifting (BEPS) project and suggest possible measures. Presently, the levy is charged @ 6% of the amount of consideration for specified services received or receivable by a non-resident not having permanent establishment ('PE') in India, from a resident in India who carries out business or profession, or from a non-resident having permanent establishment in India, where the aggregate amount of such consideration exceeds one lakh rupees in a previous year.
+
+
+     1. Section 9(1)(i) of the Income-tax Act, 1961 (‘the Income-tax Act’) was amended to bring in the concept of “Significant Economic Presence” for establishing “business connection” in the case of non-resident in India. Accordingly, significant economic presence shall mean–
+
+
+     1. Any transaction in respect of any goods, services or property carried out by a non-resident in India including provision of download of data or software in India if the aggregate of payments arising from such transaction or transactions during the previous year exceeds the amount as may be prescribed; or
+
+
+     1. Systematic and continuous soliciting of its business activities or engaging in interaction with such number of users as may be prescribed, in India through digital means.
+
+
+    In order to prescribe the thresholds as mentioned above, suggestions/comments of stakeholders and the general public have been invited in order to prescribe the thresholds to establish significant economic presence of a non-resident in India. The comments and suggestions so received are under consideration.
+
+
+    If digital businesses operated by non-residents are structured to artificially avoid establishment of a “business connection” or “permanent establishment” in India, including by way of claiming the activities carried out in India to be preparatory or auxiliary in nature, the GAAR provisions under the Income-tax Act may become applicable to the income of such digital businesses in India. Signing of the Multilateral Instrument is unlikely to address the broader tax challenges of digitalisation of economy owing to the redundancy of physical presence-based nexus.
+
+
+    The imposition of Equalization Levy has led to increase in tax collection. The collection under the Equalisation levy exceeded Rs. 550 crore for FY 2017-18. Further, the introduction of taxation based on significant economic presence is also expected to increase tax collection as it seeks to widen the tax base in India by establishing business connection and charging to tax income earned by digital businesses which operate out of jurisdictions with which India has not entered into a Double Taxation Avoidance Agreement (DTAA). However, in respect of digital businesses operating out of jurisdictions with which India has already entered into a DTAA, significant economic presence will only be effective after renegotiation of such DTAA which will be based on international consensus.
+
+
+    This was stated by Shri Shiv Pratap Shukla, Minister of State for Finance in a written reply to a Question in Rajya Sabha today.
+
+
+    ****
+
+
+    DSM/KA
+
+    
+    
+    (Release ID: 1564086) Visitor Counter : 1326
+    
+    
+    
+    
+    
+
+1.

@@ -1,0 +1,43 @@
+      Ministry of Road Transport & Highways
+
+      Vehicle Location Tracking Devices and Emergency Buttons Mandatory for all New Public Service Vehicles Registered After 1st January 2019
+      Posted On: 31 OCT 2018 5:43PM by PIB Delhi
+
+
+    The Ministry of Road Transport & Highways vide notification dated 25.10.18, has mandated that all new public service vehicles except auto rickshaws and eRickshaws, registered on and after 1st January 2019, will have to be equipped with Vehicle Location Tracking ( VLT )with emergency buttons. The VLT device manufacturers would assist in providing the back end services for monitoring. This regulation is being brought in to ensure safety of passengers especially women.
+
+
+    In case of older public service vehicles –those registered upto 31"December,2018, the respective State/ UT Governments will notify the date by which these vehicles have to install VehicleLocationTrackingDeviceand Panic Buttons. The Ministry has sent an advisory to the states in this regard.
+
+
+    The Ministry has also notified the operational procedure for implementation of VLT cum Emergency buttons. TheStateorUnionTerritoriesare required to ensureexecution of this order andcheck fitment and functional status of the VLT device in the public service vehicles at the time of checking of the vehicles for fitnesscertification.
+
+
+    Command and Control Centres will be setup by the State or VLT manufacturers or any other agency authorised by the State Government, and these centreswill provide interface to various stakeholders such as state emergency response centre, the transport department or Regional Transport Offices, Ministry of Road Transport and Highways and its designated agencies, device manufacturers and their authorised dealers, testing agencies, permit holders, etc. These centres will also provide feed to the VAHAN data base or the relevant data base of the State with regard to the over speeding, device healthstatus.
+
+
+    The details of each VLT device will be uploaded on the VAHAN database by the VLT device manufacturer using its secured authenticated access. The VLT device manufacturers or their authorised dealers will install the VLT devices in public service vehicles and register the devices along with details of vehicle on the corresponding backend systems inreal-time.
+
+
+    The public service vehicle owners have to ensure that the VLT devices installed in their vehicles are in working condition and regularly send required data to the corresponding backend system through cellular connectivity.
+
+
+    VLT device manufacturers will get their devices tested for conformity of production every year after the firstcertification,fromthetestingagenciesreferredtoinrule126 of theCentralMotorVehiclesRules,1989.
+
+
+    ThetestingagencieswilluploadthedetailsoftheVLTdevicescertifiedbythemontheVAHANdatabase. Theywillalsoupdatethe statusrelatingtotheConformityofProduction ontheVAHAN database.
+
+
+    The State or Union Territories will publish Internet Protocol address (IP address) and Short Message Service Gateway (SMS gateway) details of their respective emergency response system where VLT devices will send the emergency alerts on press of emergencybutton.
+
+
+    ****
+
+
+    NP/MS
+
+
+    
+
+    
+    (Release ID: 1551387) Visitor Counter : 1117

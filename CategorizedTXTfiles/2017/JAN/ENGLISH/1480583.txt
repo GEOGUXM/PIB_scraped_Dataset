@@ -1,0 +1,34 @@
+      Ministry of Earth Science
+
+      Ministry of Earth Sciences Commissions Higher Resolution Weather Prediction Model
+      Posted On: 16 JAN 2017 5:50PM by PIB Delhi
+
+      
+
+    The Ministry of Earth Sciences (MoES) has commissioned a very high resolution (12 km) global deterministic weather prediction model for generating operational weather forecasts. The model has been on trial since September 2016. It has shown significant improvements in skill of daily weather forecasts. This model has been made operational from January 16, 2017.
+
+
+    The present model replaces the earlier version which had a horizontal resolution of 25 km. It was very helpful, especially in predicting the track and the intensity of the recent Very Severe Cyclonic Storm Vardah and the cold wave over the northern parts of India.
+
+    MoES’s operational Ensemble Prediction System (EPS) will also be upgraded to 12 km. For this the High Performance Computing (HPC) system resources available with MoES is to be augmented to 10 Peta Flops from the current 1.2 Peta Flops. The operational EPS currently has a horizontal resolution of about 25 km.
+
+    The EPS is adopted to overcome the problem of uncertainties in the forecasts. It involves the generation of multiple forecasts using slightly varying initial conditions. The EPS also help generate probabilistic forecasts and quantify the uncertainties.
+
+    The Ministry of Earth Sciences (MoES) provides Weather, Climate and Hydrological Services to various users round the year and 24/7. Both operational and research aspects for these services are implemented through its constituent units India Meteorological Department (IMD), National Centre for Medium Range Weather Forecasting (NCMRWF), Indian Institute of Tropical Meteorology (IITM) and Indian National Centre for Ocean Information System (INCOIS).
+
+    In general, during the last five years, the skill of weather and climate forecasts in India has improved. The improvement is noted especially in general public weather forecasts, monsoon forecasts, heavy rainfall warnings and tropical cyclone warnings and alerts. The successes in predicting the Tropical Cyclones Phailin/Hudhud , heavy rainfall event in Chennai during December 2015, deficient rainfall during monsoon season of 2015 are the best examples for the improvement in prediction capability during the recent years.
+
+    Focused research and development activities have been carried out at IITM, NCMRWF and IMD on weather prediction model development and data assimilation methods. Data from the International and Indian satellites are being assimilated in the weather prediction models.
+
+    The communication of forecasts to the stake holders on time and in proper language is very important in the effective use of weather and climate forecasts and minimizing the loss and damages due to severe weather. IMD has established an effective mechanism for dissemination of weather and climate forecasts to different stake holders using different communication channels.
+
+    ****
+
+
+    RDS/ss
+
+
+    
+
+    
+    (Release ID: 1480583) Visitor Counter : 77

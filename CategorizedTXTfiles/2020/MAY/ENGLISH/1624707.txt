@@ -1,0 +1,68 @@
+      Ministry of Science & Technology
+
+      TDB approves technologies to augment India’s efforts to combat COVID 19
+      Posted On: 17 MAY 2020 6:01PM by PIB Delhi
+
+
+    Technology Development Board (TDB), a statutory body of the Department of Science and Technology (DST), is proactively supporting the efforts of the scientists, technologists, entrepreneurs, and industrialists towards preventing and containing the spread of the COVID 19 pandemic by providing financial support for commercialization of these technologies. In addition, TDB is also scouting for novel solutions for supporting the country’s efforts in tackling the health care emergency that the world is facing.
+
+
+    In the last few weeks, TDB, through its evaluation process, has processed a large number of applications under various domains. Till date, TDB has approved six projects towards commercialization, which include thermal scanners, medical devices, masks, and diagnostic kits.
+
+
+    Thermal Scanners
+
+
+    Hand-held thermometers, used in checking temperature, a common test for screening symptoms of virus infection, exposes security personnel and health workers to infection. Removal of current restrictions, due to lockdown, will increase this risk.
+
+
+    Therefore, it becomes imperative to have non-intrusive technologies for monitoring body temperature from a distance and in the crowd. TDB has approved financial assistance to two Bangalore based companies, Cocoslabs Innovation Solutions Private Limited, & Advance Mechanical Services Private limited, which are poised to provide these solutions.
+
+
+    Cocoslabs Innovation Solutions Private Limited plans to commercialize a low-cost solution to identify persons with abnormal body temperature in a crowd and, at the same time, provide an alert system to notify about identified persons to authorities on their phones and laptops. An artificial intelligence software solution for real-time detection using video analytics platform for real-time alerts combined with a low-cost thermal camera (basic camera with only thermal image capture capability), & GPU servers are used for real-time abnormal temperature detection, of multiple people at a given time in crowded public places.
+
+
+    The product includes features such as detection & tracking a person with and without mask, prediction of age, gender, race, temperature readings (fever detection), and facial recognition in a single product that can track multiple people in a real-time environment.
+
+
+    Advance Mechanical Services Private limited plans to commercialize Infrared Thermography-based Temperature Scanner for Rapid Measurement and Real-Time Decision Making using an uncooled microbolometer and video analytics platform. This has been indigenously developed, providing real-time alerts and analytics using AI and IIOT (Industrial Internet of Things). The product design, imaging processing software, AI protocols development, and configuring of IIOT solutions has been developed in-house with due considerations for ruggedness, reliability & affordability. The company has also developed server technology, which is value-added feature to the IIOT systems.
+
+
+    Medical devices
+
+
+    TDB approved financial assistance to Latome Electric India Private Limited, Coimbatore. The company envisages commercialization of battery-powered portable X-ray machines with digital display as standalone medical radiography equipment suitable for ICU & Isolation Wards. The device is portable and can be taken to the patient’s bedside, thereby reducing the exposure of infection to the medical staff involved in the process. The battery back-up option is useful for a wireless workflow and continuous operation without power mains. Portable X-Rays with Digital Imaging and Battery Back-Up can be used in the isolation wards and Intensive Care Units of the COVID19 management set-up.
+
+
+    Masks
+
+
+    Financial support has been provided to Thincr Technologies India Pvt. Ltd, Pune, which is providing coating and 3D printing of anti-viral agents on the masks as a preventive measure against COVID-19. Sodium Olefin Sulfonate based mixture is used for coating on the mask. It is a soap forming agent with hydrophilic and hydrophobic properties. In contact with enveloped viruses, it disrupts the outer membrane of the latter. The ingredients used are stable at room temperature and are widely used in cosmetics.
+
+
+    Diagnostic Kits
+
+
+    Medzome Life Sciencez, New Delhi currently manufactures rapid diagnostic kits for Malaria, Dengue, Pregnancy, Typhoid, etc. and intends to manufacture fluorescence-based Rapid COVID-19 Detection Kit. It targets to deploy them commercially in 2-3 months. The fluorescence-based diagnostic kits are reported to be several-fold sensitive and shall be able to provide quantitative results.
+
+
+    Earlier, TDB had approved funding of Mylab Discovery Solutions, Pune, the first indigenous company to develop real-time PCR based molecular diagnostic kit that screens and detects samples of people who display flu-like symptoms.
+
+
+    "The time of COVID-19 has shown us many paths to commercialization of indigenous technologies and products by seamlessly connecting the push of knowledge from academia and research labs to the pull of market with a clear purpose, relevance, need, ease of support, transparency, dedication, cooperation and accountability. The speed and scale of TDB support are some of the compelling examples of our new normal that would continue to serve in the Mission Swavalamban -- Self-sufficient India." said Prof Ashutosh Sharma, Secretary, DST.
+
+
+    [For further details, please contact: Cdr Navneet Kaushik, Sc 'E', Technology Development Board, navneetkaushik.tdb@gmail.com , Mob:+91- 9560611391]
+
+
+    ****
+
+
+    KGS/(DST/TDB
+
+    
+    
+    (Release ID: 1624707) Visitor Counter : 1817
+    
+    
+      Read this release in: Urdu , Hindi , Assamese , Tamil , Telugu , Kannada

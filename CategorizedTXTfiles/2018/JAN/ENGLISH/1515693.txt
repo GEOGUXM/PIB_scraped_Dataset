@@ -1,0 +1,826 @@
+      Ministry of Statistics & Programme Implementation
+
+      First Advance Estimates of National Income, 2017-18
+      Posted On: 05 JAN 2018 5:32PM by PIB Delhi
+
+
+    The Central Statistics Office (CSO), Ministry of Statistics and Programme Implementation has released the First Advance estimates of national income at constant (2011-12) and current prices, for the financial year 2017-18. These are presented in Statements 1-4.
+
+
+    2. The First Advance Estimates of GDP have been released in accordance with the release calendar of National Accounts @ . The approach for compiling the advance estimates is based on benchmark-indicator method. The Sector-wise estimates are obtained by extrapolation of indicators like (i) Index of Industrial Production of first 7 months of the financial year, (ii) financial performance of listed companies in the private corporate sector available upto quarter ending September,2017 (iii) 1st advance estimates of crop production, (iv) accounts of Central & State Governments, information on indicators like deposits & credits, passenger and freight earnings of railways, passengers and cargo handled by civil aviation, cargo handled at major sea ports, sales of commercial vehicles etc. available for first 8 months of the financial year.With the introduction of Goods and Services Tax (GST) from 1 st July 2017 and consequent changes in the tax structure, the total tax revenue used for GDP compilation include non-GST revenue and GST revenue. For the year 2017-18, the Budget estimates of tax revenue as provided by Controller General of Accounts (CGA) has been used for estimating taxes on products at current prices. For compiling taxes on products at constant prices, volume extrapolation is done using volume growth of taxed goods and services and aggregated to get the total volume of taxes. Annual forecast of indicators which are available for first 7/8 months is based on regression using seasonal dummies to account for seasonal fluctuations.Some indicators like IIP has been compiled by dividing the cumulative value for the first 7 months of the current financial year by average of ratio of cumulative value of 7 months to the annual value of past years. The salient features of the estimates are detailed below:
+
+
+     1. ESTIMATES AT CONSTANT (2011-12) PRICES
+
+
+    Gross Domestic Product
+
+
+    3. Real GDP or Gross Domestic Product (GDP) at constant (2011-12) prices in the year 2017-18is likely to attain a level of `129.85 lakh crore, as against the Provisional Estimate of GDP for the year 2016-17 of ` 121.90 lakh crore, released on 31 st May 2017. The growth in GDP during 2017-18 is estimated at 6.5percent as compared to the growth rate of 7.1per cent in 2016-17.
+
+
+    @http://mospi.nic.in/sites/default/files/press_releases_statements/Modification_Rev%20Policy_16.11.2016.pdf
+
+
+    Gross Value Added (GVA) at Basic Prices
+
+
+    4. Real GVA, i.e, GVA at basic constant prices (2011-12) is anticipated to increase from `111.85 lakh crore in 2016-17 to `118.71 lakh crore in 2017-18. Anticipated growth of real GVA at basic prices in 2017-18 is 6.1percent asagainst 6.6percent in 2016-17.
+
+
+    5. The sectors which registered growth rate of over 7.0 percent are, 'public administration, defence and other services’, ‘Trade, hotels, transport, communication and services related to broadcasting’, ‘electricity, gas, water supply and other utility services’ and 'financial, real estate and professional services'. The growth in the ‘agriculture, forestry and fishing’, ‘mining and quarrying’, ‘manufacturing’, and ‘construction’ is estimated to be 2.1 per cent, 2.9 per cent, 4.6 percent and3.6percent respectively.
+
+
+    Agriculture, forestry and fishing
+
+
+    6. The ‘agriculture, forestry and fishing’ sector is likely to show a growth of 2.1 per cent in its GVA during 2017-18, as against the previous year’s growth rate of 4.9percent. The GVA estimates of this sector have been compiled using the First Advance Estimates of production of major kharif crops for 2017-18 and targets based on rabi sowings. According to the information furnished by the Department of Agriculture and Cooperation (DAC), the production of food grains during the Kharif season of agriculture year 2017-18 was 134.67 million tonnes as compared to 138.52 million tonnes during the same period in 2016-17. In case of livestock sector, estimates of production, mainly in the form of production targets for milk, egg, meat and wool from the Department of Animal Husbandry, Ministry of Agriculture has been used.
+
+
+    Mining and quarrying
+
+
+    7. GVA at basic prices for 2017-18 from ‘mining and quarrying’ sector is estimated to grow by 2.9percent as compared to growth of 1.8 percent in 2016-17. The key indicators of mining sector, namely, production of coal, crude oil and natural gas registered growth rates of 1.5 per cent, (-)0.2percent and 3.7percent respectively during April-November,2017-18. Annual forecast of production estimated in respect of these items have been used to extrapolate the Provisional Estimates of value of output of coal, crude petroleum, and other major and minor minerals, respectively. IIP ofmining registered growth rate of 3.4percentduring April-October, 2017-18. The advance estimate of IIP of Mining compiled for the current year has been used for compilation. The private corporate sector growth in the mining sector for 2017-18 is estimated using the information available on the performance of major listed companies during the first half of financial year 2017-18.
+
+
+    Manufacturing
+
+
+    8. GVA at basic prices for 2017-18 from ‘manufacturing’ sector is estimated to grow by 4.6
+
+
+    percent as compared to growth of 7.9percent in 2016-17. The private corporate sector growth in
+
+
+    the manufacturing sector for 2017-18 is estimated using latest available information on major listed companies during first half of financial year 2017-18. The private corporate sector growth (which has a share of over 70 percent in the manufacturing sector) as estimated from available data of listed companies is 7.4percent at current prices during 2017-18. The quasi corporate and unorganized segment (which include individual proprietorship and partnerships and khadi& village Industries has a share of around 21percent in the manufacturing sector)has been estimated using IIP of manufacturing .The advance estimates of IIP for the current year at 2-digit level is used toextrapolate the previous year’s value added estimates at 2-digit level, separately for the quasi corporate and household sectors. IIP manufacturing registered growth of 2.1percentduring April-October,2017-18. The Wholesale Price Index (WPI), in respect of the manufactured products registered a growth of 2.6percent during April-November,2017-18.
+
+
+    Electricity,gas, water supply and other utility services
+
+
+    9. GVA at basic prices for 2017-18 from ‘Electricity, Gas,water supply and other utility services’ sector is expected to grow by 7.5percent as compared to growth of 7.2percent in 2016-17. Advance Estimate of IIP of Electricity compiled for 2017-18 has been used for compilation. IIP of Electricity registered a growth rate of 5.3percent during April-October, 2017-18.
+
+
+    Construction
+
+
+    10. GVA at basic prices for 2017-18 from ‘Construction’ sector is expected to grow by3.6percent as compared to growth of 1.7percent in 2016-17. Key indicators of construction sector, namely, production of cement and consumption of finished steel registered growth rates of 0.6percent and 4.2percentrespectively during April-November,2017-18.
+
+
+    Trade, hotels and transport & communication and services related to broadcasting
+
+
+    11. The estimated growth in GVA for the trade, hotels, transport and communication and services related to broadcasting services during 2017-18 is placed at 8.7 per cent as against growth of 7.8percent in the previous year. GVA from Trade sector is estimated using an index of turnover based on Sales tax. With introduction of GST, sales tax data is now subsumed under GST. Therefore, a comparable estimate of turnover based on sales tax has been estimated. Methodology of estimation is as explained in the Annexure to the press note on estimates of GDP for the second quarter (July-September) of 2017-18released on 30 th November, 2017. Amongtheother servicessectors, the key indicatorsof railways, namely, the nettonnekilometres and passenger kilometres have shown growth rate of 4.8percent and 3.2percent respectively duringApril-November2017-18. Cargo handled at major sea ports registered growth of 3.5percentduring April-November, 2017-18. Passengers and cargo handled by civil aviation increased by 15.1percent and 18.2percent respectively during April- November,2017-18. Sales of commercial vehicles registered growth of 10.6percentduringApril-November,2017-18.
+
+
+    Financial, insurance, real estate and professional services
+
+
+    12. The estimated growth in GVA for this sector during 2017-18 is placed at 7.3percent as compared to growth of 5.7 percent in 2016-17. The key indicators of this sector are the growth of
+
+
+    corporate sector for real estate sector and computer related activities which areestimated usinglatest available information on listed companies for the first half of financial year 2017-18. The combined growth in aggregate bank deposits and creditsas on 10 November 2017 was 8.4per cent.
+
+
+    Public administration and defence and other services
+
+
+    13. GVA at basic prices for 2017-18 from this sector is expected to grow by 9.4percent as compared to growth of 11.3percent in 2016-17. The key indicator of this sector namely, Union Government expenditure net of interest payments and subsidies grew by 14.6percent during April-November 2017-18.
+
+
+    Per Capita Income
+
+
+    14. The per capita income in real terms (at 2011-12 prices) during 2017-18 is likely to attain a level of `86660 as compared to `82269 for the year 2016-17. The growth rate in per capita income is estimated at 5.3 per cent during 2017-18, as against5.7per cent in the previousyear.
+
+
+    B. ESTIMATES AT CURRENT PRICES
+
+
+    15. Price indices used as deflators
+
+
+    The wholesale price index (WPI), in respect of the groups - food articles, manufactured products, electricity and all commodities, has risen by 2.0 per cent, 2.6 per cent, 0.4percent and 2.8percent, respectively during April-November2017-18. The Consumer Price Index(CPI) has shown a rise of 3.0 per cent during April-November,2017-18.
+
+
+    Gross Domestic Product
+
+
+    16. GDP is derived by adding taxes on products net of subsidies on products to GVA at basic prices.GDP at current prices in the year 2017-18 is likely to attain a level of `166.28 lakh crore, as against `151.84 lakh crorein 2016-17showing a growth rate of 9.5 per cent.
+
+
+    National Income
+
+
+    17. The nominal Net National Income (NNI), also known as national income (at current prices) is likely to be `147.11 lakh crore during 2017-18, as against `134.08 lakh crore for the year 2016-17. In terms of growth rates, the national income registered a growth rate of 9.7 per cent in 2017-18 as against the previous year’s growth rate of 11.0 per cent.
+
+
+    Per Capita Income
+
+
+    18. The per capita net national income during 2017-18 is estimated to be `111,782 showing a rise of 8.3 per cent as compared to `103,219 during 2016-17 with the growth rate of 9.7percent.
+
+
+    C. ANNUALESTIMATES OF FINAL EXPENDITURES OF GDP, 2017-18
+
+
+    19. Along with the First Advance Estimates of GVA at basic prices by economic activity, the First Advance Estimates of expenditures of the GDP at current and constant (2011-12) prices are also released. These estimates have been compiled using the data from the same sources as those used for compiling GVA estimates by economic activity, detailed data available on merchandise trade in respect of imports and exports, balance of payments, and expenditure of Central and State Government. As various components of expenditure on gross domestic product, namely, consumption expenditure and capital formation, are normally measured at market prices, the discussion in the following paragraphs is in terms of market prices only.
+
+
+    Private Final Consumption Expenditure
+
+
+    20. Private Final Consumption Expenditure (PFCE) at current prices is estimated at `97.75lakh crore in 2017-18 as against `89.27 lakh crore in 2016-17. At constant (2011-12) prices, the PFCE is estimated at `72.38 lakh crore in 2017-18 as against `68.07lakh crore in 2016-17. In terms of GDP, the rates of PFCE at current and constant (2011-12) prices during 2017-18 are estimated at 58.8 percent and 55.7 percent, respectively, as against the corresponding rates of 58.8 per cent and 55.8 per cent, respectively in 2016-17.
+
+
+    Government Final Consumption Expenditure
+
+
+    21. Government Final Consumption Expenditure (GFCE) at current prices is estimated at ` 19.77 lakh crore in 2017-18 as against `17.69 lakh crore in 2016-17. At constant (2011-12) prices, the GFCE is estimated at `14.54 lakh crore in 2017-18as against `13.40 lakh crore in 2016-17. In terms of GDP, the rates of GFCE at current and constant (2011-12) prices during2017-18 are estimated at 11.9 per cent and 11.2 per cent, respectively, as against the corresponding rates of 11.7 per cent and 11.0 per cent, respectively in 2016-17.
+
+
+    Gross Fixed Capital Formation
+
+
+    22. Gross Fixed Capital Formation (GFCF) at current prices is estimated at `43.84 lakh crore in 2017-18 as against `41.18 lakh crore in 2016-17. At constant (2011-12) prices, the GFCF is estimated at `37.65 lakh crore in 2017-18 as against `36.02 lakh crore in 2016-17. In terms of GDP, the rates of GFCF at current and constant (2011-12) prices during 2017-18 are estimated at 26.4 per cent and 29.0 per cent, respectively, as against the corresponding rates of 27.1 per cent and 29.5 per cent, respectively in 2016-17.The GFCF is expected to register growth rate of 6.5percent at current prices and 4.5percent at constant prices.
+
+
+    23. Estimates of Gross/Net National Income and Per Capita Income along with GVA at basic prices by kind of economic activity and the Expenditures of GDP for the years 2015-16,2016-17 and 2017-18, at constant (2011-12) and current prices are given in Statements 1 to 4.
+
+
+    24. The release of Second Advance Estimates of national income for the year 2017-18and quarterly GDP estimate for the third quarter (October-December), 2017-18 (Q3 of 2017-18) will be on 28.02.2018.
+
+                                                                                        
+STATEMENT 1: First Advance Estimates of National Income and Expenditures on GDP, 2017-18
+                                                                                        
+                                                                                        
+                                                                                                                                                                                                          
+                                                                                          ( At 2011- 12 Prices)                         (` crore)                                                         
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                 
+(                                                                                         Item                                2015-16   2016-17    2017-18   Percentage change over previous year
+                                                                                                                                                                                                 
+                                                                                                                                                                                                 
+                                                                                                                                                                                                          
+S.No                                                                                                                                    (PE)       (IstAE)   2016-17                               2017-18
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                 
+                                                                                          Domestic Product                                                                                       
+                                                                                                                                                                                                 
+                                                                                                                                                                                                 
+                                                                                                                                                                                                          
+1                                                                                         GVA at basic prices                 10490514  11185440   11871320  6.6                                   6.1    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+2                                                                                         Net taxes on products               890488    1004414    1114043   12.8                                  10.9   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+3                                                                                         GDP (1+2)                           11381002  12189854   12985363  7.1                                   6.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+4                                                                                         NDP                                 10116809  10841917   11554772  7.2                                   6.6    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                          Final Expenditures                                                                                              
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+5                                                                                         PFCE                                6262373   6806624    7238252   8.7                                   6.3    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+6                                                                                         GFCE                                1109725   1340086    1454468   20.8                                  8.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+7                                                                                         GFCF                                3518446   3602041    3765058   2.4                                   4.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+8                                                                                         CIS                                 274447    291179     301116    6.1                                   3.4    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+9                                                                                         VALUABLES                           180274    148700     254795    -17.5                                 71.3   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+10                                                                                        Exports of goods and services       2378687   2486007    2598033   4.5                                   4.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+11                                                                                        Less Imports of goods and services  2510753   2568680    2826793   2.3                                   10.0   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+12                                                                                        Discrepancies                       167803    83897      200434                                                 
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+13                                                                                        GDP                                 11381002  12189854   12985363  7.1                                   6.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                          RATES TO GDP                                                                                                    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+14                                                                                        PFCE                                55.0      55.8       55.7                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+15                                                                                        GFCE                                9.8       11.0       11.2                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+16                                                                                        GFCF                                30.9      29.5       29.0                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+17                                                                                        CIS                                 2.4       2.4        2.3                                                    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+18                                                                                        VALUABLES                           1.6       1.2        2.0                                                    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+19                                                                                        Exports of goods and services       20.9      20.4       20.0                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+20                                                                                        Less Imports of goods and services  22.1      21.1       21.8                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+21                                                                                        Discrepancies                       1.5       0.7        1.5                                                    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+22                                                                                        GDP                                 100.0     100.0      100.0                                                  
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+23                                                                                        GNI                                 11246305  12034713   12835004  7.0                                   6.6    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+24                                                                                        NNI                                 9982112   10686776   11404413  7.1                                   6.7    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                      
+Per Capita Income, Product and Final Consumption                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                                                                                          
+25                                                                                        Population* (in million)            1283      1299       1316      1.2                                   1.3    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+26                                                                                        Per Capita GDP                      88706     93840      98673     5.8                                   5.1    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+27                                                                                        Per Capita GNI                      87656     92646      97530     5.7                                   5.3    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+28                                                                                        Per Capita NNI                      77803     82269      86660     5.7                                   5.3    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+29                                                                                        Per Capita PFCE                     48810     52399      55002     7.4                                   5.0    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                 
+* Relates to mid-financial year                                                                                                                                                                  
+                                                                                                                                                                                                 
+                                                                                                                                                                                                 
+                                                                                                                                                                                                                          
+
+    PE : Provisional Estimates; AE: Advance Estimates
+
+                                                                                        
+STATEMENT 2: First Advance Estimates of National Income and Expenditures on GDP, 2017-18
+                                                                                        
+                                                                                        
+                                                                                                                                                                                                          
+                                                                                          ( At CurrentPrices)                           (` crore)                                                         
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                 
+S.No                                                                                      Item                                2015-16   2016-17    2017-18   Percentage change over previous year
+                                                                                                                                                                                                 
+                                                                                                                                                                                                 
+                                                                                                                                                                                                          
+                                                                                                                                        (PE)       (IstAE)   2016-17                               2017-18
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                 
+                                                                                          Domestic Product                                                                                       
+                                                                                                                                                                                                 
+                                                                                                                                                                                                 
+                                                                                                                                                                                                          
+1                                                                                         GVA at basic prices                 12458642  13669914   14897653  9.7                                   9.0    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+2                                                                                         Net taxes on products               1223393   1513795    1729931   23.7                                  14.3   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+3                                                                                         GDP (1+2)                           13682035  15183709   16627585  11.0                                  9.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+4                                                                                         NDP                                 12236662  13597811   14899252  11.1                                  9.6    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                          Final Expenditures                                                                                              
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+5                                                                                         PFCE                                7932331   8927010    9774547   12.5                                  9.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+6                                                                                         GFCE                                1411460   1769036    1976644   25.3                                  11.7   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+7                                                                                         GFCF                                4002781   4117674    4383589   2.9                                   6.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+8                                                                                         CIS                                 301923    328198     346238    8.7                                   5.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+9                                                                                         VALUABLES                           197256    166287     253587    -15.7                                 52.5   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+10                                                                                        Exports of goods and services       2728643   2911700    3116710   6.7                                   7.0    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+11                                                                                        Less Imports of goods and services  3044917   3133081    3525371   2.9                                   12.5   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+12                                                                                        Discrepancies                       152559    96886      301640                                                 
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+13                                                                                        GDP                                 13682035  15183709   16627585  11.0                                  9.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                          RATES TO GDP                                                                                                    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+14                                                                                        PFCE                                58.0      58.8       58.8                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+15                                                                                        GFCE                                10.3      11.7       11.9                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+16                                                                                        GFCF                                29.3      27.1       26.4                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+17                                                                                        CIS                                 2.2       2.2        2.1                                                    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+18                                                                                        VALUABLES                           1.4       1.1        1.5                                                    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+19                                                                                        Exports of goods and services       19.9      19.2       18.7                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+20                                                                                        Less Imports of goods and services  22.3      20.6       21.2                                                   
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+21                                                                                        Discrepancies                       1.1       0.6        1.8                                                    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+22                                                                                        GDP                                 100.0     100.0      100.0                                                  
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+23                                                                                        GNI                                 13522256  14994109   16438895  10.9                                  9.6    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+24                                                                                        NNI                                 12076882  13408211   14710563  11.0                                  9.7    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+25                                                                                        GNDI                                13935339  15379509   16831155  10.4                                  9.4    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+26                                                                                        NNDI                                12489965  13793611   15102823  10.4                                  9.5    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                 
+Per Capita Income, Product and Final Consumption                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                                                                          
+27                                                                                        Per Capita GDP                      106641    116888     126349    9.6                                   8.1    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+28                                                                                        Per Capita GNI                      105396    115428     124916    9.5                                   8.2    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+29                                                                                        Per Capita NNI                      94130     103219     111782    9.7                                   8.3    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+30                                                                                        Per Capita GNDI                     108615    118395     127896    9.0                                   8.0    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+31                                                                                        Per Capita PFCE                     61826     68722      74275     11.2                                  8.1    
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                          
+                                                                                                                                                                                                 
+                                                                                                                                                                                                                  
+
+    PE : Provisional Estimates; AE: Advance Estimates
+
+                                                                               
+STATEMENT 3:First Advance Estimates of GVA at Basic Price by Economic Activity 
+                                                                               
+                                                                               
+                                                                               
+(At 2011-12 prices)                                                            
+                                                                               
+                                                                               
+                                                                                                       
+(` crore)                                                                                              
+                                                                                                       
+                                                                                                       
+                                                                                                                                                         
+Industry                                                                         2015-16     2016-17     2017-18     Percentage change over previous year
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                             (PE)        ( IstAE)                                        
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                         2016-17     2017-18                             
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                              
+1. Agriculture, forestry & fishing                                               1,617,208   1,696,175   1,732,371   4.9                                   2.1
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+2. Mining & quarrying                                                            324,740     330,485     339,972     1.8                                   2.9
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+3. Manufacturing                                                                 1,872,115   2,019,927   2,112,345   7.9                                   4.6
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+4. Electricity, gas,water supply& other utility services                         224,447     240,590     258,672     7.2                                   7.5
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+5. Construction                                                                  879,782     894,668     927,085     1.7                                   3.6
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+6. Trade, hotels, transport, communication and services related to broadcasting  1,989,161   2,143,956   2,329,801   7.8                                   8.7
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+7. Financial, real estate & professional services                                2,298,798   2,429,638   2,606,602   5.7                                   7.3
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+8. Public administration, defence and Other Services                             1,284,263   1,430,002   1,564,473   11.3                                  9.4
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+GVA at Basic Price                                                               10,490,514  11,185,440  11,871,320  6.6                                   6.1
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                                  
+                                                                               
+PE : Provisional Estimates; AE: Advance Estimates                              
+                                                                               
+                                                                               
+STATEMENT 4: First Advance Estimates of GVA at Basic Price by Economic Activity
+                                                                               
+                                                                               
+                                                                               
+(At current prices)                                                            
+                                                                               
+                                                                               
+                                                                                                       
+(` crore)                                                                                              
+                                                                                                       
+                                                                                                       
+                                                                                                                                                         
+Industry                                                                         2015-16     2016-17     2017-18     Percentage change over previous year
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                             ( PE )      ( IstAE)                                        
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                         2016-17     2017-18                             
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                               
+1. Agriculture, forestry & fishing                                               2,175,547   2,372,085   2,438,546   9.0                                   2.8 
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                                               
+2. Mining & quarrying                                                            296,253     301,921     341,843     1.9                                   13.2
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                                               
+3. Manufacturing                                                                 2,064,820   2,257,413   2,422,101   9.3                                   7.3 
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                                               
+4. Electricity, gas,water supply& other utility services                         321,651     342,422     368,269     6.5                                   7.5 
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                                               
+5. Construction                                                                  1,006,403   1,041,343   1,109,608   3.5                                   6.6 
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                                               
+6. Trade, hotels, transport, communication and services related to broadcasting  2,294,364   2,519,999   2,825,708   9.8                                   12.1
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                                               
+7. Financial, real estate & professional services                                2,631,120   2,889,048   3,186,115   9.8                                   10.3
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                                               
+8. Public administration, defence and Other Services                             1,668,486   1,945,683   2,205,463   16.6                                  13.4
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                                               
+GVA at Basic Price                                                               12,458,642  13,669,914  14,897,653  9.7                                   9.0 
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                                                 
+
+    PE : Provisional Estimates; AE: Advance Estimates
+
+
+    
+
+    
+    (Release ID: 1515693) Visitor Counter : 2201
+    
+    
+    
+    
+    
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+1.

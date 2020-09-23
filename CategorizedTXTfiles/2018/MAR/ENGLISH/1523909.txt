@@ -1,0 +1,29 @@
+      Ministry of Labour & Employment
+
+      UAN Activated Members Can Know PF Balance Through Missed Call AND SMS Alert
+      Posted On: 12 MAR 2018 6:03PM by PIB Delhi
+
+
+    Members registered on the UAN portal may get their details available with EPFO by giving a missed call at 011-22901406 from their registered mobile number. If the UAN of the member is seeded with any one of the Bank A/c number, AADHAAR and PAN, the member will get details of last contribution and PF balance. To avail this facility, mobile number must be activated with UAN at Unified Portal. Giving missed call from registered mobile number at 011-22901406 automatically gets disconnected after two rings. This service is available free of cost to the member. Moreover, these services can be availed from non-smart phones also.
+
+
+    The information for availing missed call facility and SMS service for getting PF balance and last contribution is now available on UMANG app also.
+
+
+    Universal Account Number (UAN) activated members may know their latest PF contribution and balance available with EPFO by sending an SMS at 7738299899 from registered mobile number. The Member has to SMS “EPFOHO UAN” to 7738299899. The facility is available in 10 languages viz. English (default), Hindi, Punjabi, Gujarati, Marathi, Kannad, Telugu, Tamil, Malayalam and Bengali. For receiving SMS in any of the languages other than English, first three characters of the preferred language needs to be added after UAN. For example, to receive SMS in Telugu, then SMS to be send will be “EPFOHO UAN TEL” to 7738299899
+
+
+    SMS should be sent from the registered mobile number of UAN. In response, EPFO will send last PF contribution and balance details of the member alongwith available KYC information.
+
+
+    *****
+
+
+    JN/SKP/IA
+
+    
+    
+    (Release ID: 1523909) Visitor Counter : 1228
+    
+    
+      Read this release in: Tamil

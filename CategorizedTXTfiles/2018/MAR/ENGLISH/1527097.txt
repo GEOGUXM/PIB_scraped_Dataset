@@ -1,0 +1,57 @@
+      Ministry of Information & Broadcasting
+
+      Smart India Hackathon begins, 1300 teams to evolve software solutions to 340 problems
+      
+      At Jaipur centre 400 students converge to find solution to 16 problems of Ministry of Information & Broadcasting
+
+      Posted On: 30 MAR 2018 6:26PM by PIB Delhi
+
+    The Grand Finale of Smart India Hackathon began at 28 centres across the country today morning. Union Minister for Human Resource Development, Shri PrakshJavadekar declared the Hackathon open at the Delhi centre of SIH 2018. In this world’s largest innovation under Digital India, about 1300 teams are participating to evolve software solutions to 340 problems given by the different Ministries/Departments and State Governments. The event has been jointly organized by Ministry of HRD, AICTE, Persistant Systems i4Cand RambhauMhalgiPrabodhini.
+
+
+    The Chairperson of All India Council for Technical Education Prof. Anil D Sahasrabudheinformed that Smart India Hackathon which began only last year has shown remarkable progress in terms of involvement of students and Ministries. In the last Hackathon, the number of students was 40,000 which have risen to 1 lakh this time.
+
+
+    At Jaipur centre theHackathon was formally inaugurated by Member Secretary of AICTE Prof. A P Mittal and Senior Economic Advisor Ministry of Information and Broadcasting Shri Rohit Kumar Parmarin presence of Judges, Faculty, Participants and students.
+
+
+    At Jaipur centrein JECRC, 50 teams comprising about 400 students from all over the countryhave started coding process for evolving software solution to the 16 problems statements of the Ministry of Information and Broadcasting. This brain storming exercise will continue for 36 hours. Based on their performance top 3 teams will be selected and they will be awarded by the Ministry of I& B. Winning team will get a prize of Rs. 1 lac, first runner-up Rs. 75,000 and second runner-up Rs. 50,000. Total prize money at all the 28 centresis Rs. 63 Lacs.
+
+
+    Ministry of Information and Broadcasting is participating for the first time this year in Hackathon 2018. The problem statements of the Ministry are as follows;
+
+     1. Comprehensive / Intelligent Video Analytics solution required for live-streaming as well as pre-recorded videos
+     2. Online access to classified archival storage using an App
+     3. Tool required to get real time logs of internet advertisements
+     4. Tool required to get real time logs of airwave broadcast of radio spots
+     5. Tool required which can match photographs as per the specifications of DAVP
+     6. Make geo tagging of photos work in offline mode as well
+     7. Identify potential breaking news based on social media chatter (twitter, Facebook etc.)
+     8. System to analyse a news video or news audio clipping
+     9. Sentiments analysis using social media responses for a particular program
+    10. System to translate spoken words from a recording (Video/Audio) and generate a transcript in multiple Indian Languages
+    11. Generate closed captioning sub-titles of spoken words in various Indian Languages during a live broadcast
+    12. Design an intelligent algorithm leveraging Big-Data/AI/Machine-Learning techniques that can learn from user viewing behaviour
+    13. Design a low-cost add-on module to DD Free Dish Set Top boxes that will enable interactivity between a Mobile App and the Set Top Box
+    14. Design an innovative Mobile App User Interface that can replace a TV remote
+    15. Design an innovative user interface for a Mobile App that would intuitively and seamlessly allow the App User to browse the entire catalogue of AIR streams
+    16. Develop a tool or system that can listen to a radio broadcast tuned to a certain frequency on the air waves and live stream the same as an Internet stream
+
+    MHRD is also engaging with DST to ensure that selected teams from SIH2018 could be supported by Atal Innovation Mission (NITI Ayog), Technology Business Incubators (TBIs) as Start-ups and DST has responded very positively towards these efforts. The SIH will also be helpful in igniting spark at institute level Hackathons and final outcome will build funnel for Start Up India Campaign which is one of the dream projects of Prime Minister.
+
+
+    *****
+
+
+    OK/PB/AV
+
+    
+    
+    (Release ID: 1527097) Visitor Counter : 465
+    
+    
+    
+    
+    
+
+16.

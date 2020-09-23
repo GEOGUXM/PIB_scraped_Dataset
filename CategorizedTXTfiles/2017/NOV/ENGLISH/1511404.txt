@@ -1,0 +1,90 @@
+      Ministry of Railways
+
+      Ministry of Railways extends the facility of booking of tickets from counters through UPI/BHIM Apps Payment System.
+      
+      This will be available for booking of reserved tickets from Passenger Reservation System (PRS) counters and booking of Season Tickets (MST and QST) from Unreserved Ticketing System (UTS) counters.
+      
+      The facility will be implemented from 1st December, 2017.
+      
+      No transaction charges to be levied presently for a period of 3 months from passengers for this new facility.
+      
+      The move will give a major boost to Government’s key initiative of cashless transactions.
+
+      Posted On: 30 NOV 2017 8:32PM by PIB Delhi
+
+    In a major boost to Government’s key initiative of cashless transactions and passenger friendly measures, Ministry of Railways has introduced the facility for booking of railway tickets from railway counters through Unified Payments Interface (UPI)/ Bharat Interface for Money (BHIM) App.
+
+
+    This facility will be available for booking of reserved tickets from Passenger Reservation System (PRS) counters and booking of Season Tickets (MST and QST) from Unreserved Ticketing System (UTS) counters.
+
+
+    It will be implemented all over Indian Railways on all PRS counters and UTS counters (for ST) w.e.f. 1 st December, 2017. This will add to the digital payment option already available to railway passengers.
+
+
+    No additional charges will be levied from passengers making payment at railwa y counters using UPI/BHIM for a period of 3 months.
+
+
+    The facility of payment through UPI/BHIM for booking of e-tickets online on IRCTC Website has already been implemented earlier. Now, this facility is being extended to the tickets being booked from railway counters.
+
+
+    Benefits to Passengers:
+
+     1. Offers additional payment option to customers availing railway services.
+     2. Safe to use as no need to share bank account or credit/debit card number.
+     1. No worry of losing cash or card.
+     2. Easy to use and supports payment through multiple banks on real time basis.
+
+    Benefits to Railways:
+
+
+     1. Promotes Government’s initiative for increasing digital/cashless transaction,.
+
+     1. Reduces hassles of cash collection and handling.
+     2. Reconciliation and settlement will be simplified.
+
+    The process of payment/booking:-
+
+      * Counter person will obtain travel details from the customer and inform the fare to be paid.
+      * If customers opts to pay through UPI/BHIM, the counter person will select UPI as payment option and request for passenger's Virtual Payment Address (VPA)
+      * Counter person will enter the Virtual Payment Address (VPA) to initiate the
+        transaction in the terminal.
+      * Passenger will receive a payment request on the mobile to confirm payment. Passenger has to accept the payment request and passenger's linked account will be debited the fare amount.
+      * Once the transaction is successful and this is verified on the system, counter person will print the ticket and the passenger can collect the ticket.
+
+    Backgrounder:-
+
+
+    1. UPI
+
+
+    Unified Payments Interface (UPI) is a system that powers multiple bank accounts into a single mobile application (of any participating bank), merging several banking features, seamless fund routing & merchant payments into one hood. It also caters to the "Peer to Peer" collect request which can be scheduled and paid as per requirement and convenience.
+
+
+    Initially many banks have offered their own UPI applications for the customers creating little confusion among them on which UPI app to be used. For convenience of the users, a UPI App called BHIM has been developed by GOI.
+
+
+    2. BHIM
+
+
+    BHIM (Bharat Interface for Money) is a Mobile App developed by National Payments Corporation of India (NPCI), based on the Unified Payment Interface (UPI). BHIM is inter-operable with other Unified Payment Interface (UPI) applications and bank accounts.
+
+
+    *****
+
+
+    AKS/MKV
+
+
+    
+
+    
+    (Release ID: 1511404) Visitor Counter : 144
+    
+    
+    
+    
+    
+
+* 
+  
+*

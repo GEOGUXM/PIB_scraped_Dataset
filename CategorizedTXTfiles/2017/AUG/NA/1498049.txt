@@ -1,0 +1,28 @@
+      Ministry of Finance
+
+      Mandating Aadhaar linkage to PAN cards
+      Posted On: 01 AUG 2017 7:11PM by PIB Delhi
+
+
+    
+
+    Permanent Account Number (PAN) is the key identifier of taxable entity and aggregator of all financial transactions undertaken by one person. One PAN for one person is the guiding principle for allotment of PAN. However, for achieving the objective of one PAN to one assessee it is required to maintain uniqueness of PAN. The uniqueness of PAN is achieved by conducting a de-duplication check on all already existing allotted PAN against the data furnished by new applicant. Under the existing system of PAN only demographic data is captured. Some instances are found where multiple PANs have been allotted to one person or one PAN has been allotted to multiple persons despite the application of de-duplication process based on demographic data. Linkage of Aadhaar number into PAN database will allow a robust way of de-duplication as Aadhaar number is based on biometric attributes of finger prints and iris images. Further seeding of Aadhaar will allow the Income-tax Department to weed out any undetected duplicate PANs. It will also facilitate resolution of cases of one PAN allotted to multiple persons.
+
+    
+    As on 27.7.2017, 11,44,211 PANs have been identified and deleted or de-activated in cases where multiple PANs were found allotted to one person. Similarly, as on 27.7.2017, 1,566 PANs have been identified as ‘Fake’ which were allotted to either non-existent person or in the names of persons with false identities. In this regard, the PAN service provider carries out onsite verification of PAN applications to verify identity and addresses of the applicant and share the report of such verification to the concerned Assessing Officer. On receipt of such report the assessing officer also conducts enquires and mark the PAN as “Fake”. If information of allotment of more than one PAN is received, the facility to delete or de-activate the PAN is available with the Assessing Officer through application software. Further, during 2004 to 2007, an exercise for de-duplication of PAN was conducted in the Department to identify probable duplicate PANs, which were consequently deleted or de-activated by the concerned assessing officers after examinations.
+    
+    This was stated by Shri Santosh Kumar Gangwar, Minister of State for Finance in written reply to a question in Rajya Sabha today.
+
+    ****
+
+
+    
+    
+    DSM/SBS/KA
+
+    
+    
+    (Release ID: 1498049) Visitor Counter : 172
+    
+    
+      Read this release in: Tamil

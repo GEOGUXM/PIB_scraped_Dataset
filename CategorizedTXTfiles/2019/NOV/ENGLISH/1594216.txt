@@ -1,0 +1,147 @@
+      Ministry of Women and Child Development
+
+      Common Application Software
+      Posted On: 29 NOV 2019 3:56PM by PIB Delhi
+
+
+    ICDS-Common Application Software has been developed under POSHAN Abhiyaan which inter-alia captures data on weight and height of children, opening of AnganwadiCentres, distribution of Take Home Ration and attendance of children for pre-school education at Anganwadi.
+
+
+    The Application also captures the Pre-School Education attendance provided to the Children (3-6 years) at therespective AnganwadiCentres. There is no plan for integration of data from the AWCs level to the school level, presently.
+
+
+    As on 28.11.2019, the ICDS Common Application Software (ICDS-CAS) has been rolled out across 5,51,270 Anganwadi Centres (AWCs) across 324 districts in 27 States/UTs. The details are as under:
+
+                                                                                                 
+Sl.  State/UT                   No. of AWC   ICDS-CAS rolled out Anganwadi Centreas on 26.11.2019
+                                                                                                 
+                                                                                                 
+                                operational                                                      
+                                                                                                 
+                                                                                                 
+                                                                                                 
+1    Andaman & Nicobar Islands  720          715                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+2    Andhra Pradesh             55607        55586                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+3    Assam                      62153        9200                                                
+                                                                                                 
+                                                                                                 
+                                                                                                 
+4    Bihar                      104090       59314                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+5    Chandigarh                 450          450                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+6    Chhattisgarh               51301        10473                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+7    Dadra & Nagar Haveli       302          303                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+8    Daman & Diu                107          102                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+9    Delhi                      10897        9434                                                
+                                                                                                 
+                                                                                                 
+                                                                                                 
+10   Goa                        1262         999                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+11   Gujarat                    53029        52932                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+12   Himachal Pradesh           18925        18864                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+13   Jharkhand                  38432        11133                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+14   Kerala                     33244        13913                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+15   Lakshadweep                107          13                                                  
+                                                                                                 
+                                                                                                 
+                                                                                                 
+16   Madhya Pradesh             97135        27811                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+17   Maharashtra                110219       109624                                              
+                                                                                                 
+                                                                                                 
+                                                                                                 
+18   Meghalaya                  5896         5815                                                
+                                                                                                 
+                                                                                                 
+                                                                                                 
+19   Mizoram                    2244         2244                                                
+                                                                                                 
+                                                                                                 
+                                                                                                 
+20   Nagaland                   3980         3682                                                
+                                                                                                 
+                                                                                                 
+                                                                                                 
+21   Puducherry                 855          848                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+22   Rajasthan                  61974        20798                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+23   Sikkim                     1308         821                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+24   Tamil Nadu                 54439        54401                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+25   Telangana                  35634        11157                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+26   Uttar Pradesh              187997       51801                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+27   Uttarakhand                20067        18837                                               
+                                                                                                 
+                                                                                                 
+                                                                                                 
+     Total                      10,12,374    5,51,270                                            
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+
+    This information was given by the Minister of Women and Child Development, Smriti Zubin Irani, in a written reply in the Lok Sabha today.
+
+
+    ***
+
+
+    MM/ SB
+
+    
+    
+    (Release ID: 1594216) Visitor Counter : 1286

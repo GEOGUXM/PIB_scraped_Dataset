@@ -1,0 +1,65 @@
+      PIB Headquarters
+
+      Indian Oil’s robust digital technology aids seamless operations in lockdown
+      Posted On: 01 MAY 2020 8:09PM by PIB Chennai
+
+
+    As the world fights the Covid-19 pandemic, corporates are increasingly relying on digital technology in dealing with the new normal. For Indian Oil too, digital technology has emerged as the fulcrum around which the entire organisation is functioning seamlessly to maintain the supply line of essential fuels, with minimal disruptions.
+
+
+    In the past 37 days of the national lockdown, the Corporation has taken many new measures to deal with the changed work environment and new customer requirements. For instance, the LPG supply & distribution software had to be primed to its full potential to deal with the sharp rise in cooking gas demand from households during the lockdown period.
+
+
+    For the benefit of its 13.11 crore LPG customers, IndianOil had been putting in place several convenient modes of refill booking from home, like SMS-IVRS, WhatsApp, digital payment websites and online refill booking through mobile apps. This way, about 25 lakh customers are able to book for LPG refills every day from the comfort of their homes and take delivery of LPG refill cylinders at their doorsteps. This has also helped reduce the burden on the State/district administrations and law-and-order machinery in policing the lockdown. The Corporation has also been encouraging LPG customers to make digital payments to avoid unnecessary handling of currency notes in view of Covid-19. The LPG emergency helpline number 1906 has also been kept operational.
+
+
+    IndianOil’s LPG distributors are making refill deliveries on priority to LPG customers from BPL households under Pradhan Mantri Ujjwala Yojana (PMUY), for whom the Government of India has extended the facility of three LPG refills free of cost during April, May and June 2020. The robust software developed for implementation of PMUY has enabled the Corporation to transfer the RSP for the first LPG refill directly into the bank accounts of 3.47 crore PMUY customers on its rolls, amounting to Rs. 2,724 crore within a few days. Introduction of e-receipts for customers and invoice register in the software were the other innovations.
+
+
+    Considering the criticality of maintaining fuel supplies, especially LPG for households and petrol & diesel for emergency/essential/exempted services, from a countrywide network of 600+ locations, IndianOil is running all its data centres on a 24x7 basis with 100% uptime for all business-critical applications, including SAP ERP software.
+
+
+    An integrated retail automation system is enabling real-time monitoring and data transfer to and from the Corporation’s 21,500+ automated fuel stations. This enables IndianOil teams to monitor daily sales on individual highways, in each city, state or region to be ready with sales plans for the future.
+
+
+    The Corporation’s tailor-made apps for its channel partners, vendors and service providers have also come in handy in the current crisis. While fuel station dealers and LPG distributors are able to track details of their indents, sales and balances online, another dedicated portal allows bulk customers to view their offtake details on a real-time basis. A contract labour management system launched in Feb. 2020 facilitates contractors in maintaining the data of workers under them and generate their wage register. A bill tracking dashboard enables vendors to submit bill-wise details and track their bill payments status online.
+
+
+    IndianOil’s critical locations, which continue to operate during the lockdown, are able to cope well with the new norms for social distancing, again thanks to technology. For instance, its ‘smart terminals’ have long since adopted advanced automation technology that allows them to operate with skeletal staff. Tank-truck crews picking up product loads from these terminals are equipped with smart cards that permit self-service, right from a pre-timed entry to exit.
+
+
+    Similarly, the Intelli-Green software at select LPG bottling plants has achieved full automation of packed and bulk truck operations, again from entry to exit. RFiD technology and other innovations introduced at the polymer plant in Panipat and polymer terminal in Paradip have likewise helped automate inbound and outbound processes with optimised workflows. With centralised automated systems taking care of core operations, the optimised manpower is free to focus on critical maintenance and safety-related issues.
+
+
+    New needs of the various business functions arising out of the lockdown are being continuously supported with software additions and modifications.
+
+
+    Office at home
+
+
+    Since the national lockdown announced on March 24 th , 2020, IndianOil employees in non-critical administrative offices have been working from home, providing backend support to the frontline teams manning the critical locations.
+
+
+    To align with the unprecedented scenario, the Corporation has attempted to create a digital twin of the workplace for its employees working from home. Virtual private networks (VPN) are being used to connect people to office servers and business applications and data hosted in them. Web-conferencing is enabling simulate office scenarios that require group discussion and collective decision-making. Right from Company Board meetings to senior management interactions with employee groups, field officers, resellers, petrol pump attendants & delivery boys, and farewells for retiring staff, things have gone digital through multiple tools.
+
+
+    New procedures have been put in place for processing bills, seeking approvals and making payments online. An Enterprise Content Management System rolled out in April 2019 to achieve a paperless office has proved to be invaluable in this crisis time. It hosts modules like collaboration, document management, e-approvals & business workflow automation, obviating the need for physical movement of files.
+
+
+    Post-lockdown announcement, additional apps were developed overnight for employees and their families seeking tele-consultation with doctors on the Corporation’s panels, and to enable work-from-home employees to mark their daily attendance and also give their Covid-19 status. A time-office attendance management system captures employee attendance details at 500+ locations on real-time basis.
+
+
+    The current lockdown has also spurred a technology-aided learning revolution in IndianOil. In Sept. 2019, the Corporation had launched Swadhyaya as an e-learning platform accessible to its employees from anywhere, anytime and on any device. With the entire content developed in-house by subject matter experts, Swadhyaya currently has about 470 modules covering about 70 business functions, and more content is being added on a continuous basis. The popularity of the e-portal can be gauged from that fact that over 17,500 IndianOil employees have accessed and completed over 4.5 lakh e-modules during the lockdown period.
+
+
+    Even with its work-from-home employees connecting to corporate digital hubs through the internet in large numbers, IndianOil’s robust IT infrastructure could withstand new demands on its networks, data centres and bandwidth. Special emphasis is being laid on monitoring cyber security threats through enhanced vigilance, advisories and webinars.
+
+
+    Incidentally, IndianOil is observing the year 2020 as the ‘Year of Digitalisation’ to highlight the current critical role and future potential of digitalisation in driving change and transforming people and processes.
+
+
+    This is stated in a press release issued by Shri. R Chidambaram, General Manager (Corporate Communications), IndianOil – Southern Region, Chennai
+
+    
+    
+    (Release ID: 1620133) Visitor Counter : 55

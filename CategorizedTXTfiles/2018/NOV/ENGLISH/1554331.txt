@@ -1,0 +1,827 @@
+      Ministry of Statistics & Programme Implementation
+
+      Estimates of Gross Domestic Product for the Second Quarter (July-September) of 2018-19
+      Posted On: 30 NOV 2018 5:30PM by PIB Delhi
+
+
+      The Central Statistics Office (CSO), Ministry of Statistics and Programme Implementation has released the estimates of Gross Domestic Product(GDP)for thesecond quarter (July-September) Q2 of 2018-19, both at Constant(2011-12) and Current Prices, along with the corresponding quarterly estimates of expenditure components of the GDP.
+
+
+    2. The details of estimates of GDP for Q2 of 2018-19arepresented below:
+
+
+    I ESTIMATES OF GVA BY ECONOMIC ACTIVITY
+
+
+    (a) At Constant (2011-2012) Prices
+
+
+    3. GDP at Constant (2011-12) Prices in Q2 of 2018-19 is estimated at `33.98 lakh crore, as against `31.72lakh crore in Q2 of 2017-18, showing a growth rate of 7.1 percent. Quarterly GVA (Basic Price) at Constant (2011-2012) Prices for Q2 of 2018-19 is estimated at `31.40 lakh crore, as against `29.38lakh crore in Q2 of 2017-18, showing a growth rate of 6.9 percent over the corresponding quarter of previous year.
+
+
+    4. The Economic Activities which registered growth of over 7 percent in Q2 of 2018-19 over Q2 of 2017-18 are ‘Manufacturing, ‘Electricity, Gas, Water Supply & Other Utility Services’‘Construction’ and‘Public Administration, Defence and Other Services’. The growth in the ‘Agriculture, Forestry and Fishing’, ‘Mining and Quarrying’, ‘Trade, Hotels, Transport, Communication and Services related to Broadcasting’ and Financial, Real Estate and Professional Services is estimated to be 3.8 percent, (-) 2.4 percent, 6.8 percent, and 6.3 percent respectively during this period.
+
+
+    5 . Industry Analysis
+
+
+    The second quarter estimates are based on Agricultural production during Kharif season of 2018-19obtained from theDepartment of Agriculture, Cooperation&Farmer Welfare (DAC& FW), abridged financial results of Listed Companies from BSE/NSE, Index of Industrial Production (IIP), monthly accounts of Union Government Expenditure maintained by Controller General of Accounts (CGA) and of State Government Expenditure maintained by Comptroller and Auditor General of India (CAG) for the period July-September2018-19. Performance of key sectors like Transport including Railways, Road, Air and Water Transport, etc., Communication, Banking and Insurance during the period July-September2018-19 have been taken into account while compiling the estimates. Performance of the Corporatesector during July-September2018based on data received from BSE/NSE hasbeen taken into account. With the introduction of Goods and Services Tax (GST) from 1 st July 2017 and consequent changes in the Tax Structure, the total Tax Revenue used for GDP compilation includes non-GST Revenue and GST Revenue based on GSTR filings as provided by Central Board of Indirect Taxes and Customs, Ministry of Finance.Estimated growth in the indicator compiled on the basis of employee expenses, profit before tax and depreciation of Listed Companies deflated by appropriate price indices has been used to extrapolate the Corporatesector estimates of the same quarter of the previous year.
+
+
+    Agriculture, Forestry and Fishing
+
+
+    5.1 Quarterly GVA at Basic Prices for Q22018-19 from ‘Agriculture, Forestry and Fishing’ sector grew by 3.8 percent as compared to growth of 2.6percent in Q22017-18. According tothe information furnished by the Department of Agriculture, Cooperation&Farmer Welfare (DAC& FW), which has been used in compiling the estimate of GVA from agriculture in Q2 of 2018-19, the production of Food Grains during the Kharif season of agriculture year 2018-19 grew by0.6percent as compared to growth of 1.7percent during the same period in2017-18.Around 55percent of GVA of this sector is based on the Livestock products, Forestry and Fisheries, which registereda combined growth of about6.7percent in Q2 of 2018-19.
+
+
+    Mining and Quarrying
+
+
+    5.2.Quarterly GVA at Basic Prices for Q22018-19 from ‘Mining and Quarrying’ sector declined by2.4percent as compared to growth of 6.9percent in Q22017-18. The key indicators of Mining sector, namely, production of Coal, Crude Oil and Natural Gas and IIP Mining registered growth rates of6.2percent, (-) 4.4 percent,(-) 2.0 percent and 1.0 percent, during Q2 of2018-19 as compared to 8.5 percent, (-) 0.7 percent, 4.7 percent and 7.1 percentrespectively, during Q2 of 2017-18.
+
+
+    Manufacturing
+
+
+    5.3 Quarterly GVA at Basic Prices for Q22018-19 from ‘Manufacturing’ sector grew by 7.4percent as compared to growth of 7.1percent in Q22017-18. The Private Corporate sector growth (which has a share of over75 percent in the Manufacturing sector)was estimated from available data of listed companies with BSE and NSE. The Quasi -Corporate and Unorganized segment (which has a share of over20percent in the Manufacturing sector)has been estimated using IIP of Manufacturing. IIP Manufacturing registered growth rate of5.5percent during Q2 of2018-19 as compared to 2.5 percent during Q2 of 2017-18.
+
+
+    Electricity, Gas, Water Supply and Other Utility Services
+
+
+    5.4 Quarterly GVA at Basic Prices for Q22018-19 from ‘Electricity,Gas, Water Supply and Other Utility Services’ sector grew by 9.2percent as compared to growth of 7.7percent in Q22017-18. The key indicator of this sector, namely, IIP of Electricity registered growth rate of7.5percent during Q2 of2018-19 as compared to 6.1percent in Q2 of 2017-18.
+
+
+    Construction
+
+
+    5.5 Quarterly GVA at Basic Prices for Q22018-19from ‘Construction’ sector grew by 7.8percent as compared to growth of 3.1percent in Q22017-18. Key indicators of Construction sector, namely, production of Cement and Consumption of finished Steel registered growth rates of12.5percent and7.2 percentrespectively, during Q2 of2018-19 as compared to 0.6percent,7.6percent respectively, in Q2 of 2017-18.
+
+
+    Trade, Hotels, Transport, Communication and Services related to Broadcasting
+
+
+    5.6. Quarterly GVA at Basic Prices for Q22018-19 from this sector grew by 6.8 percent as compared to growth of 8.5percent in Q22017-18. Key indicator used for estimating GVA from Trade sector is the Sales Tax growth. With introduction of GST, Sales Tax data is now subsumed under GST. Therefore, a comparable estimate of turnover based on Sales Tax has been estimated. Methodology of estimation is as explained in the Annex to the press note on estimates of GDP for the second quarter (July-September) of 2017-18 released on 30 th November, 2017. Indicator used for measuring GVA from Hotels and Restaurant sector is the Private Corporate growth in this sector. Among the Other Services sectors, Cargo handled at Major Sea Ports, Cargo handled by the Civil Aviation and passengers handled by the Civil Aviation registered growth rates of6.4 percent, 5.5 percent and 16.2 percent respectively, during July-September, 2018-19. Indicators of Railways sector, namely, Net Tonne Kilometers and Passenger Kilometers have shown growth of 6.9 percent and 2.2 percent respectively, duringQ2 of 2018-19.
+
+
+    Financial,Real Estate and Professional Services
+
+
+    5.7 Quarterly GVA at Basic Prices for Q22018-19 from this sector grew by6.3percent as compared to growth of 6.1 percent in Q22017-18. Major component of this industry is the Real Estate and Professional Services which has a share of over 75percent.The key indicators of this sector are the quarterly growth of Corporate sector for Real Estate, Business Services andComputer Related Activities which are estimated from available data from listed companies. The other indicators of this sector, viz., AggregateBankDeposits, and Bank Credits have shown growth rates of 8.1 percent and12.5 percent respectively as compared to 8.2 percent and 6.5 percentrespectively during 2017-18.
+
+
+    Public Administration, Defence and Other Services
+
+
+    5.8 Quarterly GVA at Basic Prices for Q22018-19 from this sector grew by 10 . 9percent as compared to growth of 6.1 percent in Q22017-18. The key indicator of this sector namely, Union Government Revenue Expenditure net of Interest Payments excluding Subsidies,grew by 22.2percent during Q2 of 2018-19 as compared to 0.8percent in Q2 of 2017-18.
+
+
+    (b) At Current Prices
+
+
+    6. GDP is derived by adding Taxes on Products net of Subsidies on Products to GVA at Basic Prices. GDP at Current Prices in Q2 of 2018-19 is estimated at `45.54 lakh crore, as against `40.68 lakh crore in Q2 of 2017-18, showing a growth rate of 12.0 percent. GVA at Basic Price at Current Prices in Q2 of 2018-19, is estimated at `41.46 lakh crore, as against `37.03lakh crore in Q2, 2017-18, showing an increase of12.0 percent.Growth rates in various sectors are as follows: ‘Agriculture, Forestry and Fishing’ (2.8 percent), ‘Mining and Quarrying’ (20.7 percent), ‘Manufacturing’ (12.2 percent), ‘Electricity, Gas, Water Supply and Other Utility Services’ (16.3 percent), ‘Construction’ (13.2 percent), 'Trade, Hotels, Transport and Communication' (12.3percent), 'Financial, Real Estate and Professional Services' (12.5 percent), and ‘Public Administration, Defence and Other Services' (16.1 percent).
+
+
+    (c) Price Indices used as Deflators
+
+
+    7. The Wholesale Price Index (WPI), in respect of the groups - Minerals, Manufactured products, Electricity and All Commodities, has registered a growth of 8.2 percent, 4.4 percent, 6.4 percent and 5.0 percent respectively whereas Food Articles declined by 2.1 percent during Q2 of 2018-19over Q2 of 2017-18. The Consumer Price Index (CPI) has shown a rise of 3.9percent duringQ2 of 2018-19as compared to growth of 3.0 percent during Q2 of 2017-18.
+
+
+    II ESTIMATES OF EXPENDITURES ON GDP
+
+
+    8. The components of Expenditure on Gross Domestic Product, namely, Consumption Expenditure and Capital Formation, are normally measured at Market Prices. The aggregates presented in the following paragraphs, therefore, are in terms of Market Prices.
+
+
+    Private Final Consumption Expenditure
+
+
+    9. Private Final Consumption Expenditure (PFCE) at Current Prices is estimated at `26.31 lakh crore in Q2 of 2018-19 as against`23.58 lakh crore in Q2 of 2017-18. At Constant (2011-12) Prices, the PFCE is estimated at`18.52 lakh crore in Q2 of 2018-19 as against`17.30 lakh crore in Q2 of 2017-18. In terms of GDP, the rates of PFCE at Current and Constant (2011-2012) Prices during Q2 of 2018-19 are estimated at 57.8 percent and54.5 percent, respectively, as against the corresponding rates of 58.0 per cent and 54.5 per cent respectively in Q2 of 2017-18.Growth rates of PFCE at Current and Constant Prices are estimated at 11.6 percent and 7.0 percent during Q2 of 2018-19 as compared to 9.9 percent and 6.8 percent respectively during Q2 of 2017-18.
+
+
+    Government Final Consumption Expenditure
+
+
+    10. Government Final Consumption Expenditure (GFCE) at Current Prices is estimated at`5.99lakh crore in Q2 of 2018-19 as against`5.10 lakh crore in Q2 of 2017-18.At Constant (2011-2012) Prices, the GFCE is estimated at`4.22lakhcrore in Q2 of 2018-19 as against`3.74lakh crorein Q2 of 2017-18. In terms of GDP, the rates of GFCE at Current andConstant(2011-2012) Prices during Q2 of 2018-19are estimatedat13.1 percent and12.4 percent, respectively, as against the corresponding rate of12.5 percent and11.8percentrespectively in Q2 of 2017-18.Growth rates of GFCE at Current and Constant Prices are estimated at 17.3 percent and 12.7 percent respectively during Q2 of 2018-19 as compared to 6.9 percent and 3.8 percent respectively during Q2 of 2017-18.
+
+
+    Gross Fixed Capital Formation
+
+
+    11. Gross Fixed Capital Formation (GFCF) at Current Prices is estimated at`13.28 lakh crore in Q2 of 2018-19 as against`11.37 lakh crore in Q2 of 2017-18. At Constant (2011-2012) Prices, the GFCF is estimated at`10.99 lakh crore in Q2 of 2018-19 as against`9.77 lakh crore in Q2 of 2017-18. In terms of GDP, the rates of GFCF at Current and Constant (2011-2012) Prices during Q2 of 2018-19 are estimated at29.2 percent and32.3 percent, respectively, as against the corresponding rates of 27.9 percent and30.8percent, respectively in Q2 of 2017-18. Growth rates of GFCF at Current and Constant Prices are estimated at 16.8 percent and 12.5 percent during Q2 of 2018-19 as compared to 8.4 percent and 6.1 percent during Q2 of 2017-18.
+
+
+    12. Estimates of GVA at Basic Price by kind of Economic Activity and the Expenditures on GDP in Q2(duringJuly-September) and in H1 (half yearly duringApril-September) of2016-17, 2017-18 and 2018-19 at Constant (2011-2012) and Current Prices, aregiven in Statements1 to 8.
+
+
+    13. The next release of quarterly GDP estimate for the quarter October-December, 2018 (Q3 of 2018-19) will be on 28.02.2019.
+
+
+    STATEMENT 1: QUARTERLY ESTIMATES OF GVA AT BASIC PRICES
+
+
+    IN Q2 (JULY-SEPTEMBER) OF 2018-19
+
+
+    (at 2011-12 Prices)
+
+                                                                                                                   
+Industry                                                                      (`in crore)         Percentage change
+                                                                                                                   
+                                                                                                                   
+                                                                                                
+GVA at Basic Price                                                            over previous year
+                                                                                                
+                                                                                                
+                                                                                                                                     
+2016-17                                                                       2017-18             2018-19            2017-18  2018-19
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                                                        
+Q1                                                                            Q2                  Q1                 Q2       Q1       Q2       Q1       Q2    Q1   Q2  
+                                                                                                                                                                        
+                                                                                                                                                                        
+ 1. Agriculture, Forestry & Fishing                                                                                                                                           
+                                                                              386986              324733             398609   333334   419747   346102   3.0   2.6  5.3   3.8 
+                                                                                                                                                                              
+                                                                                                                                                                              
+ 1. Mining & Quarrying                                                                                                                                                        
+                                                                              99129               71728              100811   76704    100954   74841    1.7   6.9  0.1   -2.4
+                                                                                                                                                                              
+                                                                                                                                                                              
+ 1. Manufacturing                                                                                                                                                             
+                                                                              510673              507701             501599   543682   569094   584164   -1.8  7.1  13.5  7.4 
+                                                                                                                                                                              
+                                                                                                                                                                              
+ 1. Electricity, Gas, Water Supply &Other Utility Services                                                                                                                    
+                                                                              62114               61945              66537    66717    71383    72858    7.1   7.7  7.3   9.2 
+                                                                                                                                                                              
+                                                                                                                                                                              
+ 1. Construction                                                                                                                                                              
+                                                                              225077              213851             229196   220536   249103   237836   1.8   3.1  8.7   7.8 
+                                                                                                                                                                              
+                                                                                                                                                                              
+ 1. Trade, Hotel, Transport, Communication &Services related to Broadcasting                                                                                                  
+                                                                              517644              501747             560913   544404   598724   581418   8.4   8.5  6.7   6.8 
+                                                                                                                                                                              
+                                                                                                                                                                              
+ 1. Financial, Real Estate & Professional Services                                                                                                                            
+                                                                              659189              727192             714789   771317   761405   820009   8.4   6.1  6.5   6.3 
+                                                                                                                                                                              
+                                                                                                                                                                              
+ 1. Public Administration, Defence& Other Services                                                                                                                            
+                                                                              314250              359272             356731   381131   392211   422770   13.5  6.1  9.9   10.9
+                                                                                                                                                                              
+                                                                                                                                                                              
+                                                                                                                                                                              
+GVA at Basic Price                                                            2775063             2768167            2929185  2937824  3162622  3139997  5.6   6.1  8.0   6.9 
+                                                                                                                                                                              
+                                                                                                                                                                              
+
+    STATEMENT 2: QUARTERLY ESTIMATES OF EXPENDITURES OF GDP
+
+
+    IN Q2 (JULY-SEPTEMBER) OF 2018-19
+
+
+    (at 2011-12 Prices)
+
+                                                                                 
+Item                                                (`in crore)  RATES OF GDP (%)
+                                                                                 
+                                                                                 
+                                                  
+Expenditures of Gross Domestic Product            
+                                                  
+                                                  
+                                                                                                   
+2016-17                                             2017-18      2018-19           2017-18  2018-19
+                                                                                                   
+                                                                                                   
+                                                                                                                                          
+Q1                                                  Q2           Q1                Q2       Q1       Q2       Q1       Q2     Q1     Q2   
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                                 
+1. Private Final Consumption Expenditure (PFCE)     1595219      1619781           1705974  1730288  1852663  1851644  54.7   54.5   54.9   54.5 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+2. Government Final Consumption Expenditure (GFCE)  313990       360466            369303   374216   397215   421664   11.8   11.8   11.8   12.4 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+3. Gross Fixed Capital Formation (GFCF)             960255       921132            968141   976881   1065217  1098675  31.0   30.8   31.6   32.3 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+4. Change in Stocks                                 22498        22367             21840    23672    23718    24580    0.7    0.7    0.7    0.7  
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+5. Valuables                                        37008        39255             82235    60550    75650    74677    2.6    1.9    2.2    2.2  
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+6. Exports                                          603715       612021            639145   653613   720410   741318   20.5   20.6   21.4   21.8 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+7. Less Imports                                     625621       654228            741150   719530   834103   903814   23.8   22.7   24.7   26.6 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+8. Discrepancies                                    46358        62743             72929    72420    73213    88875    2.3    2.3    2.2    2.6  
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+GDP                                                 2953421      2983537           3118417  3172110  3373983  3397620  100.0  100.0  100.0  100.0
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+GDP (Percentage change over previous year)                                         5.6      6.3      8.2      7.1                                
+                                                                                                                                                 
+                                                                                                                                                 
+
+    STATEMENT 3: QUARTERLY ESTIMATES OF GVA AT BASIC PRICES
+
+
+    IN Q2 (JULY-SEPTEMBER) OF 2018-19
+
+
+    (atCurrent Prices)
+
+                                                                                                                    
+Industry                                                                       (`in crore)         Percentage change
+                                                                                                                    
+                                                                                                                    
+                                                                                                 
+GVA at Basic Price                                                             over previous year
+                                                                                                 
+                                                                                                 
+                                                                                                                                      
+2016-17                                                                        2017-18             2018-19            2017-18  2018-19
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                                                          
+Q1                                                                             Q2                  Q1                 Q2       Q1       Q2       Q1       Q2    Q1    Q2  
+                                                                                                                                                                          
+                                                                                                                                                                          
+ 1. Agriculture, Forestry & Fishing                                                                                                                                             
+                                                                               563170              475789             566713   496356   606107   510157   0.6   4.3   7.0   2.8 
+                                                                                                                                                                                
+                                                                                                                                                                                
+ 1. Mining &Quarrying                                                                                                                                                           
+                                                                               83403               61720              94696    71203    111699   85920    13.5  15.4  18.0  20.7
+                                                                                                                                                                                
+                                                                                                                                                                                
+ 1. Manufacturing                                                                                                                                                               
+                                                                               575041              574997             579718   630767   682421   707525   0.8   9.7   17.7  12.2
+                                                                                                                                                                                
+                                                                                                                                                                                
+ 1. Electricity, Gas, Water Supply &Other Utility Services                                                                                                                      
+                                                                               90327               91141              97388    97819    110246   113729   7.8   7.3   13.2  16.3
+                                                                                                                                                                                
+                                                                                                                                                                                
+ 1. Construction                                                                                                                                                                
+                                                                               260680              250158             271537   264977   309052   300076   4.2   5.9   13.8  13.2
+                                                                                                                                                                                
+                                                                                                                                                                                
+ 1. Trade, Hotel, Transport, Communication & Services related to Broadcasting                                                                                                   
+                                                                               602741              590614             671076   660610   749349   742032   11.3  11.9  11.7  12.3
+                                                                                                                                                                                
+                                                                                                                                                                                
+ 1. Financial, Real Estate & Professional Services                                                                                                                              
+                                                                               767018              855853             859451   942353   963864   1060403  12.1  10.1  12.1  12.5
+                                                                                                                                                                                
+                                                                                                                                                                                
+ 1. Public Administration, Defence&Other Services                                                                                                                               
+                                                                               421386              490842             493286   539378   569466   626198   17.1  9.9   15.4  16.1
+                                                                                                                                                                                
+                                                                                                                                                                                
+                                                                                                                                                                                
+GVA at Basic Price                                                             3363766             3391115            3633866  3703464  4102203  4146040  8.0   9.2   12.9  12.0
+                                                                                                                                                                                
+                                                                                                                                                                                
+
+    STATEMENT 4: QUARTERLY ESTIMATES OF EXPENDITURES OF GDP
+
+
+    IN Q2 (JULY-SEPTEMBER) OF 2018-19
+
+
+    (at Current Prices)
+
+                                                                                 
+Item                                                (`in crore)  RATES OF GDP (%)
+                                                                                 
+                                                                                 
+                                                  
+Expenditures of Gross Domestic Product            
+                                                  
+                                                  
+                                                                                                   
+2016-17                                             2017-18      2018-19           2017-18  2018-19
+                                                                                                   
+                                                                                                   
+                                                                                                                                          
+Q1                                                  Q2           Q1                Q2       Q1       Q2       Q1       Q2     Q1     Q2   
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                                 
+1. Private Final Consumption Expenditure (PFCE)     2082484      2146473           2276387  2358320  2589809  2631073  58.4   58.0   58.4   57.8 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+2. Government Final Consumption Expenditure (GFCE)  407970       477261            490957   510364   553398   598719   12.6   12.5   12.5   13.1 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+3. Gross Fixed Capital Formation (GFCF)             1089771      1048896           1120067  1136805  1275225  1327985  28.7   27.9   28.8   29.2 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+4. Change in Stocks                                 24726        24724             24522    26682    27470    28661    0.6    0.7    0.6    0.6  
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+5. Valuables                                        40534        46975             84431    60936    71687    53356    2.2    1.5    1.6    1.2  
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+6. Exports                                          704192       720269            760244   788999   892035   933243   19.5   19.4   20.1   20.5 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+7. Less Imports                                     757439       797968            912714   898512   1069029  1173837  23.4   22.1   24.1   25.8 
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+8. Discrepancies                                    6254         48717             53504    84199    92770    155039   1.4    2.1    2.1    3.4  
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+GDP                                                 3598492      3715346           3897399  4067793  4433365  4554239  100.0  100.0  100.0  100.0
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+GDP (Percentage change over previous year)                                         8.3      9.5      13.8     12.0                               
+                                                                                                                                                 
+                                                                                                                                                 
+
+    STATEMENT 5: ESTIMATES OF GVA AT BASIC PRICES IN H1
+
+
+    (APRIL-SEPTEMBER) OF 2018-19
+
+
+    (at 2011-12 Prices)
+
+                                                                                                      
+                                                                              APRIL-SEPTEMBER (H1)    
+                                                                                                      
+                                                                                                      
+                                                                                                                             
+                                                                              (`in crore)               Percentage change    
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
+Industry                                                                      GVA at Basic Price in H1  Over previous year H1
+                                                                                                                             
+                                                                                                                             
+                                                                                                                                                        
+                                                                              2016-17                   2017-18                2018-19  2017-18  2018-19
+                                                                                                                                                        
+                                                                                                                                                        
+ 1. Agriculture, Forestry&Fishing                                                                                                                       
+                                                                              711719                    731942                 765849   2.8      4.6    
+                                                                                                                                                        
+                                                                                                                                                        
+ 1. Mining & Quarrying                                                                                                                                  
+                                                                              170857                    177515                 175796   3.9      -1.0   
+                                                                                                                                                        
+                                                                                                                                                        
+ 1. Manufacturing                                                                                                                                       
+                                                                              1018374                   1045282                1153258  2.6      10.3   
+                                                                                                                                                        
+                                                                                                                                                        
+ 1. Electricity, Gas, Water Supply &Other Utility Services                                                                                              
+                                                                              124059                    133253                 144241   7.4      8.2    
+                                                                                                                                                        
+                                                                                                                                                        
+ 1. Construction                                                                                                                                        
+                                                                              438928                    449732                 486938   2.5      8.3    
+                                                                                                                                                        
+                                                                                                                                                        
+ 1. Trade, Hotel, Transport, Communication &Services related to Broadcasting                                                                            
+                                                                              1019391                   1105317                1180142  8.4      6.8    
+                                                                                                                                                        
+                                                                                                                                                        
+ 1. Financial, Real Estate &Professional Services                                                                                                       
+                                                                              1386381                   1486106                1581414  7.2      6.4    
+                                                                                                                                                        
+                                                                                                                                                        
+ 1. Public Administration, Defence&Other Services                                                                                                       
+                                                                              673522                    737861                 814981   9.6      10.5   
+                                                                                                                                                        
+                                                                                                                                                        
+                                                                                                                                                        
+GVA at Basic Price                                                            5543231                   5867009                6302619  5.8      7.4    
+                                                                                                                                                        
+                                                                                                                                                        
+
+    STATEMENT 6: ESTIMATES OF EXPENDITURES OF GDP IN H1
+
+
+    (APRIL-SEPTEMBER) OF 2018-19
+
+
+    (at 2011-12 Prices)
+
+                                                                                              
+                                                  APRIL-SEPTEMBER (H1)                        
+                                                                                              
+                                                                                              
+                                                                                                                
+                                                  (`in crore)                                   Rates of GDP (%)
+                                                                                                                
+                                                                                                                
+                                                                                                                
+Item                                              Expenditures of Gross Domestic Product in H1  in H1           
+                                                                                                                
+                                                                                                                
+                                                                                                                                           
+                                                  2016-17                                       2017-18           2018-19  2017-18  2018-19
+                                                                                                                                           
+                                                                                                                                           
+ 1. Private Final Consumption Expenditure (PFCE)                                                                                           
+                                                  3215000                                       3436262           3704307  54.6     54.7   
+                                                                                                                                           
+                                                                                                                                           
+ 1. Government Final Consumption Expenditure                                                                                               
+                                                  674456                                        743519            818879   11.8     12.1   
+                                                                                                                                           
+                                                                                                                                           
+ 1. Gross Fixed Capital Formation (GFCF)                                                                                                   
+                                                  1881387                                       1945023           2163892  30.9     32.0   
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+4. Change in Stocks                               44864                                         45512             48298    0.7      0.7    
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+5. Valuables                                      76263                                         142785            150326   2.3      2.2    
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+6. Exports                                        1215737                                       1292758           1461728  20.6     21.6   
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+7. Less Imports                                   1279850                                       1460680           1737916  23.2     25.7   
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+8. Discrepancies                                  109101                                        145349            162088   2.3      2.4    
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+GDP                                               5936959                                       6290527           6771603  100.0    100.0  
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+GDP (Percentage change over previous year)                                                      6.0               7.6                      
+                                                                                                                                           
+                                                                                                                                           
+
+    STATEMENT 7: ESTIMATES OF GVA AT BASIC PRICES IN H1
+
+
+    (APRIL-SEPTEMBER) OF 2018-19
+
+
+    (at Current Prices)
+
+                                                                                                       
+                                                                               APRIL-SEPTEMBER (H1)    
+                                                                                                       
+                                                                                                       
+                                                                                                                              
+                                                                               (`in crore)               Percentage change    
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+Industry                                                                       GVA at Basic Price in H1  over previous year H1
+                                                                                                                              
+                                                                                                                              
+                                                                                                                                                         
+                                                                               2016-17                   2017-18                2018-19  2017-18  2018-19
+                                                                                                                                                         
+                                                                                                                                                         
+ 1. Agriculture, Forestry &Fishing                                                                                                                       
+                                                                               1038959                   1063069                1116264  2.3      5.0    
+                                                                                                                                                         
+                                                                                                                                                         
+ 1. Mining &Quarrying                                                                                                                                    
+                                                                               145124                    165899                 197618   14.3     19.1   
+                                                                                                                                                         
+                                                                                                                                                         
+ 1. Manufacturing                                                                                                                                        
+                                                                               1150038                   1210485                1389946  5.3      14.8   
+                                                                                                                                                         
+                                                                                                                                                         
+ 1. Electricity, Gas, Water Supply & Other Utility Services                                                                                              
+                                                                               181467                    195207                 223976   7.6      14.7   
+                                                                                                                                                         
+                                                                                                                                                         
+ 1. Construction                                                                                                                                         
+                                                                               510839                    536514                 609127   5.0      13.5   
+                                                                                                                                                         
+                                                                                                                                                         
+ 1. Trade, Hotel, Transport, Communication & Services related to Broadcasting                                                                            
+                                                                               1193355                   1331687                1491381  11.6     12.0   
+                                                                                                                                                         
+                                                                                                                                                         
+ 1. Financial, Real Estate & Professional Services                                                                                                       
+                                                                               1622871                   1801804                2024266  11.0     12.3   
+                                                                                                                                                         
+                                                                                                                                                         
+ 1. Public Administration, Defence&Other Services                                                                                                        
+                                                                               912228                    1032664                1195664  13.2     15.8   
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                         
+GVA at Basic Price                                                             6754880                   7337329                8248242  8.6      12.4   
+                                                                                                                                                         
+                                                                                                                                                         
+
+    STATEMENT 8: ESTIMATES OF EXPENDITURES OF GDP IN H1
+
+
+    (APRIL-SEPTEMBER) OF 2018-19
+
+
+    (at Current Prices)
+
+                                                                                             
+                                                 APRIL-SEPTEMBER (H1)                        
+                                                                                             
+                                                                                             
+                                                                                                               
+                                                 (`in crore)                                   Rates of GDP (%)
+                                                                                                               
+                                                                                                               
+                                                                                                               
+Item                                             Expenditures of Gross Domestic Product in H1  in H1           
+                                                                                                               
+                                                                                                               
+                                                                                                                                          
+                                                 2016-17                                       2017-18           2018-19  2017-18  2018-19
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+1. Private Final Consumption Expenditure (PFCE)  4228957                                       4634707           5220882  58.2     58.1   
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+2.Government Final Consumption Expenditure       885230                                        1001321           1152117  12.6     12.8   
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+3.Gross Fixed Capital Formation (GFCF)           2138667                                       2256872           2603210  28.3     29.0   
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+4. Change in Stocks                              49450                                         51204             56130    0.6      0.6    
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+5. Valuables                                     87510                                         145367            125043   1.8      1.4    
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+6. Exports                                       1424461                                       1549243           1825278  19.5     20.3   
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+7. Less Imports                                  1555407                                       1811226           2242865  22.7     25.0   
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+8. Discrepancies                                 54971                                         137704            247809   1.7      2.8    
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+GDP                                              7313838                                       7965192           8987603  100.0    100.0  
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+GDP (Percentage change over previous year)                                                     8.9               12.8                     
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                          
+H1: April- September                                                                                                                      
+                                                                                                                                          
+                                                                                                                                          
+
+    ***********
+
+
+    KSP
+
+    
+    
+    (Release ID: 1554331) Visitor Counter : 2588
+    
+    
+    
+    
+    
+
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.                     
+                       
+1.

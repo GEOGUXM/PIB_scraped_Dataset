@@ -1,0 +1,36 @@
+      Ministry of Education
+
+      IIT Researchers to offer an Al-based one-stop repository on Mahatma Gandhi
+      Posted On: 29 NOV 2019 6:02PM by PIB Kolkata
+
+
+    Kolkata, November 29, 2019
+
+    
+
+    
+    IIT Kharagpur as joined hands with National Council of Science Museums and IIT Gandhinagar to develop Gandhipedia, a one-stop portal for browsing Gandhian literature, life-events and his social network.
+    
+    The first phase of the project will involve digitization and indexing of more than 40 books of the Mahatma. which will be released and searchable on the portal. Beside this there will be social bots on Twitter that can regularly post text excerpts from Gandhiji's works and observe how these posts spread over the social media.
+
+
+    
+    "We will initially use his book 'My Experiments with Truth' for reconstructing the social network. This work would require Al enabled tools to read the indexed and digitized version. The results will be visualized by the modern powerful network visualisation tools and a dashboard of network statistics," said Prof. Animesh Mukherjee from IIT Kharagpur's Dept. of Computer Science and Engineering who is leading the project.
+
+
+    
+    The 1st phase is expected to be completed by March 2020. It will be followed by four more phases continuing year wise till March 2024. These phases would involve increasing the number of digitized publications by processing 100 volumes of collected works of Mahatma Gandhi, each volume containing several letters, speeches, etc. And further scaling up the social network construct for all of these hundred books.
+
+
+    
+    In the later phases of the project the researchers have plans to include similar digitized works (books, writings, thesis, chapters etc.) of other freedom fighters to mark the 75th year of independence. This would include eminent freedom fighters/leaders i.e. Netaji Subhas Chandra Bose, Lal Bahadur Shastri, Bal Gangadhar Tilak, Lala Lajpat Rai, Chandrashekhar Azad and Bhagat Singh. Similar social networks like Gandhiji shall be built for these freedom fighters to visualize the spatio-temporal dynamics of their relationships with different people over their lifetime.
+    
+
+    
+
+    
+    CG/CB
+
+    
+    
+    (Release ID: 1594285) Visitor Counter : 85

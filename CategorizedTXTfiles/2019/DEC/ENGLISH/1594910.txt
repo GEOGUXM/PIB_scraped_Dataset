@@ -1,0 +1,362 @@
+      Ministry of Commerce & Industry
+
+      Regulation of E-Commerce Companies
+      Posted On: 04 DEC 2019 4:46PM by PIB Delhi
+
+
+    There is no distinction between the taxation regimes of Indian and foreign e-commerce companies as such, however the taxation regimes applicable to domestic companies and foreign companies differ.
+
+
+    The income of domestic companies is taxed at the rate of 30% plus surcharge and cess however the Finance (No.2) Act, 2019 introduced a tax rate of 25 % plus surcharge and cess for domestic companies having a turnover or the gross receipt up to Rs. 400 crores. Further, in order to attract fresh investment, create jobs and stimulate overall economic growth the Taxation Laws (Amendment), Ordinance, 2019 promulgated on 20.9.2019 gave an option to existing domestic companies not availing any incentive/deductions to pay tax at the rate of 22 % plus 10 % surcharge and 4 % cess subject to meeting certain conditions. In addition, it also provided that new manufacturing companies not availing any incentive/deduction, set up on or after 01.10.2019 can avail the option to pay tax at the rate of 15 % plus 10 % surcharge and 4 % cess subject to meeting certain conditions.
+
+
+    In case of foreign companies, the income can arise in India in the following scenarios:
+
+     1. As a foreign company
+     2. Through branch of a foreign company operating in India
+     3. Through a domestic company as a subsidiary of a foreign company
+
+    The income of a foreign company is taxed at the rate of 40 % when the foreign company has a Permanent Establishment (PE) in India subject to the provisions under the Double Taxation Avoidance Agreement between India and the foreign country of which the foreign company is a resident, if any.
+
+
+    In 2016, India enacted and implemented the Equalisation Levy, which is a flat rate tax of 6% on the revenue derived by a non-resident MNE providing digital advertising services to Indian customers, without having a physical presence in India. The Levy is not a corporate income-tax and is not subject to any limitations under India’s tax treaties.
+
+
+    (b): Not Applicable.
+
+
+    (c): The extant Foreign Direct Investment (FDI) policy on e-commerce sector, inter-alia, specifies that e-commerce marketplaces will not directly or indirectly influence the sale price of goods or services and shall maintain a level playing field. Violations of FDI policy are covered under the penal provisions of the Foreign Exchange Management Act (FEMA).
+
+
+    In order to provide clarity to the extant FDI policy on e-commerce, this Department has issued Press Note 2 of 2018 on 26.12.2018 (Annexure-I) , and no changes have been made in the recent past in the FDI Policy on e-commerce sector.
+
+
+    Further, in order to ensure compliance of FDI guidelines contained in Press Note 2(2018), this Department has requested DEA and RBI to notify the following clause under FEMA:
+
+
+    “e-Commerce marketplace entity with FDI will have to obtain and maintain a report of statutory auditor by 30th of September of every year for the preceding financial year confirming compliance of the e-commerce guidelines.”
+
+
+    A National e-Commerce policy is under preparation. The first draft of the policy was placed in public domain on 23 rd February, 2019 for seeking comments/inputs of stakeholders. On the basis of the inputs/comments received, the draft National e-Commerce policy is being prepared with an aim to create a facilitative regulatory environment for growth of e-commerce sector in India.
+
+
+    The measures taken by the Government to give impetus to Startups is at Annexure-II .
+
+
+    ANNEXURE-I
+
+
+    Review of the policy on Foreign Direct Investment (FDI) in e-commerce
+
+
+    1.0 In order to provide clarity to FDI policy on e-commerce sector, Para 5.2.15.2 of
+
+
+    the Consolidated FDI Policy Circular 2017 will now read as under:
+
+
+    5.2.15.2 E-commerce activities
+
+                                                        
+Sector/Activity         % of Equity/FDI Cap  Entry Route
+                                                        
+                                                        
+                                                        
+E- commerce activities  100%                 Automatic  
+                                                        
+                                                        
+
+    5.2.15.2.1 Subject to provisions of FDI Policy, e-commerce entities would engage only in Business to Business (B2B) e-commerce and not in Business to Consumer (B2C) e-commerce,
+
+
+    5.2.15.2.2 Definitions:
+
+     1. E-commerce- E-commerce means buying and selling of goods and services including digital products over digital & electronic network.
+     2. E-commerce entity- E-commerce entity means a company incorporated under the Companies Act 1956 or the Companies Act 2013 or a foreign company covered under section 2 (42) of the Companies Act, 2013 or an office, branch or agency in India as provided in section 2 (v) (iii) of FEMA 1999, owned or controlled by a person resident outside India and conducting the e-commerce business.
+     3. Inventory based model of e-commerce- Inventory based model of e-commerce means an e-commerce activity where inventory of goods and services is owned by e-commerce entity and is sold to the consumers directly.
+     4. Marketplace based model of e-commerce- Marketplace based model of e-commerce means providing of an information technology platform by an e-commerce entity on a digital & electronic network to act as a facilitator between buyer and seller.
+
+    5.2.15.2.3 Guidelines for Foreign Direct Investment on e-commerce sector
+
+     1. 100% FDI under automatic route is permitted in marketplace model of e-commerce.
+     2. FDI is not permitted in inventory based model of e-commerce.
+
+    5.2.15.2.4 Other Conditions
+
+     1. Digital & electronic network will include network of computers, television channels and any other Internet application used in automated manner such as web pages, extranets, mobiles etc.
+     2. Marketplace e-commerce entity will be permitted to enter into transactions with sellers registered on its platform on B2B basis.
+     3. E-commerce marketplace may provide support services to sellers in respect of warehousing, logistics, order fulfillment, call centre, payment collection and other services.
+     4. E-commerce entity providing a marketplace will not exercise ownership or control over the inventory i.e. goods purported to be sold. Such an ownership or control over the inventory will render the business into inventory based model. Inventory of a vendor will be deemed to be controlled by e-commerce marketplace entity if more than 25% of purchases of such vendor are from the marketplace entity or its group companies.
+     1. An entity having equity participation by e-commerce marketplace entity or its group companies, or having control on its inventory by e-commerce marketplace entity or its group companies, will not be permitted to sell its products on the platform run by such marketplace entity.
+     2. In marketplace model goods/services made available for sale electronically on website should clearly provide name, address and other contact details of the seller. Post sales, delivery of goods to the customers and customer satisfaction will be responsibility of the seller.
+     3. In marketplace model, payments for sale may be facilitated by the e-commerce entity in conformity with the guidelines of the Reserve Bank of India.
+     4. In marketplace model, any warrantee/ guarantee of goods and services sold will be responsibility of the seller.
+     5. E-commerce entities providing marketplace will not directly or indirectly influence the sale price of goods or services and shall maintain level playing field. Services should be provided by e-commerce marketplace entity or other entities in which e-commerce marketplace entity has direct or indirect equity participation or common control, to vendors on the platform at arm's length and in a fair and non­discriminatory manner. Such services will include but not limited to fulfilment, logistics, warehousing, advertisement/ marketing, payments, financing etc. Cash back provided by group companies of marketplace entity to buyers shall be fair and non-discriminatory. For the purposes of this clause, provision of services to any vendor on such terms which are not made available to other vendors in similar circumstances will be deemed unfair and discriminatory.
+     6. Guidelines on cash and carry wholesale trading as given in para 5.2.15.1.2 of Consolidated FDI Policy Circular 2017 will apply on B2B e-commerce.
+     7. e-commerce marketplace entity will not mandate any seller to sell any product exclusively on its platform only.
+     8. e-commerce marketplace entity will be required to furnish a certificate along with a report of statutory auditor to Reserve Bank of India, confirming compliance of above guidelines, by 30th of September of every year for the preceding financial year.
+
+    Subject to the conditions of FDI policy on services sector and applicable laws/regulations, security and other conditionalities, sale of services through e-commerce will be under automatic route.
+
+
+    3.0 The above decision will take effect from 01 February, 2019.
+
+
+    ANNEXURE-II
+
+
+    Steps taken under Startup India initiative
+
+
+     1. Compliance Regime based on Self-certification
+
+
+    Startups recognized under Startup India initiative can self-certify their compliance against the 6 labour laws and 3 environmental laws.
+
+      * 15 States have implemented self-certification for 5 years and 12 States have implemented self-certification for 3 years. 9 States/UTs are yet to implement the self-certification.
+      * 9 States (Haryana, Madhya Pradesh, Maharashtra, Rajasthan, Gujarat, Uttar Pradesh, Punjab, Uttarakhand, and Delhi) have integrated their portals with Shram Suvidha Portal
+      * 169 DPIIT recognized Startups have availed the benefits of self-certification.
+
+    2. Startup India Hub
+
+      * Startup India works in a hub and spoke model and collaborates with Central & State governments, Indian and foreign VCs and ecosystem stakeholders
+      * Startups are assisted through their lifecycle with a specific focus on important aspects like obtaining financing, feasibility testing, business structuring advisory and enhancement of marketing skills
+      * Startup India has organized mentorship programs in collaboration with government organizations, incubation centers, and educational institutions
+      * 1,57,138 queries have been addressed by the Startup India team as of 22 nd November 2019.
+
+    3 Startup India Portal and Mobile App
+
+      * 3,60,406 users registered on the Startup India Portal as of 22 nd November 2019.
+      * 2,54,339 aspiring and existing entrepreneurs logged in for the learning and development course as of 22 nd November 2019.
+      * 6,948 mentor, investor and incubator connections have been established through the portal for Startups as of 25 th November 2019.
+      * More than 175 Innovation Hunts and programs have been hosted on the Startup India portal by various government departments and corporates as of 25 th November 2019.
+      * Total number of Startups recognized under Startup India Initiative are 24,921 as on 21.11.2019
+
+    4. Legal Support and Fast-tracking Patent Examination at Lower Costs
+
+      * Startups are eligible for 80% rebate in patent filing fees and 50% rebate in trademark filing fees. Additionally, Startups are also considered for expedited examination of patent applications to reduce time taken in granting patents.
+      * 1,031 Facilitators have been empanelled for free of cost filing & facilitation
+      * 1,630 patent applications have been granted 80% rebate on filing fee.
+      * 2,895 trademark applications have been granted 50% rebate on fill fee.
+      * 474 applications were granted expedited examination
+
+     1. Relaxed Norms of Public Procurement for Startups
+
+      * Startups have been exempted from submitting Earnest Money Deposit requirements (Jul’17)
+      * Public procurement norms have been relaxed for startups through exemptions on (Nov’16)
+          + Prior turnover criteria; and
+          + Prior experience criteria
+
+    Applicable on all tenders issued by Central Ministries and Central Public Service Undertakings (CPSUs)
+
+      * GeM ‘Startup Runway’ has been launched – dedicated for startups to sell products and services to Government (Feb’19) - 2,804 Startups have been registered on GeM; 13,666 orders have been placed to startups; value of orders served by startups is to the tune of Rs. 463.45 crore
+
+    6. Faster Exit for Startups
+
+      * Ministry of Corporate Affairs has notified Startups as “Fast track firms”
+      * This enables them to wind up operations within 90 days as against 180 days for other companies through Insolvency and Bankruptcy Board
+
+    7. Funding Support through a Fund of Funds
+
+      * The Cabinet has approved the establishment of ‘Fund of Funds for Startups (FFS) at SIDBI for contribution to various Alternative Investment Funds (AIFs) with a corpus of Rs10,000 Cr. The corpus is to be built up over the 14th and 15th Finance Commission cycles.
+      * A total of Rs 700 Crore has been released till now
+      * 2x Govt. contribution received by venture funds is invested into DPIIT recognized startups
+      * SIDBI has committed Rs 3123.20 Cr to 47 SEBI registered Alternative Investment Funds (AIFs).
+      * INR 695.94 Cr. have been drawn from the SIDBI Fund of Funds
+      * Rs. 2,669.83 Cr. have been invested into 279 startups
+
+    8. Tax Exemption on Capital Gains
+
+
+    Tax exemption shall be given to persons who have capital gains during the year if they have invested such capital gains in the Funds recognized by the Government
+
+      * Amendment in Section 54GB of Income Tax Act: Exemption from tax on capital gains arising out of sale of residential house or a residential plot of land if the amount of net consideration is invested in prescribed stake of equity shares of eligible Startup for utilizing the same for purchase of specified asset. (Feb, 2016)
+      * Minimum Alternate Tax credit allowed to be carried forward up to fifteenth assessment years instead of ten assessment years. (2017)
+      * Extension of benefit under section 54GB shall be available for sale of residential property on or before 31st March 2021
+
+    9. Tax Exemption to Startups for 3 years
+
+      * With a view to stimulate the development of Startups in India and provide them a competitive platform, the profits of Eligible DPIIT Recognized Startups are exempt from income-tax for a block of 3 years out of 7 years since incorporation under Section 80IAC of the Income Tax Act.
+      * 247 startups have been granted tax exemptions as on 25 th November2019
+
+    10. Tax Exemption on Investments above Fair Market Value
+
+
+      * DPIIT Recognized Startups are exempt from tax under Section 56(2)(viib) of the Income Tax Act when such a Startup receives any consideration for issue of shares which exceeds the Fair Market Value of such shares
+
+      * 1,658 startups have been granted tax exemptions as of 25 th November 2019.
+
+    11. State’s Startup Ranking Framework
+
+
+    DPIIT launched the States’ Startup Ranking Framework on 6th February 2018. The key objective of the Startup States Ranking Framework 2018 (SRF- 2018) was to encourage States and UTs to take proactive steps towards strengthening the Startup ecosystem within their jurisdiction. There were 38 action points categorized into 7 broad areas such as Startup Policy and Implementation, Incubation support, Seed Funding, Angel and Venture Funding, Simplification of Regulations, Easing Public Procurement and Awareness & Outreach. The ranking methodology aims to create a healthy competition among States to further learn, share and adopt best practices. A compendium of good practices was also launched, listing 95 good practices implemented by various State Governments. Knowledge Workshops were held to assist States in formulating policies and executing appropriate programs. Visits to USA and Israeli ecosystems were facilitated for State Government representatives to enable the transfer of information and knowledge from the best ecosystems of the world. The final rankings of SRF 2018 were announced on 20th December, 2018 and the States were felicitated by DPIIT. 27 States and 3 Union Territories participated in the exhaustive ranking exercise.
+
+
+    As a result of SRF 2018, new Startup policies were launched, old and archaic laws were abolished, new Government orders were issued and many Startups were supported .Some of the major impacts of the ranking exercise include Implementation of Startup Policies in 25 States, Seed Funding to 3213 Startups; Funding of 163 Startups through Venture Funds; 17 States announcing incentives for women entrepreneurs; Incubation area of 10.2 lakh sq.ft supported by State Governments; Establishment of 596 Entrepreneurship Cells across 340 districts; Registration of 1996 mentors across 19 States and organization of 233 Startup events across 21 States.
+
+
+    12. Startup Yatra
+
+      * Startup India launched Startup India Yatra in 2017 to promote entrepreneurship in rural and non-metro regions across States. Under this program, grassroot Startup aspirants were provided incubation, mentorship and funding support.
+      * The Yatra starts with the launch and flagging off of the Startup India Yatra Van. This van travels around the state to different colleges spreading awareness about the central and state level startup policies as well as providing an opportunity to aspiring entrepreneurs to pitch their ideas online.
+      * As part of the program, bootcamps are also organized in tier-2 and tier-3 districts of the state where participants attend an ideation workshop and pitch their ideas. The ideas shortlisted from these bootcamps further attend a two-day acceleration program.
+      * Startup Yatra has been conducted across 23 States in 207 districts impacting 78346 aspiring entrepreneurs. A total of 1,424 incubation offers have been given to the startups as on May 2019.
+
+    13. Organizing Startup Fests for Showcasing Innovation and Providing a Collaboration Platform.
+
+
+    DPIIT has organized various Startup events. Some of such key events are as follows:
+
+         1. Roundtable headed by Minister of Commerce and Industry with Venture Fund managers in April, 2018 at Mumbai;
+         2. Roundtable with Singapore delegation led by Enterprise Singapore &TiE Singapore in August, 2018 at Delhi;
+         3. Roundtable with Japanese startups led by JETRO in September, 2018 at Delhi;
+         4. Roundtable headed by Secretary DPIIT with Venture Fund managers in August, 2018 at Delhi;
+         5. Roundtable with Finance Secretary on banking regulations faced by startups in September, 2018 at Delhi;
+         6. Startup India Global Venture Capital Summit in December, 2018 at Goa;
+         7. Roundtable headed by Secretary DPIIT on Angel Tax regulations in February, 2019 at Delhi;
+         8. Startup Manthan @ Aero India in February 2019 at Bengaluru;
+         9. Speed Mentoring Session for Women Entrepreneurs in March, 2019 at Delhi;
+        10. Roundtable headed by Secretary DPIIT on Accreditation of investors in April, 2019 at Delhi;
+        11. Roundtable with Central Government Departments on best practices for promoting startups in May, 2019 at Delhi
+
+     1. Launch of Atal Innovation Mission (AIM) with Self-Employment and Talent Utilization (SETU) Program
+
+      * 8,878 schools have been selected across the country where Atal Tinkering Labs will be established
+      * 4,020 have already received INR 12 Lakhs grant each and are operational
+      * Total grant of Rs.482.40 Crore has been given to Atal Tinkering Labs
+      * NITI has launched Innovation Awards through the challenge route by the name of Atal New India Challenges (ANIC)
+      * Call for applications in 24 focus areas across 5 ministries
+      * 26 Applicants have been shortlisted for funding and handholding support and additional 26 applicants are shortlisted for handholding support
+
+     1. Harnessing Private Sector Expertise for Incubator Setup
+
+      * Atal Innovation Mission has selected 102 incubators across the country to provide financial support through grants in aid
+      * 38 Atal Incubation Centers and 9 Established Incubation Centers are operational across the country
+      * INR 139.91 Cr has been disbursed to these 38 AICs and 9 EICs
+      * More than 620 Startups incubated in AICs/EICs out of which 121 are women-led start-ups
+      * More than 14,000 jobs created
+      * More than 150 MSME’s supported to build business sustainability
+      * More than 500 mentors on-boarded by the AICs/EICs to guide the Startups
+
+    16. B uilding Innovation Centres at National Institutes – Department of Science and Technology
+
+      * 11 TBIs (Technology Business Incubators) approved
+      * INR 42.2 Cr has been sanctioned out of which 18.7 Cr disbursed
+      * 21 new TBIs (over and above 15 TBIs envisaged) and 5 Center of Excellence (COEs) are proposed to be established
+
+    17. Setting up of 7 New Research Parks
+
+      * INR 575 Cr has been sanctioned out of which INR 250 Cr has been disbursed
+      * The Research Park at IIT Gandhinagar is expected to be operational by January 2020
+
+     1. Promoting Startups in the Biotechnology Sector
+
+      * 4 bio-clusters at Kalyani, Bangalore, Faridabad, and Pune are operational. INR 401 crore has been sanctioned, and INR 300 crore has been disbursed to these bio-clusters
+      * 41 bio-incubators have been supported and all of them are operational. INR 272.26 crore has been sanctioned and INR 193.88 crore has been crore disbursed.
+      * 5 Bio-connect offices established as following:
+
+    1. CCAMP, Bengaluru with California Institute for Quantitative Biosciences (QB3)
+
+
+    2. CCAMP- Sister Innovation HUB with Roslin Innovation Centre, University of Edinburgh, UK
+
+
+    3. CEIIC BioNEST with European Union
+
+
+    4. KIIT BioNEST – with TECHNOPORT SA – BELVAL Business Incubator, Luxembourg
+
+
+    5. KIIT BioNEST – with Start-Life Centre, Wageningen University Netherland
+
+      * 4 BIRAC Regional Centres have already been set up at Hyderabad, Bengaluru, Bhubaneswar, and Pune. INR 16.95 cr has been sanctioned, and INR 9.42 cr has been disbursed.
+      * Biotech equity fund has been established as Fund of Funds with INR 150 crore. So far, INR 150 crore has been committed to Alternate Investment Funds (AIFs). INR 25.1 crore has been disbursed
+      * BIRAC’s SEED Fund with 14 Bio-incubators as Seed fund partners are operational. INR ₹ 26 Cr has been sanctioned for BIRAC SEED Fund; Rs. 18.3 Cr has been disbursed
+
+     1. Innovation Focused Programs for Students
+
+      * This initiative is coordinated by Department of Science and Technology and Ministry of Human Resource Development.
+      * 224 applications have been received under NIDHI (National Initiative for Developing and Harnessing Innovations).Out of 30 finalists selected, 12 student run teams have been awarded Rs 10 Lakh each. 148 projects have been sanctioned and Rs 220.75 crore has been released under the Uchchatar Avishkar Yojana scheme. Rs10,000 has been granted to 1,03,497 students in the last 3 years under the MANAK (Million Minds Augmenting National Aspiration and knowledge) Scheme.
+
+    Steps specific to taxation for Startups:
+
+
+    In order to provide an impetus to start-ups and facilitate their growth in the initial phase of their business various measures have been undertaken by the Government including the following:
+
+
+    1. In order to facilitate ease of doing business and to promote start up India numerous tax incentives have been provided as under:
+
+
+    (a) 100% deductions to the profit of the start-up:
+
+
+    Section 80-IAC in the Act has been provides for 100%, deduction to profits of eligible start-ups for three consecutive years out of seven years from the year in which such start-up is incorporated. The benefit is available to start ups incorporated on or after the 1st day of April 2016 but before the 1st day of April, 2021 and are engaged in innovation, development or improvement of products or processes or services, or a scalable business model with a high potential of employment generation or wealth creation.
+
+
+    (b) Exemption from capital gains for investment in start-up:
+
+
+    In order to incentivize the investment in the eligible start-up, section 54GB of the Income-tax Act has been amended so as to provide that capital gain arising from transfer of residential property (residential house or plot of land) to an individual or HUF shall be exempted from taxation if the same is invested in the capital of eligible start-up subject to fulfilment of certain specified conditions.
+
+
+    (c) Relaxation for carry forward and set-off of loss by start-up:
+
+
+    Section 79 of the Income-tax Act contains certain restrictions for carry forward and set-off of losses in case of certain companies in case of change of majority shareholding. In order to facilitate the new investment in the start-up, the provisions of section 79 have been amended so as to allow an option to an eligible start-up to carry forward and set-off of losses even in the case of change in majority shareholding if the original shareholders continue to hold their shares.
+
+
+    (d) Exemption from deeming of income for excessive share valuation:
+
+
+    Section 56(2)(viib) provides for deeming of income in case the shares are issued at a price higher than the fair market value of such shares. In order to ease the compliance burden as well as to promote the start-ups, this provision has been relaxed in the case of recognised start-ups. Under this relaxed regime, the provisions of section 56(2)(viib) are not applicable to the recognised start-up if it files a declaration. As this regime was notified in February, 2019, a circular has been issued by the CBDT for making this regime applicable to the assessment completed in the past also.
+
+
+    2. Further, a series of announcements have been made by the Hon’ble Finance Minister in her Budget Speech of 2019 and also on 23 rd August, 2019 addressing the grievances of Startups. To give effect to these announcements, the Central Board of Direct Taxes (CBDT) has issued various circulars/clarifications in the matter.
+
+
+    (i) Assessment of Startups: -
+
+
+    The circular No. 16/2019 dated 7 th of August,2019 provided the following procedure for pending assessment of the Startups so that the process of scrutiny assessment is made hassle free in the case of eligible Startups: -
+
+
+     1. In case of Startup companies recognized by the DPIIT which have filed Form No. 2 and whose cases are under “limited scrutiny” on the single issue of applicability of section 56(2) (viib) of the Act, the contention of the assessee will be summarily accepted.
+
+
+     1. In case of Startup companies recognized by DPIIT which have filed Form No. 2 and whose cases have been selected under scrutiny to examine multiple issues including the issue of section 56(2) (viib) of the Act, the issue will not be pursued during the assessment proceedings and inquiry on other issues will be carried out by the Assessing Officer only after obtaining approval of the supervisory authority.
+
+
+     1. In case of Startup Companies recognized by the DPIIT, which have not filed Form No. 2, but have been selected for scrutiny, the inquiry in such cases also will be carried out by the Assessing Officer only after obtaining approval of the supervisory authorities.
+
+
+    (ii) Procedure for addition made u/s 56(2) (viib) in the past assessment: The clarification issued on 9 th August, 2019 provided that the provisions of the section 56(2)(viib) of the Act shall also not be applicable in respect of assessment made before 19 th February, 2019 if a recognized Startups has filed declaration in Form No. 2 and ensuring a hassle free environment to eligible Startups during appellate stage as well.
+
+
+    (iii) Income-tax demand: - It has also been intimated that the outstanding Income-tax demand relating to additions made under section 56(2) (viib) shall not be pursued and no communication with the assessee in respect of outstanding demand shall be made for this purpose. In respect of other Income-tax demand, it was decided that the Income-tax demand shall not be pursued unless the demand is confirmed by the ITAT.
+
+
+    (iv) Constitution of Startup cell: In order to redress the grievances and to address various tax related issues in the case of Startups, a Startup Cell at the level of CBDT has been constituted on 30 th August, 2019. This Startup cell has been given wide publicity and is placed at the public forum so that it remains easily accessible to all kinds of queries from the Startups.”
+
+
+    This information was given by the Minister of Commerce and Industry, Piyush Goyal, in a written reply in the Lok Sabha today.
+
+
+    ***
+
+
+    MM/ SB
+
+    
+    
+    (Release ID: 1594910) Visitor Counter : 772
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+1.

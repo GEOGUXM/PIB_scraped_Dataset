@@ -1,0 +1,127 @@
+      Ministry of Education
+
+      Minister of State for HRD Shri Sanjay Dhotre launchesShaalaDarpan portal for NavodayaVidyalayaSamiti
+      ShalaDarpan Portal will bring transparency in NavodayaVidyalayas : Shri Sanjay Dhotre
+
+      Posted On: 06 NOV 2019 6:31PM by PIB Delhi
+
+    Minister of State for Human Resource Development, Shri Sanjay Dhotre launched ShaalaDarpan portal, an E-Governance school automation and management system for NavodayaVidyalayaSamiti (NVS) in New Delhi today. Thissingle integrated platform has been developed for information sharing and knowledge dissemination for the 22000 employees and over 2 lakh students across schools and offices of NavodayaVidyalayaSamiti.Commissioner of NavodayaVidyalayaSamitiShri Bishwajit Kumar Singh and Executive Director of C-DAC Shri VivekKhanejawere also present on this occasion.
+
+
+    While addressing the gathering Shri Dhotre highlighted the crucialcontribution of NavodayaVidyalayas and its teachers in educationally uplifting the rural children. He added that the teachers along with the non-teaching staff serve these rural children round the clock, in remote and even in difficult geographical locations. And because of such sustained round-the-clock involvement with the children, they are able to provide all-round development, not just scholastic acheivents, to these children.Shri Dhotre further added that the comprehensive portal, ShalaDarpan, will not only make different processes of NavodayaVidyalayas very smooth, but it will also bring transparency.
+
+
+    ShaalaDarpan is an end to end e-Governance school automation and management system. It has been implemented at Navodaya Vidyalaya Samiti as the first major initiative to enable automation of all activities of the country’s largest residential schooling system through a single umbrella - 636 schools, 8 Regional Offices, 8 NLIs and Head Quarter.
+
+
+    The system has several pluggable components that can interact with each other. These are enlisted below:
+
+     1. School Information and Management System for complete school automation
+     2. Bilingual Content Management Portal for information dissemination
+     3. Employee ERP to manage the day to day activities of all employees
+     4. Budget & Finance management system
+     5. Inventory & Store management system
+     6. Library management system
+
+    Components of School Information and Management System:
+
+     1. Student Management Information System
+     2. Parent Guardian Information System
+     3. Class & Teacher Management System
+     4. Subject Management System
+     5. Time Table Management System
+     6. Attendance Monitoring with a mobile app
+     7. Hostel & Mess management system for residential schools
+     8. Student Health Card to monitor student health and vitals
+     9. Assignment & Project Management System
+    10. Exam & Results system
+    11. Activities Management System
+
+    System Stake-holders
+
+
+    The stake holders of the system include the following:
+
+     1. Officers of NVS can do the following:
+         1. Manage their courses better
+         2. Manage the entire activities in NVS schools in an efficient manner
+         3. Create a information rich content store for future reference
+         4. Manage their personal records better
+         5. Have easy single point access to information shared across the offices of NVS
+         6. Senior management can manage the courses, funds, etc. better with the aid of analytical dashboards
+     2. Students can access their own personal records, information rich content, their entire life in NVS as a single visual album, etc. with greater ease
+
+    External Audience:
+
+     1. Citizens wishing to know about NVS and their working can now visit the single Integrated Content Management Platform
+     2. Parents of students can get to know the life of their students inside JNV with a single click.
+
+    Government can study the working of NVS through up to date data.
+
+
+    ShaalaDarpan Impact:
+
+
+      * Unified, Dynamically Integrated, maintained view of NVS data
+
+      * Increased visibility of student and institution achievements
+      * Link Industry and academia by way of Alumni portal
+      * Improvised & Controlled information dissemination
+      * Increased outreach
+      * Navigation ease for end users
+      * Increased organisation collaboration
+      * Collaboration beyond classrooms
+      * Rich Assignment and Project store
+      * Analytical Dashboards to aid real time performance audit
+      * Rich learning resource store
+      * Real-time alerts to safe guard missing children
+      * Album of a child’s complete life in Navodaya Vidyalaya
+      * Increased daily productivity
+      * Connect JNV Schools and Offices
+
+    Benefits of the system:
+
+      * More efficient processes:
+          + Reduced time for information searching.
+          + Timely completion of important processes like APAR.
+          + All essential documents available in one click.
+          + Timely information intimations like absence of students in class, movement of students outside the campus, any important notifications from management to officers.
+      * Ease of stakeholders:
+          + Easy interface navigation with important alerts.
+          + Responsive GUI helps user to access the system on hand held devices mobile and tablets.
+          + Analytical dashboards for analysis and inference by management.
+          + Easy navigation and information access for citizens.
+          + Information sharing on portals in two languages – English and Hindi, for sharing of information with end users.
+          + Compliance to GIGW guidelines make the portals usable by differently abled users as well.
+      * Increased transparency
+          + Status of actions taken in every module is available to the individual officers as well as NVS Officials at every stage of processing.
+          + One-Go Dash-Board to see the information of every aspect of the project, thus aiding faster and evidence based decision making.
+      * Structured and Efficient way of working
+          + Manual processes now automated processing bringing in operational efficiency
+          + Automated alerts and reminders for informing users of any actions that are required at their end.
+          + Process transparency both for individual users and management.
+          + Record store helps future references.
+      * In line with the Government’s manifesto on Education
+          + Link between Industry and academia by way of Alumni portal
+          + Online Assignments, Improvised Projects with students from different classes, streamlined monitoring, etc. via School Information System thus reworking the work culture of teacher training institutions with a goal to prepare committed performing teachers.
+          + Inspection reports and monitoring dashboards to aid real time performance audit
+
+    Online rich reference store for students to relieve them from huge bags.
+
+
+    *****
+
+
+    NB/AKJ/OMJ
+
+    
+    
+    (Release ID: 1590656) Visitor Counter : 762
+    
+    
+      Read this release in: Urdu , Hindi
+    
+    
+    
+
++

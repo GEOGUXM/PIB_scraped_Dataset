@@ -1,0 +1,29 @@
+      Ministry of Road Transport & Highways
+
+      Ministry of Road Transport & Highways Issues Standard Operating Procedure for Acceptance of Transport Related Information in Electronic form
+      Posted On: 18 DEC 2018 3:55PM by PIB Delhi
+
+
+    The Ministry of Road Transport & Highways has issued Standard Operating Procedure (SOPs) ensuring that vehicle owners may be allowed to present their documents like certificate of registration, insurance, fitness and permit, driving licence, certificate for pollution under check and any other relevant documents, etc in electronic format. They may now not be required to carry these documents in hard formats. Electronic form with reference to information, means any information generated, sent, received or stored in media, magnetic, optical, computer memory, micro film, computer generated microfiche or similar device. In a communication to all States and UTs, the Ministry has urged that the SOP may be adopted for ensuring compliance with the provisions of rule 139 of the Central Motor Vehicles Rules, 1989.
+
+
+    People can produce the documents or other information either through the Digilocker app or the mParivahan app. They can download the Driving Licence or the Registration Certificate through these apps and store on their mobile devices. They can also show particulars relating to the Driving Licence or the Vehicle through the mParivahan app on the mobile through internet connectivity. The enforcement agencies can simultaneously access these details from eChallan app, which has data for on-line verification of vehicle and its license status. Off-line verification of mParivahan QR Code is also available on this platform. The enforcement agencies can use normal android mobile apps for this purpose. This is irrespective of whether the state has implemented Vahanl Sarathi or not, provided the data from these states are regularly updated in the National Register. The enforcement agencies can also carry out complete challaning operation including tagging of the Driving Licence or the Certificate of Registration for impounding or suspension.
+
+
+    This step is likely to benefit both the enforcement agencies as they need not physically handle any document, their office need not maintain any inventory or record, and the citizens as they will escape harassment to collect document after the payment of compounding fees as the challan when disposed would automatically update the record in the Database. This fast, transparent and accountable system will also ensure real-time availability of offence status to the transport and traffic enforcement officers and the citizens.
+
+
+    The notification to amend the Central Motor Vehicles Rules, 1989 to this effect was issued last month. However, the Ministry has been receiving a number of representations about the mechanism to be adopted by traffic/ transport related enforcement agencies to validate or impound documents in case the citizens produce documents in an Electronic Form.
+
+
+    Please click here for SOP document.
+
+
+    ***
+
+
+    NP/MS
+
+    
+    
+    (Release ID: 1556435) Visitor Counter : 442

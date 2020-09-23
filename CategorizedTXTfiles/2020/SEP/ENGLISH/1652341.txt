@@ -1,0 +1,52 @@
+      Ministry of Railways
+
+      In a nation wide investigation, RPF disrupts the operation of illegal software called “Real Mango” used for cornering confirmed Railway reservation
+      
+      The software has now been fully decimated
+      
+      RPF have been able to apprehend around 50 criminals so far involved in operation of this illegal software and block live tickets worth more than Rs. 5 Lakhs
+      
+      Posted On: 08 SEP 2020 4:48PM by PIB Delhi
+
+
+    In a nation wide investigation, RPF has disrupted the operation of illegal software called “Real Mango” used for cornering confirmed Railway reservation.
+
+
+    In view of the apprehension of increase in touting activity after restart of the passenger services, drive against touts was intensified by Railway Protection Force (RPF) of Indian Railways. Operation of an illegal software called “Rare Mango” (later changed its name to “Real Mango”) was revealed on 09.08.2020 during action against touts by the field units of RPF. RPF units of North Central Railway (NCR), Eastern Railway (ER) and Western Railway (WR) apprehended some suspects and initiated the process of understanding and unravelling the operation of RareMango/Real Mango Software. In course of systematic unravelling of the working of the illegal software, it has been found that:-
+
+
+    1. Real mango software bypasses V3 and V2 captcha.
+
+
+    2. It synchronises bank OTP with help of a mobile app and feeds it to the requisite form automatically.
+
+
+    3. The software auto-fills the passenger details and payment details in the forms.
+
+
+    4. The software logs in to the IRCTC website through multiple IRCTC Ids.
+
+
+    5. The illegal software is sold through five tiered structure: System Admin & his team, Mavens, Super sellers, Sellers and Agents.
+
+
+    6. System admin is receiving payment in bitcoins.
+
+
+    Field units of RPF have been able to apprehend 50 criminals so far including the King pin (system developer) and key managers involved in operation of this illegal software and block live tickets worth more than Rs 5 Lakhs. Five key operatives of the illegal software have been arrested from West Bengal. The software has now been fully decimated.
+
+
+    It may be noted a coordinated nation-wide action by RPF between December 2019 to March 2020 led to arrest of 104 criminals involved and disruption of many illegal softwares like ANMS/ Red Mirchi/Black TS, TikTok, I-Ball, Red Bull, MAC, N-GET, Cycle, Star-V2 etc. The information supplied by RPF helped CRIS/IRCTC to strengthen security features in PRS system due to which the softwares stopped functioning at that time.
+
+
+    *****
+
+
+    DJN/MKV
+
+    
+    
+    (Release ID: 1652341) Visitor Counter : 500
+    
+    
+      Read this release in: Telugu , Urdu , Hindi , Marathi , Punjabi

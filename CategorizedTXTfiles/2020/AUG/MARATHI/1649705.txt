@@ -1,0 +1,53 @@
+      Ministry of Education
+
+      IIT Bombay students launch Indian alternative to Scanning Apps
+      Posted On: 30 AUG 2020 11:12AM by PIB Mumbai
+
+
+    
+    Here comes an indigenous alternative to Chinese document-scanning apps, following Government of India’s decision to ban 59 mobile apps which were prejudicial to sovereignty and integrity of India. AIR Scanner, a free-of-cost mobile application, has been developed Rohit Kumar Chaudhary and Kavin Agrawal, two final-year B.Tech students in the Department of Civil Engineering, IIT Bombay. Their inspiration comes from Prime Minister Shri Narendra Modi’s clarion call for an Aatma Nirbhar Bharat.
+
+
+    AIR Scanner has been launched on Independence Day, 15 th August 2020. The AI (Artificial Intelligence) based Reading Assistant & Document Scanner app can scan documents and also read to users who have difficulty in reading English.
+
+
+    “Initially, we had been working on developing an app to make reading experience easy for people who find it difficult to read English. It was then that the Indian government banned many Chinese apps including mobile scanner apps. After the ban on Chinese app – CamScanner, we surveyed and found that people are facing issues in scanning and organising documents through their mobile phones. It was then we decided to add scanning features too to our existing AIR App”, says Rohit Kumar Chaudhary, one of the developers.
+
+
+    What makes this app special are its exclusive safety features.
+
+
+    The document you scan using your mobile camera will be saved in PDF format and will be stored in the device only. “AIR Scanner app does not collect any information about the user and all the documents are stored in the phone’s local storage. We are not using any cloud storage to store the documents of the users. The app guarantees complete user security. ”, Rohit Kumar added.
+
+
+    The app is free of cost and at the same time completely secure. “Many scanner apps require users to sign-in to their apps. Once you sign-in to the application, they automatically back-up all your documents and your personal information into their cloud. This is where the security issue arises. AIR Scanner app doesn’t even require you to sign-in”, he said.
+
+
+    With this app, every user can enjoy all the document scanner features such as scanning, organizing and sharing documents without worrying about its security.
+    Added advantage of this app is its Artificial Intelligence feature that reads out the scanned pages and also provides meaning of the selected word to the user in 40 different languages.
+
+
+    “The motivation behind this innovation is to help people in education. As of now, it is available in English language only, but we are planning to make it available in multiple languages which will make it easy for anyone to read any language.
+
+    Soon we are planning to convert this project into a Start-Up.
+
+
+    
+
+    As of now there are 1500 downloads from the Play Store. Currently it is available for Android users only but soon it will be released for iOS users too”, he said.
+
+
+    The application can be downloaded from the following link: https://play.google.com/store/apps/details?id=com.hind.airscanner .
+
+
+    ***
+
+
+    CP/DL/PK
+
+    
+    
+    (Release ID: 1649705) Visitor Counter : 486
+    
+    
+      Read this release in: Marathi

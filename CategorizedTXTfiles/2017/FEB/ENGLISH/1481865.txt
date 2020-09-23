@@ -1,0 +1,31 @@
+      Ministry of Education
+
+      Geo-Spatial Technology
+      Posted On: 06 FEB 2017 5:00PM by PIB Delhi
+
+
+      Under Sarva Shiksha Abhiyan (SSA) and Rashtriya Madhyamik Shiksha Abhiyan (RMSA), a Web Based School Geographical Information System (GIS) application has been initiated for seamless visualization of school locations across the country. Geographic location of schools collected by the various School Education Departments of the states has been collated and mapped on GIS Platform established by National Informatics Centre. Further, these school locations have been interlinked with the school report cards based on Unified District Information System for Education (U-DISE) database, developed and hosted by National University of Educational Planning and Administration (NUEPA).
+
+
+      In this web application, base map services like street maps, and high resolution satellite images are available for better understanding of the topography/ terrain of the location. This web service application comprises of administrative boundaries up to village level and location information up to habitation level along with basic GIS functionalities and measurement tools which will help to improve the quality of planning and better utilization of resources available under the schemes.
+
+
+      In the centrally sponsored scheme of Rashtriya Uchchatar Shiksha Abhiyan (RUSA), the National Remote Sensing Centre (NRSC) of Indian Space Research Organisation (ISRO) has developed a mobile application for uploading geo-tagged
+
+      photographs and associated details captured by the educational institutions, on Bhuvan-RUSA portal as a part of implementation of RUSA funded works in States. This application for geo-tagging of institutions under RUSA is a location based service. The mobile geo tagging App of RUSA covers the following attributes: construction work or equipment, institution name, new or upgraded work, type of work, current stage of work, percentage completed, completion date, bank name, account number, amount released and amount utilised. The portal for Bhuvan-RUSA can be accessed at http://bhuvan-staging.nrsc.gov.in/events2/forest/rusa .
+
+
+      The key stakeholders in Bhuvan RUSA are: Department of Higher Education, Ministry of Human Resource Development; National Remote Sensing Centre (NRSC) of Indian Space Research Organization (ISRO); State Governments and institutions of the States/UTs funded under RUSA.
+
+
+      This information was given by the Minister of State (HRD), Dr. Mahendra Nath Pandey today in a written reply to a Lok Sabha question.
+
+
+      *****
+
+
+      GG/RT/RK/ GEO-SPATIAL TECHNOLOGY
+
+    
+    
+    (Release ID: 1481865) Visitor Counter : 63

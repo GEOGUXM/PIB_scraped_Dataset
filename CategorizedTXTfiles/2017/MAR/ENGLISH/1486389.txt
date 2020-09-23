@@ -1,0 +1,32 @@
+      Ministry of Corporate Affairs
+
+      Insolvency and Bankruptcy Board of India notifies Information Utilities Regulations
+      Posted On: 31 MAR 2017 8:02PM by PIB Delhi
+
+
+        The Insolvency and Bankruptcy Board of India (IBBI), in exercise of its powers conferred by Sections 196, 209, 210, 211, 212, 213, 214, 215, 216 read with Section 240 of the Insolvency and Bankruptcy Code, 2016 (Code), has notified here today the Insolvency and Bankruptcy Board of India (Information Utilities) Regulations, 2017. The Regulations provide for a framework for registration and regulation of information utilities.
+
+
+        An Information Utility (IU) stores financial information that helps to establish defaults as well as verify claims expeditiously and thereby facilitate completion of transactions under the Code in a time bound manner. It constitutes a key pillar of the insolvency and bankruptcy ecosystem, the other three being the Adjudicating Authority (National Company Law Tribunal and Debt Recovery Tribunal), the IBBI and Insolvency Professionals.
+
+
+        The Regulations lay down the eligibility criteria for registration of an IU. A public company witha minimum net worth of Rs.50 crore is eligible. More than half of the directors of its Governing Board shall be independent directors. The IU, its promoters, its directors, its key managerial personnel, and persons holding more than 5% of its paid-up equity share capital or its total voting power, shall be fit and proper persons. Ordinarily a person should not hold more than 10% of paid up equity share capital, while certain specified persons may hold up to 25% of paid up equity share capital.However, to start with a person may hold up to 51% of paid-up equity share capital of an IU, but it has to reduce to 10% or 25%, as the case may be, before expiry of three years from registration.
+
+
+        The Regulations enable the IBBI to lay down Technical Standards, through guidelines, for the performance of core services and other services by IUs.The Technical Standards shall inter-alia provide for matters relating to authentication and verification of information to be stored with the IU, registration of users, data integrity and security, porting of information, inter-operability among information utilities etc. The Regulations require that each registered user and each information submitted to the IU shall have a unique identifier.
+
+
+        The Regulations set out the duties to be performed and services to be delivered by an IU. In order to safeguard the interests of the user, the regulations require an IU to have a grievance redressal policy as well as an exit management plan.An IU shall also have a compliance officer who shall ensure compliance with the provisions of the Code and shall, immediately and independently, report to the IBBI any non-compliance of any provision of the Code observed by him.
+
+
+        The Regulations will be effective from 1 st April, 2017. These are available at www.mca.gov.in and www.ibbi.gov.in
+
+
+        ****
+
+
+        DSM/VKS
+
+    
+    
+    (Release ID: 1486389) Visitor Counter : 46

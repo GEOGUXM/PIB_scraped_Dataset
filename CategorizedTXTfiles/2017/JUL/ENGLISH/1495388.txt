@@ -1,0 +1,35 @@
+      Ministry of Finance
+
+      Mobile app “GST Rates Finder” which is available on android platform to be soon available on ios platform as well.
+      Posted On: 12 JUL 2017 6:54PM by PIB Delhi
+
+
+        CBEC Mobile app “GST Rates Finder” which is available on android platform and soon will be available on ios platform as well. To install "GST Rate Finder", user of Android mobile has to first open Google Play Store and in the search option has to type GST Rate Finder. There may be many more apps available with similar names. The user has to download the app with CBEC Logo i.e.
+
+
+        Once downloaded and installed the icon will appear on the screen of the mobile. Now this mobile app is ready to operate and it will also operate in off-line mode.
+
+
+        After clicking the icon with the above logo for the mobile app, home screen will appear. On this screen the most important feature is Quick Search. The user can search for any goods and services by typing the name or chapter heading of the commodity or services.
+
+
+        If the user is not aware of the Chapter Heading of HSN then the user can type the name of the Goods or Services. For e.g. if the user search for Taxi related services then , Taxi has to typed in Quick Search. This search will provide the list of Goods and Services containing the name "Taxi", which was typed in the search box. Now the user may scroll the list and click on the specific category which the user is searching and as a result of the click, a window will pop-up
+
+
+        This window will contain details like “GST rate”, “Chapter heading of the HSN”, and description of services. If still the user is not satisfied then a link of CBEC website is available on the home screen. This link will open the GST page of the CBEC website. The details are available on this website.
+
+
+        If the user is aware of the chapter heading or the HSN Code then the specific HSN code can be typed in Quick search box and the user can immediately see the specific description.
+
+
+        For example, any person who has been billed by a hotel or restaurant or for footwear can cross verify the rates through this mobile app. It will increase transparency and truly empowers every citizen of the nation and serves as a ready reckoner for one and all.
+
+
+        *****************
+
+
+        DSM/SS/KA
+
+    
+    
+    (Release ID: 1495388) Visitor Counter : 101

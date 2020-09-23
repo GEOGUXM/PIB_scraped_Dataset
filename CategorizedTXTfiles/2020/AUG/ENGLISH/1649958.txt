@@ -1,0 +1,46 @@
+      Ministry of Science & Technology
+
+      Landslide susceptibility mapping of Mussoorie and its surrounding areas in Uttarakhand Himalaya
+      
+      Study show that 15 percent of the region is highly susceptible to landslides
+
+      Posted On: 31 AUG 2020 12:54PM by PIB Delhi
+
+    Like most hill townships, Mussoorie, the popular hill station in Uttarakhand, has witnessed several landslides, probably resulting from an increased spate of developmental activities. The increased disaster hazard has led scientists to map the landslide susceptibility of Mussoorie and surrounding areas, showing that 15 percent of the region is highly susceptible to landslides.
+
+
+    Scientists from Wadia Institute of Himalayan Geology (WIHG), an autonomous institute under the Department of Science and Technology, Govt. of India, carried out the study in Mussoorie township and its surroundings covering 84 square km in the Lesser Himalaya. They found that dominant part of the area falling under very high and high landslide susceptible zone lies in the settlement area --. Bhataghat, George Everest, Kempty fall, Khattapani, Library road, Galogidhar, and Hathipaon and are covered by highly fractured Krol limestone exhibiting slope more than 60 degrees.
+
+
+    The Landslide Susceptibility Mapping (LSM) published in the Journal of Earth System Science also showed that about 29% of the area falls in the moderate landslide susceptible zone and 56% in low to very low landslide susceptible zone.
+
+
+    The researchers from WIHG carried out the study using bivariate statistical Yule Coefficient (YC) method utilizing Geographic Information System (GIS) and high-resolution satellite imageries.
+
+
+    According to their study, various possible causative factors of landslides in the study area include lithology, landuse-landcover (LULC), slope, aspect, curvature, elevation, road-cut drainage, and lineament. The WIHG team obtained Landslide Occurrence Favourability Score (LOFS) for a particular class of the causal factor of landslide and subsequently calculated the weight of each factor of landslide to finally generate Landslide Susceptible Index (LSI) in GIS platform. This has been reclassified into five zones using natural break criteria.
+
+
+    The accuracy of this map was verified by using the Success Rate Curve (SRC) and Predication Rate Curve (PRC) exhibiting the Area Under Curve (AUC) for SRC as 0.75 and for PRC as 0.70 indicating a good correlation between different landslide susceptible zones and the occurrence of landslides.
+
+
+    The study could help initiate a large scale landslide hazard, risk, and vulnerability assessment (HRVA) of the hilly townships in different parts of India.
+
+
+    (Publication link: https://doi.org/10.1007/s12040-020-01428-7 )
+
+
+    Figure - Landslide susceptible map of the Mussoorie Township and its surrounding areas
+
+
+    *****
+
+
+    NB/KGS(DST Media Cell)
+
+    
+    
+    (Release ID: 1649958) Visitor Counter : 307
+    
+    
+      Read this release in: Urdu , Punjabi , Hindi , Manipuri , Bengali , Assamese , Tamil

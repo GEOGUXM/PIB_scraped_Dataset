@@ -1,0 +1,34 @@
+      Ministry of Railways
+
+      Artificial Intelligence to Monitor the Food Production in Base Kitchens
+      Posted On: 08 MAY 2018 8:00PM by PIB Delhi
+
+
+    An artificial intelligence module has been developed by IRCTC to find anomalies in standard operating procedure using CCTV footage. With this module base Kitchens will be monitored pan India. The Artificial Intelligence module realises the value of their videos and photos with vision computing. It can detect an unexpected change or an event that does not conform to the expected pattern using their machine learning algorithms.
+
+
+    To begin with, 16 base kitchens of IRCTC have been installed with high definition cameras connected to huge monitors for AI vision detection. Live streaming of 16 base kitchens is played all the time. The system detects anomalies of head gear, uniforms, rodents and mopping across kitchens and raises issues to be dealt accordingly with by IRCTC.
+
+
+    The AI system will be used to improve upon catering units. The system is capable of tracking any anomaly in the entire operation of catering. Suppose if a chef or any kitchen supervisor is not wearing their uniform, including the mandatory cap, the AI system will track that and automatically raises a report to the concerned contractor immediately. If the matter is not addressed within certain time, it will further be reported to IRCTC authorities in charge.
+
+
+    Once an issue has been captured through Artificial intelligence, a ticket will be created automatically by the system. An alert for the same will be sent to all concerned via email as well as through portal for necessary action. Escalation matrix will be followed as per predefined procedure. Base-kitchens performance over a period of time can be viewed through reports given in the online platform provided.
+
+
+    The module has been developed in association with New Delhi based company called WOBOT.
+
+
+    *****
+
+
+    SBS/MKV/PM
+
+
+    
+
+    
+    (Release ID: 1531663) Visitor Counter : 737
+    
+    
+      Read this release in: Urdu

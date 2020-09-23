@@ -1,0 +1,91 @@
+      Ministry of Railways
+
+      Minister of Railways Shri Suresh Prabhakar Prabhu launched various Railway initiatives
+      Posted On: 12 JUL 2017 6:12PM by PIB Delhi
+
+
+    
+
+    Minister of Railways Shri Suresh Prabhakar Prabhu launched the following Initiatives:-
+
+
+    1. RAIL CLOUD PROJECT.
+
+
+    2. NIVARAN-Grievance Portal (First IT Application on Rail Cloud).
+
+
+    3. Cashless treatment Scheme in Emergency (CTSE) Scheme and Handing over of 1st CTSE Card.
+
+
+    Minister of State for Railways Shri Rajen Gohain was specially present to grace the occasion. Member Staff, Shri A.K.Mital, other Railway Board Members and senior officials were also present on the occasion. Ministry of Railways has launched the RailCloud project in association with its PSU, RailTel Corporation of India Limited.
+
+
+    Speaking on the occasion, Minister of Railways Shri Suresh Prabhakar Prabhu said, “Efforts are being made to bring entire Railway system on Integrated dIGITAL Platform. RailCloud is another step towards Digitization of Railways. Rail Cloud works on popular Cloud Computing system. Most Important works are done through Cloud Computing. Also, this is going to reduce the cost & data may be safely ensured on the servers. Also, another important step is Cashless Treatment Scheme in Emergency. Life Expectancy has increased, so many health problems have evolved. This scheme would improve health care facilities of Railway employees.”
+
+
+    Salient Features of the Initiatives Launched:
+
+
+    1.RailCloud
+
+
+    Indian Railway has started a strategic IT initiative, christened IR-OneICT, for enterprise wide digital single platform with an aim to improve customer satisfaction, improve revenue and effective, efficient and safe operations. To achieve the goal of single digital platform for IR a few foundational projects need to be implemented first, establishment of RailCloud is one such project. Cloud Computing is the emerging technology for faster and on demand commensurate deployment of Server resources which result in reduced cost. Accordingly, RailCloud Phase-I has been sanctioned at the cost of Rs. 53.55 Cr under PH-17, DF(3) in FY 17-18. Potential benefits to Railways after implementation of RailCloud are:
+
+
+    ● Faster and on-demand deployment of application- RailCloud will pave the way for swifter deployment of application (within 24 hrs as compared to conventional time running into weeks and months). At the same time the cloud hardware and environment will be available for rigorous testing of the new applications.
+
+
+    ● Optimum use of Servers and storage- The technology enables maximising the usage of the available server and storage resulting in accommodation of bigger data and more applications within same server space.
+
+
+    ● Utilization of existing infrastructure as part of Cloud- The existing resources available with railway will be subsumed in RailCloud thereby ensuring that expenditure is minimized in acquiring new resources.
+
+
+    ● Rapid scalability and elasticity- Server and storage space will scale up and down as per the demand. This makes the system suitable to meet the higher demand at peak hours with less expenditure.
+
+
+    ● IT Security enhancement and Standardization: The cloud shall be equipped with security features as per the latest GOI guidelines, the security features can be updated in one go for all the applications hosted on the cloud, resulting in enhanced security and stability with less expenditure and effort.
+
+
+    ● Cost reduction: The server and storage infrastructure will be deployed as per the requirement, resulting in substantial savings to railway as expenditure will be incurred as and when required instead of upfront shelling out money on procurement of expensive servers.
+
+
+    ● Better User Experience: In Cloud, the server resources are constantly scaled up or down as per the no. of users logged on to the system. This ensures a better user experience to the customer.
+
+
+    The Managed Network and Virtual Desktop Interface (VDI) services are also being planned, in near future, for providing faster and more efficient work environment to each rail worker.
+
+
+    2. NIVARAN-Grievance Portal’First IT application on RailCloud
+
+
+    ‘NIVARAN-Grievance Portal’ is the first IT application to be launched on the RailCloud. It is the platform for resolution of service related grievances of serving and former railway employees. The existing application was hosted on a conventional server; it has been made cloud-ready and being migrated as the first cloud application of Indian Railways. It will save significant revenue and at the same time user experience will also improve.
+
+
+    3. Cashless treatment Scheme in Emergency (CTSE)
+
+
+    Railway provides Comprehensive Health Care Facilities to its beneficiaries through in-house health Institutions, supplementing with referrals to recognized hospitals whenever necessary. The beneficiaries include retired employees and their dependent family members. Large no. of retired beneficiaries lives in the newly developed suburbs of various cities. These parts of the city are often far away from the established Railway Health Institutions. In this scenario the RELHS beneficiaries coming to Railway Health Institutions in routine is acceptable, however in emergency situations, precious time (Golden Hour) is lost in travel.
+
+
+    To provide immediate care to its retired employees in ‘Golden Hour’ Railway Board has decided to roll out a “Cashless treatment Scheme in Emergency’ (CTSE), in empanelled hospitals, for retired employees and their dependent family members. A web based system of communication between private hospitals and railway authorities has been developed wherein identity of the beneficiary shall be established using biometrics stored in Aadhar (UIDAI) server, eligibility shall be determined using Railway Data Base and emergency shall be verified by Railway Medical Officer based on private hospital’s clinical report. The whole system is online and even the bill processing shall be online. This scheme shall provide help and succor to the retired railway employees at the time of need and at the same time will have a morale boosting effect on the serving employees.
+
+
+    The Scheme fulfils both the avowed objectives of the GOI; utilizing IT tools to cut the red-tape and promoting cashless transactions.
+
+
+    Rather than creating a separate time and resource consuming vertical the scheme has used the existing resources by bringing on board the UIDAI and ARPAN database. Railway has not incurred any capital expenditure on the scheme, M/s UTIITSL has developed the software in consultation with Railway and shall be paid on per bill processed basis. The online processing will ensure swifter disposal of bills in a transparent manner.
+
+
+    At present the scheme has been rolled out in four metro cities of Delhi, Mumbai, Kolkata and Chennai, based on the experience of this pilot the scheme may be extended to the whole of country.
+
+
+    ****
+
+
+    AKS/MKV/ENS
+
+    
+    
+    (Release ID: 1495374) Visitor Counter : 158

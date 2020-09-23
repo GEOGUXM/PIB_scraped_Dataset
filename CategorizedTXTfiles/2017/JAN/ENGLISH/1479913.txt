@@ -1,0 +1,423 @@
+      Ministry of Finance
+
+      Department of Expenditure, Ministry of Finance takes various initiatives to promote use of mobile banking/e-banking technology for cashless transactions and e-payments in Central Government Ministries/Departments; Redresses 4475 out of 4508 grievances successfully under CPGRAMS;
+      Posted On: 04 JAN 2017 1:33PM by PIB Delhi
+
+
+      Takes various steps during the Current Financial Year 2016-17 to simplify and strengthen the Public Financial Management System (PFMS); Focuses on the development of 2nd version of the Generic Internal Audit Manual in association with the Institute of the Internal Auditors (IIA) India w.e.f. November, 2016; Has started Implementation of e-Office in a Mission Mode Project among others.
+
+                         
+Year End Review - 2016   
+                         
+                         
+                         
+Department of Expenditure
+                         
+                         
+
+      Following are the major reform measures, policy initiatives and achievements of the Department of Expenditure (DOE), Ministry of Finance during the current Financial Year 2016-17:
+
+
+      Public Financial Management System (PFMS):
+
+
+      The Public Financial Management System (PFMS) is a web-based online software application, developed and implemented by the o/o CGA with technical support of NIC. The primary objective of PFMS is to facilitate a sound Public Financial Management System for Government of India (GoI) by establishing an efficient fund flow system as well as a Payment cum Accounting network. PFMS provides various stakeholders with a real time, reliable and meaningful Management Information System and an effective Decision Support System (DSS), as part of the Digital India initiative of GoI.
+
+
+      The biggest strength of PFMS is its integration with the banking network in the country. As a result, PFMS has the unique capability to push online payments to almost any beneficiary/vendor having account in any bank across the country.. At present, PFMS interface is completed with the Core Banking System (CBS) of all Public Sector Banks (26), Regional Rural Banks (54), major private sector banks (14), Reserve Bank of India, India post and Cooperative Banks (55).
+
+
+      The Government has emphasized the need for improved financial management in implementation of Central government Schemes so as to facilitate Just-in-time releases and monitor the usage of funds including information on its ultimate utilization. In order to abide by the directions to implement Just-in-Time releases and monitor the end usage of funds, an action plan for universal roll-out of PFMS for Central Government schemes has been approved which inter alia includes mandatory registration of all Implementing Agencies on PFMS and mandatory use of Expenditure Advance and Transfer(EAT)module of PFMSW by all IAs.
+
+
+      Achievements under PFMS:
+
+        * PFMS has been fully implemented at the Central Government level for all Plan and Non Plan Scheme releases from Civil Ministries / Departments of the Central Govt.
+        * The Implementing Agencies are using the PFMS application for both transfer of funds to Agencies below and for e-payment to beneficiaries by direct credit to their accounts either in bank branches or in post offices.
+        * So far 18 lakh (approx) Implementing Agencies are registered on PFMS (till 30 th November, 2016).
+        * The total number of beneficiaries bank accounts registered in PFMS is 19.07crores (till 30 th November, 2016).
+        * Total Central DBT payments have been made for 26.52 crore transactions amounting Rs. 33417.36 crores for 37 schemes (till 30 th November 2016 in 2016-17).
+        * Total State DBT payments have been made for 2.88 crore transaction amounting Rs. 4363.28 crores for 27 schemes (till 30 th November 2016 in 2016-17).
+        * Total UT DBT payments have been made for 2.98 crore transaction amounting Rs. 52.10 crores for 30 schemes (till 30 th November 2016 in 2016-17).
+        * Pan-India roll out of MNREGS payments for Bank Account holders started from 1st April, 2015. 24.80 crore credits have been done for Rs. 24,571 crore through PFMS from 1.4.2016 to 30.11.2016.
+        * Pan-India roll out of Indira Awas Yojana (IAY) payments for Bank Account holders started from July, 2015. 19.10 lakh credits have been done for Rs. 5114 crore through PFMS from 1.4.2016 to 30.11.2016.
+        * E-IGAA i.e State Government payments through RBI advices have been started across Ministries.
+        * NTRP i.e Non Tax Receipts Portal has been started from 16 th February, 2016 and this is a great step towards Hon’ble PM’s Digital India Initiative. It facilitates online receipt of Non Tax Receipts for GoI Departments/Ministries. 24,277 credits have been received for Rs.77565.53 crores upto 30.11.2016.
+        * One stop Government e –Market place (GeM) which facilitates online procurement of common use Goods and Services required by various Govt. Departments/organizations/PSUs is integrated with PFMS for facilitating the e-payment of bills received online through GeM portal by the respective Pay and Accounts Offices.
+        * PFMS treasury integration is currently operational in 12 states and integration process has been initiated in other states also. It is expected to be completed by 31 st March 2017.
+
+      New Initiatives/ Achievements under Internal Audit
+
+
+      · The Controller General of Accounts (CGA) has developed a risk based control framework in the form of Generic Internal Audit Manual to guide the internal audit engagements. The manual not only explain the complexities associated with the internal audit functions but also facilitates the entire process by providing audit process, templates and guidelines.
+
+
+      · The work of development of 2nd version of the Generic Internal Audit Manual in association with the Institute of the Internal Auditors (IIA) India has also been commenced in November, 2016. The revised Generic Internal Audit Manual will be developed as per International Professional Practices Framework (IPPF). The revised version will also include recommendations made by the Ministry of Women and Child Development to include the guidelines on Gender Audit of Policies, Programmes and Schemes of the Government of India.
+
+
+      · A directional shift in the scope and approach of internal audit has been initiated by the organization by infusing two concepts- “Risk Assessment” and Performance Evaluation” for strengthening financial management and internal controls. The line Ministries are being encouraged to plan the audit assignments by adopting the Risk Based Auditing approach. Risk Based Audit in selected Ministries is being conducted on pilot basis.
+
+
+      · The organization is also focusing on the use of Computer Assisted Audit Tools for more transparency and accountability. Electronic Risk Assessment Software (e RAS), a diagnostic tool for internal audit has been developed in collaboration with NIC. This diagnostic tool [e RAS] is not only helpful to the audit in planning, sampling and conducting the audit efficiently but it is also helpful to the management / stakeholders to have a review of the functioning of their entities [PAOs only] in their offices instead of visiting these offices located at different places in different states.
+
+
+      · The organization is regularly reviewing the performance of the internal audit units of the line Ministries/Departments. The Annual Review on the performance of Internal Audit Wings of Civil Ministries depicts the information on different shortcomings of the Civil Ministries in the form of observations. The Annual performance reports of the different Ministries/Departments are analyzed and summarized by the Internal Audit Division for the purposes of brevity and ease of presentation. The outcome of Internal Audit through recoveries effected in pursuance to the observations of the Internal Audit is also included to reflect the impact of Internal Audit.
+
+
+      · The Annual Review for the year 2015-16 of Internal Audit conducted by the field units of the organization in the Civil Ministries/Departments have been submitted to Ministry of Finance. The audit findings have been quantified on the basis of financial implications and constitute an amount of Rs.85392.20 crore under the following categories:-
+
+                                                                                                                                                
+Sl. No.  Nature of irregularities                                                                                      Amount (Rupees in Crores)
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+1.       Cases of non-recovery of Govt. dues from Central Govt. Departments/State Govt./Govt. Bodies/Private parties.  53610.67                 
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+2.       Cases of over payment                                                                                         193.27                   
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+3.       Idle machinery/surplus stores                                                                                 94.27                    
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+4.       Loss/Infructous Expenditure                                                                                   1051.14                  
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+5.       Irregular Expenditure                                                                                         2651.09                  
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+6.       Irregular Purchase                                                                                            115.39                   
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+7.       Cases of non-adjustment of Advances                                                                           424.47                   
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+8.       Blocking of Govt. money                                                                                       6185.98                  
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+9.       Non-accountal of costly stores/Govt. money                                                                    44.18                    
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+10.      Any other items of Special nature                                                                             21021.74                 
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                                
+         Total                                                                                                         85392.20                 
+                                                                                                                                                
+                                                                                                                                                
+
+      · The committee constituted by the organization to examine the draft Gender Audit Guidelines as circulated by the Ministry of Women & Child Development so as to recommend the framework / roadmap for the conduct of Gender Audit of Schemes of the Government of India has submitted its final report in October, 2016. The Committee examined the feasibility of including Gender Audit as one of the parameters for Risk Based Internal Audit of Schemes with an initial focus on 10% women specific schemes. The work of gender sensitization of the Generic Internal Audit manual based on the recommendations of the Ministry of Women & Child Development has been integrated with the project of up gradation of the Generic Internal Audit Manual by the Institute of Internal Auditors (IIA) - India.
+
+      · A Study Team headed by Joint Controller General of Accounts was constituted vide Ministry of Finance, Department of Expenditure OM. No. 2(2)PF-I/2010/Vol-II dated 14.1.2016, to visit North East States to understand the issues confronting utilization of Central funds implementations of Schemes and to get an overview of expenditure management. The Study Team visited four States viz. Mizoram, Tripura, Manipur and Nagaland. The main findings of the Study Team have been submitted to Ministry of Finance.
+
+      · A Memorandum of Understanding (MOU) has been signed between Office of Controller General of Accounts and Institute of Internal Auditors (IIA)-India. The MOU is made at New Delhi on the 14 th day of September, 2016. The MoU is an expression of convergence between the Office of CGA and IIA-India to establish cooperative processes within their areas of competence on the following:-
+
+      a) Sharing information and best practices, including those related to activities of internal auditors of government institutions and organization and their interaction;
+      b) Exchanging analytical materials in the field of improving the system of internal auditing, and other pertinent information of mutual interest; for this purpose. The parties will establish the structure, format and procedures for data and information sharing;
+      c) Exchanging initiatives with regard to the advancement of internal auditing in state institutions and organizations;
+      d) Co-operating in the field of professional education and training with the aim to have qualified internal auditors in civil ministries of Government of India.;
+      e) Developing proposals on making improvements to internal audit activities in Government institutions and organizations, including the process of encouraging internal auditors to attain recognized professional qualifications;
+      f) Exchanging experience in the field of audit methodology, including application of the international standards for the professional practices of Internal Auditing;
+      g) Co-operating within their areas of competence in other areas of mutual interest; and
+      h) Encouraging cross-country experiences through international exchanges.
+
+      · Based on the recommendations of the Seminar on ‘Enhancing Effectiveness of Internal Audit: Issues & Challenges’ which was organized by the organization on 24 th November, 2015, an advisory has been issued by the Ministry of Finance to all Secretaries and Financial Advisers for carrying out a special drive for the clearance of the 1.18 lakh outstanding internal audit paras. The organization has put in place a monthly monitoring system for clearance of these outstanding internal audit paras.
+      · The Ministry of Finance has been requested to consider issuing an Advisory to all civil ministries/departments to include settlement of Internal Audit Paras as a Part of the mandate of the Standing Audit Committees (SACs) constituted by Ministries/Departments to strengthen the effective of Internal Audit and settlement of the outstanding audit paras.
+
+      · The major constraints however continue to be the staff shortage in the Internal Audit. Consequently out of 5349 units due for audit in 2015-16, only 1955 units could actually be audited. The revised proposal for the augmentation of 475 posts for Internal Audit in line Ministries is awaiting approval of the Ministry of Finance.
+
+
+      Other Achievements of DOE :
+
+      Some major policy initiatives/achievements/highlights of the year relating to this Department are as under:
+
+      1. Bhavishya Portal : - This Department along with the attached/subordinate offices have started the processing of pension cases though the Bhavishya Portal.
+
+
+
+      2. PGRAMS : The Centralized Public Grievances Redressal and Monitoring System (CPGRAMS) has been effectively implemented in this Department and a total number of 4475 out of 4508 grievances have been successfully redressed/disposed off so far. Further, Department of Expenditure has been selected for issue of Certificate of Recognition from the DARPG in the Category B for the 2 nd quarter of 2016 for performance on CPGRAMS.
+
+
+
+      3. Swachhta Abhiyan : This Department has undertaken the Swachhta Abhiyan Pakhwada for a period of 15 days during the month of November, 2016 and has undertaken various cleanliness activities alongwith an essay writing competition on “How to keep the workplace clean and hygienic with change in behavioural pattern of officials”.
+
+
+
+      4. Demonetization Workshop : Department of Expenditure organized Workshop on 28.11.2016 on us of Mobile banking/ E-Banking for the staff/officials of the Ministry of Finance in which representatives of SBI, PNB and RBI gave presentations regarding use of mobile banking/e-banking technology for cashless transactions. The said workshop was attended by the Minister of Finance along with the officers /staff of all the Departments of Ministry of Finance.
+
+
+
+      5. Implementation of e-Office : This Department has started the implementation of e-Office, a Mission Mode Project in a phased manner and is being implemented in the attached/subordinate offices as well.
+
+
+
+      Web Based Audit Para Monitoring System (APMS)
+
+
+      On the recommendations of the Public Accounts Committee (PAC), Audit Para Monitoring System (APMS) has been implemented for computerized monitoring of the pendency of Action Taken Notes (ATNs) of C&AG Paras at various stages. The application facilitates the submission/vetting of ATNs by their uploading on the portal at every stage. As a result of regular training to the officials, now all Ministries/Departments are on board the APMS portal. In view of this, it has now been decided to dispense with the requirement of submission of hard copies of ATNs to the Lok Sabha Secretariat (PAC Branch).
+
+
+      Another centralized computerized online monitoring system to check the status of the preparation and submission of the Explanatory Notes at every stage by various Ministries/ Departments has been developed & operationalized in consultation with the Office of Comptroller and Auditor General of India in pursuance to the recommendations contained in Para-8 of the 92 nd Report of Public Accounts Committee (15 th Lok Sabha).
+
+
+      The Office of Chief Advisor Cost (CAC) :
+
+
+      It advises the Ministries and Government Undertakings on cost accounts matters and undertakes cost investigation work on their behalf. It is a professional agency staffed by Cost Accountants/Chartered Accountants.
+
+
+      Till November 2016, a total number of 8556 studies/reports were completed by the office of Chief Adviser Cost out of which 52 reports were completed during the year 2016 (up to 30 th Nov.2016). The studies completed during the year varied widely in nature and may be broadly categorized under the following heads:
+
+
+      (i) System Study
+
+
+      a) Fixation of Common Hourly Rates and Overhead percentages in respect of Government of India Presses at Mysore Temple Street, Kolkata, Minto Road-Delhi, Nilokheri, Aligarh, Koratty-Kerala , Rashtrapati Bhawan, Chandigarh and Nasik for various years.
+
+
+      b) Fixation of Overhead rate in respect of sale price of Hydrogen gas manufactured at Hydrogen Factory, Agra for the year 2011-12 & 2013-14
+
+
+      (ii) Fair selling price of products/service where Government/ Public Sector Undertaking is the Producer/ Service provider as well as the user
+
+
+      a) Fixation of fair price of DDT 50% supplied by HIL to NVBDCP for the year 2013-14, revision of fair price of DDT 50% for the years 2014-15 and provisional price for the year 2015-16.
+
+
+      b) Fixation of Currency Notes produced by Currency Note Press (CNP) at Nashik to RBI during the year 2011-12 & 2012-13.
+
+
+      c) Fixation of fair price of Notes supplied by BNP, Dewas and supplied to RBI during the year 2011-12 & 2012-13.
+
+
+      d) Fixation of fair Price of Opium Procurement for the year 2016-17
+
+
+      e) Fixation of Fair Price of Bed durries supplied by WDO during Year 2010-11.
+
+
+      f) Fixation of Fair Price of Barrack Blankets supplied by WDO during Year 2010-11
+
+
+      g) Fixation of Fair Price of Coins supplied by India Govt. Mints at NOIDA, Kolkata, Hyderabad & Mumbai to RBI during the year 2014-15.
+
+
+      h) Fixation of Fair Price of rails supplied by SAIL-BSP to Indian Railways during the year 2014-15.
+
+
+      i) Fixation of Fair Selling Price of the year 2015-16 in respect of Tear Gas Gun and Multi Barrel Launcher manufactured by CENWOSTO, BSF, Tekanpur Gwalior.
+
+
+      j) Vetting of prices of Ayurvedic/Unani Medicines supplied by M/s Indian Medicines Pharmaceutical Corporation Limited (IMPCL) for the pricing period 2014-15.
+
+
+      k) Cost study of weekly Oral Contraceptive Pills (OCPs) “Saheli” manufactured by M/s HLL Life Care Ltd.
+
+      (iii) Fixation of service charges for the services rendered by a Govt. Department/Agency on behalf of the other
+
+
+      a) Vetting of claims under Market Intervention Scheme (MIS) for Procurement of C Grade Apples in Himachal Pradesh for the 2014 season.
+
+
+      (iv) Determination of subsidy
+
+
+      a) Vetting of claims of NAFED for Price Support Scheme(PSS) for Pulses ( Urad) Kharif 2011
+
+
+      b) Vetting of Cost incurred on Socio Economic and Caste Census 2011 project by BEL, ECIL & ITI Ltd.
+
+
+      c) Vetting of Duties and Taxes for procurement of Tablet PC and other Accessories by M/o Rural Development from BEL for the period from 2010-11 to 2012-13.
+
+
+      d) Vetting of subsidy claim submitted by Projects and Equipment’s Corporation of India Ltd. in respect of sale of pulses.
+
+
+      e) Vetting of subsidy claim submitted by State Trading Corporation of India Ltd. (STC) in respect of sale of pulses.
+
+
+      f) Payment of Subsidy to Northern Railway Catering Unit functionality in Parliament House Complex for the year 2014-15.
+
+      ( v) User Charges
+
+
+      a) Review of User Charges of Central Board of Film Certification.
+
+
+      b) Fee and user charges in respect of Indian Grain Storage Management and Research Institute (IGMRI), Hapur, (U.P).
+
+
+      c) Review of User Charges of Indian Institute of Legal Metrology (IILM), Ranchi.
+
+
+      d) Fee and User Charges in respect of National Institute of Siddha, Chennai.
+
+
+      e) Revision of Storage Charges payable by FCI to CWC for the year 2013-14.
+
+
+      f) Revision of special party rates hosted by LSS/RSS & MPs in Parliament House.
+
+
+      g) Fee and User charges in respect of National Sugar Institute, Kanpur.
+
+      (vi) Other studies
+
+
+      a) Valuation of compensation for "Mine Infrastructure” of 52 Coal Blocks .
+
+
+      b) Cost study of different Programs conducted by NIFM, Faridabad.
+
+
+      Seventh Pay Commission- Approval of recommendations:
+
+
+      The Seventh Central Pay Commission (CPC) submitted its Report on the structure of emoluments, allowances, conditions of service and retirement benefits of Central Government Employees on 19 th November’16. The Cabinet approved the proposal for implementation of recommendations of 7 th CPC on pay, pension and related issues in the meeting held on 29.06.2016. Based on the decisions of the Government, the Resolution and the Central Civil Services (Revised Pay) Rules, 2016 have been issued on 25.07.2016. The arrears on account of implementation of 7 th CPC recommendation have been paid in the year 2016-17.
+
+
+      Fiscal Status of States:
+
+
+      As recommended by Fourteenth Finance Commission (FFC) for its award period (2015-20), net borrowing ceilings of the States for the year 2016-17 at Rs. 4,29,353 crore have been fixed anchoring the Fiscal Deficit target of 3% of respective States’ Gross State Domestic Product (GSDP).
+
+
+      Consequent to the recommendation of FFC, the Union Government has approved on 06.04.2016 year-to-year flexibility for additional fiscal deficit to States for the period 2016-17 to 2019-20 to a maximum of 0.5% over and above the normal limit of 3% in any given year to the States subject to the States maintaining the debt-GSDP ratio within 25% and interest payments-revenue receipts ratio within 10% in the previous year. However, the flexibility in availing the additional fiscal deficit will be available to State if there is no revenue deficit in the year in which borrowing limits are to be fixed and in the immediate preceding year. Additional Borrowings Limit of Rs. 10918 crore has been allowed to six states in 2016-17 on this account.
+
+
+      The Central Government has simplified the consent mechanism for Open Market Borrowings (OMBs) under Article 293(3) of the Constitution for all States. The simplified procedure will ensure that consent under Article 293(3) is issued only on three occasions during the year, one in the month April for first nine months after fixation of borrowings ceilings, second in the month of December for the first two months of the fourth quarter and last in the month of March after the assessment of actual borrowings by the States. Till now, the States were required to obtain quarterly consent from the Central Government for raising OMBs within their Net Borrowing Ceiling (NBC).
+
+      The Central Pension Accounting Office (CPAO) :
+      It was established w.e.f. 1 st Jan, 1990 for Payment and Accounting of Central (Civil) Pensioners and Pension to Freedom Fighters etc.
+
+      Achievements/ Initiatives
+
+
+      The primary function of CPAO is to issue SSAs to the CPPCs of Banks in fresh and revision of pension cases. In 2015-16 highlights are as follows: –
+      · In 2015-16; 34,407 and 1, 39,927 authorities were issued in fresh and revision pension cases respectively. In 2016-17, till 1 st Dec, 2016; 24,959 and 1, 01,954 authorities were issued in fresh and revision pension cases respectively.
+      · As per DP&PW OM dated 6 th Apr, 2016: Delinking of revised pension from qualifying service of 33 years; as on 1 st Dec, 2016; 63,171 cases have been revised out of 89,481 cases due for revision as per CPAO data base.
+
+      · Paperless movements of digitally signed e-Revision Authority from Central Pension Accounting Office (CPAO) which was started as pilot in 4 Banks i.e. SBI, CPPC, Chandni Chowk, PNB, Bank of Baroda and Canara Bank has now been rolled out in 23 banks resulting in saving of time and operational cost and improvement in efficiency.
+
+      · To make Digital India Mission of the Government successful, the pensioners have been made aware of the benefits of Aadhaar seeding in their accounts. Consequently, a considerable number of pensioners (about 84 percent) have got seeded their Aadhaar numbers with their pension accounts & PPOs and they are in position to avail the facility of getting their life authenticated on line by using digital life certification(Jeevan Pramaan) in case they desired to do so.
+
+      · Life Certificate format for the pensioner has been modified and provision for acknowledgement by the bank has been introduced. Further, the bank has to mention submission of Life Certificate by the pensioner in the payment scrolls to CPAO to enable monitoring of the same. This year to avoid the hardship to pensioners in interacting with bank branches due to demonetization, the last date of submission of Life Certificate has been extended to 15 th Jan 2017.
+
+      · As a step towards making pensioner better informed and empowered, facility of informing pensioner through SMS of receipt of fresh Pension Payment Order/Revision Cases from the PAO at CPAO and sending Pension Payment Order (Special Seal Authority) to banks for arranging payment has been provided to those pensioners who have provided their mobile numbers. As a result, pensioner can easily track the movement of their pension case. This is in addition to already available facility on the website of CPAO ( www.cpao.nic.in ) to pensioner to track their pension processing status at CPAO by providing 12 digit PPO number.
+
+      · CPAO in now running fully functional Grievance Redressal Mechanism (GRM) and a pensioner can lodge grievance through telephone on Toll Free No, website, e-mail, letters or personal visit. The queries and grievances of pensioners are attended on highest priority by qualified personnel. In 2015-16; total 59,902 grievances received & settled whereas in 2016-17, till Nov, 2016 total 52,125 grievances have been received & settled.
+
+      · Link to Jeevan Pramaan Portal has been provided on CPAO website to enable pensioners to use facility of Digital Life Certificate. For retiring employees, a link has been established with Bhavishya Portal of DP&PW to enable them to track status of their pension cases even before the case reaches CPAO. A link to CPENGRAMS (Centralized Pension Grievance Redress and Monitoring System) has also been provided so as to enable pensioners to lodge and track their grievances on CPENGRAMS.
+
+      · Download facility of Special Seal Authority (PPO) from CPAO’s website by using login and password provided by CPAO has been given to pensioners. Consequently, they need not separately approach CPAO to provide copies of their SSAs issued to the banks. This facility ensures digital presence and availability of records for pensioner.
+
+      · All Banks have confirmed payment of revision pension & arrears of Pension for 7 th CPC for about 9.10 Lakhs pensioners. CPAO is also compiling the information separately based upon the e-scrolls received from banks.
+
+      · CPAO conducted internal audit of 30 units during 2015-16 which exceeded the previous three years total combined number of audits. The total 414 pending internal audit paras have been settled till Nov, 2016. (highest so far)
+
+      · Against approved time schedule of 21 days, new PPOs issued in average 15 days and revision in average 10 days in 2015-16.
+
+      · CPAO has cleared the suspense balance under various heads amounting to Rs.854.74 Crores out of total suspense balances to Rs.862.08 Crores till the month of Sep, 2016.
+
+      Developmental Schemes:
+
+      · In respect of development schemes and projects, the focus has been on improving the quality of development expenditure through better project formulation, emphasis on outputs, deliverables, impact assessment, projectisation (Mission approach) and convergence.
+
+      · During the period from 1 st January, 2016 to 30 th November, 2016, the Expenditure Finance Commission (EFC) chaired by Finance Secretary and Secretary (Expenditure) recommended 29 Investment proposals/schemes of various Ministries/Departments costing Rs. 2,11,049 crores
+
+      · Also during the period, Public Investment Board (PIB) chaired by Secretary (Expenditure) considered and recommended 82 proposals involving an amount of Rs. 28,673 crores as per the following details:
+                                                                                                                      
+Sl. No.  Ministry/Department                      No. of Projects recommended for approval  Project Cost(Rs. in Crore)
+                                                                                                                      
+                                                                                                                      
+1        Ministry of Power                        3                                         8,612                     
+                                                                                                                      
+                                                                                                                      
+2        Ministry of Shipping                     1                                         1,799                     
+                                                                                                                      
+                                                                                                                      
+3        Ministry of Road, Transport and Highway  1                                         6,461                     
+                                                                                                                      
+                                                                                                                      
+4        Ministry of Commerce & Industry          1                                         2,254                     
+                                                                                                                      
+                                                                                                                      
+5        Ministry of External Affairs             1                                         7,291                     
+                                                                                                                      
+                                                                                                                      
+6        Department of Revenue                    1                                         2,256                     
+                                                                                                                      
+                                                                                          
+Total    12                                       28,673                                  
+                                                                                          
+
+      · Plan Finance II also deals with financial restructuring of Central PSUs on the recommendation of Bureau for Restructuring of Public Sector Enterprises (BRPSE). It is also actively involved in working out modalities of financial assistance to CPSEs, quantification of I&EBR generation for preparation of budget, finalizing, modernization of plants & equipments to ensure more efficiency in production. It is also Secretariat of National Clean energy fund.
+
+
+      · Issues relating to Food, Fertilisers and Petroleum Subsidies including their quantification and extension of assistance to the Stake holders are also dealt with in Plan Finance II Division. This division is actively involved along with the concerned Department/Ministry, in shaping subsidy policy of the Government as to ensure effective targeting coupled with minimum burden on the Government.
+
+
+      · In August 2016, guidelines regarding Appraisal and Approval of Public Funded schemes and Projects and flexi-funds were revised.
+
+
+      *****
+
+
+      DSM/MS/AK
+
+    
+    
+    (Release ID: 1479913) Visitor Counter : 64
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+*

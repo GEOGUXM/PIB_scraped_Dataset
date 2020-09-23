@@ -1,0 +1,46 @@
+      Ministry of Communications
+
+      Signal chip unveils India’s first indigenous semiconductor chips for 4G/LTE and 5G NR modems
+      
+      Places India on the global map for its silicon-chip technology
+
+      Posted On: 27 FEB 2019 3:01PM by PIB Delhi
+
+    Secretary, Telecom, Mrs Aruna Sundararajan said that Data Security is the paramount concern in the World today and India cannot remain secure in terms of data, unless it manufactures its own chips. She was speaking after unveiling of India’s first Indigenous Semiconductor Chips by Bengaluru based semiconductor company “SIGNALCHIP” for 4G/LTE and 5G NR MODEMs in New Delhi today. Terming the launch of the Chip as tremendously significant, Mrs Sundarajan said that India is just breaking into the elite club of the world and this will have huge implications for India’s data security and data sovereignty, besides the positive economic implications. She informed that at present only 8 companies and a few countries can design and build semiconductor chips and launch of Indigenous Chip is in a real sense Make in India for the World. She said, the pioneering work will lead to a whole new architecture of tower building mainly in the light of emission complaints and growing environmental concerns.
+
+
+    Mrs Sundararajan said that when US and China are battling it out for the core ICT technology, India cannot lag behind. She said, even the high powered Committee formed by the Government of India and headed by Stanford University professor A.J. Paulrajto outline a road map for 5G telecom services has suggested breaking into the IPRs of 5G. She said, the launch of a world class product by SIGNALCHIP is start of the Third Wave, after Software and IndiaStack as First and Second wave.
+
+
+    She also congratulated the Founder and CEO of SIGNALCHIP Mr Himanshu Khasnis and CEO of global company ZOHO, SridharVembu for joining together to write India’s most amazing success story.
+
+
+    Mrs Sundararajan unveiled four chips at the event designed by SIGNALCHIP.
+
+     1. SCBM3412: a single chip 4G/LTE modem including the baseband and transceiver sections in a single device
+     2. SCBM3404: a single chip 4X4 LTE baseband modem
+     3. SCRF3402: a 2X2 transceiver for LTE
+     4. SCRF4502: a 2X2 transceiver for 5G NR standards
+
+    The RF sections cover all LTE/5G-NR bands upto 6GHz. These chips also support positioning using India’s own satellite navigation system, NAVIC. The Agumbe series builds up on SCRF1401: India’s first RF transceiver chip for high performance wireless standards like 3G/4G and WiFi, created by Signalchip in 2015.
+
+
+    The combined multi-standard system-on-chip (SoC) can serve as a base station chipset for a wide range of form factors from low-cost indoor small cells to high performance base stations. These are optimally designed to support evolving network architectures like Open RAN/CRAN with flexible interface configurations. Through the IPs created for this device, the company now has the potential to design products for multiple related fields and is currently forging ahead with additional chipsets for advanced 5G NR features. With India having more than 1.1 billion mobile phones in use, one of the highest in the world, Signalchip has created high performance and cost-efficient systems to enable densification of the network.
+
+
+    <><><><><>
+
+
+    SNC
+
+    
+    
+    (Release ID: 1566475) Visitor Counter : 2322
+    
+    
+      Read this release in: Malayalam , Urdu , Hindi
+    
+    
+    
+
+4.

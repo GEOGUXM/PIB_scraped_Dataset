@@ -1,0 +1,40 @@
+      Department of Space
+
+      Forecast of Natural Disasters by ISRO
+      Posted On: 22 MAR 2017 3:49PM by PIB Delhi
+
+
+    ISRO is working on systems to forecast the natural disasters that could be used as input by States/ disaster management agencies.
+
+
+    ISRO is carrying out studies to facilitate best use of the satellite derived information to develop methodologies for forecasting the natural disasters. Some of such methodologies developed include:
+
+
+    i. Cyclone formation, track and Intensity: ISRO has developed methodologies for forecasting the cyclone formation, it’s track and intensity using satellite based observation. The methodology developed has been transferred to India meteorological Department (IMD) who is mandated for cyclone forecast.
+
+
+    ii. Flood Early Warning System: The North Eastern Space Applications Centre (NESAC) of ISRO has developed the Flood Early Warning System (FLEWS) as a Research & Development (R&D) project in Assam State in association with Assam State Disaster Management Authority (ASDMA). The FLEWS model is being used in all 25 flood prone districts of Assam. Another model for forecasting floods in Godavari floodplains in Andhra Pradesh is developed by National Remote Sensing Centre (NRSC) of ISRO. The methodology is being used by Central Water Commission (CWC). ISRO is developing similar systems for Krishna, Brahmani-Baitarani, Ghagra, Gandak, and Kosi rivers.
+
+
+    iii. Heavy Rainfall/ cloud burst alerts: Space Applications Centre (SAC) of ISRO has developed a model, for heavy rainfall / cloud burst alerts, which is being experimentally carried out for Indian region. The information is made available on ISRO’s MOSDAC (Meteorological & Oceanographic Satellite Data Archival Centre) website.
+
+
+    iv. Rainfall triggered landslide alerts for the Uttarakhand Region: An experimental early warning system for rainfall triggered landslides is developed for use along the pilgrimage route corridors leading to Gangotri, Badrinath and Kedarnath as well as along the Pithoragarh-Malpa route in Uttarakhand. The forewarning is generated based on the statistical relation between the terrain (geological, morphological) and temporal (primarily long term rainfall events) factors.
+
+
+    v. Extreme weather events: ISRO has developed experimental methodologies for early warning extreme weather events such as heat wave using numerical weather predictions. The information derived is being made available on the MOSDAC website.
+
+
+    ISRO has realised two satellite missions, Viz., MeghaTropiques (launched in Oct 2011) and SARAL (launched in Feb 2013), in collaboration with French National Space Agency (CNES). Presently, ISRO is working with National Aeronautics and Space Administration (NASA), USA towards joint realisation of a satellite mission, namely, ‘NASA-ISRO Synthetic Aperture Radar (NISAR), to be launched by 2020-21 timeframe. The fund allocation for MeghaTropiques is Rs. 81.6 Crores, SARAL is Rs. 73.75 Crores and for NISAR is Rs. 513 Crores.
+
+
+    This information was provided by the Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, Dr Jitendra Singh in written reply to a question in Lok Sabha today.
+
+    ****
+
+
+    KSD/NK/PK
+
+    
+    
+    (Release ID: 1485163) Visitor Counter : 219

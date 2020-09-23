@@ -1,0 +1,23 @@
+      PIB Headquarters
+
+      THE FIGHT OF SURVIVAL BETWEEN BACTERIA AND RICE PLANTS
+      Posted On: 20 MAY 2019 6:24PM by PIB Hyderabad
+
+
+    The bacterium, Xanthomonas oryzae pv. oryzae, causes a bacterial blight infection in rice, one of the most economically important crops in India. This infection is fatal for rice crops, and farmers can lose up to 60% of their crops owing to this disease.
+
+
+    The first barrier encountered by the bacterium when it comes in contact with the rice plant is the cell ‐ wall of the plant cells, which confers structural integrity and protection to the cell. In order to breakdown the cell wall, Xanthomonas secretes certain cell ‐ wall degrading enzymes. This is sensed by the plant which then activates its innate immune responses to fight the bacterium. But the bacterium has also evolved to secrete specialized proteins (called the effector proteins) that can suppress the plant immune responses. It is the balance between the two that decides if the plant succeeds to protect itself from the bacterial attack.
+
+
+    Dr. Ramesh V. Sonti, at CSIR ‐ Centre for Cellular and Molecular Biology (CSIR ‐ CCMB), Hyderabad, along with senior scientist Dr. Hitendra K. Patel and research scholar Ms. Sohini Deb, have studied the interplay of the interactions of these effector molecules and their role in the rice plant. The team has identified the principal players behind this process and discovered a new plant ‐ bacterial interaction which renders the plant to be resistant to bacterial infection. They found that a bacterial effector, named XopQ, suppresses rice immune responses by interacting with certain members of a class of proteins in the rice plant cells, known as the 14 ‐ 3 ‐ 3 proteins. In an interesting experiment, they altered the sequence of the effector protein at one particular position. Consequently, they found that this mutant form of the bacterial effector protein, is now unable to suppress the plant immune responses. Instead it makes the plant resistant to bacterial infection, by interaction with another different 14 ‐ 3 ‐ 3 protein. Understanding the molecular players in plant immune response pathway offers new ways of blocking the bacterial hijack as well as strengthening the defence responses of the plant cells. Findings of the study have been published in the Journal Molecular Plant Pathology, a publication of the British Society for Plant Pathology.
+
+
+    ***
+
+    
+    
+    (Release ID: 1572281) Visitor Counter : 57
+    
+    
+      Read this release in: Telugu

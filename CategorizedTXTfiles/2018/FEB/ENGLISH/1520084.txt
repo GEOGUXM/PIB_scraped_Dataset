@@ -1,0 +1,178 @@
+      Ministry of Railways
+
+      Highest Priority To Safety In Train Operations: Shri Piyush Goyal
+      
+      Modern technologies being adopted to lower reliance on human element & improve efficiency of the system
+      
+      No shortage of funds for safety related works: ₹73065 cr allocated in BE 2018-19; Additional allocation of 6.3% made 2018-19 as compared to 2017-18
+      
+      Rashtriya Rail Sanraksha Kosh (RRSK) created with a corpus of ₹100000 cr
+      Posted On: 09 FEB 2018 3:42PM by PIB Delhi
+
+
+    The Union Minister for Railways and Coal Shri Piyush Goyal has reiterated that Railways accord highest priority to safety in train operations. Supportive data shows Consequential train accidents have declined from 195 in 2006-07 to 107 in 2015-16 and further to 104 in 2016-17. In the current financial year 2017-18 also, consequential train accidents decreased from 95 to 65 from 01/04/2017 to 31/01/2018 in comparison to corresponding period of the previous year.
+
+
+    A statement showing type-wise number of consequential train accidents during 2006-07 to 2016
+
+
+    17 and the current year 2017-18 is given below:-
+
+                                                                                                                              
+Type of Accident  2006-07  2007- 08  2008-09  2009-10  2010-11  2011-12  2012-13  2013  2014  2015  2016-17  2017-18 (01/04/17
+                                                                                                                              
+                                                                                                                              
+                                                                                  -14   -15   -16            to 31/01/18)     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+Collision         8        8         13       9        5        9        6        4     5     3     5        3                
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+Derailments       96       100       85       80       80       55       49       53    63    65    78       50               
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+MLC Accidents     7        12        7        5        5        7        5        4     6     6     0        1                
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+Fire in Train     4        5         3        2        2        4        9        7     6     0     1        0                
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+Miscella--neous   8        4         7        4        1        2        0        3     5     4     0        0                
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+UMLC accidents    72       65        62       65       48       54       53       47    50    29    20       11               
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+Total             195      194       177      165      141      131      122      118   135   107   104      65               
+                                                                                                                              
+                                                                                                                              
+
+    The above figures also include accidents at unmanned level crossings (UMLCs) caused mainly due to negligence of road vehicle users.
+
+
+    Accidents Per Million Train Kilometers, an important index of safety, has come down from 0.23 in 2006-07 to 0.10 in 2015-16 and further to 0.09 in the year 2016-17 despite quantum increase in the volume of traffic carried by Indian Railways over the years. This figure is expected to come down in the current financial year 2017-18 also.
+
+
+    A statement showing broad cause-wise beak-up of consequential train accidents including accidents at unmanned level crossings during 2006-07 to 2016-17 and the current financial year 2017-18 (from 01/04/2017 to 31/01/2018) is given below:
+
+                                                                                                                                                     
+Causes of Accident                   2006-2007  2007-2008  2008-2009  2009-2010  2010-2011  2011 - 2012  2012-2013  2013-2014  2014  2015  2016  2017
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                               -     -     -     -   
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                               2015  2016  2017  2018
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+Failure of Railway staff             85         88         75         63         56         52           46         51         60    55    64    35  
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+Failure of other than Railway staff  84         81         76         75         57         63           59         57         58    38    22    14  
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+Failure of equipment                 9          9          0          6          5          5            6          3          4     2     2     0   
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+Sabotage                             8          7          13         14         16         6            3          3          3     1     2     1   
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+Combination of factors               1          0          4          1          3          1            0          0          0     1     3     1   
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+Incidental                           7          8          5          4          4          3            7          4          8     9     7     4   
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+Could not be established/Non- Held   1          1          4          2          0          1            1          0          2     1     0     0   
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+Under Investigation                  0          0          0          0          0          0            0          0          0     0     4     10  
+                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
+Grand Total                          195        194        177        165        141        131          122        118        135   107   104   65  
+                                                                                                                                                     
+                                                                                                                                                     
+
+    Modern technologies that lower reliance on human element and improve efficiency of the system are being adopted. Self Propelled Ultrasonic Rail Testing (SPURTZ Car) is under procurement, Trail of Ultrasonic Broken Rail Detection System is underway. TPWS (Train Protection and Warning System) and TCAS (Train Collision Avoidance System) as means of Automatic Train Protection to prevent accidents due to over speeding & passing signal at danger is being adopted. TPWS System is under implementation at 3330 RKMs section on Suburban/High-density Route. It is planned to install the same on Golden quadrilateral and diagonal route by 2023.
+
+
+    There is no shortage of fund for safety related works. Expenditure on safety 2014-15, ₹42304 cr, in 2015-16 ₹45516 cr, 2016-17 ₹55918 cr and RE of 2017-18 is ₹68725 cr and BE of 2018-19 is ₹73065 cr. An additional allocation of 6.3% has been made in the Budget of 2018-19 as compared to 2017-18.
+
+
+    Rashtriya Rail Sanraksha Kosh (RRSK) has been created with a corpus of ₹100000 cr for making additional funds available for safety related works.
+
+     1. Various essential items like FoBs, Platforms, pathway, track fittings, running rooms, escalators, etc. have been reclassified as safety works and have been made available for funding under RRSK.
+     2. (Unmanned Level Crossings) UMLCs on A, B & C routes have been decided to be closed by MARCH, 2018. Closure of the remaining UMLCs is top priority. In the Gate Mitras are being provided at vulnerable gates. As of November, 2017, all the 4236 numbers of UMLCs gate on Broad Gauge have been provided with Gate Mitra.
+     3. For the first time, a global tender for purchase of rails to alleviate shortage of rails for (Total Rail Replacement) TRR and new works is under process.
+
+    *******
+
+
+    SBS/MKV
+
+
+    
+
+    
+    (Release ID: 1520084) Visitor Counter : 119
+    
+    
+    
+    
+    
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+3.

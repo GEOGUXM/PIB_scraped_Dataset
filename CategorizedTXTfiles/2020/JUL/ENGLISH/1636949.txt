@@ -1,0 +1,64 @@
+      Ministry of Science & Technology
+
+      Sun like stars in their later life hold key for Li increase in the Universe – new findings
+      Posted On: 07 JUL 2020 12:52PM by PIB Delhi
+
+
+    In a study recently published in Nature Astronomy (On 6 th July 2020)scientists from Indian Institute of Astrophysics (IIA) an autonomous institute of the Department of Science & Technology, Government of India along with their international collaborators have provided a robust observational evidence for the first time that Li production is common among low mass Sun-like stars during their He-core burning phase.
+
+
+    Light inflammable, metal lithium (Li) has brought about transformation in modern communication devices and transportation. A great deal of today's technology is powered by lithium in its various shades. But where does the element come from? The origin of much of the Li can be traced to a single event, the Big-Bang that happened about 13.7 Billion years ago, from which the present-day Universe was also born.
+
+
+    Over the course of time, Li content in the physical Universe has increased by about a factor of four, which is meager compared to the rest of the elements carbon, nitrogen, oxygen, iron, nickel and so on which grew about a million times over the lifetime of the Universe. Stars are primary contributors to this significant enhancement of heavier elements through mass ejections and stellar explosions. Li, however, understood to be an exemption!
+
+
+    As per the current understanding based on today’s best models, lithium in stars like our Sun only gets destroyed over their lifetime.
+
+
+    As a matter of fact, the composition of all the elements in the Sun and the Earth is similar. But, the measured content of Li in the Sun is a factor of 100 lower than that of the Earth, though both are known to have formed together.
+
+
+    Prof. Eswar Reddy, one of the lead authors of the above paper says “this discovery challenges the long-held idea that stars only destroy lithium during their lifetime implying the Sun itself will manufacture lithium in the future, which is not predicted by models, indicating that there is some physical process missing in stellar theory.”
+
+
+    Authors used spectra of hundreds of thousands of stars collected from large surveys of GALAH (Galactic Archaeology project, Anglo-Australian Telescope, Australia) and distances from European Space mission (Gaia).
+
+
+  
+
+    Figure 1: Figure 1:Evolution of Li in stars from the main sequence through red giant, He-flash (RGB tip) and to He-core burning phase of RC. The dashed line is the model prediction. Band of red symbols represents the He-core burning phase of the red clump region.
+
+
+    Further, the authors identified “He flash” (on-set of He-ignition at the star's core via violent eruption), at the end of the star’s core hydrogen-burning phase, as the source of Li production. Our Sun will reach this phase in about 6-7 billion years.
+
+
+    The study also suggests new limits (A(Li) > -0.9~dex) for classifying stars as Li-rich, which is 250 times below the threshold (A(Li) > 1.5~dex) used till now.
+
+
+    Prof. Reddy further added, “The next crucial step for us is to understand the nucleosynthesis of Li during the He-flash and mixing mechanisms, which hitherto remain unknown, and also to find out whether the increase from its creation in Big-bang to the current value is accounted by only stars as the newly created lithium will end up of being blown off stars as stellar winds which replenish next generation of stars with it.”
+
+
+    “The work of Prof . Eswar Reddy and his team is a compelling example of the profound discovery science being done in the nation and serves as a beacon for the younger scientists to excel in their scientific pursuits,” said Prof Ashutosh Sharma, Secretary, DST.
+
+
+    [Publication details: https://www.nature.com/articles/s41550-020-1139-7.pdf
+
+
+    https://www.nature.com/articles/s41550-020-1139-7?utm_campaign=MultipleJournals_USG_ASTRO&utm_source=Nature_community&utm_medium=Community_sites&utm_content=BenJoh-Nature-MultipleJournals-Astronomy_and_Astrophysics-Global
+
+
+    For more details, Prof. Eswar Reddy ( ereddy@iiap.res.in ) can be contacted.]
+
+
+    *****
+
+
+    NB/KGS/(DST)
+
+    
+    
+    (Release ID: 1636949) Visitor Counter : 1518
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Bengali , Tamil

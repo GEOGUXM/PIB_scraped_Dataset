@@ -1,0 +1,30 @@
+      Ministry of Skill Development and Entrepreneurship
+
+      DGT Proposes to Issue Digital 'E-Credentials/E-Certificates'
+      Posted On: 10 FEB 2020 3:37PM by PIB Delhi
+
+
+    The Government is developing the Electronic Skill Credential Standard (ESCS) Specification.
+
+
+    Directorate General of Training (DGT), Ministry of Skill Development and Entrepreneurship proposes to issue digital ‘e-Credentials / e-Certificates' which are freely portable for candidates and easily verifiable at scale by employers and job matching platforms but continue to allow print and other visual forms for human consumption. This would enable candidates to verifiably state their skill levels with a high degree of trust in authenticity to aggregators, matchers, and employers. Now in the DGT ecosystem, all the certificates are ‘e-Certificates’, digitally signed.
+
+
+    
+    e-Credentials are an electronic scheme-based standard for describing credentials data in a machine-readable format (JSON-LDrepresentation of RDFa- Resource Description Framework, a web standard) along with its printable human-friendly version to make credential exchange between digital agents open and reliable. Certificates issued according to this specification can be aligned to one or more educational standards. They are secured using digital signatures.These will also be pushed in DigiLocker.
+
+
+    This standard is an open standard, free to use, and does not cost anything extra to the Government or the student.
+
+
+    This information was given by the Minister of State for Skill Development and Entrepreneurship Shri R.K. Singh in a written reply in the Lok Sabha today.
+
+
+    ******
+
+
+    YB/SK
+
+    
+    
+    (Release ID: 1602619) Visitor Counter : 441

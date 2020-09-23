@@ -1,0 +1,38 @@
+      Ministry of Science & Technology
+
+      Diagnostics for Asymptomatic Malaria
+      Posted On: 27 FEB 2020 6:43PM by PIB Delhi
+
+
+    The fight against Malaria could get easier with a joint team of scientists from Department of Biotechnology’s Bhubaneswar-based Institute of Life Sciences (ILS) and Bengaluru-based Jigsaw Bio Solutions, coming up with a method that promises to overcome the problem of inadequate identification of asymptomatic carriers of the disease.
+
+
+    Light microscopy and protein immunoassay-based rapid diagnostic tests (RDTs) are used in the diagnosis of Malaria, in mass screening and treatment programs for the diseases, and in surveillance of malaria control measures. They, however, miss out about 30-50% of low-density infections, which typically have less than two parasites/microlitre and are frequently observed in asymptomatic carriers who serve as “silent” reservoirs of the infection capable of transmitting the disease through mosquitoes. Identification of asymptomatic carriers in the endemic areas is recognized as a major hurdle in malaria eradication programmes. New diagnostic methods with higher sensitivity are needed.
+
+
+    In a new study, a team of researchers led by Dr. V. Arun Nagaraj of Institute of Life Sciences and Mr. Srinivasa Raju of Jigsaw Bio Solutions Pvt. Ltd used a new concept of genome mining that identifies identical multi-repeat sequences (IMRS) distributed throughout the malaria parasite genome and successfully targeted them to develop what is called a “ultra-sensitive” qPCR assay for malaria diagnosis.
+
+
+    Validation with clinical samples collected from malaria endemic regions in India showed that that assays were highly sensitive - about 20-100 times more than the traditional methods. They could detect submicroscopic samples. They were four to eight times better than other high-sensitive methods. Further, they were extremely specific for Plasmodium falciparum , which is the deadliest species of malaria parasite and did not cross-react with Plasmodium vivax species, which is the most frequent and widely distributed cause of recurring malaria, but far less virulent.
+
+
+    Speaking to India Science Wire, Dr. Nagaraj said th ere is a scope to develop multiplexed assays for the simultaneous identification of different species. “Our study could lead to the development of highly sensitive, point-of-care molecular diagnostics that can be explored in miniaturized, isothermal, microfluidic platforms and lab-on-a-chip devices. The IMRS approach can serve as a platform technology for the diagnosis of other infectious diseases as well”.
+
+
+    India has developed a National Framework for eliminating malaria by 2030 and to achieve this goal, identifying the asymptomatic carriers in the endemic areas and clearing their infections are very much important. The new finding could help in this. DBT’s Biotechnology Industry Research Assistance Council funded the project. (Vigyan Samachar)
+
+
+    (Keywords: Plasmodium falciparum, Plasmodium vivax, virulent, eradication, sensitivity, parasite, qPCR, assay, point-of-care, molecular diagnostics, miniaturized, isothermal, microfluidic platforms, lab-on-a-chip)
+
+
+    *****
+
+
+    SNC/KGS
+
+    
+    
+    (Release ID: 1604581) Visitor Counter : 546
+    
+    
+      Read this release in: Hindi

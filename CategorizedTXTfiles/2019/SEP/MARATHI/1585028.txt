@@ -1,0 +1,67 @@
+      Ministry of Communications
+
+      Epoch making changes are happening in the lives of people due to leverage of Technology: Ravi Shankar Prasad
+      
+      Maritime communication services and Pilot project in Maharashtra for tracing of stolen mobiles Launched
+
+      Posted On: 13 SEP 2019 6:51PM by PIB Mumbai
+
+    Mumbai, 13 th September 2019
+
+
+    Nelco today announced the launch of maritime communication services. Nelco is the first Indian company that will now provide quality broadband services to the maritime sector. Shri Ravi Shankar Prasad, Union Minister for Communications, Electronics & Information Technology and Law & Justice, Minister of State for Communication, Shri Sanjay Dhotre and Shri Anshu Prakash, Secretary, Department of Telecommunications, Ministry of Communications, Government of India inaugurated the services along with launch of pilot project in Maharashtra for tracing of stolen mobile phones today in Mumbai.
+
+
+    Speaking on this occasion Shri Prasad said, “This is the age of technology and communication. Technology and communication are power. We must leverage the technology for welfare of the people as stressed by Prime Minister Narendra Modi. Digital inclusion is the essence of digital India and focus of this government. We have to leverage use of technology for that. Linking of Jan Dhan account with mobile and Aadhar is one example of it. Epoch making changes are happening where the lives of 130 crore people are enriched by DBT through leverage of technology. E-governance empowers the masses. That is what is sweeping India.”
+
+
+    The Minister further said, “India is changing. 3 crore adhaar validation are done each day. This narrative of change is leapfrogging each day on digital platforms. Be it IT, communication, healthcare, social care India is moving ahead. As far as future is concerned communication policies of government will reinforce transparency. Digital payment is the toast of India. Digital payment UPI interface have leaped in an extra ordinary manner.”
+
+
+    Minister of State for Communication, Shri Sanjay Dhotre said, “Maritime communication is becoming easier with launch of these services. We want to make broadband speedily available in villages. Wellness centres too will soon be connected with broadband.”
+
+
+    Speaking on this new development, Mr. P J Nath, MD & CEO of NELCO said, “Nelco is proud to announce launch of its Maritime Communication services, enabling any maritime vessel sailing in Indian waters to have high quality, uninterrupted access to Broadband Internet. We will also be offering a bouquet of digital services to cater to the needs of the various types of maritime vessels. Going forward we believe that we will be able to fully meet the communication needs of the Maritime Industry with our comprehensive solutions.”
+
+
+    Backgrounder
+
+
+    Maritime Connectivity will enable high-end support to those in sea by providing access to Voice, Data and Video services while traveling on sailing vessels, cruise liners, ships in India, using satellite technology. Nelco through global partnerships, infrastructure including transponder capacity on satellite of ISRO Indian Space Research Organization) and a comprehensive service portfolio will help Energy, Cargo and Cruise vessels by enhancing operational efficiency, improving crew welfare and enabling customer services. The In-flight and Maritime Communications (IFMC) licence has not only enabled connectivity for on-board users on ships but also brings operational efficiencies for shipping companies which were less evolved until now.
+
+
+    In December 2018, the Government of India announced the licenses for In-flight and Maritime Communications (IFMC) that allows voice and internet services while flying over the Indian skies and sailing in Indian waters, both for international and Indian aircrafts and vessels. The IFMC license is a key initiative of the Telecom Ministry, a move to liberalise satellite communication services in India. Nelco obtained the IFMC licence and is the first Indian company to enable communication services for the maritime sector in Indian waters.
+
+
+    International Mobile Equipment Identity (IMEI) is supposed to be an unique identity of a mobile phone device. Generally, a phone with one/two slots of SIM card is programmed with one/two IMEI number as the case may be. IMEI number being programmable, some miscreants do reprogram the IMEI number, which results in cloning of IMEI causing multiple phone devices with same IMEI number. As on date, there are many cases of cloned/duplicated IMEI handsets in the network.
+
+
+    Backgrounder for Pilot project in Maharashtra for tracing of stolen mobiles
+
+
+    If such IMEI is blocked, a large number of mobile phones will get blocked being handsets with same IMEI causing inconvenience to many genuine customers. Further, if an interception is performed based on IMEI, all mobile phones with same IMEI get intercepted, although all of them may not be the target of the security agencies.
+
+
+    Accordingly, a project called Central Equipment Identity Register (CEIR) system has been undertaken by the DoT for addressing security, theft and other concerns including reprogramming of mobile handsets.
+
+
+    It will be first undertaken in Maharashtra with major TSPs i.e. BSNL, RJio, Airtel, Vodafone, Idea. A phased approach is envisaged for Pan India implementation. Initially this system shall be launched on pilot basis in Maharashtra and based on the experience and learning, the same shall be enhanced for implementation across the country.
+
+
+    The pilot project will facilitate as follows:
+
+
+    This project facilitates the mobile customers of Maharashtra to report the loss/theft of his/her mobile phone. Further, it also facilitates blocking of such reported lost/stolen mobile phones across the telecom network, which prevent the reuse of lost/stolen mobile phones. If any person tries to use such device, Telecom Service Provider (TSP) will be able to identify the new user of said devices. Also, TSP will provide traceability information to system that will facilitate police in tracing the mobile phone.
+
+
+    In a long run, this system will help in reducing the resale of lost/stolen phones and discouraging theft cases. Also it will help in prevention of mobile phones with duplicate and fake IMEIs in the network.
+
+
+    ***
+
+
+    DJN/NS/P.Kor
+
+    
+    
+    (Release ID: 1585028) Visitor Counter : 201

@@ -1,0 +1,51 @@
+      Ministry of Housing & Urban Affairs
+
+      Pune’s mobile App Saiyam tracks Home Quarantined Citizens
+      Posted On: 21 APR 2020 3:56PM by PIB Delhi
+
+
+    In order to effectively track the home-quarantines citizens and ensure they are actually staying in the home, a mobile application named Saiyam has been developed by the Pune Municipal Corporation under Smart Cities Mission (SCM).
+
+
+    City administration has taken administrative measures complemented by technology solutions to monitor home quarantined citizens. The city administration has appointed dedicated teams for five zones to conduct a follow-up with people under home quarantine on a daily basis. The teams will check on people who have recently returned from international trips and those discharged after treatment for COVID-19. Accordingly, the teams will seek updates from quarantined people on their health status and details of persons in contact with them. For persons sporting the home quarantine stamp, the teams will check if separate food, bed, utensils, clothes and washrooms are provided to them.
+
+
+    The teams will check if those under home quarantine have downloaded the Saiyam Mobile Application. The Mobile Application has GPS tracking so that whenever quarantined citizens leave their homes, City Administration gets alerted and the local ward or the local police station gets informed, who then visit the family.
+
+      
+
+    All the Home Quarantined citizens are given the mandate to download the app and install it. These identified citizens are advised to keep the GPS feature on the device always switched-on and the mobile device should be switched-on throughout the 24 hours, during the quarantine period. Citizens’ movements can be monitored centrally real-time from the monitoring cell and are marked as Red, Amber or Green. Red signifies that the person has ventured out for longer duration; Yellow signifies that the person has limited movements and Green signifies that the person is confined to house limits.
+
+
+    An illustration of the dashboard monitoring home quarantined citizens is given below:
+
+
+    
+
+    Real-time Tracking of the movements of home-quarantined citizens is shown below:
+
+
+  
+
+    
+
+    Real-time Tracking of the movements of home-quarantined citizens is shown below:
+
+
+    ****
+
+
+    RJ/NG
+
+
+    ****
+
+
+    RJ/NG
+
+    
+    
+    (Release ID: 1616686) Visitor Counter : 1496
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Assamese , Manipuri , Punjabi , Gujarati , Tamil , Telugu

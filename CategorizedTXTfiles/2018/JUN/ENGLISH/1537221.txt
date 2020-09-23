@@ -1,0 +1,32 @@
+      NITI Aayog
+
+      NITI Aayog partners with GNFC Ltd to implement Fertilizer Subsidy Disbursement through Blockchain Technology
+      Posted On: 29 JUN 2018 7:05PM by PIB Delhi
+
+
+    NITI Aayog and Gujarat Narmada Valley Fertilizers & Chemicals Limited (GNFC) have signed a Statement of Intent (SOI) today to work together towards implementing a Proof-of-Concept (“PoC”) application using Blockchain Technology for fertiliser subsidy management.
+
+
+    They will jointly develop the use case, under take research, interact with multiple stakeholders, develop Blockchain solutions, exchange learnings, organise forums, and disseminate learnings across their networks. Learnings, insights and outcomes of the PoC will enable NITI Aayog to suggest policy recommendations and actions in strengthening the subsidy mechanism, making it more transparent and immune to leakages.
+
+
+    Fertilizer units manufacture approximately 31 Million MT of fertilizers across country, where total approximately Rs. 70,000 Cr. of subsidy is disbursed to the manufacturing units. The subsidy disbursal takes two to three months’ time.There are multiple entities involved in verification process, and the transaction process is very cumbersome which has the potential to be automated to give significant efficiency gains.
+
+
+    With implementation of BlockchainTechnology,it is expected that the distribution will become effective and efficient, and subsidy transfer could be automated and made real time.
+
+
+    Blockchain platform have inherent characteristics of distributed computing and ledger keeping of transactions i.e. confidentiality, authenticity, non-repudiation, data integrity, and data availability.
+
+
+    Overall implementation ensures that there is no dependence on intermediary agencies to prove the validity of transactions and resulting subsidy claims. The blockchain based process will also use Smart Contracts which will enable quick and accurate reconciliation of transactions between multiple parties with minimal human intervention. Implementation platform is such that process transparency is evident, transactions cannot be altered and audit trails of transactions are available.
+
+
+    *****
+
+
+    AKT/RKC/SBP
+
+    
+    
+    (Release ID: 1537221) Visitor Counter : 817

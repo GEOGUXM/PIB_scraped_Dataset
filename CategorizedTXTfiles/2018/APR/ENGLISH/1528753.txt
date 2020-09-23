@@ -1,0 +1,37 @@
+      Department of Space
+
+      PSLV-C41 successfully launches IRNSS-1I navigation satellite
+      Posted On: 12 APR 2018 11:05AM by PIB Delhi
+
+
+    In its forty third flight, ISRO’s Polar Satellite Launch Vehicle PSLV-C41 successfully launched the 1,425 kg IRNSS-1I Navigation Satellite today from Satish Dhawan Space Centre SHAR, Sriharikota.
+
+
+    PSLV-C41 lifted off at 0404 hrs (4:04 am) IST, as planned, from the First Launch Pad. After a flight lasting about 19 minutes, the vehicle achieved a Sub-Geosynchronous Transfer Orbit with a perigee (nearest point to earth) of 281.5 km and an apogee (farthest point to earth) of 20,730 km inclined at an angle of 19.2 degree to the equator following which IRNSS-1I separated from PSLV.
+
+
+    After separation, the solar panels of IRNSS-1I were deployed automatically. ISRO's Master Control Facility (MCF) at Hassan, Karnataka took over the control of the satellite. In the coming days, orbit manoeuvres will be performed from MCF to position the satellite at 55 deg East longitude in the planned Geosynchronous Orbit with an inclination of 29 deg to the equator.
+
+
+    IRNSS-1I is the latest member of the ‘Navigation with Indian Constellation (NavIC)’ system. NavIC, also known as Indian Regional Navigation Satellite System (IRNSS), is an independent regional navigation satellite system designed to provide position information in the Indian region and 1,500 km around the Indian mainland.
+
+
+    A number of ground facilities responsible for IRNSS satellite ranging and monitoring, generation and transmission of navigation parameters, satellite control, network timing, etc., have been established in many locations across the country as part of NavIC.
+
+
+    Till now, PSLV has successfully launched 52 Indian satellites and 237 customer satellites from abroad.
+
+
+    ******
+
+
+    BB/NK/PK
+
+
+    
+
+    
+    (Release ID: 1528753) Visitor Counter : 2196
+    
+    
+      Read this release in: Malayalam , Urdu , Marathi , Hindi , Tamil

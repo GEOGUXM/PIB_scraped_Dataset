@@ -1,0 +1,59 @@
+      Ministry of Science & Technology
+
+      A device for long-term monitoring of cells & tissues and study drug delivery effects, tissue repair and regeneration
+      Posted On: 20 JUL 2020 6:46PM by PIB Delhi
+
+
+    Preservation of secondary cell lines, primary cells, and primary tissue explants outside the incubator environment for long hours and continuous monitoring of the growth and electrophysiology recording for controlled drug delivery is a major requirement.
+
+
+    The need for monitoring of growth patterns of cells over long hours on desired substrates and the functionality of an explant-tissue in a non-vivo environment in their laboratory triggered ateam from Jawaharlal Nehru Centre for Advanced Scientific Research(JNCASR) an autonomous institute under the Department of Science & Technology (DST), Government of India to come up with a suitable device.
+
+
+    The researchers implemented a 3D-Fluidic device (3D-FD), which has an auto bubble guidance geometry which allows controlled medium exchange to maintain the metabolites without a trace of fluid leakage and bubble formation. The auto bubble guidance geometry (Helical pathway) and controlled delivery of the medium make it efficient as a drug screening platform and unique in the current scenario of Neuro-Technology. It has been accepted for publishing by the journal Biofabrication, and a patent for the device has also been applied recently.
+
+
+    The JNCASR team of Prof. K.S. Narayan, K. Anilkrishna, C.S. Deepak, and P. Sumukh designed and fabricated a hand-held bench-top micro incubator technology and demonstrated the ability to introduce and deliver drug reagents (channel blockers) in a controlled manner and see their effects.
+
+
+    The studies partially funded by DST and JNCASR-DBT partnership program comprises innovative models for in vitro and in vivo efficacy testing and selection of therapeutic compounds with long-term continuous monitoring possibilities providing valuable information on the biocompatibility and functioning. More specifically, the possibility of obtaining electrophysiological time-series recordings from active cells and tissues at high spatial resolution juxtaposed with microscopy imaging has wide implications for development studies.
+
+
+    The implications of the bubble-free feature of the device are evident in long-term recordings carried out in their laboratory of both secondary cell lines (such as SHSY5Y cells) and primary tissue culture (such as a developing chick-retina). The efficacy of this setup was demonstrated through long-term recordings of the primary retina explant of chick embryos at different stages of development.
+
+
+    The availability of 3D-FD by the JNCASR team offers a testbed to explore various elements and their effects in the pursuit of artificial retina. This system has broad applications for the research community in biomedical engineering to understand how the tissue grows and the physiology development of cell cultures. Also, this device implementation will help in exploring the intricate tissue/cellular environment and dynamic behaviour of cells.
+
+
+    Figure. Represents device assembly (A,B,C,D). E. Cross-sectional view of after the device integrated with multi-electrode array (MEA). F. whole assembly 3D-FD-MEA
+
+
+    Schematic representation of the 3D assembly and the flow-system integrated to the microscope and electrophysiology recording setup.
+
+
+    [Publication details:
+
+
+    Anil Krishna Konduri, CS Deepak, Sumukh Anil Purohit, KS Narayan,
+
+
+    An integrated 3D-fluidic device with bubble guidance mechanism for long-term primary and secondary cell recordings on multielectrode array platform (2020), Accepted Manuscript
+
+
+    https://iopscience.iop.org/article/10.1088/1758-5090/aba500/meta
+
+
+    For more details, Prof. K. S. Narayan (99166 19847, narayan@jncasr.ac.in can be contacted.]
+
+
+    *****
+
+
+    NB/KGS/(DST Media Cell)
+
+    
+    
+    (Release ID: 1639975) Visitor Counter : 745
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Tamil

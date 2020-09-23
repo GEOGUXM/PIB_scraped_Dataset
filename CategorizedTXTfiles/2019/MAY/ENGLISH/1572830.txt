@@ -1,0 +1,98 @@
+      Ministry of Statistics & Programme Implementation
+
+      National Accounts Statistics: A clarification on the usage of MCA Corporate Database
+      Posted On: 30 MAY 2019 4:45PM by PIB Delhi
+
+
+    1. This press release is being issued to clarify on the recent media reports on the usage of corporate sector database (Ministry of Corporate Affairs, MCA) in preparation of the National Accounts estimates and the key findings in the Technical Report of the 74 th NSS Round released recently.
+
+
+    2. It may be recalled that in the 2004-05 series of National Accounts, the RBI sample study of 2500 companies was being used to prepare estimate of Gross Value Added, savings etc. for the Private Corporate Sector (PCS). The Paid-Up-Capital (PUC) of this sample was used for scaling-up for the PUC of all companies for the activity. This methodology had limitations, which were duly considered by the Advisory Committee on National Accounts Statistics (ACNAS) while revising the Base Year of National Accounts to 2011-12. A Sub-Committee, constituted under the ACNAS, recommended the use of MCA-21 corporate database and a copy of the reports is at
+
+
+    http://mospi.nic.in/sites/default/files/ publication_reports/final_Report_Goldar_subcommittee2mar15.pdf . Accordingly, it was decided to use a PUC-based scientific blowing-up of the available companies’ results to arrive at the overall estimates and be used at all stages after the 1 st revised estimates stage. This approach duly accounted for the companies that were active and may not have filed their returns at the time of release of National Accounts estimates. Such scaling-up, using appropriate sampling techniques, is a standard estimation procedure in all sample surveys.
+
+
+    3. The Ministry had decided to undertake an Annual Survey of Services Sector from 2019-20, to study their spatial and temporal characteristics for use in National Accounts estimates. As a prelude, the 74 th NSS Round was conducted during July 2016-June 2017, using list frame of establishments/enterprises from multiple sources. In this round, NSS had selected 35,456 companies from the 3,49,500 service sector companies from MCA frame/database referenced in 2013-14.From the key findings of the Technical Report of NSS 74 th round survey, it emerged that 16.4% of the companies registered with MCA were non-traceable or closed and 21.4% misclassified on the ground.
+
+
+    4. As has been brought out on earlier occasions, the results of any survey needs to be appreciated in the context with which it was undertaken. The objective of the 74 th Round survey was to study the characteristics of the units engaged in the service sector, so as to evolve robust rates and ratios with regard to the output and input of various services. It may also be appreciated that when a corporate gets registered under the Ministry of Corporate Affairs (MCA-21), it receives a Corporate Identification Number (CIN) which has its broad economic activity embedded in the CIN based on the National Industrial Classification (NIC) code. Thus a corporate may have a CIN based on the NIC code at the time of registration, but may actually be carrying out an economic activity with a different NIC Code. Very few corporates make efforts to have their CIN updated with the latest NIC Code and this may lead to cases of mismatch of economic activity in the field vis-à-vis the NIC Code embedded in the CIN. In addition, several corporates cease to operate and the Ministry of Corporate Affairs has been undertaking a weeding out exercise. In the last few years, nearly 6.3 lakh entities have been de-registered.
+
+
+    5. The NSS Technical Report of the 74 th NSS Round needs to be understood in this backdrop. The NSS had taken a sample of 35,456 companies (reference base 2013-14) and visited these corporates. The companies that were not working in the services sector, based on their CIN were excluded from the scope of study and categorised as “out of survey”. This does not imply that these corporates did not exist.
+
+
+    6. As the key findings of the 74 th NSS Round is to be used as a basis for further work, an exercise was undertaken in collaboration with the Ministry of Corporate Affairs on the status of filings of the 35,456 corporates included in the sample. The status of the annual filing under MGT7 for 2016-17 for the sample is tabulated below:
+
+
+    Table 1: Status of companies in NSS 74th Round vis-à-vis MCA
+
+                                                                                                                                           
+Categorisation in the 74th Round                                                                    Number in 74th round  In MCA in 2016-17
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                           
+Active                                                                                              Others*               Total            
+                                                                                                                                           
+                                                                                                                                           
+                                                                                                                                                                               
+Number                                                                                              Return filed          Number             Return filed  Number  Return filed
+                                                                                                                                                                               
+                                                                                                                                                                               
+                                                                                                                                                                                               
+i. Surveyed                                                                                         19,317                18,818             17,612        260     56            19,078  17,668
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+ii. Casualty (i.e. refused information)                                                             2,428                 2,242              1,845         120     9             2,362   1,854 
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+iii. Closed during survey                                                                           1,579                 1,357              990           185     11            1,542   1,001 
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+iv. Selected unit is an establishment (other than headquarter) of a multi-establishment enterprise  324                   276                240           26      1             302     241   
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+v. Out of coverage (i.e. mis-classified)                                                            7,573                 7,291              6,755         136     12            7,427   6,767 
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+vi. Non-traceable units at the address provided                                                     4,235                 3,928              3,141         195     13            4,123   3,154 
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+Sub-total                                                                                           35,456                33,912             30,583        922     102           34,834  30,685
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+                                                                                                                                                         
+vii. Untraceable in MCA owing to change in CIN etc.                                                                       622                            
+                                                                                                                                                         
+                                                                                                                                                         
+                                                                                                                                                                                               
+All                                                                                                 35,456                33,912             30,583        922     102           35,456  30,685
+                                                                                                                                                                                               
+                                                                                                                                                                                               
+
+    Note:* consists of status such as ‘amalgamated’, ‘converted’, ‘unclassified’, ‘under process’, ‘under liquidation’, ‘dissolved’, ‘dormant’ etc.
+
+
+    7. It may be seen from Table 1 above, from the 35,456 companies included in the 74 th Round, around 34,834(86.5%) companies had filed their returns in the MCA database and only 622 were untraceable in MCA, perhaps due to change of CIN etc. In the context of GVA estimation in respect of private corporate sector (PCS), out of the 4,235 units categorised as not traceable at the given address in the 74 th Round, around 3,154units had actually filed returns on-line on the MCA portal. Similarly, out of the 7,573 companies categorised out-of-coverage (i.e. not engaged in production of any service), 6,767 had filed returns on-line. From the 2,428 companies categorised as casualty (i.e. which did not supply information when approached by NSS surveyors), 1,854 companies had filed returns on-line. Interestingly, out of the 19,317 companies actually surveyed in 74 th Round, returns had been filed by 17,668 (91.5%) companies.
+
+
+    8. It may thus be noted that the filing of returns by corporates with MCA is a continuous process. For the purposes of National Accounts Estimates, the returns actually filed by the corporates under MCA is duly taken into account and the scaling up factor for the Paid-Up-Capital for the non-response is low. The key findings of this NSS survey gives a better insight on the challenges that will be faced when the Annual Survey of Services Sector is launched and assist in designing strategies to address them and improve quality. It is, however, reiterated that the findings of the NSS 74 th Round survey will have insignificant impact on the National Accounts estimates.
+
+
+    *****
+
+
+    AKT/VJ/SBP
+
+    
+    
+    (Release ID: 1572830) Visitor Counter : 825
+    
+    
+      Read this release in: Urdu , Hindi

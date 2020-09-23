@@ -1,0 +1,54 @@
+      Ministry of Finance
+
+      GST Council approves principles for filing of new return design based on the recommendations of the Group of Ministers on IT simplification
+      Posted On: 04 MAY 2018 4:07PM by PIB Delhi
+
+
+    GST Council today in its 27 th meeting approved principles for filing of new return design based on the recommendations of the Group of Ministers on IT simplification. The key elements of the new return design are as follows –
+
+
+     1. Onemonthly Return: All taxpayers excluding a few exceptions like composition dealer shall file one monthly return. Return filing dates shall be staggered based on the turnover of the registered person to manage load on the IT system. Composition dealers and dealers having nil transaction shall have facility to file quarterly return.
+
+
+     1. Unidirectional Flow of invoices : There shall be unidirectional flow of invoices uploaded by the seller on anytime basis during the month which would be the valid document to avail input tax credit by the buyer. Buyer would also be able to continuously see the uploaded invoices during the month.There shall not be any need to upload the purchase invoices also. Invoices for B2B transaction shall need to use HSN at four digit level or more to achieve uniformity in the reporting system.
+
+
+     1. Simple Return design and easy IT interface: The B2Bdealers will have to fill invoice-wise details of the outward supply made by them, based on which the system will automatically calculate his tax liability. The input tax credit will be calculated automatically by the system based on invoices uploaded by his sellers. Taxpayer shall be also given user friendly IT interface and offline IT tool to upload the invoices.
+
+
+     1. No automatic reversal of credit : There shall not be any automatic reversal of input tax credit from buyer on non-payment of tax by the seller. In case of default in payment of tax by the seller, recovery shall be made from the seller however reversal of credit from buyer shall also be an option available with the revenue authorities to address exceptional situations like missing dealer, closure of business by supplier or supplier not having adequate assets etc.
+
+
+     1. Due process for recovery and reversal : Recovery of tax or reversal of input tax credit shall be through a due process of issuing notice and order. The process would be online and automated to reduce the human interface.
+
+
+     1. Supplier side control: Unloading of invoices by the seller to pass input tax credit who has defaulted in payment of tax above a threshold amount shall be blocked to control misuse of input tax credit facility. Similar safeguards would be built with regard to newly registered dealers also. Analytical tools would be used to identify such transactions at the earliest and prevent loss of revenue.
+
+
+     1. Transition: There will be a three stage transition to the new system. Stage I shall be the present system of filing of return GSTR 3B and GSTR 1. GSTR 2 and GSTR 3 shall continue to remain suspended. Stage I will continue for a period not exceeding 6 months by which time new return software would be ready. In stage 2, the new return will have facility for invoice-wise data upload and also facility for claiming input tax credit on self declaration basis, as in case of GSTR 3B now.
+
+
+    During this stage 2, the dealer will be constantly fed with information about gap between credit available to them as per invoices uploaded by their sellers and the provisional credit being claimed by them. After 6 months of this phase 2, the facility of provisional credit will get withdrawn and input tax credit will only be limited to the invoices uploaded by the sellers from whom the dealer has purchased goods.
+
+
+    Content of the return and implementation: Return shall be simplified also by reducing the content/information required to be filled in the return. The details of the design of the return form, business process and legal changes would be worked out by the law committee based on these principles. Government is keen to introduce the simplified return design at the earliest to reduce the compliance burden on the trade in keeping with the philosophy of ease of doing business.
+
+
+    ******
+
+
+    DSM/RM/AM
+
+
+    
+
+    
+    (Release ID: 1531331) Visitor Counter : 2681
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+1.

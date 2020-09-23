@@ -1,0 +1,32 @@
+      Ministry of Electronics & IT
+
+      Asia Pacific Cert (APCERT) Discuss Building Trust in Digital Economy
+      Posted On: 15 NOV 2017 4:14PM by PIB Delhi
+
+
+    First ever Asia Pacific Computer Emergency Response Team (APCERT) Open Conference in India and the first in South Asia was held in New Delhi on November 15, 2017. It was inaugurated by the Hon’ble Minister of Electronics and Information Technology, Shri Ravi Shankar Prasad in the presence of the Minister of State of Electronics and Information Technology, Shri K J Alphons. In their presence the Indian Compute Emergency Response Team (CERT-In) received the host country award from the APCERT, handed over by Japan CERT (JPCERT). CERT’s from 22 digital Asia Pacific economies participated along with participation from USA, Europe, Industry, Academia, Government and Media totalling to over 350 professionals to discuss response mechanisms in the complex and evolving threat landscape for Building Trust in the Digital Economy on the contours and vision laid down by the Hon’ble Minister of Electronics and Information Technology, Shri Ravi Shankar Prasad during the inauguration of the open conference on November 15, 2017.
+    
+    The Hon’ble Minister of Electronics and Information Technology made three significant announcements:
+    
+    He announced that under the government’s programme of supporting PhD scholars in digital technologies, the government will offer PhD scholarships in cyber security to candidates from Asia Pacific, who do their PhD in any of the 100 leading universities of India, including IITs, IISc and other universities. He invited research scholars to explore doing their research in India.
+    
+    The Hon’ble Minister mentioned that innovation in cyber security is a big focus of the Government. There are more than 100 cyber security product companies in India and it was proposed that in furtherance of the Public Procurement (Preference to Make in India) preference shall be provided by all procuring entities in the government to domestically manufactured / produced Cyber Security Products.
+    
+    He also said that the Ministry of Electronics and Information Technology was in the process of working with Data Security Council of India to conduct Challenge Grant for cyber security as a means to encourage budding start-ups to develop innovative technologies.
+    
+    India was selected to be part of the steering committee of APCERT along with 6 (Australia, China, Japan, Korea, Malaysia and Taiwan) other countries to shape the agenda for the next 2 years across the region.
+    
+    In India, cyber security professionals got an opportunity to attend a highly content rich technical conference, interact with the Asia Pacific incident response leaders in cyber security and the International community got to see the skills and depth of some of the cyber security start-ups from India.
+    
+    The spectrum of topics covered included setting up sectoral CSIRTS, Nation State exploits, vulnerabilities of block chain, secure communication in industrial internet, cyber crime in financial technology ecosystem, building a sharing economy, machine learning, malicious behaviour in encrypted traffic, mobile security and Artificial Intelligence.
+
+    ******
+
+
+    
+    
+    NNK/MD
+
+    
+    
+    (Release ID: 1509604) Visitor Counter : 229

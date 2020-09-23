@@ -1,0 +1,59 @@
+      Ministry of Railways
+
+      Anti-Collision Device
+      Posted On: 07 MAR 2018 5:45PM by PIB Delhi
+
+
+    Indian Railways have now planned to provide Automatic Train Protection (ATP) conforming to ETCS level-2 standards on the entire Indian Railway Broad Gauge (BG) network. This will provide technological aid to Loco Pilots for avoiding Signal Passing at Danger (SPAD).
+
+
+    Presently following different Automatic Train Protection (ATP) Systems are existing on Indian Railways: -
+
+
+    (i) Automatic Train Protection (ATP) System based on proven European Train Control System (ETCS-L1) Technology has been implemented on 342 RKMs (200 RKMs Delhi-Agra Section, 117 RKMs Chennai Suburban section and 25 RKMs of Metro Railway, Kolkata).
+
+
+    (ii) An ATP called Auxiliary Warning System (AWS) is presently functional on 364 RKMs in the Mumbai suburban section of Central Railway (240 RKMs) and Western Railway (124 RKMs).
+
+
+    (iii) An ATP system indigenously developed called Train Collision Avoidance System (TCAS) is under trail on 250 RKMs of South Central Railway as a pilot project.
+
+
+    Track circuiting used for signalling and interlocking also detects rail crack in track circuited area. However, track circuit is available on a limited length on the IR network. Also, a trial of Ultrasonic Broken Rail Detection System (UBRD) to detect in service rail/weld failures on Northern Railway and North Central Railway over 25 km of track each is under progress.
+
+
+    Literature survey has been carried out by RDSO to know the system placed in other countries for detection of cracks in rails. Track circuiting used for signalling and interlocking also detects rail crack in track circuited area in several countries. Besides, following technologies are available/under development/under trial world over, which are potential solution for broken rail detection system:
+
+
+    (i) Ultrasonic Broken Rail Detection System (UBRD).
+
+
+    (ii) Rail Fracture & Instruction Detection System (Using distributed Optical Fibre Sensing).
+
+
+    (iii) Rail ACCOUSTIC-TR: Broken Rail Sensing System.
+
+
+    (iv) Loco vision analytics and Rail integrity monitoring system.
+
+
+    (v) Audio Frequency Continuous Track Circuiting (AFTC).
+
+
+    (vi) Other track circuit based patented technologies.
+
+
+    This information was made available in reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    SBS/DK
+
+    
+    
+    (Release ID: 1523017) Visitor Counter : 416
+    
+    
+      Read this release in: Tamil

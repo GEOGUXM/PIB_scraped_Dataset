@@ -1,0 +1,98 @@
+      Ministry of Railways
+
+      Ministry of Railways extends SMS facility regarding status of delayed trains to 1373 trains including Garib Rath, Duranto, Jan Shatabdi, Suvidha, Humsafar and Superfast trains.
+      
+      In initial phase of roll-out, all Rajdhani, Shatabdi, Tejas & Gatiman Trains were covered w.e.f. 03rd November, 2017
+
+      Posted On: 04 JAN 2018 5:18PM by PIB Delhi
+
+    Ministry of Railways has extended its facility of information to passengers through Short Messaging Service (SMS) to 1373 trains including Garib Rath, Duranto, Jan Shatabdi, Suvidha, Superfast & Humsafar trains regarding status of trains running late by more than one hour. SMS giving status of late running is being sent to passengers who are boarding the trains at onward intermediate stations who had given their mobile numbers at the time of booking the ticket.
+
+
+    This facility was made available from 3 rd Nov. 2017 initially for passengers booked on all Rajdhani, Shatabdi, Tejas and Gatimaan trains.
+
+                               
+Type of train  Number of trains
+                               
+                               
+                               
+Rajdhani       50              
+                               
+                               
+                               
+Shatabdi       58              
+                               
+                               
+                               
+Tejas          2               
+                               
+                               
+                               
+Gatiman        2               
+                               
+                               
+                               
+Total          112             
+                               
+                               
+
+    The service was extended to 157 more trains to include all Garib Rath, Duronto, Jan Shatabdi and Suvidha Trains w.e.f Dec 15, 2017.
+
+                               
+Type of train  Number of trains
+                               
+                               
+                               
+GaribRath      52              
+                               
+                               
+                               
+Duranto        52              
+                               
+                               
+                               
+Jan Shatabdi   40              
+                               
+                               
+                               
+Suvidha        13              
+                               
+                               
+                               
+Total          157             
+                               
+                               
+
+    W.e.f January 3, 2018 1104 more trains are being included to cover all Superfast and Hamsafar trains with same facility to passengers.
+
+                               
+Type of train  Number of trains
+                               
+                               
+                               
+Superfast      1082            
+                               
+                               
+                               
+Hamsafar       22              
+                               
+                               
+                               
+Total          1104            
+                               
+                               
+
+    Total - 112+157+1104 = 1373 Trains
+
+
+    This facility is first of its kind in the world as Indian railways are making its own efforts to provide information in “Push” mode for the benefit of passengers. Indian Railways have been receiving positive response from the passengers for providing this facility.
+
+
+    ***
+
+
+    AKS/MKV/ENS
+
+    
+    
+    (Release ID: 1515512) Visitor Counter : 1913

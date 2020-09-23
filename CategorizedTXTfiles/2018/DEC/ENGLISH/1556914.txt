@@ -1,0 +1,229 @@
+      Ministry of Electronics & IT
+
+      Year End Review-Key Achievements: 2018
+      Posted On: 21 DEC 2018 12:51PM by PIB Delhi
+
+     1. The Digital India Programme of the Government aims to transform India into a knowledge-based economy and digitally empowered society by ensuring digital access, digital inclusion, digital empowerment and bridging the digital divide. Under Digital India Programme MeitY has effectively utilised Digital technologies to transform the lives of people while ensuring digital inclusion of all the segments. The Government is committed to provide governance and services to our citizens in an affordable and efficient manner within the shortest span of time.
+          + Through Aadhaar, the Government has provided digital identity to 122.9 crore residents of the country with 99% coverage of adult population as on 30 th November, 2018. Earlier, a substantial percentage of population, especially the economically poor and the rural segment, women and children, did not have an identity card by which they could access a service. Aadhaar has given individuals a Government issued ID card which can be authenticated any time anywhere. Aadhaar combined with Digital Locker, eSign, and various forms of digital payments have paved the way for common man getting services on his mobile instead of having to run to multiple Government offices.
+
+          + Digital Payments
+
+      * The growth of digital payments ecosystem is set to transform the economy.
+      * India’s unique payment systems such as BHIM-UPI and BHIM-Aadhaar getting recognized globally.
+      * Over the past four years digital payment transactions have grown multifold from 316 crore transactions in 2014-15 to 2071 crore transactions in 2017-18. Today, BHIM app has become one of the main digital payment instrument for sending, collecting the money and to pay for various utility bills. In November, 2018, more than 173 lakh transactions of value ₹ 7,981 crore were made using BHIM app.
+                                                                        
+No. of Digital Payments per month after Demonetization (Figure in crore)
+                                                                        
+                                                                        
+                                                                                                         
+Digital Payments Mode                                                     Oct-16  Nov -18        % Growth
+                                                                                                         
+                                                                                                         
+                                                                                                         
+Mobile Wallets                                                            9.96    36.84(Oct 18)  270%    
+                                                                                                         
+                                                                                                         
+                                                                                                         
+Unified Payment Interface + BHIM+USSD                                     0.01    52.49          524800% 
+                                                                                                         
+                                                                                                         
+                                                                                                         
+Debit Card                                                                14.06   39.34(Oct 18)  180%    
+                                                                                                         
+                                                                                                         
+                                                                                                         
+Immediate Payments System (IMPS)                                          4.21    14.99          256%    
+                                                                                                         
+                                                                                                         
+                                                                                                         
+Aadhar Enabled Payments System                                            2.57    13.71          433%    
+                                                                                                         
+                                                                                                         
+
+          + The growth of mobile and smartphones have transformed the ecosystem of Digital Delivery of Services. The combination of Jandhan bank Accounts, mobile phones and digital identity through Aadhaar is helping the poor receive the benefits directly into their bank account. A total of ₹ 5.49 lakh crore have been disbursed through Aadhaar based DBT to beneficiaries of 433 government schemes which have led to saving of over ₹ 90,000 crore in the last 4 years by removing fictitious claimants. (1)
+
+          + Mobile phones have also provided a major boost to the growth of Digital Payments. Over the past four years digital payment transactions have grown multifold. BHIM app has become one of the main digital payment instrument for sending, collecting the money and to pay for various utility bills. The trend can be explained through the following table:
+                                                        
+Sl.  Mode            November, 2016    October, 2018    
+                                                        
+                                                        
+No.                                                     
+                                                        
+                                                        
+                                                        
+1    BHIM/ UPI       1000 / Day        160.79 lakh / Day
+                                                        
+                                                        
+                                                        
+2    Mobile Wallets  46.03 lakh / Day  122.82 lakh / Day
+                                                        
+                                                        
+                                                        
+3    Debit Cards     78.83 lakh / Day  131.13 lakh / Day
+                                                        
+                                                        
+
+          + Digital Delivery of Services is now easily available to common people through digital platforms like;
+
+              o National Scholarship Portal: In the last three Academic Years(2015-18), National Scholarship Portal received 3.57 Cr. applications and ₹ 5276 Cr. has been disbursed to 1.8 Cr. students.
+              o Jeevan Pramaan has improved the ease of verification of pensioners using Aadhaar digital identity. Since its launch on 10 th November, 2014 over 239.24 lakh pensioners have submitted life certificates. So far 1.73 crore DLC have been processed. In current year from 1 st November 2018, 62.58 lakh pensioners submitted life certificates.
+
+              o DigiLocker serves as a platform to enable free of cost unlimited digital space offered to citizens to securely store and share their documents with service providers electronically after giving due permission. So far, more than 1.69 crore registered users, over 68 issuers, over 27 requesters DigiLocker provides access to over 347 crore certificates in digital format on a single platform .
+
+
+              o GeM: 31,212 Buyer Organisations, 170,062 Sellers & Service Providers (2) .
+
+              o Soil Health Card: 9.5 crore cards made
+
+    - Cycle 1 – 10.73 crore + cards dispatched
+
+
+    - Cycle 2 – 6.20 crore + cards dispatched.
+
+
+              o eNAM: As on 30 th November, 2018, about 1.35 crore registered farmers (3) ; 585 markets that are linked to the eNAM network from 16 States and 2 UT's. (4)
+
+          + To make governance easily accessible to people and to provide high quality digital delivery of services, UMANG (Unified Mobile Application for New Age Governance) is the platform created by the Government that enables access to various government services to the citizens through their mobile phones. 325 services, 72 application of 17 States are available on UMANG as on 19 th December, 2018.
+          + Common Service Centres (CSCs) are bringing eServices to the doorsteps of people in the rural areas in an affordable manner. These are positioned as change agents, promoting rural entrepreneurship and building rural capacities and livelihoods. At present, around 3.05 lakh CSCs are functional including Gram Panchayat level while, 2.11 lakh CSCs are functional at Gram Panchayat level and offering more than 350 digital services. CSCs have become centres of digital empowerment with having been actively involved with digital literacy. These services range from Education, Health, Agriculture, and Certificate related services. Through CSCs, Women VLEs are playing a very important role in Digital India Movement. The Government is encouraging women entrepreneurs including the members of Self-Help Groups to set up Common Services Centres and become VLEs with the aim of empowering them in building of nation.
+          + e-Taal (Electronic Transaction Aggregation & Analysis Layer): There has been a stupendous growth in Electronic Transactions (e-Transactions) in various e-Governance services. Over 8,718.65 crore e-Transactions have been recorded since its inception, till 9 th December, 2018; against 3,085.13 crore transactions recorded in FY 2017-18 till November, 2018. Currently, e-Taal has integrated with 3,646 e-Services, PAN India.
+          + E-District Mission Mode Project (MMP): e-District is a Mission Mode Project (MMP) that aims at electronic delivery of identified high volume citizen centric services at the district or sub-district levelThe objectives of the e-District project are to ensure end-to-end workflow to ensure delivery of e-Services by undertaking Business Process Re-engineering (BPR) of services and providing easy, anywhere and anytime access to Government services. Currently, over 2,651 e-Services have been available for citizens in total 687 districts out of 721 across 33 States / UTs.
+          + Digitized India Platform (DIP): Digitize India Platform (DIP) is an initiative of the Government of India under the Digital India Programme to provide digitization services for scanned document images or physical documents for any organization. The main objective of this project to provide an end-to-end workflow based IT framework for digitization of Government records to enhance service delivery to the citizen and to empower numerous self-identified volunteers, part-time workers, housewives, students and general public, who add small portions of their contribution through crowd sourcing mechanism to achieve the greater result. As on 30 th November, 2018 total 5.10 lakh contributors have been registered with DIP and as a result over 1.06 crore documents and 3.91 crore snippets have been digitized.
+          + Rapid Assessment System (RAS): A continuous feedback system on e-services delivered by Government of India and State Governments. A citizen may provide feedback using RAS through various channels – Web Portal, Mobile App and SMS. RAS offers Localized Feedback Forms, in 9 languages, i.e. Hindi, Gujarati, Bengali, Kannada, Malayalam, Marathi, Punjabi, Tamil and Telugu. Currently, RAS is integrated with 1,645 e-Services of 283 Departments PAN India. Over, 6.72 crore feedback requests have been sent, till 9 th December, 2018.
+          + Open Government Data (OGD): The Open Government Data (OGD) Platform India ( https://data.gov.in ) has been set-up by the National Informatics Centre (NIC) under MeitY in compliance with the Open Data Policy (NDSAP) of India. The objective of the policy is to provide proactive access to Government owned shareable data, along with its usage information in open/ machine readable format, through a wide area of network across the country, in a periodically updated manner, within the framework of various related policies, rules and acts of the Government. Open Government Data License of India has been recently approved by MeitY to ensure that the data sets released are not misused or misinterpreted (for example, by insisting on proper attribution) and that all users have the same and permanent right to use the data. The said License has been notified in the Gazette of India on 13 th February, 2017. Till 9 th December, 2018, OGD India have 2,42,413 dataset resources, 4,438 catalogs contributed by 142 Ministry/ Departments, over, 1,539 Visualizations created, 8,448 Application Programming Interfaces (APIs) created, total 204 Chief Data Officers have been nominated for data release. OGD India has 19.75 million times viewed and 6.35 million datasets have been downloaded.
+     2. MyGov is a citizen-centric digital collaboration platform that empowers people to connect with the Government & contribute towards good governance. Started on 26 th July, 2014 and with a modest 8.74 lakh users in the first year, today MyGov has over 71 lakh active users under 64 groups who contribute their ideas through 790 discussion groups and participate through 794 earmarked tasks that have grown from 36 lakh active users in 2016.
+
+     1. National Knowledge Network (NKN): The objective of NKN is to interconnect all institutions of higher learning and research with a high speed data communication network to facilitate knowledge sharing and collaborative research. So far, 1,675 links to institutions have been commissioned and made operational. This includes 388 links to institutions under National Mission on Education through Information and Communications Technology (NMEICT), which have been migrated to NKN.
+
+          + 498 district Links are operational under NKN to interconnect various Districts across the country.
+          + NKN connectivity has been extended to SWAN in 33 States/UTs and SDC in 30 States/UTs.
+          + NKN offering DDOS (Distributed Denial of Service) managed security services for the customers who are connected to NKN backbone to protect their services from DDOS attacks.
+          + Concurrently with strengthening its national footprint, NKN focuses on improving international connectivity, providing Indian researchers and students with access to the global research and education community. NKN has peered with Research and Education Networks (RENs) such as Asi@connect in Asia Pacific, GEANT in Europe, Internet2 in USA, LEARN in Sri Lanka and NORDUnet for Nordiac countries i.e. Denmark, Iceland, Norway, Sweden and Finland. Apart from this NKN has peering with content providers such as: Google, Akamai, Microsoft and Facebook.
+          + NKN has commissioned its international PoPs at Amsterdam, Singapore and Geneva.
+     2. Digital literacy is a key component of the Government’s vision of building an empowered society especially in the context of rural India as this would address a number of socio-economic issues, especially in the areas of healthcare, livelihood generation and education. In order to bridge the digital divide, the Pradhan Mantri Digital Saksharta Abhiyan (PMGDISHA) is being implemented by the Government. Around 1.62 crore beneficiaries in rural areas have been enrolled and 1.58 crore people have been imparted training and a total of 6 crore beneficiaries will be trained.
+
+     1. MeitY has been steering the BPO movement to smaller towns to create employment opportunities and promote IT-ITeS industry and aims to secure a balanced regional growth. Under India BPO Promotion Scheme, 45, 840 seats are allocated to 163 companies, resulting in setting up of 240 units distributed across 110 locations of 20 States & 2 UTs. BPOs are promoting local entrepreneurs and employment to women and differently-abled. BPOs have started operation at several locations, including, Bhaderwah, Budgam, Jammu, Sopore and Srinagar in Jammu and Kashmir, Guwahati, Kohima, Imphal in North-Eastern region, Baddi and Shimla in Himachal Pradesh, Patna and Muzzaffarpur in Bihar, Jaleshwar in Odisha.
+
+
+     1. Government of India attaches high priority to electronics hardware manufacturing and it is one of the important pillars of both “Make in India” and “Digital India” programmes of the Government. The mobile phone and components manufacturing have emerged as one of the flagship sectors under the Make in India initiative.
+
+
+          + Growth in Mobile Phone Manufacturing: There has been almost 29% rise on the production of mobile phones to reach 22.5 crore units vis-s-vis 17.5 crore units last year. It is estimated that about 6.7 lakh persons are employed (directly and indirectly) by the units manufacturing mobile phones and parts/ components thereof.
+
+              o Jump of 29% in terms of units made. Manufacturing of mobile phones has reached 22.5 crore units in 2017-18 from 17.5 crore in 2016-17.
+              o About 268 unique no. of units are manufacturing cellular mobile phones and parts/ components thereof in the country.
+              o About 6.7 lakh persons are employed (directly and indirectly) by the units manufacturing mobile phones and parts/ components thereof.
+
+          + Modified Special Incentive Package Scheme (MSIPS): To offset disability and attract investments in Electronic manufacturing, Modified Special Incentive Package Scheme (M- provides 20-25% subsidy for investments in capital expenditure for setting up of new electronic manufacturing facility or expansion of the existing electronic manufacturing facility. The incentives are available for 44 categories of electronic products and product components. As on November 2018, 272 active applications have been received with a total investment outlay of Rs 68, 820 crore. Out of these, 190 applications have been approved so far with a total proposed investment of Rs 41,341 crore. Out of these 144 units, 127 units have commenced production. These 127 units have generated total employment (direct and indirect) of 64,000 and paid taxes amounting to ₹ 8,211 crore to the government. There are 2 mega projects with proposed investments of over 1billion USD amounting to Rs 37,576 crore. These mega-projects are under initial stage of appraisal. So far, Rs 330 crore of incentives have been disbursed to 38 applicants and 33 claims, claiming incentives of Rs 331 crore are under process.
+
+
+          + Electronics Manufacturing Clusters (EMC) scheme: EMC provides support for creation of world-class infrastructure for attracting investments in the Electronics Systems Design and Manufacturing (ESDM) Sector. Under the scheme, final approval has been accorded to Twenty (20) applications for setting up Greenfield Electronics Manufacturing Cluster and three (3) applications for setting up of Common Facility Centre in Brownfield Cluster over an area of 3,565 acres with project cost of ₹3,898 crore in fifteen (15) states across the country. These EMCs are projected to attract an investment of ₹54,800 crore and are expected to generate approx. 6.43 lakh employment opportunities. As of now, 121 units have booked land for setting up of their manufacturing facilities within these EMCs. 16 units have started commercial production with investment of ₹4,366 crore providing employment to 8,221 persons.
+
+          + Electronics Development Fund: Creating a vibrant ecosystem of innovation, Research and Development (R&D) with active industry involvement is essential for a thriving electronics industry. It is with this objective that an Electronics Development Fund (EDF) is set up as a “Fund of Funds” to participate in professionally managed “Daughter Funds” which in turn will provide risk capital to companies developing new technologies in the area of Electronics, Nano-electronics and Information Technology (IT). Canbank Venture Capital Funds Ltd. (CVCFL), a 100% subsidiary of Canara Bank, is the Investment Manager and MeitY is the anchor investor of EDF. As at the end of second quarter of FY 2018-19, EDF has invested ₹53.52 crore in six Daughter Funds, which in turn have made investments of ₹177.37 crore in 47 Ventures/ Startups. Total Employment in supported Startups was around 4,200.
+          + Development and Implementation of Indian Conditional Access System (iCAS): Keeping in view the huge indigenous requirement of the broadcasting sector, Conditional Access System, entitled iCAS has been developed to promote indigenous manufacturing of Set Top Boxes (STBs). Over 14,00,000 STBs with iCAS have been deployed with more than 150 operators. Doordarshan is leveraging the developed technology to upgrade its Dish DTH platform.
+          + Rationalisation of tariff structure: Tariff Structure has been rationalized to promote indigenous manufacturing of electronic goods, including, inter-alia, Cellular Mobile Handsets, Televisions, Electronic Components, Set Top Boxes, LED Products, Medical Electronics, Microwave Ovens, etc. For promoting indigenous manufacturing of Cellular Mobile Handsets and sub-assemblies/ components/ accessories thereof, a Phased Manufacturing Programme (PMP) is under implementation.
+
+    As a result, the production of LCD/ LED TVs has gone up from 1.5 crore units in 2016-17 to 1.6 crore units in 2017-18. The production value of Light Emitting Diode (LED) Products has gone up from ₹7,134 crore in 2016-17 to ₹9,630 crore in 2017-18.
+
+          + Public Procurement (Preference to Make in India) Order 2017: The Government has issued Public Procurement (Preference to Make in India) Order 2017 to encourage ‘Make in India’ and to promote manufacturing and production of goods and services in India with a view to enhancing income and employment.
+
+    In furtherance of the aforesaid Order MeitY has notified for 11 Electronic Products viz., Desktop PCs, Laptop PCs, Tablet PCs, Dot Matrix Printers, Contact and Contactless Smart Cards, LED Products, Biometric Access Control/ Authentication Devices, Biometric Finger Print Sensors, Biometric Iris Sensors, Servers, and Cellular Mobile Phones vide Notification No. 33(1)/2017-IPHW dated 14.09.2017 and Notification No. 33(5)/2017-IPHW dated 01.08.2018, respectively. The Electronic Product Notifications will help stimulate the flow of capital and technology, create employment opportunities, promote higher value addition in the electronic products manufactured in the country and reduce dependence on imports.
+
+
+          + Electronics and Information Technology Goods (Requirements for Compulsory Registration) Order, 2012: Keeping in view the safety of Indian consumers and to curb the inflow of substandard electronic products, the “Electronics and Information Technology Goods (Requirements for Compulsory Registration) Order, 2012” was notified on 3 rd October, 2012 under the provision of Compulsory Registration Scheme of BIS Act, 1986. This Order had come into effect from 3 rd July, 2013. So far, 44 products categories have been added to the schedule of the Order and the Order has come into effect for all the notified products/ standards.
+
+
+    The Indian Language support for Mobile Phones as per IS 16333 (Part 3) has been added to the schedule of this Order on 24 th October, 2016. The standard provides for inputting of text in English, Hindi and at least one additional Indian official language along with facility of readability in the phones for all 22 Indian official languages and script supporting these languages. The Order has come into effect from 1 st May, 2018.
+
+
+    The Compulsory Registration Scheme has resulted in high compliance of notified electronic goods to Indian safety standards and more than 15,000 registrations have been granted by BIS to manufacturing units covering approximately 75,000 products models/ series.
+
+
+     1. To promote the use of electronics in healthcare, agriculture, energy and environment, transportation, Safety and security, communication and computing, R&D projects have been taken up in the sector of Medical Electronics and Health Informatics (ME&HI), Electronics System Design and Application (ESDA), Electronics Material and Component Development (EMCD), Microelectronics Development, Nanotechnology with main focus on Nanoelectronics and Computer Security. Followings are the achievements during the year 2018 -
+
+          + Design and development of 64-bit Microprocessor by IIT Madras and 32-bit Microprocessor by IIT Bombay designed using Open Source Instruction Set Architectures (ISA) fabricated successfully at 180nm technology node of SCL Mohali.
+          + Four numbers of 6 MV LINAC developed for the treatment of cancer. Three of them have been deployed at Indian Institute of Head and Neck Oncology, Indore, Amravati Cancer Foundation, Amravati and BKL Walawalkar Hospital, Chiplun. On an average 30 patients are being treated per day on these machines. Technology has been transferred to industry.
+          + Centre of Excellence on Tactile Graphics has been established at IIT Delhi for development of tactile diagrams for Divyang. Tactile diagrams created for text books i.e. Science & Math books for Grades 6 to 10, India map book etc. for visually impaired children. A start-up company under the project “Centre of excellence in tactile graphics” has been incubated for production of tactile diagrams.
+          + Various devices developed/are being developed under the Centres of Excellence in Nanoelectronics setup.
+          + An Aadhaar enabled cloud based Personal Health Record Management System (PHRMS) application has been designed to store Personal Health record of Individuals. System is deployed on National Health Portal server.
+
+          + Specialized Manpower Generation -
+
+              o An umbrella Programme “Special Manpower Development Programme in Chips to System Design (SMDP-C2SD)” has been initiated with the aim to generate specialized manpower in the area of VLSI design and to develop System-on-Chip/ System. 28,000 numbers of specialised manpower generated in last 3 years and 15 projects taken up for the development of 70 Application Specific Integrated Circuits (ASICs) and 30 Field Programmable Gate Array (FPGA) based board level design. State-of-the-art VLSI designs labs setup at 60 institutes. About 30 Chips fabricated at SCL Mohali & other foundries.
+              o To train specialised research manpower in the area of Nanoelectronics using the R&D facility established at IISc, Bangalore and IIT Bombay, a joint program “Indian Nanoelectronics Users Program (INUP)” has been started and utilised by the researchers across the country for proof of concept of their ideas. There are around 410 publications and 30 patents under this program.
+
+          + To secure the cyber space following key actions have been initiated -
+
+              o Cyber Swachhta Kendra (Botnet Cleaning and Malware Analysis Centre) has been launched by the Government in February, 2017 for detection of systems infected by malware/ botnets in the country and to notify, enable cleaning and securing systems of end users to prevent further malware infections by providing free bot removal tool via web portal.
+              o Free bot removal tool downloaded in the year 2017 are 4,78,508. The number of Free bot removal tool downloaded in the year 2018 are 8,18,910.
+              o Government has initiated setting up of National Cyber Coordination Centre (NCCC) to generate necessary situational awareness of existing and potential cyber security threats and enable timely information sharing for proactive, preventive and protective actions by individual entities. Phase-I of NCCC has been made operational.
+
+     1. All this ensures that with the aim of Minimum Government Maximum Governance, ease of living of the citizens is at the core of Digital India. This has laid a robust foundation for India to become one of the leaders in digital transformation.
+
+                                                                     
+Source:  1 - https://dbtbharat.gov.in/                               
+                                                                     
+                                                                     
+                                                                     
+         2 - https://gem.gov.in/#                                    
+                                                                     
+                                                                     
+                                                                     
+         3 - https://www.enam.gov.in/enam/dashboard/stakeholder-data 
+                                                                     
+                                                                     
+                                                                     
+         4 - https://www.enam.gov.in/enam/stakeholders-Involved/Apmcs
+                                                                     
+                                                                     
+                                                                     
+                                                                     
+                                                                     
+
+    *****
+
+
+    SD
+
+    
+    
+    (Release ID: 1556914) Visitor Counter : 8052
+    
+    
+      Read this release in: Tamil , Hindi , Bengali
+    
+    
+    
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+1.

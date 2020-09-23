@@ -1,0 +1,104 @@
+      Ministry of Electronics & IT
+
+      Shri Ravi Shankar Prasad to Inaugurate VIVID 2019
+      Posted On: 20 FEB 2019 3:17PM by PIB Delhi
+
+
+    “VIVID-Vision Insight and Voices as India goes Digital”- the District Informatics Officer (DIO) meet, is being organised by National Informatics Centre (NIC) on 21st and 22nd February, 2019 . The meet is held as an initiative to interact with the DIO’s and to share their experiences as well as contribution, as digital change-makers at the grass-root level in the States.
+
+
+    Hon’ble Minister of Electronics and IT, Law and Justice Shri Ravi Shankar Prasad, will inaugurate the event with conferring of NIC TechGov Awards and Swachhta Awards. Hon’ble Minister will also release/launch a number of other initiatives as given below:
+
+      * Release of
+      * Digital India Compendium
+      * Launch of
+          + Digidhan Mitra Chatbot
+          + Technology incubation and development of entrepreneurs 2.0 scheme
+          + Centre of Excellence on:
+          + IOT Open lab, STPI Bengaluru
+          + ESDM Incubation, STPI Bhubaneswar
+          + Emerging Technologies, NASSCOM, Gandhinagar
+          + Emerging Technologies, NASSCOM, Vishakapatnam
+
+    VIVID started in 2017, as an annual event, with the objective to empower NIC officials in the field of technology. Continuing its tradition from previous years, VIVID 2019 will be a landmark event for NIC. VIVID this year would once again provide a cohesive and extensive platform for interaction and knowledge sharing,
+
+
+    The meet will also be attended by other Senior Government officials from NIC and Central and State Governments.
+
+
+    The National meet will cover a wide range of relevant topics in various technical sessions sessions including Emerging Technologies (Artificial Intelligence, Machine Learning & Big Data Analytics), Cyber Threats & Counter Measures (Changing Digitisation Paradigm & its impact on Security), Enterprise Level Applications, and many other relevant topics.
+
+
+    NIC TechGov Awards
+
+
+    NIC TechGov is a competitive platform that presents a unique opportunity to the NIC officers posted in states and districts offices across the nation to accelerate their knowledge and learn emerging technologies. Total 203 teams cumulatively consisting of 514 members registered for the event under two different tracks called Innovation and Collab:DEV. Across different sub-tracks of TechGov 2019, 7 teams comprising 13 members and 8 teams with 19 members in total were declared winners in Gold and Silver categories respectively.
+
+
+    Swachhata Awards
+
+
+    The Swachh Bharat Mission inspired by the Hon’ble Prime Minister's vision to engage all Union Ministries/ Departments in Swachhata related activities is of pivotal importance. NIC has participated in Swachhata activities since the launch of the Swachh Bharat mission. An audit was undertaken by NIC for ranking/ awards to the field offices at the State level for their achievements and on its basis ranking of NIC State Centres was finalized.
+
+
+    Digital India Compendium
+
+
+    ‘Digital Bharat, Saksham Bharat – A Compendium on Digital India’ covers the entire gamut of the Digital India programme from policy to implementation perspective, highlighting the transformation led by Digital India, a story of Digital Empowerment and Digital Inclusion. The compendium is brought out with an objective to disseminate and propagate the success of Digital India among masses.
+
+
+    Digidhan Mitra Chatbot
+
+
+    Designed and developed by NIC, the AI based Digidhan Mitra enables a text & voice based conversation with the user, mining the Digidhan Portal, to give customized information in graphical, tabular and textual format. It provides bank wise transactions details as well as growth pattern of various modes of transactions like BHIM, IMPS, Cards etc. in tabular as well as graphical form."
+
+
+    Technology Incubation and Development of Entrepreneurs (TIDE 2.0) Scheme
+
+
+    The Scheme has been devised to promote the momentum into the tech entrepreneurship landscape. The Scheme provides financial and technical support to incubators engaged in supporting ICT startups using emerging technologies such as IoT, AI, Block-chain, Robotics etc. in seven pre-identified areas of societal relevance.
+
+
+    Centres of Excellence
+
+      * Centre of Excellence on IOT OpenLab at Bangalore: It intends to support 100 start-ups per year with an overall target to support 500 start-ups over a period of 5 years.
+      * Electronics System Design and Manufacturing (ESDM) Incubator at Bhubaneswar with state-of-art facilities to promote ESDM innovation, R&D and create Indian intellectual property is the first of its kind in the Eastern Region of the country. The incubator will be implemented by STPI in collaboration with Government of Odisha, IIIT Bhubaneswar and IESA. It aims to leverage 40 start-ups over period of 5 years.
+      * Centre of Excellence for IoT at Gandhinagar: Center of Excellence for IoT and AI at IIT Gandhinagar will add momentum to the deep tech innovation ecosystem and has the major focus areas of manufacturing (Industry 4.0), Biotech, Pharma and healthcare.
+      * NASSCOM Centre of Excellence for IoT, Vizag: CoE for IoT at Vizag in partnership with NASSCOM and Government of Andhra Pradesh will focus on technology intervention for bringing positive change in Agriculture, Healthcare and Industry 4.0.
+
+    Technical Sessions on 21st February
+
+
+    The post lunch session would have knowledge sharing sessions on
+
+      * Software Quality - NIC is involved in design, development and implementation of various e-Governance applications. The session would have discussion about quality metrics, design patterns and some of the best practices with respect to the usability, performance and scalability which will help in enriching the quality of these applications.
+      * Artificial Intelligence - The Centre of Excellence in Artificial Intelligence at NIC (CoE-AI@NIC) has been established with the motto of ‘Inclusive AI' for responsive governance, to work towards improving Government service delivery to citizens.
+      * Tech Gov - NIC TechGov is a platform that presents a unique opportunity to the NIC officers posted in states and districts offices across the nation to accelerate their knowledge and learn emerging technologies. To have a detailed understanding, this session will include dedicated sub-sessions on:
+      * Introduction to NIC TechGov Challenge and introduction to PRISM
+      * Introduction to TULEAP- a platform for Collaborative Development
+      * MinT: Mining Tool - TechGov Innovation Winner
+      * Device Integrator - TechGov Innovation Winner
+
+    Technical Sessions on 22nd February
+
+      * Government Instant Messaging (GIM)
+      * Gov Mail – New Features
+      * Big Data and Analytics -Challenges & Issues
+      * Opportunities for Advanced Analytics in Government
+
+    *************
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1565481) Visitor Counter : 1523
+    
+    
+      Read this release in: Urdu , Hindi
+    
+    
+    
+
+*

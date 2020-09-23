@@ -1,0 +1,44 @@
+      Ministry of Corporate Affairs
+
+      CCI issues Order against Google for search bias and imposes penalty on it
+      Posted On: 08 FEB 2018 9:00PM by PIB Delhi
+
+
+    The Competition Commission of India (CCI) has found Google to have abused its dominant position in online general web search and web search advertising services in India.
+
+
+    The Order was passed in response to informations filed by Matrimony.com Limited and Consumer Unity &Trust Society (CUTS) in 2012.
+
+
+    TheCCI in its order noted that the allegations against Google in respect of search results essentially centredaround design of Search Engine Result Page (SERP).Exhibiting a self-imposed regulatory forbearance from scrutinizing product designs in ascertaining anti-trust violations, CCI noted in its order that product design is an important and integral dimension of competition, undue intervention in designs of SERP can affect legitimate product improvements. CCI further observed in its order that Google, being the gateway to the internet for a vast majority of internet users due to its dominance in the online web search market, is under an obligation to discharge its special responsibility.
+
+
+    In this backdrop, CCI found prominent display of Commercial Flight Unit by Google on Search Engine Result Page (SERP) with link to Google’s specialised search options/ services (Flight) in contravention of the provisions of Section 4(2)(a)(i) of the Act. CCI noted in its order that Google through its search design has not only placed its commercial flight unit at a prominent position on SERP, it has also allocated disproportionate real estate thereof to such unitsto the disadvantage of verticals trying to gain market access. Besides, it was also found that Google has provided a further link in such commercial units which leads users to its specialised search result page (Google Flight) resulting into unfair imposition upon the users of general search services as well.
+
+
+    The CCI also noted in the order that ranking of Universal Results prior to 2010 were pre-determined to trigger at the 1 st , 4 th or 10 th position on the SERP instead of by their relevance. Such practice of Google was unfair to the users and was found to be in contravention of the provisions of Section 4(2)(a)(i) of the Act. However, CCInoted in its order that since October, 2010, Google has made display of such results on free floating basis. Accordingly, taking Google’s submission on record, CCIrefrained from issuing any cease order and only directed Google to desist from such a practice in future.
+
+
+    Further, prohibitions imposed under the negotiated search intermediation agreements upon the publishers have been held to be unfair as they restricted the choice of these partners and prevented them from using the search services provided by competing search engines. Imposition of unfair conditions on such publishers by Google has been held to be in contraventionof the provisions of Section 4(2)(a)(i) of the Act. The CCI has also observed in its order that Google was leveraging its dominance in the market for online general web search, to strengthen its position in the market for online syndicate search services. Thecompetitors were denied access to the online search syndication services market due to such a conduct.
+
+
+    However, CCI did not find any contravention in respect of Google’s specialised search design (OneBoxes), AdWords, online intermediationand distribution agreements.
+
+
+    Based onfindings of contraventions against Google, CCI imposed a penalty of Rs.135.86crore upon Google after taking into account its revenue from its India operations only.
+
+
+    The final order was passed by a majority of 4-2 with two Members issuing a Dissenting Note.
+
+
+    Public versions of Majority Order andDissent Note in Case Nos. 07 & 30 of 2012 have been uploaded on the website of CCI at www.cci.gov.in .
+
+
+    *****************
+
+
+    DSM/RM
+
+    
+    
+    (Release ID: 1520058) Visitor Counter : 117

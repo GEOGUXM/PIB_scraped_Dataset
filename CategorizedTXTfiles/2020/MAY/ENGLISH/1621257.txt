@@ -1,0 +1,35 @@
+      Ministry of Science & Technology
+
+      IIT Bombay Professor receives Young Career Award in Nano Science & Technology 2020 for Advanced Transistor Technologies
+      Posted On: 05 MAY 2020 7:19PM by PIB Delhi
+
+
+    Professor Saurabh Lodha from Electrical Engineering, IIT Bombay, has received the Young Career Award in Nano Science & Technology for the year 2020 instituted by the Department of Science and Technology (DST), Govt. of India. This award recognises his pioneering contributions in the development of logic transistor technologies beyond silicon and nanoelectronic devices based on two-dimensional Van der Waals materials.
+
+
+    Prof. Lodha’s recent work in the area of advanced transistors has been driven by strong industry partnerships. He has worked closely with Applied Materials Inc., the world’s largest semiconductor equipment manufacturer, for the last eight years on technological challenges plaguing beyond-silicon transistors- the workhorse device that fuels over 90% of all electronics. Specifically, he has developed new materials and processes to improve the thermal stability and reliability of the heart of the transistor- its thin (1-2 nm) gate dielectric, to lower the resistance of metal contacts to the transistor and also to achieve higher levels of electrical impurities while keeping leakage currents under check.
+
+
+    These advances help future electronic devices such as mobile phones, servers, desktops and laptops, to perform tasks faster, consume less power, and last longer with lower failure rates. Prof. Lodha’s work has not only been presented at top device conferences across the globe but has also been incorporated in semiconductor equipment for advanced transistor technologies. Working closely with industry, collaborators has helped his research group bring solutions to cutting-edge problems of practical significance with shorter time-to-market innovations and broader scale of impact.
+
+
+    Besides working on advanced transistors that run computing and communication electronics, Prof. Lodha’s group has also been working with recently discovered ‘flat’ two-dimensional materials analogous to graphene. The ultra-thin (less than a nm thick) nature of these Van der Waals materials bestows them with extraordinary optical and electronic properties along with high mechanical flexibility. From a technological perspective, it makes them less power-hungry and ideal for Internet-of-Things (IoT) sensor networks as well as flexible and wearable electronics. At the same time, their two-dimensional nature poses unique and fundamental challenges in building electronic and optoelectronic devices such as transistors and photodetectors. Prof. Lodha and his students have helped identify and solve some of these problems, e.g., the nature of their interface with metals, ways to modulate their electrical current-voltage relationship, and their response to optical switching. These insights and solutions have been published in high impact journals and are well cited.
+
+
+    Prof. Lodha, an alumnus of IIT Bombay and Purdue University, USA, plans to leverage the capabilities and expertise in his group for developing power electronic transistors based on wide bandgap semiconductors such as silicon carbide and gallium oxide. These transistors can alleviate efficiency and reliability bottlenecks in diverse applications ranging from high voltage power grids, electric trains, renewable power conversion and storage to strategic defense, medical and industrial instrumentation. Wide bandgap power electronics has seen tremendous progress worldwide, but national efforts are lacking. Prof. Lodha hopes to provide critically needed momentum for power transistor research in the country.
+
+
+    (For more details contact Prof. Saurabh Lodha ( saurabh.lodha@gmail.com))
+
+
+    ****
+
+
+    KGS/( DST
+
+    
+    
+    (Release ID: 1621257) Visitor Counter : 988
+    
+    
+      Read this release in: Punjabi , Urdu , Hindi , Bengali , Tamil

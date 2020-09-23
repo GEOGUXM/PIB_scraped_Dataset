@@ -1,0 +1,97 @@
+      Ministry of Earth Science
+
+      World Meteorological Organisation appreciates India Meteorological Department for Tropical Cyclone Advisory Services during cyclones Sagar and Mekunu
+      Posted On: 05 JUN 2018 4:27PM by PIB Delhi
+
+       1. Characteristics of Cyclonic Storm (CS) Sagar and Extremely Severe Cyclonic Storm (ESCS) Mekunu
+            + During May, 2018, Cyclonic Storm (CS) “Sagar” (16-20 May) & Extremely Severe Cyclonic Storm (ESCS) ‘Mekunu” (21-27 May) developed over the Arabian Sea.
+            + The CS, Sagar crossed Somalia coast near latitude 10.65 0 N and longitude 44.0 0 E with wind speed of 40 knots gusting to 50 knots (70-80 gusting to 95 kmph) between 1330 and 1430 IST of 19 th May.
+            + It was the first cyclone to cross coast to the west of longitude 45 0 E during satellite era (since 1965).
+            + Extremely Severe Cyclonic Storm (ESCS) Mekunu crossed south Oman and adjoining southeast Yemen coasts near 16.85 0 N/53.75 0 E around early hours (between 0000-0100 hrs IST) of 26 th May with wind speed of 95 knots gusting to 105 knots (170-180 gusting to 200 kmph).
+            + The ESCS Mekunu was the most intense landfalling cyclone over Oman during satellite era (1965 onwards), as it crossed coast with wind speed of 95 knots.
+            + Kindly visit RSMC New Delhi website ( www.rsmcnewdelhi.imd.gov.in ) for detailed report on CS “Sagar” and ESCS “Mekunu”.
+       2. Damage due to CS, Sagar and ESCS, Mekunu
+            + The loss of human lives has been significantly less compared to similar cyclones in the past, though the wind speed at the time of landfall was significantly higher (95 knots).
+            + While there were 52 deaths in Oman due to cyclone Gonu, which crossed Oman coast near Muscat with a wind speed of 77 knots and 24 deaths due to VSCS, Phet, which crossed Oman with wind speed of 65 knots, there were 6 deaths in Oman, 4 over Yemen and 20 over Socotra due to ESCS Mekunu, which crossed Oman coast with wind speed of 95 knots.
+       3. Monitoring and Prediction
+            + IMD maintained round the clock watch over the north Indian Ocean and both the cyclones were monitored since formation of low pressure area over the AS with INSAT 3D, 3DR, SCAT Sat and other polar orbiting satellites, and available ships & buoy observations in the region.
+            + Various national and international numerical weather prediction models and dynamical-statistical models were utilized to predict the genesis, track and intensity of the cyclones.
+       4. Forecast performance of RSMC, New Delhi for CS, Sagar
+            + First information regarding landfall of cyclone, Sagar near northwest Somalia (near 11.3 0 N/43.1 0 E) between 1330-1430 IST of 19 th was issued at 1930 IST of 17 th May (42 hours in advance of actual landfall).
+            + The landfall point forecast errors for 12, 24, and 36 hrs lead period were 6.6, 40.4, and 100.5 km respectively.
+            + The track forecast errors for 12, 24, and 48 hrs lead period were 42.7, 49.6, and 117.2 km respectively, which is significantly less than the average track forecast errors of 57, 93, and 144 km during 2013-17.
+            + The absolute errors (AE) of intensity (wind) forecast for 12, 24 and 48 hrs lead period were 2.2, 7.0 and
+
+      10.8 knots against 6.3, 10.4 & 15.5 knots respectively during 2013-17.
+
+       1. Forecast Performance of RSMC, New Delhi for ESCS, Mekunu
+        * First bulletin issued around noon of 20 th May indicated the system to move towards south Oman- southeast Yemen coasts (about 138 hours in advance of actual landfall).
+        * First information regarding landfall of cyclone near south Oman-southeast Yemen coast close to Salalah as a VSCS with wind speed of 150-160 kmph gusting to 170 kmph around morning of 26 th May was issued at 0830 IST of 22 nd May (88 hours in advance of actual landfall).
+        * Landfall point forecast errors for 24, 48 & 72 hrs lead period were 17.2, 12.5 & 29.0 km respectively.
+        * Track forecast errors for 24, 48, and 72 hrs lead period were 48.8, 63.3, and 79.4 km respectively, against 93, 144 and 201 km during 2013-17.
+        * The absolute errors (AE) of intensity (wind) forecast for 24, 48 and 72 hrs lead period were 5.5, 14.1 and 14.7 knots against LPA of 10.4, 15.5 and 15.4 knots respectively.
+       1. Comparative analysis of errors for cyclone Gonu, Phet and Mekunu
+
+      The comparison of errors of ESCS Mekunu with that of cyclone Gonu and Phet is presented in Table below. It clearly indicates that the improvement in forecast and early warning helped to minimise loss of life.
+
+                                                                                                                        
+Name of Cyclone (Year) Lead Period(hr)  Intensity Errors(kts)  Track Errors (km)  Intensity(kts) at landfall  Death Toll
+                                                                                                                        
+                                                                                                                        
+                                                                                                                             
+24                                      48                     72                 24                          48          72 
+                                                                                                                             
+                                                                                                                             
+                                                                                                                                                 
+Gonu (2007)                             23.2                   -                  -                           137         -    -    77  52 (Oman)
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+Phet (2010)                             11.7                   20.0               22.1                        162         311  549  65  24 (Oman)
+                                                                                                                                                 
+                                                                                                                                                 
+                                                                                                                                                 
+Mekunu (2018)                           5.8                    15.1               16.2                        49          63   79   95  6 (Oman) 
+                                                                                                                                                 
+                                                                                                                                                 
+
+       1. Tropical Cyclone Advisories to Oman, Yemen and Somalia
+
+            + India Meteorological Department (IMD) acts as WMO designated Regional Specialised Meteorological Centres (RSMC) -Tropical Cyclones to provide Tropical Cyclone Advisories to WMO/ESCAP Panel Member countries including Bangladesh, India, Myanmar, Maldives, Oman, Pakistan, Sri Lanka, Thailand and Yemen.
+            + RSMC New Delhi provided six hourly advisories during depression stage and three hourly advisories from cyclonic storm stage about the cyclone’s current location & intensity, forecast track & intensity, associated adverse weather like squally winds, storm surge, state of sea, heavy rainfall upto 120 hours to Oman, Yemen, Somalia and WMO.
+            + 27 and 43 tropical cyclone advisory bulletins were issued during CS “Sagar” and ESCS “Mekunu” respectively. RSMC, New Delhi also interacted through e-mail/phone with Yemen, Oman, Somalia and WMO during this period
+            + Dr. M. Mohapatra, Head RSMC Tropical Cyclones made a presentation to the experts of Oman, Yemen, WMO and other international experts on 24 th May on current status, forecast movement & intensity at the time of landfall(160-170 kmph gusting to 190 kmph), expected landfall point (near Salalah), areas to be affected, expected heavy rainfall (20-30 cm on day of landfall over south Oman and southeast Yemen with isolated occurrence of 40 cm), storm surge (1.5-2.0 meters above astronomical tide) and damage potential.
+
+       1. Appreciation by World Meteorological Organisation
+
+            + The timely and accurate cyclone advisories by RSMC, New Delhi apart from other preparedness measures could minimise the loss of life and property.
+            + Thus, the advisories and information issued by RSMC New Delhi have been appreciated by the WMO and countries like Oman, Yemen and Somalia as per the e-mail received from WMO.
+
+    ***
+
+
+    SRD
+
+
+    
+
+    
+    (Release ID: 1534398) Visitor Counter : 657
+    
+    
+      Read this release in: Hindi
+    
+    
+    
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
++

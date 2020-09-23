@@ -1,0 +1,44 @@
+      Ministry of Health and Family Welfare
+
+      Aarogya Setu IVRS services implemented to cater to people having feature phone or landline
+      Posted On: 06 MAY 2020 4:13PM by PIB Delhi
+
+
+    In the fight against COVID-19, Government of India has rolled out several preventive measures, which are being implemented across the country with the cooperation of State/UT governments. As a prominent preventive measure, the Union Government has earlier launched an application called Aarogya Setu.
+
+
+    Aarogya Setu Mobile App is developed by the Ministry of Electronics and IT. It enables people to assess themselves the risk of their catching the Corona Virus infection. It will calculate this based on their interaction with others, using cutting edge Bluetooth technology, algorithms and artificial intelligence. All the citizens are urged to download the mobile application. This is designed to keep a user informed, in case she/he cross paths with someone who has tested positive.
+
+
+    The user, upon installation of Aarogya Setu, is asked to answer a number of questions. In case some of the answers suggest COVID-19 symptoms, the information will be sent to a Government server. The data will then help the Government take timely steps and initiate the isolation procedure if necessary and it also alerts if someone comes in close proximity with a person tested positive. The app is available on both Google Play (for Android phones) and iOS app store (for iphones). It is available in 11 languages-10 Indian languages and English.
+
+
+    For including the citizens with feature phones and landline under the protection of Aarogya Setu, the “Aarogya Setu Interactive Voice Response System (IVRS)” has been implemented. This service is available across the country. This is a toll-free service, where citizens are asked to give a missed call to the number 1921 and they will get a call back requesting for inputs regarding their health.
+
+
+    The questions asked are aligned with Aarogya Setu App, and based on the responses given, citizens will also get an SMS indicating their health status and also will get further alerts for their health moving forward.
+
+
+    The service is implemented in 11 regional languages similar to the mobile application. The input provided by the citizen will be made part of Aarogya Setu database and information is processed to send alerts to the citizen on the action to be taken to ensure their safety.
+
+
+    For all authentic & updated information on COVID-19 related technical issues, guidelines & advisories please regularly visit: https://www.mohfw.gov.in/ .
+
+
+    Technical queries related to COVID-19 may be emailed at technicalquery.covid19@gov.in and other queries on ncov2019@gov.in and via tweets to @CovidIndiaSeva .
+
+
+    In case of any queries on COVID-19, please call at Ministry of Health & Family Welfare helpline no. : +91-11-23978046 or 1075 (Toll-free). List of helpline numbers of States/UTs on COVID-19 is also available at https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf .
+
+
+    *****
+
+
+    MV
+
+    
+    
+    (Release ID: 1621368) Visitor Counter : 1762
+    
+    
+      Read this release in: Telugu , Assamese , Urdu , Marathi , Hindi , Punjabi , Gujarati , Odia , Tamil , Kannada

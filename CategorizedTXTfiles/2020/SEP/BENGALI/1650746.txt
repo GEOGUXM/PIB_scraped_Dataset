@@ -1,0 +1,26 @@
+      Ministry of Steel
+
+      Durgapur Steel Plant interacts online with LMSMEs
+      Posted On: 02 SEP 2020 7:26PM by PIB Kolkata
+
+
+    Kolkata, September 02, 2020
+
+
+    
+    
+    
+    A virtual meet with Local MSME vendors was recently organized by the Materials Management Department of Durgapur Steel Plant. The basic objective of the online meet was to facilitate payment to MSME suppliers through invoicemart platform, which is an important step towards “Atma Nirbhar Bharat”. Around 200 vendors participated in the meet towards getting accustomed and updated with the new digital procedure for bill discounting and payment thereof through invoicemart in line with other sister units of SAIL. Shri N Roy, ED(MM), DSP presided over the program amidst presence of other senior officials of MM & Finance Department. While addressing the interactive session, Shri Roy commented on the sincerity of Durgapur Steel Plant towards promoting MSME sector and placing orders upon them for various supplies in DSP. He also opined that the new digital system of payment would fulfill the long felt demand of vendors & MSMEs. It may be known that Trade Receivables Discounting System (TReDs) Ltd. is the joint initiative of Government of India and Reserve bank of India to achieve financial inclusion for MSMEs through digital transactions. Invoicemart is the platform from A-TReds Ltd. to facilitate payments to MSME vendors through Bill discounting method.
+
+    
+
+    
+    For Durgapur Steel Plant, Horizontal to Horizontal (H-2-H) or Server-to-Server Integration exercise with A-TReDs Ltd.(Invoicemart) in respect of Vendor Mapping, Invoice Extraction, Process of reverse feed and Reports have been completed. SAP T-Code and Server Integration have also been developed jointly with the efforts of SAIL/DSP and A-TReDS Ltd. After Completion of the User Application Testing (UAT) on development server, it has been transferred to Production Server and is now ready for use. Any MSME vendor can utilize this invoicemart platform for strengthening their fund management.
+    
+    
+    
+    CG/SSS
+
+    
+    
+    (Release ID: 1650746) Visitor Counter : 2

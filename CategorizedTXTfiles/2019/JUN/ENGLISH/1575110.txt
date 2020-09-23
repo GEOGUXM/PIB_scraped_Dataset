@@ -1,0 +1,228 @@
+      Ministry of Commerce & Industry
+
+      Ease of doing Business
+      Posted On: 21 JUN 2019 1:02PM by PIB Delhi
+
+
+    Department for Promotion of Industry and Internal Trade (DPIIT), in coordination with Central Ministries/Departments and Governments of States/Union Territories (UTs), has taken several reform measures with an aim to improve regulatory environment and facilitate doing business in India. The details of action taken in this regard are given below:
+
+
+    A. World Bank’s Ease of Doing Business Assessment
+
+
+      * The World Bank released the Doing Business Report (DBR), 2019 on 31 st October, 2018. India ranks 77 among 190 countries assessed by the Doing Business Team. India has leapt 23 ranks over its rank of 100 in the DBR 2018. The DBR is an assessment of 190 economies and covers 10 indicators which span the lifecycle of a business. The indicator wise rank of India in World Bank’s DBR 2019 is as follows:
+
+                                                
+S. No.   Indicator                          Rank
+                                                
+                                                
+1.                                              
+         Starting a Business                137 
+                                                
+                                                
+1.                                              
+         Dealing with Construction Permits  52  
+                                                
+                                                
+1.                                              
+         Getting Electricity                24  
+                                                
+                                                
+1.                                              
+         Registering Property               166 
+                                                
+                                                
+1.                                              
+         Getting Credit                     22  
+                                                
+                                                
+1.                                              
+         Protecting Minority Investors      7   
+                                                
+                                                
+1.                                              
+         Paying Taxes                       121 
+                                                
+                                                
+1.                                              
+         Trading Across Borders             80  
+                                                
+                                                
+1.                                              
+         Enforcing Contracts                163 
+                                                
+                                                
+1.                                              
+         Resolving Insolvency               108 
+                                                
+                                                
+                                          
+Overall  77                               
+                                          
+                                          
+
+    Some of the major indicator wise reforms undertaken by the Government towards easing the business environment in the country are as under:
+
+
+    (i) Starting A Business:
+
+
+     1. The minimum capital requirement for public and private company has been eliminated under the Companies (Amendment) Act, 2015.
+
+     2. Introduced a single form SPICe (Simplified Proforma for Incorporating Company electronically) by merging five different applications in it i.e. Name reservation, Company incorporation, Director Identification Number (DIN), Permanent Account Number (PAN) and the Tax Deduction/Collection Account Number (TAN).
+     3. Introduced an e-form AGILE (Application for registration of the Goods and Services Tax Identification Number (GSTIN), Employees’ State Insurance Corporation (ESIC) registration plus Employees’ Provident Fund Organization (EPFO) registration). Any applicant, if he wants to register for any of these bodies, can fill in e-form AGILE and get registration at the time of company incorporation itself. This form enables a user to apply for GST, EPF and ESI registration with the SPICe form.
+     4. Launch of a new and simplified web based service i.e. R.U.N. (Reserve Unique Name) for reserving a name. This has also removed the requirement to use a Digital Signature Certificate (DSC) during name reservation.
+     5. Incorporation fee reduced to zero for companies with authorized capital up to INR 15 lakhs
+     6. The requirement to issue a physical PAN card has been eliminated. Additionally, PAN and TAN are mentioned in the Certificate of Incorporation (CoI) which is considered as a sufficient proof for PAN and TAN.
+     7. Online and common registration for EPFO & ESIC is provided on ShramSuvidha Portal.
+     8. Registrations under Mumbai Shops & Establishments Act are provided in real time without any cost and any inspection
+     9. Eliminated the requirement of bank account details for GST registration
+
+    (ii) Dealing with Construction Permits:
+
+
+     1. An online single window system has been introduced in Delhi (By Municipal Corporations in Delhi) and Mumbai (By Municipal Corporation of Greater Mumbai) integrating internal and external departments, removing requirement of visiting them individually.
+
+     2. Unified building bye-laws 2016 have been introduced in Delhi.
+     3. Deemed approvals have been introduced in Delhi, if approvals are not granted within defined timelines.
+     4. Risk based classification of buildings has been introduced for fast tracking building plan approval, inspection and grant of occupancy-cum-completion certificate.
+     5. Requirement of submitting notarized certificates or affidavits for building plan approval has been replaced with e-undertaking in Delhi.
+     6. Multiple inspections at completion stage have been replaced by single joint inspection in Delhi.
+     7. Road cutting and restoration for water and sewer connections have been simplified.
+
+    (iii) Getting Electricity:
+
+
+     1. Procedures for internal wiring inspection by the Electrical Inspectorate (in Delhi) have been eliminated.
+
+     2. In Delhi, service line charges have been capped to INR 25,000/- in electrified areas for Low Tension loads up to 150 KW.
+     3. Time taken by the utility to carry out external connection works has been reduced in Delhi.
+
+     1. Getting Credit :
+
+
+     1. Secured creditors are paid first during business liquidation, and hence have priority over other claims such as labor and tax.
+
+
+     1. Paying Taxes:
+
+
+     1. 17 indirect Central and State taxes have been replaced with a single indirect tax, Goods and Service Tax (GST), for the entire country. The previous sales taxes including the central sales tax, CENVAT, state VAT and the service tax have been merged into the GST. Unification of these taxes will reduce the cascading effect of taxes and make taxes paid on inputs creditable to a higher percentage.
+
+     2. Corporate income tax has been reduced from 30% to 25% for companies with a turnover up to INR 250 crore.
+     3. Electronic System for payment of Social Security Contributions has been introduced enabling easier return payment.
+     4. Making payment of EPF has been made mandatory electronically.
+     5. Administrative charges on The Employees' Provident Funds Scheme, 1952 (EPFS) have been reduced in March 2017 from 0.85% to 0.65% of the monthly pay. The Employees’ Deposit Linked Insurance (EDLI) administrative charges of 0.01% have been removed.
+
+     1. Trading Across Borders:
+
+
+     1. Time and cost to export and import has been reduced through various initiatives, including the implementation of electronic sealing of containers, upgradation of port infrastructure and allowing electronic submission of supporting documents with digital signatures.
+
+     2. Enhancement of risk-based inspections for both imports and exports, whereby only about 5% of goods are physically inspected.
+     3. Advance Bill of Entry has been adopted which allows importers to start the process of customs clearance before the arrival of the vessel.
+     4. Equipment on the NhavaSheva Port in Mumbai has been upgraded by adding 15 new Rubber Tyre Gantry Cranes. The Phase 1 of the Fourth Container Terminal at the Jawaharlal Nehru Port Trust, with an additional annual capacity of 2,400,000 TEUs, was completed in February 2018.
+     5. The new container terminal, Adani CMA Mundra Terminal Private Limited has been fully operational since June 2017, with an additional annual capacity of 1,300,000 TEUs.
+     6. e-Sanchit, an online application system, under the Single Window Interface for Trade (SWIFT) has been implemented. It allows traders to submit all supporting documents electronically with digital signatures.
+
+     1. Enforcing Contracts
+
+
+     1. National Judicial Data Grid has been introduced which makes it possible to generate case measurement report on local courts.
+
+     2. The Commercial Courts Act 2015 has been amended to reduce the pecuniary jurisdiction of commercial courts from INR 1 crore to INR 3 lakhs to establish commercial courts at the District Level. This will help in speedier disposal of commercial disputes and reduce pendency.
+
+     1. Resolving Insolvency
+
+
+     1. Insolvency and Bankruptcy Code 2016 has been adopted that introduced a reorganization procedure for corporate debtors and facilitated continuation of the debtors’ business during insolvency proceedings.
+
+     2. Professional institutions have been established for effective handling of restructuring and insolvency proceedings.
+     3. Time-bound resolution process is done under the IBC and liquidation is the last resort.
+     4. Section 42 of the Insolvency & Bankruptcy Code 2016 has been amended to provide that a creditor has the right to object to decisions of the liquidator accepting or rejecting claims against the debtor brought by the creditor itself and by any other creditor.
+
+    B. Implementation of Business Reforms by States/UTs
+
+
+     1. The Department spearheaded a dynamic reform exercise that commenced in 2014 to rank all the States/UTs in the country based on implementation of designated reform parameters.
+
+     2. The aim of this exercise is to create a conducive business environment by streamlining regulatory structures and creating an investor-friendly business climate by cutting down red tape.
+     3. DPIIT also developed an online portal, which can be accessed at http://eodb.dipp.gov.in , wherein all the reforms implemented are accessible for public viewing. The portal also gives dynamic ranking which updates, as and when, any of the reform points are recognized and approved.
+     4. In 2017, the reform exercise was updated to 372 action points with additions introduced such as Central Inspection system, Trade License, Registration under Legal Metrology, and Registration of Partnership Firms & Societies.
+     5. Initiatives taken by DPIIT for the reform process:
+
+     1. A nationwide workshop was held on 29 th July, 2017 to discuss the relevance and importance of implementing reforms. The all-day conference witnessed an active involvement of almost 100 participants from 26 States/UTs. The workshop witnessed sharing of the best practices by States/UTs
+
+     2. A unique handholding method was introduced where leading States were partnered with laggard States/UTs. West Bengal merits a special mention for its effort for conducting a 3 day workshop for Nagaland
+     3. Priority reforms was identified for North east States and others with low implementation score
+     4. 8 workshops were conducted along with the World Bank to address queries posed by States/UTs in Tripura, Punjab, Haryana, Daman & Diu, Dadra Nagar Haveli, Andaman and Nicobar Islands, Goa and Karnataka
+     5. To handhold all the 8 north-eastern States, video conferences were arranged.
+     6. The assessment of States/UTs under Business Reform Action Plan, 2017-18 was released jointly by DPIIT and the World Bank on 10 th July, 2018.
+
+    6. Some important achievements under the exercise for 2017-18 are:-
+
+
+     1. 19 States have designed an Information Wizard providing information for all approvals, licenses, registrations timelines, and procedure to establish business/industrial unit (pre-establishment & pre-operation).
+
+     2. 21 States/UTs have designed and implemented online Single Window System.
+     3. 16 States/UTs have stipulated Construction Permits to be provided within 45 days (Building plan approval to be provided in 30 days/ Plinth level inspection to be completed in 7 days, final occupancy certificate provided in 8 days). Telangana, Assam and Tamil Nadu have mandated even shorter timelines of 29, 30 and 37 days, respectively. Tamil Nadu has claimed to have done away with the process of issuance of completion certificate.
+     4. 21 States/UTs have implemented a GIS system to provide details about the land earmarked for industrial use across the State
+     5. 23 States/UTs have reduced the number of documents required for Obtaining Electricity connection to only 2
+     6. 18 States/UTs have brought all compliance inspections conducted by Labour, Factories, Boilers Departments and Pollution Control Boards under Central Inspection Framework
+     7. 12 States/UTs have merged of the payment of court fees and process fees into a single transaction with some states like Jharkhand, Maharashtra, and Gujarat even repealing process fees from the Court Fees Act
+     8. 29 States/ UTs have notified a list of white category industries exempted from taking pollution clearances.
+     9. 20 States/UTs implementing an online application system Wholesale Drug License and Retail Drug License (Pharmacy).
+    10. 18 States/UTs have online systems for Registration of Partnership firms and Societies,
+    11. 20 States/UTs have implemented an online system for registration and renewal under the Legal Metrology Act, 2009.
+     1. Business Reform Action Plan 2019 for States:-
+
+     1. An 80 point Action Plan, 2019 has been prepared by DPIIT and shared with all the States and UTs for implementation of reforms.
+
+     2. As capacity building initiatives, 7 workshops have been conducted in Union Territories (Dadra & Nagar Haveli, Delhi, Chandigarh, Daman & Diu, Puducherry, Andaman & Nicobar Islands and Lakshadweep).
+     3. 8 regional workshops have been conducted in Lucknow (North Region), Kolkata (East Region), Mumbai (West Region), Bengaluru (South Region) and Guwahati (North-eastern Region).
+
+     1. District Reform Action Plan: A comprehensive 218-point District Reform Plan has been prepared and shared with the State Governments with a request to implement the same in the districts. The Action Plan is spread across 8 areas: Starting a Business for Construction, Urban Local Body Services, Paying Taxes, Land Reform Enabler, Land Administration and Property Registration Enablers, Obtaining Approval, Miscellaneous and Grievance Redressal/ Paperless Courts and Law & Order.
+
+
+    This information was given by the Minister of Commerce and Industry, PiyushGoyal, in a written reply in the Rajya Sabha today.
+
+
+    ***
+
+
+    MM/SB
+
+    
+    
+    (Release ID: 1575110) Visitor Counter : 1407
+    
+    
+    
+    
+    
+
+       
+       
+1.     
+       
+1.     
+       
+1.     
+       
+1.     
+       
+1.     
+       
+1.     
+       
+1.     
+       
+1.     
+       
+1.     
+       
+1.     
+       
+       
+       
+1.

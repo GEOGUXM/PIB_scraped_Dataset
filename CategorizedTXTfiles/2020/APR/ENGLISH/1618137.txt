@@ -1,0 +1,42 @@
+      Ministry of Science & Technology
+
+      INST scientists find low-cost metal-free nanomaterial towards disinfection of garments under visible light exposure
+      
+      These nanomaterials possess enhanced biocidal activity
+      
+      This technology will also be explored for antiviral efficiency considering its relevance to the current scenario
+      Posted On: 25 APR 2020 3:42PM by PIB Delhi
+
+
+    Scientists at the Institute of Nano Science and Technology ( INST ), an autonomous institute under the Department of Science and Technology, Govt. of India have found a low-cost metal-free nanomaterial for visible light microbial disinfection which can be an alternative to silver and other metal-based materials.
+
+
+    Dr. Kamalakannan Kailasam’s group at INST in their recent study published in collaboration with Dr.Asifkhan Shanavas in the journal Carbon, have tested carbon nitride quantum dots (g-CNQDs) for visible-light-driven antibacterial activity and found it to be efficient, apart from being biocompatible with mammalian cells. The team has suggested it to be a viable anti bacterial alternative to metal/non-metal semiconductors and expensive silver, thus making it cost-effective.
+
+
+    According to the INST team, these nanomaterials possess enhanced biocidal activity attributed to larger surface area of g-CNQDs having more reactive sites and optical absorption both in the ultraviolet and visible region. The g-CNQDs have the ability to generate reactive oxygen species (ROS). The ROS rapidly interact and damage the immediately available biological macromolecules such as lipids present on the cell membrane or envelope and proteins present on the cellular surface, towards inactivation of the microorganism. The mechanism of inactivation is non-specific to a particular pathogen, as lipid and protein are major components of the inhabitants of the microbial world.
+
+
+    The scientists are exploring ways of incorporating doped and undoped carbon nitride-based materials into cloth fabrics that can continuously produce reactive oxygen species (ROS) under optimal humidity and temperature for the antimicrobial activity.
+
+
+    They explained that aerosol droplets generated during sneezing have enough moisture that might help in ROS mediated disinfection of any infectious agents in the droplet, once it comes into contact with the nanomaterial sewn fabric under sunlight or ambient white light exposure. The present study utilized a common table lamp which provides luminance comparable to sunlight on a clear day.
+
+
+    The dependence on visible light is also advantageous over regular ultraviolet mediated disinfection, which requires cautious handling of the UV light-emitting devices. This technology will also be simultaneously explored for antiviral efficiency considering its relevance to the current scenario.
+
+
+    [Publication: Pranjali Yadav, S.T. Nishanthi, Bhagyesh Purohit, Asifkhan Shanavas, Kamalakannan Kailasam, Metal-free visible light photocatalytic carbon nitride quantum dots as efficient antibacterial agents: An insight study (https://doi.org/10.1016/j.carbon.2019.06.045)]
+
+
+    ****
+
+
+    KGS/( DST)
+
+    
+    
+    (Release ID: 1618137) Visitor Counter : 603
+    
+    
+      Read this release in: Urdu , Hindi , Bengali , Punjabi , Tamil

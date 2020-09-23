@@ -1,0 +1,29 @@
+      Department of Atomic Energy
+
+      Cyber attack on KKNPP
+      Posted On: 20 NOV 2019 6:49PM by PIB Delhi
+
+
+    A malware infection was identified in NPCIL KKNPP Internet connected system.
+
+
+    There was an identification of a malware infection on KKNPP administrative network used for day to day administrative activities. The affected system contains data related to administrative function. Plant control and instrumentation system is not connected to any external network such as Intranet, Internet and administrative system.
+
+
+    The malware infection was not able to get access to the controls of the Nuclear Power Plant.
+
+
+    Investigations have been carried out by the Computer & Information Security Advisory Group (CISAG) – DAE along with the national agency, Indian Computer Emergency Response Team (CERT-In). The investigation concluded that the malware infection was limited to the administrative network of KKNPP.
+
+
+    This information was provided by the Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, Dr Jitendra Singh in written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    VRRK/NK/JM/PJ
+
+    
+    
+    (Release ID: 1592498) Visitor Counter : 666

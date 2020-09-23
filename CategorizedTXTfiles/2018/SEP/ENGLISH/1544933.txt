@@ -1,0 +1,26 @@
+      Ministry of Science & Technology
+
+      Working status of Doppler Weather Radar at Kochi and Thiruvananthapuram
+      Posted On: 04 SEP 2018 8:58PM by PIB Delhi
+
+
+    Doppler Weather Radar (DWR) Kochi faced technical issue with the Antenna Servo sub unit and Leakage of pressure inside Wave guide assembly on 2nd August 2018. The normal operations were stalled because of this major issues and RADAR become unserviceable.
+
+
+    As the RADAR is under Annual Maintenance Contract with Bharat Electronics Limited (BEL), DWR Kochi immediately informed the issue to the BEL Bangalore. BEL Bangalore deputed their site engineers on 4th August 2018. The engineers rectified the issues by 8th August evening and normal RADAR operation resumed w.e.f 8th August 2018. Again 21 UTC & 22 UTC (Co-ordinated Universal Time) scan on 8 th August was interrupted for performance evaluation and checking of RADAR by BEL. During 0430 UTC to 0700 UTC & 1800 UTC to 2300 UTC on 9 th , RADAR operation was stopped for performance evaluation and checking by BEL. Thereafter RADAR was on continuous operation.
+
+
+    DWR Thiruvananthapuram is an inter-departmental service provided by Vikram Sarabhai Space Centre(VSSC), DWR Thiruvananthapuram is being operated during day time only. On all launch day, RADAR will be put in the off mode. Even though on 8 th August also DWR Thiruvananthapuram was on operational mode, except during one hour time of 0432 hrs to 0555 hrs UTC, that too due to RF silencing for Rocket launch. From 10 th onwards as per request from IMD, the DWR was put on 24X7 operation mode. Thereafter it was on continuous operation till 26 th August, when it was put on day time operation.
+
+
+    DWR products are mainly used for monitoring of weather, for issue of nowcast (Nowcasting is weather forecasting on a very short term period of upto 3 hours).IMD is issuing nowcast at 3 hourly interval uninterruptedly based on alternate atmospheric surveillance systems during the breakdown period of RADAR also. Nowcast for next 3 hours is being issued through SMS to SDMA, SEOC, District collectors. All weather warnings including nowcast are uploaded in the local website ( www.imdtvm.gov.in ) on routine basis.
+
+
+    *****
+
+
+    PP
+
+    
+    
+    (Release ID: 1544933) Visitor Counter : 840

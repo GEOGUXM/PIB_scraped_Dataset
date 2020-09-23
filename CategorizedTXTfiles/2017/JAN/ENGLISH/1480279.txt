@@ -1,0 +1,26 @@
+      Ministry of Finance
+
+      Income Tax Department receives Silver Award for e-filing of Income Tax Returns project in the National Awards on e-Governance 2016-17.
+      Posted On: 10 JAN 2017 5:39PM by PIB Delhi
+
+
+    The Income Tax Department is proud to announce that it has been conferred the Silver Award in the National Awards on e-Governance-2016-17 for the e-filing of Income Tax returns and other forms project in the category “Incremental Innovations” in existing projects.
+
+    The award is in recognition of the achievements of the Department in the area of e-Governance and for significant innovations in successful e-Governance programs in the current Award period. The e-filing of Income Tax returns project had already won the Silver Award in the National Awards on e-Governance in 2007-08.
+
+    The path breaking innovations introduced by the Department in the e-filing of Income Tax returns project are:
+
+    i. Introduction of Electronic Verification Code (EVC) - This innovation introduced in July 2015 enables the citizen to electronically verify Income tax returns and other forms using EVC through third party authentication services provided by Aadhaar using Aadhaar OTP, authentication by banks using net banking, ATM, bank account validation and security depositories such as NSDL and CDSL using demat account validation. The taxpayer can use any of these authenticating mechanisms to receive an Electronic Verification Code (EVC) which can be entered after submission of a return to verify and complete the process. This year alone over 1.1 Cr Income Tax returns have been electronically verified using EVC thereby obviating the need to submit a paper copy of the ITR-V to CPC Bangalore as was being done earlier.
+
+    ii. Securing taxpayer account using E-filing Vault - This innovation aims at adding one more level of authentication to the process of login to the “My Account” of the tax payer and for resetting of password by leveraging the EVC concept. E-filing Vault enables the tax payer to completely secure the e-filing account to prevent any unauthorized access.
+
+    iii. Easy compliance through Non-Filers Monitoring and E-Sahyog - This innovation aims at providing convenience to the tax payer for submitting tax compliance response through the e-filing portal. The taxpayer can now sitting at home or office any time any where respond to any letter from the Department seeking taxpayer clarification regarding non filing of return or any mismatch in Income Tax return. This innovation has the potential to significantly reduce compliance cost and increase voluntary compliance.
+
+    The Income Tax Department is spurred by the recognition received and is encouraged to initiate more innovations to facilitate tax payers through its e-Governance programs.
+
+    *****
+
+    DSM/MS/KA
+    
+    
+    (Release ID: 1480279) Visitor Counter : 39

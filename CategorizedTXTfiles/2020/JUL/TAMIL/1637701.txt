@@ -1,0 +1,420 @@
+      Special Service and Features
+
+      Banning Chinese Apps - Opportunity for Self-reliance
+      An Article by Prof. Karisiddappa and Team
+      Vice Chancellor, Visvesvaraya Technological University,
+      Belagavi, Karnataka State.
+      Posted On: 10 JUL 2020 12:57PM by PIB Chennai
+
+
+    India is today one of the world's largest markets for digital internet technologies and world's largest software and internet application companies are present in the country. While operating in India one has to abide by our rules and regulations issued by relevant ministries and departments, including those pertaining to data security and privacy of individual data. However, some of them are engaged in the activities which are prejudicial to the sovereignty and integrity and defence of the country. We have also seen the misuse of some of the mobile apps available, for stealing and transmitting users' data in unauthorized manner. Compilation of such data and its mining may lead to a threat in terms of national security and defence of India.
+
+
+    During these difficult times of Covid-19 and the Chinese shenanigans in the border, the Union Government has initiated a bold move in banning the Chinese Apps with effect from June 29 2020. In recent days these Chinese Apps are very deep in the blood of India. Starting from the purchase of groceries(Big Basket App) and taking food (Zomato and Swiggy Apps) to booking tickets (Make my Trip App), majority of Indian citizens depend on the Apps which are either developed by China or the Apps in which China have major shares of investments. It is proven that Indian population is highly dependable on Chinese Apps.
+
+
+    The Chinese businesses have invested in areas that touch the daily lives of Indian consumers, such as food delivery and ride-hailing apps, e-commerce platforms and digital payments. Now, following a border clash in which several soldiers were killed, calls have been growing in India to boycott everything which is Chinese.
+
+
+    This call has reached to a global level, and the other nations are also calling out to ban globally the apps like TikTok, saying it is a malware from the Chinese government that is spying on millions of its users.
+
+
+    According to China's cyber security law, all companies "must accept supervision from the government". Its privacy policy, last updated in February 2020, allows the company to take large amounts of data of Indians including metadata pertaining to location, mobile carrier, browsing history and share it with law enforcement, including China. This is war by other means, a Cyber War. In this cyber dark war, wherein unlike Galwan incursion, India's sovereignty is questioned on daily basis.
+
+
+    To chat, we use WhatsApp, an American App; to make video calls we use Zoom, an American company owned by a Chinese-origin American; even to block the 59 Chinese apps, the Indian government was reliant on Google and Apple to take these apps off the Play Store and App Store respectively. Had there not been the tacit support of the US government in this action, scarcely would the ban have been so effective so quickly. Hence, the development of mobile apps which are useful, transparent, robust and secure, is need of the hour. These Indian apps will help not only in their applications but also in the economic growth of our country. Though some Indian made Apps are available, they are not available across the spectrum, and when available, they lack features and stability. For banned Apps, some of the alternatives are presented in the following table:
+
+
+    Provisional List of Banned Chinese APPs and their Alternatives
+
+                                                                                                                                                                                                        
+SI  Banned Chinese App            Functionality                     Alternative APPs from Other Country                     Alternative Indian Apps                                                     
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+No                                                                                                                                                                                                      
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+1   TikTok                        Social Media                      Instagram IGTV, YouTube                                 Mitron,Chingari                                                             
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+2   Shareit                       File transfer                     Google Files Go                                         JioSwitch                                                                   
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+3   Kwai                          Social Media                      Instagram IGTV, YouTube                                 Mitron,Chingari                                                             
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+4   DC Browser                    Browser                           Google Chrome, Mozilla Firefox, Safari                  JioBrowser, Bharat Browser, Epic Browser                                    
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+5   Baidu map                     Maps                              Google Maps, HERE Maps                                  MyMaplndia Move                                                             
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+6   Shein                         Shopping                          Myntra, Flipkart, Snapdeal, Amazon                      Tata Cliq, Reliane Digital/Jio Mart                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+7   Clash of Kings                Games                             PUBG                                                    Ludo King, Sudoku King                                                      
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+8   DU battery saver              Utility                           Greenify, Servicely< Kaspersky Battery Life Saver                                                                                   
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+9   Helo                          Social Media                      Instagram IGTV, YouTube                                 Mitron,Chingari                                                             
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+10  Likee                         Social Media                      Instagram IGTV, YouTube                                 Mitron,Chingari                                                             
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+11  YouCam makeup                 Camera                            Snapchat, Google Camera, Open Camera                    India Selfie Camera                                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+12  Mi Community                  Forum                             Stackexchange, Stackoverflow, Quora                     ....                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+13  CM Browser                    Browser                           Google Chrome, Mozilla Firefox, Safari                  JioBrowser, Bharat Browser. Epic Browser                                    
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+14  Virus Cleaner                 Anti Virus                        safe security                                           Jio Security                                                                
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+15  APUSBrowser                   Browser                           Google Chrome, Mozilla Firefox, Safari                  JioBrowser, Bharat Browser, Epic Browser                                    
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+16  ROMWE                         Shopping                          Myntra, Flipkart, Snapdeal                              Tata Cliq, Reliane Digital/Jio Mart                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+17  Club Factory                  Shopping                          Myntra, Flipkart, Snapdeal                              Tata Cliq, Reliane Digital/Jio Mart                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+18  Newsdog                       News                              Flipboard, InShorts, Google News                        TOI,dailyHunt                                                               
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+19  Beauty Plus                   Camera                            Snapchat, Google Camera, Open Camera                    India Selfie Camera                                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+20  WeChat                        Instant messaging                 WhatsApp, Telegram                                      Hike. Jiochat                                                               
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+21  UC News                       News                              Flipboard, InShorts, Google News                        TOI, dailyHunt                                                              
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+22  QQ Mail                       Email Client                      Gmail.Yahoo, Outlook, Microsoft,                        Rediffmail                                                                  
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+23  Weibo                         Microblogging                     Twitter, Tumblr                                         Zihvah                                                                      
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+24  Xender                        File transfer                     Google Files Go                                         JioSwitch                                                                   
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+25  QQ Music                      Audio                             Spotify                                                 JioSaavn, Gaana                                                             
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+26  QQ Newsfeed                   News                              Flipboard, InShorts, Google News                        TOI,dailyHunt                                                               
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+27  Bigo Live                     Social Media                      Instagram IGTV, YouTube                                 Mitron, Chingari                                                            
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+28  SelfieCity                    Camera                            Snapchat, Google Camera, Open Camera                    India Selfie Camera                                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+29  Mail Master                   Email Client                      Gmail, Yahoo, Outlook, Microsoft,                       Rediffmail                                                                  
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+30  Parallel Space                Cloning                           Clone App                                               —                                                                           
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+31  Mi Video Call -Xiaomi         Video Communication               Google Duo, Skype                                       Jio Meet,Namaste Bharat                                                     
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+32  WeSync                        Utility                           Google Contacts                                         —                                                                           
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+33  ES File Explorer              Utility                           Google Files Go                                         JioSwitch                                                                   
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+34  Viva Video - QU Video Inc     Social Media                      Instagram IGTV, YouTube                                 Mitron, Chingari                                                            
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+35  Meitu                         Camera                            Snapchat, Google Camera, Open Camera                    India Selfie Camera                                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+36  Vigo Video                    Social Media                      Instagram IGTV, YouTube                                 Mitron, Chingari                                                            
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+37  New Video Status              Social Media Status/ short video  4FUN                                                    Social Media Post Maker, Planner, Graphic Design, Post Maker, Whatscut Pro  
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+38  DU Recorder                   Screen recorder                   AZ Screen Recorder                                      IN Screen Recorder                                                          
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+39  Vault- Hide                   Safe Lock                         Keepsafe                                                Digilocker,Jio Security, NPAV Doc Locker                                    
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+40  Cache Cleaner DU App studio   Utility                           CCIeaner, Norton Clean.Avast cleanup                    NPAV                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+41  DU Cleaner                    Utility                           CCIeaner, Norton Clean.Avast cleanup                    NPAV                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+42  DU Browser                    Browser                           Google Chrome, Mozilla Firefox, Safari                  JioBrowser, Bharat Browser, Epic Browser                                    
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+43  Hago Play With New Friends    Games                             PUBG                                                    Ludo King, Sudoku King                                                      
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+44  Cam Scanner                   Photo and Document Scanning       Microsoft Office Lens, Adobe Scan, Photoscan by Google  Camera Scanner Image Scanner                                                
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+45  Clean Master -Cheetah Mobile  Utility                           NA*                                                     NPAV                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                
+                                
+                                
+                                                                                                                                                                                                        
+46  Wonder Camera                 Camera                            Snapchat, Google Camera, Open Camera                    India Selfie Camera                                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+47  Photo Wonder                  Camera                            Snapchat, Google Camera, Open Camera                    India Selfie Camera                                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+48  QQ Player                     Media player                      VLC, MX Player                                          Cnx Player                                                                  
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+                                                                                                                                                                                                      
+49  WeMeet                        Social                            Tinder                                                  Flik                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+50  Sweet Selfie                  Camera                            Snapchat, Google Camera, Open Camera                    India Selfie Camera                                                       
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+51  Baidu Translate               Utility                           Google Translate, Microsoft Translate                   English to Indian Language Translator                                     
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+52  Vmate                         Social Media Status/ short video  4FUN                                                    Social Media Post Maker, Planner, Graphic Design, Post Maker, Whatscut Pro
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+53  QQ International              Instant messaging                 WhatsApp, Telegram                                      Hike                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+54  QQ Security Center            Anti Virus                        safe security                                           Jio Security                                                              
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+55  QQ Launcher                   Utility                           Microsoft Launcher                                      —                                                                         
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+56  U Video                       Social Media Status/ short video  4FUN                                                    Social Media Post Maker, Planner, Graphic Design, Post Maker, Whatscut Pro
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+57  V fly Status Video            Social Media Status/ short video  4FUN                                                    Social Media Post Maker, Planner, Graphic Design, Post Maker, Whatscut Pro
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+58  Mobile Legends                Games                             PUBG                                                    Ludo King, Sudoku King                                                    
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+59  DU Privacy                    Safe Lock                         Keepsafe                                                Digilockerjio Security, NPAV Doc Locker                                   
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                      
+                                                                                                                                                                                                                    
+
+    In this context, the decision by the Indian Govt. banning 59 Chinese Apps is significant statement on intent. The Central Govt. is trying to revive domestic manufacturing with a call for self-reliance and a reduction in overall imports and popularizing Atmanirbhar Grand Challenge to create best.
+
+
+    For us privacy and protection of data of our countrymen are supreme. No comprise on the issues of data security and national integrity.
+
+
+    We Indian who take pride in our IT prowess, should take the situation as a challenge and build better Apps. Not that our technologists are inferior, but the drive, motivation and enterprise are lacking. Yes there are many blocks, such as Government Procedure. Lack of feeling of Vocal for Local, as our Hon'ble PM puts it, lack of Venture Capital and the ease of getting it, etc. Now hopefully this ecosystem will change and this ban will act as boon and as a starting point for providing the required ecosystem.
+
+
+    To achieve "AtmaNirbhar" goal, we need to go through some initial pain. We in technical education need to create an ecosystem where every academic year we contribute new products / apps to the society. We will have to bring in schemes to harness our technological prowess and promote developing tools for the digital world. We should make our R & D & I centers more active, create a Research teamcomprising of multidiscipline to work together on development of Apps and Digital Solutions and other commercial products which can be marketed and thus reduce the import pressure.
+
+
+    Make in India initiative should give a boost like sorts for making India next prospective Apps/Software Developer and to bring India back on track and promote local talents and help them reach the international market.
+
+
+    The concept of Self-reliant India will help all of us in terms of poverty alleviation, economic growth and development in all spheres, leading to meaningful life and growth.
+
+
+    ------
+
+    
+    
+    (Release ID: 1637701) Visitor Counter : 70

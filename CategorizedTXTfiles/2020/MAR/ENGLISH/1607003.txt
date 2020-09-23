@@ -1,0 +1,39 @@
+      Ministry of Communications
+
+      Improving Quality of Service of Telecom Network
+      
+      No Privacy Violations; No Surveillance
+      
+      Only Annonymised Data Analysed for Improving Quality of Services
+      
+      DoT Stands Committed to Respect the Sanctity and Privacy of Mobile Users
+      Posted On: 18 MAR 2020 7:08PM by PIB Delhi
+
+     1. Attention of Department of Telecommunications (DoT) has been drawn to certain media reports stating that call data records for certain days and certain routes in February 2020 have been sought by DoT from Telecom Service Providers in deviation of standard operating procedures laid by the Government. Doubts have been expressed about the intent of DoT.
+
+    The matter has been looked into. Factual position is as follows:
+
+     1. Numerous complaints are received regarding quality of service of Telecommunications Network, call drops, echo, cross connections, incomplete or poor caller experience. DoT in coordination with Telecom Service Providers has been endeavouring to identify the problem areas of dark spots or the areas without sufficient Telecom Tower coverage which result in Network issues and call drops. Various measures such as erection of additional mobile towers, placement of cell on wheels, drive tests etc. have been undertaken to address the mobile tower deficiency and coverage.
+     1. To identify in a more scientific and innovative manner, the specific problem areas and routes where call drops occur, Department of Telecommunications has in housedeveloped a software tool to analyze big data and accurately ascertain call drops in any area. For this purpose, data on calls made from mobiles in any tower coverage area is analyzed to ascertain calls terminated within 30 seconds of the call and made again as normally is the case for a typical call drop. The mobile callsso disconnected within this 30 seconds time period forces the subscriber to again call the same number. Big data analytics techniques can be used to identify such calls and the accurateinformation of call drops in specific areas. DoT will be better equipped to take up such cases and areas with the Telecom Service Providers based on actual data. For this purpose, total data of calls made during any particular time period from the identified cell phone tower locations from where the complaints are received is collected to enable analysis.
+     1. However, this data is anonymous and does not contain names of either the maker or receiver of calls. There is no infringement of privacy of any person. No personal details are collected. There is no tracking of any phone number.
+     1. Call drops details, for only those calls made by a subscriber who enters a given coverage area of the identified cell Tower or calls drop / details of calls received or made by such subscriber are collected. It is reiterated that neither the names nor the address of the subscribers or the persons to whom the calls are made or received are being collected. There is also no question whatsoever of ascertaining the content of the call. Only if any call is terminated within 30 seconds and the same number is again dialled immediately, such calls are added to arrive at the final figure of call drops.
+     1. The above is an innovative way of identifying call drops and addressing the call drop issues. It will be appreciated that in the above exercise, there is no violation of privacy of any subscriber. The identity of subscriber is not known. Only the calls made by subscribers who happen to pass through a particular cell tower area get covered for the purpose of analysis without knowing the names of who is the caller and to whom the call is made.
+     1. It is further clarified that DoT is empowered under Rule 419 of the Indian Telegraph Rules 1951 to access such anonymous data for improving network quality. Moreover, DoT has also put in place an in house standard operating procedure so that any authorization of such access to call drop data can be approved only by very senior officers. Further, it has been decided to seek such data only for short time period i.e. three tosix hours normally covering the peak load of traffic on the Network for any cell tower.
+     1. Hence, all mobile phone subscribers can be assured that the above exercise is only with the objective of improving network quality. The data collected is anonymised. There is no surveillance of any kind.
+
+    *** *****
+
+
+    RJ / RP
+
+    
+    
+    (Release ID: 1607003) Visitor Counter : 588
+    
+    
+      Read this release in: Urdu , Hindi
+    
+    
+    
+
+1.

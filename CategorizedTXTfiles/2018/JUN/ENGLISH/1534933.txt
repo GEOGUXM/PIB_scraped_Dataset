@@ -1,0 +1,36 @@
+      Election Commission
+
+      Preliminary Fact Finding Reports Received in Election Commission of India with respect to Malfunctioning of VVPATs during recent Bye-Elections
+      Posted On: 08 JUN 2018 7:48PM by PIB Delhi
+
+
+    During the bye-election to 2-Kairana and 11-Bhandara-Gondiya Parliamentary Constituencies on 28 th May 2018, malfunctioning of a few VVPAT machines was reported during the mock poll and actual poll. To ascertain the causes of failure, the Commission deputed two Special Teams. The preliminary fact finding reports submitted to the Commission, have indicated two major technical reasons for the malfunctioning, namely: -
+
+     1. Failure of Contrast Sensor (error 2.2)
+     2. Failure of length sensor (error 2.4)
+
+    The above errors are mainly caused by excessive exposure to illumination in the Polling Station.
+
+
+    The Commission has asked the manufacturers and the Technical Expert Committee to suggest additional design improvements as well as suggestions on any layout changes in the polling stations to prevent any excessive exposure to illumination in future. Manufacturers have also been asked to do a detailed technical analysis once the VVPATs are free from Election Petition (as these cannot be currently accessed in Strong Rooms till 45 days Election Petition period is over).
+
+
+    The Commission has decided to reiterate its SOPs regarding Do’s and Don’t’s and have also formed a Committee to examine further strengthening of the SOPs. The Commission has also decided to make the First Level Checking process stricter. The Commission has also adopted the hardware improvement recommended by TEC to prevent auto shutdown of VVPATs due to excessive light. The Commission has directed that the training of the polling officials be further strengthened and streamlined, so that failures due to human errors are minimized.
+
+
+    ******
+
+
+    SBS/MJS
+
+    
+    
+    (Release ID: 1534933) Visitor Counter : 779
+    
+    
+      Read this release in: Urdu , Marathi
+    
+    
+    
+
+2.

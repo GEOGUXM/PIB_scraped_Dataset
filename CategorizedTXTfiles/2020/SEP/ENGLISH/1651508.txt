@@ -1,0 +1,148 @@
+      Ministry of Health and Family Welfare
+
+      Health Ministry issues Updated Advisory on COVID-19 testing
+      
+      Simplified Testing Procedure and ‘On-demand’ Testing for the first time
+
+      Posted On: 05 SEP 2020 11:35AM by PIB Delhi
+
+    There has been an unprecedented upsurge in India’s daily testing capacities. For two successive days more than 11.70 lakh tests have been conducted per day. A total of 4 crore and 77 lakh tests have been done so far across the country. There are now 1647 testing laboratories operational which cover all States/UTs. It is in this background that the Health Ministry has issued the updated Testing Advisory.
+
+
+    On recommendations of the National Task Force on COVID-19, the new Advisory has further simplified the testing process and given more freedom and flexibilities to the State authorities to facilitate enhanced ease of testing for the people.
+
+
+    For the first time, along with more simplified modalities, the updated Guidelines provide for ‘On-demand’ testing in order to ensure higher levels of testing.
+
+
+    The Advisory elaborates on the choice of tests (in order of priority) in various given settings.
+
+     1. Routine surveillance in containment zones and screening at points of entry:
+
+    Choice of Test (in order of priority):
+
+     1. Rapid Antigen Test (RAT) [as per attached algorithm]
+     2. RT-PCR or TrueNat or CBNAAT
+
+    1. All symptomatic (ILI symptoms) cases including health care workers and frontline workers.
+
+
+    2. All asymptomatic direct and high-risk contacts (in family and workplace, elderly ≥ 65 years of age, immunocompromised, those with co-morbidities etc.) of a laboratory confirmed case to be tested once between day 5 and day 10 of coming into contact.
+
+
+    3. All asymptomatic high-risk individuals (elderly ≥ 65 years of age, those with co-morbidities etc.) in containment zones.
+
+
+     1. Routine surveillance in non-containment areas:
+
+
+    Choice of Test (in order of priority):
+
+     1. RT-PCR or TrueNat or CBNAAT
+     2. Rapid Antigen Test (RAT)*
+
+    4. All symptomatic (ILI symptoms) individuals with history of international travel in the last 14 days.
+
+
+    5. All symptomatic (ILI symptoms) contacts of a laboratory confirmed case.
+
+
+    6. All symptomatic (ILI symptoms) health care workers / frontline workers involved in containment and mitigation activities.
+
+
+    7. All symptomatic ILI cases among returnees and migrants within 7 days of illness.
+
+
+    8. *All asymptomatic high-risk contacts(contacts in family and workplace, elderly ≥ 65 years of age, those with co-morbidities etc. [RAT is recommended as the first choice of test in order of priority]
+
+
+     1. In Hospital Settings:
+
+
+    Choice of Test (in order of priority):
+
+     1. RT-PCR or TrueNat or CBNAAT
+     2. Rapid Antigen Test (RAT)
+
+    9. All patients of Severe Acute Respiratory Infection (SARI).
+
+
+    10. All symptomatic (ILI symptoms) patients presenting in a healthcare setting. 11. Asymptomatic high-risk patients who are hospitalized or seeking immediate hospitalization such as immunocompromised individuals, patients diagnosed with malignant disease, transplant patients, patients with chronic co-morbidities, elderly ≥ 65 years.
+
+
+    12. Asymptomatic patients undergoing surgical / non-surgical invasive procedures (not to be tested more than once a week during hospital stay).
+
+
+    13. All pregnant women in/near labor who are hospitalized for delivery.
+
+
+    Points to be noted:
+
+                  - No emergency procedure (including deliveries) should be delayed for lack of test. However, sample can be sent for testing if indicated as above (1-13), simultaneously.
+                  - Pregnant women should not be referred for a lack of testing facility. All arrangements should be made to collect and transfer samples to testing facilities.
+                  - Mothers who test positive for COVID-19 should be advised to wear a mask and undertake frequent handwashing while handling their baby for 14 days. They should also be advised on breast cleaning before feeding the neonate. These measures are likely to reduce transmission of COVID-19 to their babies.
+
+    14. All symptomatic neonates presenting with acute respiratory / sepsis like illness. (Features suggestive of acute respiratory illness in a neonate are respiratory distress or apnea with or without cough, with or without fever. Neonates may also manifest with only non-respiratory symptoms like fever, lethargy, poor feeding, seizures or diarrhea).
+
+
+    15. Patients presenting with atypical manifestations [stroke, encephalitis, hemoptysis, pulmonary embolism, acute coronary symptoms, Guillain Barre syndrome, Multiple Organ Dysfunction Syndrome, progressive gastrointestinal symptoms, Kawasaki Disease (in pediatric age group)] based on the discretion of the treating physician.
+
+
+    A totally new section has been added in the Advisory on “Testing on Demand” which for all practical purposes does away with prescription by a registered medical practitioner although State governments have the freedom to decide on simplified modalities.
+
+
+    The new section reads thus-
+
+     1. Testing on demand (State Governments to decide simplified modalities):
+             1. All individuals undertaking travel to countries/Indian states mandating a negative COVID-19 test at point of entry.
+             2. All individuals who wish to get themselves tested.
+
+    Tracking and contact tracing mechanisms should be ensured by the testing laboratories by notifying the public health authorities.
+
+
+    Frequency of testing :
+
+      * A single RT-PCR/TrueNat/CBNAAT/RAT positive test is to be considered confirmatory, without any repeat testing.
+      * No re-testing is recommended prior to discharge from a COVID-19 facility after clinical recovery (please refer to MoHFW guidelines), including for transfer from a COVID area/ facility to a non-COVID area/ facility.
+      * If symptoms develop following a negative RAT test, a repeat RAT or RT-PCR should be done (Algorithm for interpreting RAT is placed at Annexure 1).
+
+    Points to be noted:
+
+      * WHO case definition for ILI: Individual presenting with acute respiratory infection with fever
+
+    ≥ 38◦C AND cough with onset within the last 10 days.
+
+      * WHO case definition for SARI : Individual presenting with acute respiratory infection with history of fever ≥ 38◦C AND cough with onset within the last 10 days AND requires hospitalization.
+      * All healthcare workers and frontline workers coming in contact with suspect/confirmed COVID-19 patients should ensure use of appropriate PPE.
+      * Home quarantine for 14 days is recommended for all individuals before undergoing elective surgery to minimise chances of infection before the procedure.
+
+    For all authentic & updated information on COVID-19 related technical issues, guidelines & advisories please regularly visit: https://www.mohfw.gov.in/ and @MoHFW_INDIA.
+
+
+    Technical queries related to COVID-19 may be sent to technicalquery.covid19@gov.in and other queries on ncov2019@gov.in and @CovidIndiaSeva .
+
+
+    In case of any queries on COVID-19, please call at the Ministry of Health & Family Welfare helpline no.: +91-11-23978046 or 1075 (Toll-free). List of helpline numbers of States/UTs on COVID-19 is also available at https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf .
+
+
+    ****
+
+
+    MV/SJ
+
+
+    HFW/COVID Advisory/5September2020/1
+
+
+    
+
+    
+    (Release ID: 1651508) Visitor Counter : 2491
+    
+    
+      Read this release in: Urdu , Marathi , Hindi , Assamese , Bengali , Manipuri , Punjabi , Tamil , Telugu , Malayalam
+    
+    
+    
+
+*

@@ -1,0 +1,28 @@
+      Department of Space
+
+      PSLV-C37 successfully launches 104 satellites in a single flight
+      Posted On: 15 FEB 2017 12:59PM by PIB Delhi
+
+
+    In its thirty ninth flight (PSLV-C37), ISRO's Polar Satellite Launch Vehicle successfully launched the 714 kg Cartosat-2 Series Satellite along with 103 co-passenger satellites today morning from Satish Dhawan Space Centre SHAR, Sriharikota. This is the thirty eighth consecutively successful mission of PSLV. The total weight of all the 104 satellites carried on-board PSLV-C37 was 1378 kg.
+    
+    PSLV-C37 lifted off at 0928 hrs (9:28 am) IST, as planned, from the First Launch Pad. After a flight of 16 minutes 48 seconds, the satellites achieved a polar Sun Synchronous Orbit of 506 km inclined at an angle of 97.46 degree to the equator (very close to the intended orbit) and in the succeeding 12 minutes, all the 104 satellites successfully separated from the PSLV fourth stage in a predetermined sequence beginning with Cartosat-2 series satellite, followed by INS-1 and INS-2. The total number of Indian satellites launched by PSLV now stands at 46.
+    
+    After separation, the two solar arrays of Cartosat-2 series satellite were deployed automatically and ISRO's Telemetry, Tracking and Command Network (ISTRAC) at Bangalore took over the control of the satellite. In the coming days, the satellite will be brought to its final operational configuration following which it will begin to provide remote sensing services using its panchromatic (black and white) and multispectral (colour) cameras.
+    
+    Of the 103 co-passenger satellites carried by PSLV-C37, two – ISRO Nano Satellite-1 (INS-1) weighing 8.4 kg and INS-2 weighing 9.7 kg – are technology demonstration satellites from India.
+    
+    The remaining 101 co-passenger satellites carried were international customer satellites from USA (96), The Netherlands (1), Switzerland (1), Israel (1), Kazakhstan (1) and UAE (1).
+    
+    With today’s successful launch, the total number of customer satellites from abroad launched by India’s workhorse launch vehicle PSLV has reached 180.
+    
+    ****
+
+    
+
+    
+    KSD/NK/PK/KM
+
+    
+    
+    (Release ID: 1482741) Visitor Counter : 247

@@ -1,0 +1,61 @@
+      PIB Headquarters
+
+      Coro-robot serves food, water and medicines to COVID-19 Patients in Thane
+      
+      "I wanted to make this robot basically for our ward-boys and nurses who are at the forefront of treating corona patients"
+
+      Posted On: 07 JUN 2020 10:19AM by PIB Mumbai
+
+    Mumbai, June 7, 2020
+
+
+    Ward boys, nurses are the frontline Corona warriors in our society who probably come into contact with Covid positive patients for many times and for the longest duration. It is with a noble thought of helping these warriors that Pratik Tirodkar, an Instrumentation engineer from Thane came out with the idea of developing a robot which would dispense food, water and medicines to corona patients in their wards without necessity of physical presence of nurses and other care-givers.
+
+
+    Pratik made "Coro-bot", inspired by Prime Minister Narendra Modi’s vision of Make in India and his clarion call for innovation.
+
+
+    Coro-bot cuts away the requirement of physical contact of nurses and ward boys with the patient. It delivers food, water, medicines to them. It can interact with them by using camera. Patients are cautioned through audio reminders to sanitise their hands before they pick up things from trays. The robot has 3 trays which can store various things.
+
+
+    The censors in dispensers ensure that liquids or sanitisers flow quickly when we hold our hand below it and flow is cut-off when the hand/glass is removed from underneath the dispensing area. This not only provides ease but also ensures minimal wastage.
+
+
+    Robot has illumination facility using LED lights which makes sure that it can be easily used during night as well. It also has small PC like set-up at top for computer work and entertainment.
+
+
+    Coro-bot not only allows sanitisation by users but it also sanitises itself to avoid spreading of viruses through touching of its surfaces. It has 3 nozzles at the back to spray disinfectant on itself. Moreover, it goes on sanitising the path it treads by using UV lights which do the primary sanitising of its path.
+
+
+    It has 3 trays which can carry 10-15 kg weight each and storage at the bottom has 30 kg capacity. Hence it can easily carry supplies for 10-15 people at a time.
+
+
+    "I wanted to make this robot basically for our ward-boys and nurses who are at the forefront of treating corona patients'. But due to lockdown it became difficult to procure necessary material for the same. During this period, I got the timely help from Member of Parliament from Kalyan constituency Shri Shrikant Shinde. I along with team of my 3-4 employees made customizable components as many regular parts were not available due to lockdown. When we will get some components in Unlock1 we will improve the appearance of the robots", said Pratik while speaking to PIB.
+
+
+    Pratik informs, that his unit has capacity to make 2-3 robots per week, however the prototype just took 15-20 days to be made. Currently it is being used at Holycross Hospital in Kalyan.
+
+
+    Pratik and his team have created a special app for operating this robot due to which now it can be operated from far away places as well. Internet of Things (IoT) will be used for this process. IoT is the same process which is behind automation of home appliances which is popularly known as smart homes.
+
+
+    With young enthusiasts like Pratik around, India is not far from its dream of becoming Aatmanirbhar Bharat.
+
+
+    Pratik Tirodkar of PNT solutions can be contacted at 8097141179.
+
+
+    ****
+
+
+    RT/MC
+
+
+    Follow us on social media: @PIBMumbai / PIBMumbai /pibmumbai pibmumbai@gmail.com
+
+    
+    
+    (Release ID: 1630010) Visitor Counter : 539
+    
+    
+      Read this release in: Marathi , Gujarati

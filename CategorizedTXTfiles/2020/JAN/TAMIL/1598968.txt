@@ -1,0 +1,42 @@
+      PIB Headquarters
+
+      CHENNAI AND ANDAMAN & NICOBAR ISLANDS (CANI) SUBMARINE OPTICAL FIBRE CABLE (0FC) CONNECTIVITY:
+      Posted On: 09 JAN 2020 6:59PM by PIB Chennai
+
+
+    At present, A&N islands are connected to the mainland through Satellite link with limited bandwidth capacity with high latency. Hence the Government of India decided to install Submarine Optical link from the Mainland (Chennai) to Andaman & Nicobar islands to provide high speed internet connectivity. Shri. Ravi Shankar Prasad, The Hon’ble Minister of Communications. Electronics & IT and Law & Justice inaugurated the Cable laying work on 09.01.2020 in the August presence of Admiral D.K.Joshi, The Hon’ble Lt. Governor of A& N islands and Vice Chairman, Island Development Agency.
+
+
+    The project will connect Port Blair along with seven other Islands of Andaman & Nicobar viz. Little Andaman, Car Nicobar, Kamorta, Great Nicobar, Havelock, Long Island and Rangat. Total length of the submarine cable project is 2250 Kms aznd will have four fibre pairs. Each fibre pair has the ultimate capacity of 6.4 Tbps with very low latency. At present, the combined availability for A & N Islands is only 3.2 Gbps. At the initial stage of commissioning itself bandwidth availability will be 400 Gbps which is nearly 100 times of the existing capacity. The commissioning of this project will elad to socio economic development of A & N Islands due to increased economic activities including tourism.
+
+
+    BSNL has been appointed as the Project Execution Agency (PEA) by DOT/USOF and the work has been awarded to M/s NEC Technlogies India Pvt. Ltd. Through global open tendering process. The link is targeted to commission by June, 2020.
+
+
+    Salient features:
+
+      * The total link distance is 2250 Kms, with Chennai to Port Blair as 1450 Kms, whereas other 7 segments, its 800 Kms.
+      * The total cost of the Project is Rs.1224 Cr (CAPEX Res. 948 Cr. Being funded by USOF + OPEX Rs.276 Cr. To be funded by A&N UT Administration under viability gap funding principle).
+      * The Cable System will be maintained by BSNL
+      * The bandwidth created under this project will be available to all Telecom Service providers to extend their telecom services to the A&N Islands.
+      * The submarine cable will also meet the strategic communication requirement of country’s defence forces.
+      * We have constructed 8 new green field building for housing Cable Landing Stations (CLS) in a record time.
+      * All equipments in Chennai and Port Blair are installed and at other places work is in advance stage.
+      * The ship ‘STRAIDER’ reached in Chennai in November, 2019 for pre layingactivities and the work has been completed between Chennai and A&N Islands.
+      * The ship “CS Responder” has already reached at Chennai for commencing the cable laying work at sea bed from 10 th Jan 2020
+
+    *****
+
+
+    
+
+    
+    (Release ID: 1598968) Visitor Counter : 218
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+*

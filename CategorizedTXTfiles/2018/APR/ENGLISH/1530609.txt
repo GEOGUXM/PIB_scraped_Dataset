@@ -1,0 +1,23 @@
+      Ministry of Labour & Employment
+
+      ECR Validation tool for Employers
+      Posted On: 27 APR 2018 6:15PM by PIB Delhi
+
+
+    Electronic-Challan-cum-Return (ECR) is a monthly return filed by the employer every month through employer e-sewa portal. The return has member wise details of the wages and contributions including basic details for the new and existing members (members who have joined or have left service in the wage month for which the return is uploaded). The approval of uploaded ECR results in generation of challan using which the employer has to remit the EPF & allied dues.
+
+
+    In order to assist the employer to create the correct ECR file every month, EPFO has provided an offline tool for employers for validating ECR before uploading at Unified Portal. This tool will facilitate the employers to pre-validate the ECR and also carry out amendments in the ECR file before uploading on Unified Portal. It is available for download at www.epfindia.gov.in.in>>OurServices>>For Employers>>ECR Validation Tool.
+
+
+    ****
+
+
+    JN/SKP/jk
+
+    
+    
+    (Release ID: 1530609) Visitor Counter : 373
+    
+    
+      Read this release in: Tamil

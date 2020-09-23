@@ -1,0 +1,26 @@
+      Ministry of Road Transport & Highways
+
+      Avoiding Multiple Driving Licences
+      Posted On: 07 JAN 2019 4:54PM by PIB Delhi
+
+
+    A National Database has been created on Driving Licenses and Vehicle registration. NIC has been entrusted with the design, development, computerization roll-out and maintenance of the VAHAN for Vehicle Registration and SARATHI for issuing of Driving Licence project across all the states and Union Territory Administrations. Subsequently to consolidate the database, State Register (SR) for all the states and National Register (NR) were established. Almost all the sites in 36 States/Union Territory Administrations are connected. More than 25 crore Vehicle records and 15 crore Driving License records are available in National Register repository. State Transport Departments and enforcement agencies have been provided access to data on National Register to facilitate instant verification of all driving licenses (DLs)/ Registration Certificate (RCs).
+
+
+    The SARATHI-4 application of the NIC for Driving License processing, which is a web based online application, is currently operational in 28 States/UTs across the country. It has a built-in facility to identify duplicate driving licenses. The SARATHI-4 application can identify duplicates on the basis of certain combination of available personal parameters. When any such license having duplicates is taken up for any transaction, the officials can view all these related records and take appropriate actions like cancelling or clubbing of duplicate licenses. The State RTO’s are already using this facility to de-duplicate Driving License records.
+
+
+    The Motor Vehicles (Amendment) Bill, 2017, passed by Lok Sabha and presently in Rajya Sabha for consideration and passing, provides for centralised register of driving licences. This will further help to carry reforms in the driving licence testing process and eliminating the duplicate licences.
+
+
+    Shri Mansukh L Mandaviya, Minister of State in the Ministry of Road Transport & Highways gave this information in reply to a question in Rajya Sabha today.
+
+
+    *****
+
+
+    NP/MS/MS
+
+    
+    
+    (Release ID: 1558908) Visitor Counter : 815

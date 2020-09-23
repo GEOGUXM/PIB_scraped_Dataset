@@ -1,0 +1,91 @@
+      Ministry of Statistics & Programme Implementation
+
+      GDP Estimates- A clarification 8.5.2019
+      Posted On: 08 MAY 2019 7:06PM by PIB Delhi
+
+
+    Reports have appeared in a section of the media regarding the usage of data, revisions in the estimates of the Gross Domestic Product (GDP) and associated indicators including the GDP Back-Series which require a clarification on behalf of the Ministry of Statistics and Program Implementation on the following accounts-
+
+
+    *The estimation of GDP in any economy is a complex exercise where several measures and metrics are evolved to better measure the performance of the economy. For the purpose of global standardization and comparability, countries follow the System of National Accounts evolved in the UN after elaborate consultation. The System of National Accounts 2008 (2008 SNA) is the latest version of the international statistical standard for the national accounts, adopted by the United Nations Statistical Commission (UNSC) in 2009 and is an update of the earlier 1993 SNA. The Inter-Secretariat Working Group on National Accounts (ISWGNA) was mandated to develop the 2008 SNA through intense discussions and consultation with member countries. India also participated in the deliberations of the Advisory Expert Group. In its adoption of the 2008 SNA the UNSC encouraged Member States, regional and sub-regional organizations to implement its recommendations and use it for the national and international reporting of national accounts statistics.
+
+
+    *As with any international standard, the data requirements are immense and developing countries take time to evolve the various data sources before they can be aligned with the SNA requirements. In absence of data, alternate proxy sources or statistical surveys are used to estimate the contribution of various sectors to the GDP/GVA. The SNA also prescribes that the base year of the estimates may be revised at periodic intervals so that changes in the economic environment, advances in methodological research and the needs of users are appropriately captured.
+
+
+    *With structural changes taking place in the economy, it is necessary to revise the base year of macroeconomic indicators like Gross Domestic Product (GDP), Index of Industrial Production (IIP), Consumer Price Index (CPI) etc, periodically to ensure that indicators remain relevant and reflect the structural changes more realistically. Such revisions not only use latest data from censuses and surveys, it also incorporates information from administrative data that have become robust over time. In India, the Base Year of the GDP Series was revised from 2004-05 to 2011-12 and released on 30 January, 2015 after adaptation of the sources and methods in line with the SNA 2008. The methodology of compilation of macro aggregates is discussed in detail by the Advisory Committee on National Accounts Statistics (ACNAS) comprising experts from academia, National Statistical Commission, Indian Statistical Institute (ISI), Reserve Bank of India (RBI), Ministries of Finance, Corporate Affairs, Agriculture, NITIAayog and selected State Governments. The ACNAS has a mandate to (i) review the data base and advise on data collection for implementing the recommendations of the System of National Accounts-2008 (SNA-2008); (ii) advise on the methodology for compilation and presentation of National Accounts Statistics for purposes of economic analysis and policy and on promotion of research in the field of National Accounts Statistics; (iii) advise on undertaking studies for improvement of National Accounts Statistics in terms of coverage, adoption of new classifications and development of sequence of accounts for various institutional sectors.
+
+
+    *This is to also reiterate that the detailed Sources and Methods for compilation of the national accounts statistics are placed on the website [1] of MOSPI under the heading “ Changes in Methodology and Data Sources in the New Series of National Accounts, Base Year 2011-12 ”. Similarly, the detailed methodology for the GDP Back-Series is available on the website [2] of the Ministry.
+
+
+    *The 2011-12 series of National Accounts Statistics incorporates changes in data sources, expansion in coverage of activities and improvements in procedures that are aligned to the latest recommendations of UN System of National Accounts 2008, to the extent data is available. There has been an improved coverage of the financial corporations, local bodies and autonomous institutions, all of which have an impact on the estimates of Gross Value Added (GVA). The 2011-12 National Accounts Series also started using the corporate sector data available from the Ministry of Corporate Affairs in its estimates. The issue of coverage, quality and timeliness of the MCA database vis-à-vis the Annual Survey of Industries had been discussed in detail in the various meetings of the Advisory Committee on National Accounts Statistics and adopted only thereafter. The recent exercise of the National Sample Survey to bring out a Technical Report on the Services Sector was commissioned by the Ministry to understand the data gaps and take remedial steps while undertaking the new base revision exercise for the proposed 2017-18 series. The results of this NSS Report will be further examined by the Advisory Committee before finalising the approach and methodology for the proposed 2017-18 series. It is emphasised that there is no impact on the existing GDP/GVA estimates for the corporate sector as due care is taken to appropriately adjust the corporate filings at the aggregate level based on the paid up capital.
+
+
+    *In fact, the Ministry is also embarking on the 7 th Economic Census for all economic establishments with an aim to not only assess the nature and distribution of establishments but to also form a National Business Register which can be periodically updated. This will greatly facilitate future establishment surveys undertaken by the central and state governments. The field work for the Economic Census is slated to commence in June, 2019.
+
+
+    *India has also subscribed to the Special Data Dissemination Standards (SDDS) of International Monetary Fund (IMF) which requires that macro-economic data would be disseminated within the prescribed periodicity and timeliness conforming to the data standards laid down along with information on the detailed statistical practices or metadata. Accordingly, the Ministry has an Advance Release Calendar that gives the specific dates of release for the estimates. For instance, for the GDP/GVA estimates of 2018-19, the releases would be as indicated below:
+
+
+      http://www.mospi.gov.in/sites/default/files/press_releases_statements/Changes%20in%20Methodology%20NS%202011-12%20June%202015.pdf
+
+
+      http://www.mospi.gov.in/sites/default/files/publication_reports/Methodology_back_series_base_2011_12_9jan19.pdf
+
+                                                                                                                                                                                                                  
+No.  GDP/GVA Estimates for 2018-19  Release date  Broad Approach                                                                                                                                                  
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+1    First Advance Estimate         07 Jan, 2019  Based on indicators (Apr- Sep) and PE of 2017-18 year as the Benchmark, Government Budget (Budget Estimates)                                                    
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+     (FAE)                                                                                                                                                                                                        
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+2    Second Advance Estimate (SAE)  28 Feb, 2019  Based on indicators (Apr- Dec) and First RE of 2017-18 as the Benchmark, Government Budget (Budget Estimates)                                                   
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+3    Provisional Estimate (PE)      31 May, 2019  Based on indicators (Apr- March) and First RE of 2017-18 as the Benchmark, Government Budget (Revised Estimates)                                                
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+4    First Revised Estimate (FRE)   31 Jan, 2020  Based on Index of Industrial Production, MCA (truncated sample), Annual reports of corporates, Government Budget (Revised Estimates)                            
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+5    Second Revised Estimate        29 Jan, 2021  Based on detailed tables like Provisional ASI 2018-19, MCA (larger sample), Annual reports of corporates, State level data, Government Budget (Actual Estimates)
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+     (SRE)                                                                                                                                                                                                        
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+6    Third Revised Estimate (TRE)   31 Jan, 2022  Based on detailed data Final ASI 2018-19, etc, Annual reports of corporates, State level data                                                                   
+                                                                                                                                                                                                                  
+                                                                                                                                                                                                                  
+
+    *It needs to be appreciated that every revision in the estimates of GDP/GVA is based on the data available at the time of the respective release. The coverage and quality of each data source like Revenue expenditure, taxes, company filings data improves over time. Till the release of Provisional Estimates in any year, the estimates are based on indicators like the Index of Industrial production (IIP), wholesale price indices, core sector data on steel, cement, electricity, Revenue expenditure, GST data, trade data on imports & exports, consumer prices etc. The estimates based on indicators are reworked when the corresponding data source becomes available. By the time of the Third Revised Estimate, the coverage and completeness in the data sources are almost final and no further revision takes place. Usually no revisions in the estimates take place beyond the Advance Release Calendar.
+
+
+    *According to the World Bank, the accuracy of national accounts estimates and their comparability across countries depend on timely revisions to data on GDP and its components. The frequency of revisions to GDP data across countries varies between monthly, quarterly, annually or even less frequently. It may also be mentioned that the Ministry had earlier decided to revise the Base Year of the GDP/GVA and IIP to 2017-18 and steps have been taken to expedite the revision exercise. As already mentioned, the Ministry adopts procedures that are in accordance with international standards and the detailed methodology for compilation of the GDP, including the Back Series is available on the website of the Ministry. The International Monetary Fund (IMF), through its technical missions also reviews the implementation of recommendations of SNA and provides necessary technical support. Further, under Article IV of IMF, a Mission, interacts annually with officials of Ministry of Statistics and Program Implementation, Reserve Bank of India and Ministry of Finance on issues relating to Economic developments and policies. IMF had raised certain concerns regarding the deflators used in the GDP estimates, especially the use of double deflation. In this context, it may be appreciated that the data requirements for using double deflation is immense and that only few countries like Australia, Brazil, Canada, France, Germany, Italy, Japan, Korea, Mexico and USA are presently using this methodology. This Ministry is working in close coordination with the Ministry of Commerce and Industry for developing the required indices for using double deflator methodology in relevant sectors. MoSPI has separately taken up this issue with the IMF. It may also be noted that the National Accounts Division, which compiles these macro aggregates and other National Accounts Statistics is also ISO (International Organisation for Standards) 9001:2015 certified for its quality management of procedures and processes.
+
+
+    *****
+
+
+    AKT/VJ/SKS
+
+
+    
+
+    
+    (Release ID: 1571757) Visitor Counter : 1630
+    
+    
+      Read this release in: Urdu , Hindi , Bengali

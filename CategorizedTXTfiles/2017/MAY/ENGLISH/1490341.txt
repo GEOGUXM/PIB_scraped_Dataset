@@ -1,0 +1,443 @@
+      Election Commission
+
+      EVM Challenge by Election Commission of India
+      Posted On: 20 MAY 2017 7:29PM by PIB Delhi
+
+
+        1. The Election Commission of India is globally acknowledged as a ''Gold Standard'' in conduct of free and fair elections with integrity in India. It has set ever-higher standards of efficient, smooth and professional conduct of Elections and has been at the forefront of embracing, adopting and implementing the latest technological advancements in improving and fine-tuning the election processes and systems.
+
+
+        2. The Commission has taken the pioneering initiative of introducing Electronic Voting Machine (EVM) for recording, storing and counting of votes across the length and breadth of this country in a transparent, credible and secure manner, duly backed by appropriate legal support.
+
+
+        3. Over the last twenty years, the Commission has successfully conducted 107 State Legislative Assembly elections and 03 Lok Sabha elections using EVMs. Since September 2013, Voter Verifiable Paper Audit Trail (VVPAT) machines have also been used in various State Assembly and Parliamentary constituencies for enhanced transparency and credibility in the voting process.
+
+
+        4. The introduction of EVMs in 90 ’ s was a positive electoral reform by the Commission. Some doubts have been raised on the functioning of the EVMs from time to time and from some quarters.
+
+
+        5. After the announcement of the results of the five State Assembly Elections (UP, Uttarakhand, Punjab, Goa and Manipur), in March 2017, again certain doubts have been raised on the functioning of EVMs. Some complaints and suggestions were received by Commission after declaration of results of five State Assembly elections. The Commission duly examined these complaints and asked for evidence and credible material information supporting the claims, but so far no evidence has been provided by complainants to ECI.
+
+
+        6. A group of thirteen political parties met the Commission on 10th April, 2017 and expressed certain reservations about the use of EVMs. Some political parties also raised queries about incidents relating to VVPATs used on 31/3/17 during demonstration (NOT in actual poll) at Bhind (M.P) and Dholpur (Rajasthan) Bye-elections held in the first week of April, 2017.
+
+
+        7. To understand the concerns of political parties, Commission convened an all-party meeting on 12 th May. A press statement was also issued by ECI the same day to the following effects.
+
+
+        (i) The Commission stated before political parties that all future elections will be mandatorily held with VVPATs. The Commission firmly believes that use of VVPAT machines along with the EVMs in all polling stations, in all future elections, will bring utmost transparency and credibility in the EVM-based voting system. This will enable each voter to see for himself in VVPAT whether his or her vote has gone to the right candidate. After press of button on BU, name and symbol the concerned candidate will appear on the screen of VVPAT machine and paper slip bearing name and symbol will be dropped in a sealed box connected with VVPAT. These slips will serve as audit trial of the vote cast by voter on EVM. Audit trail will enhance confidence and trust of voters. Use of VVPATs with EVMs must conclusively put to rest all misinformed doubts and misgivings regarding EVMs. It will also be a matter of pride that India will become the first country to deploy 100% VVPATs or paper trail in the world, an element that was missing in many countries including Netherland, Germany and Ireland.
+
+
+        Funds for procuring the required VVPATs for 100% deployment have already been sanctioned and production is to begin in August, 2017 and will be completed by September, 2018.
+
+
+        (ii) It was also stated that the Commission has also taken into account suggestions made by various political parties regarding counting of VVPAT slips. The Commission will count VVPAT slips up to a definite percentage, which will be determined by the Commission. The ECI will shortly evolve an appropriate framework in this regard.
+
+
+        (iii) The Commission will hold a challenge and offer opportunity to political parties to demonstrate that EVMs used in the recently concluded Assembly elections were tampered or that EVMs can be tampered even under the laid down technical and administrative safeguards of ECI.
+
+
+        (iv) Commission also urged all parties to ensure their continuous and qualitative participation in all crucial steps during elections such as First Level Checking (FLC), randomisation of EVMs/VVPATs/polling personnel, EVM preparation and candidate setting, mock poll, EVM sealing and storage. The Commission also invited more suggestions from political parties on how to further increase their participation, so that absolute transparency is maintained at all times.
+
+
+        (v) Commission, further, urged political parties that improving integrity of election process is a shared responsibility of all the stake holders. We solicited their suggestions to fill up gaps, if any, during election and non election period. The Commission made it clear that ECI want total transparency and have nothing to hide from people and other stakeholders. Commission will always receive suggestions from its stakeholders for improvement of its processes.
+
+
+        (vi) The Commission also emphasised that Commission is committed and it maintains equidistance from all parties and groups. The Commission further emphasised that ECI has no favourites. Further, this equidistance by ECI has enhanced India ’ s reputation in the eyes of the global community.
+
+
+        8. The Commission has already issued detailed Press releases on Credibility of Electronic Voting Machines on 16 th March, 2017, on alleged VVPAT incident during mock EVM demonstration on 31 st March 2017 (and not in actual poll as alleged) at Bhind (Madhya Pradesh) on 07 th April, 2017 and also regarding EVMs in Dholpur (Rajasthan) on 11 th April, 2017. In Bhind, a wrong notion was created that for any key pressed on the Ballot Unit, only one symbol was printed by VVPAT. Commission ’ s thorough enquiry clearly established that during the EVM demo held on 31.03.2017 in DEOs office the 4 buttons were pressed during the demo and not the actual poll and every time the correct corresponding symbol was printed. A Status Paper on EVMs has also been circulated to all stakeholders on 12 th May, 2017elaborating various aspects about EVMs and VVPATs for information and awareness. (All these documents are available on ECI website).
+
+
+        9. Certain complaints of alleged tampering of EVMs during the recently held Municipal elections in Maharashtra and elsewhere also generated wrong perception about EVMs of ECI. It was noted that confusion exists in the minds of many about the jurisdiction of ECI. We would like to clarify once again on this occasion that ECI is not responsible for the conduct of local body elections by the State Govts in the country and consequently about various protocols and procedures adopted by the concerned State Election Commissions. Election to local bodies, both urban and rural, are conducted by separate constitutional authorities State Election Commissions constituted by the State Govts. under Article 243 of the Constitution. Moreover, a particular complaint of some candidate receiving zero vote in Mumbai Municipal elections has been found to be totally false by SEC Maharashtra.
+
+
+        10. The Commission is confident and has firm conviction about the integrity, non-tamperability and credibility of the EVMs. The basis of confidence of the Commission flows from a wide range of technical and administrative protocols and procedural safeguards that protects our EVMs and VVPATs against any sort of tampering during manufacture, transportation, storage, polling and counting process. Still, the Commission is open to receiving from all stakeholders ’ suggestions on how to further improve the integrity and credibility of our EVMs and VVPATs. The Commission will not allow even a shade of doubt about EVM operations.
+
+
+        11. The Commission would like to address some of the important issues that have been raised from time to time in past two months:
+
+
+        A. ECI- EVMs are not hackable as these, are stand alone machines and not connected to the internet and /or any other network at any point of time during polling. Hence, there is no chance of hacking.
+
+
+        The ECI-EVMs do not have any frequency receiver or data decoder for wireless and hence cannot receive any coded signal by wireless. Hence, no tampering can be carried out through external hardware Wireless, Wi-Fi or Bluetooth device. Moreover, machines are always in the custody of ECI and its election authorities.
+
+
+        B. Manipulation at manufacturing stage is ruled out as there is very stringent security protocol regarding the security of software. Further, the Machines have been manufactured in different years starting from 1989. After manufacturing, EVMs are sent by ECI to State and district within a State. The manufacturers are in no position to know several years ahead which candidate will be contesting from a particular constituency and what will be the sequence of the candidates on the BU and, therefore, cannot manipulate EVMs in a predetermined manner at manufacturing stage.
+
+
+        C. Results cannot be altered by activating a Trojan Horse through a sequence of key presses because
+
+
+        1. Trojan Horse cannot be inserted into the software code of ECI EVM burnt into the Microcontroller Chip since the chip is one time Programmable only.
+
+
+        2. The stringent security measures by ECI make it impossible to access the EVMs which is an essential prerequisite for attempting to change the Micro-controller for inserting a Trojan Horse.
+
+
+        3. Control Unit activates Ballot Unit for only one key press at a time. Any additional key pressed on the Ballot Unit is not sensed by the Control Unit making it impossible to send signals by pressing a sequence of keys or secret codes.
+
+
+        Once a ballot key is pressed in CU, the CU enables BU for registering the vote and waits for the key pressing in the BU. During this period, all keys in the CU become inactive till the entire sequence of casting of that vote is complete. Once any of the keys (candidates vote button) is pressed by a voter in BU, the BU transmits the key information to CU in dynamically encrypted form. The CU gets the data and acknowledges it by glowing the corresponding red LED lamps in BU. After the enabling of ballot in CU, only the ‘ first key press ’ is sensed and accepted by CU. After this, even if a voter keeps on pressing the other buttons, that is of no use as there will not be any communication between CU and BU of those subsequent key presses, nor will BU register any key press. To put it in other words, there can be only one valid key press (the first key press) for every ballot enabled using CU. Once a valid key press (voting process) is complete, until another ballot enabling key press is made there will not be any activity between the CU and the BU. Hence, sending of any malicious signal, by way of so called ‘ sequenced key presses ’ , is impossible in the Electronic Voting Machines being used in the country.
+
+
+        D. ECI-EVMs cannot be Physically Tampered with nor their components be changed without anyone noticing. It is clarified that replacement of micro controller/chip and the motherboard in earlier generations of machines like M1 and M2 is ruled out due to robust administrative and technical safeguards. Further, the new M3 EVM produced after 2013 have additional features like Tamper Detection and Self Diagnostics . The tamper detection feature makes an EVM inoperative the moment anyone tries to open the machine. The Self diagnostic feature checks the EVM fully every time it is switched on. Any change in its hardware or software will be detected. Rs. 1900 Crore have already been sanctioned to the manufacturers for production of 13.95 Lakh BU and 9.30 Lakh CU of M3 generation. Also, 16.15 Lakh VVPATs are also under production and Rs. 3173 Crore have been sanctioned for the same.
+
+
+        E. The latest technological features make ECI-EVMs tamper proof. The ECI-EVMs use some of the most sophisticated technological features like one time programmable (OTP) microcontrollers, dynamic coding of key codes, date and time stamping of each and every key press, advanced encryption technology and EVM-tracking software to handle EVM logistics, among others to make the machine 100% tamper proof. In addition to these, new model M3 EVMs also have tamper detection and self-diagnostics as added features.OTP software implies that the programme in the EVM cannot be altered, re-written or re-read by anyone under safe custody of ECI. This makes EVM tamper proof. If anyone makes an unauthorized attempt, the machine will become in-operative.
+
+
+        F. Contrary to misinformation spread and alleged by some, ECI does not use any EVMs produced abroad. EVMs are produced indigenously by two PSU manufacturers viz. Bharat Electronics Ltd., Bengaluru and Electronics Corporation of India Ltd., Hyderabad. The Software Program Code is written in-house by these two companies and not outsourced and approved by TEC of ECI and subjected to strict security procedures at factory level to maintain the highest levels of integrity.
+
+
+        The software programme is converted into machine code by manufacturers and only then given to the chip manufacturer abroad. (We don ’ t have the adequate capability of producing semi-conductor microchips within the country). Every microchip has an identification number embedded into memory and the producers have their digital signatures on them. So, the question of their replacement does not arise at all because microchips brought back to manufacturers are subjected to functional tests with regard to the software. Any attempt to replace microchip is detectable and can make EVM in-operative. Thus, both changing existing program and introducing new one are detectable making EVM in-operative because EVMs are tamper detect. Also the technological advancement now permits fusing of the software on the chip at BEL and ECIL itself and hence, in M3 the software is fused on the chip inside BEL and ECIL.
+
+
+        G. There are no possibilities of manipulation in EVM during transportation or at the place of storage. At the district headquarters, EVMs are kept in a double-lock system under appropriate security . Their safety is periodically checked . The election authorities do not open the strong room, and they only regularly check whether it ’ s fully protected and whether the lock is in proper condition or not. No Unauthorized person can get access to the EVMs at any point of time. During the non-election period, annual physical verification of all EVMs is done by DEOs and report sent to ECI. Further, strong rooms are always opened in the presence of representative of political parties.
+
+
+        H. There are different levels of checks and balances ensuring tamper proofing of ECI-EVMs which are as follows:
+
+
+        • First Level Checking: Authorized BEL/ECIL engineers certify originality of components after technical and physical examination of each EVM , which is undertaken in the presence of representatives of political parties. Defective EVMs are sent back to the factory. The FLC Hall is sanitized, entry is restricted and no camera, mobile phone or spy pen is allowed inside. The Mock Poll is conducted on EACH EVM by election officials in the presence of representatives of political parties.The Mock poll of at least 1000 votes is conducted on 5% EVMs selected randomly by representatives of political parties and the result shown to them. The entire process is video graphed.
+
+
+        • Candidate Setting: Yet another significant safeguard is the process of candidate setting, which is done after the finalization of contesting candidates. A ballot paper is inserted in the Ballot Unit, which is then sealed with Pink Paper Seal. BU is sealed at this stage. Where VVPATs are used, candidates ’ symbols are loaded in each VVPAT at this stage. Once again, every EVM is subjected to mock poll and 5% EVMs are randomly picked up for 1000 mock poll.
+
+
+        • Randomization: EVMs are randomized twice while being allocated to an Assembly and then to a polling booth ruling out any fixed allocation. As you can appreciate, till first randomization no-one knows the sequence of names on the ballot paper till the finalization of list of contesting candidates, the names of contesting candidates are placed alphabetically on the ballot paper first for National and State Parties, followed by other Registered Parties, followed by independents and NOTA. Thus the Serial no. of any political party, candidate on the BU would be variable from constituency to constituency. It is therefore clear that serial no. of any political party candidate is not fixed or pre-determined in all the constituencies of the state. Hence, till candidate setting, none, not even RO or DEO or CEO or the Commission could know which button on which BU will be assigned to which candidate.
+
+
+        • Mock Poll of at least 50 votes at the polling station is also conducted in front of polling agents of candidates on the poll day, before poll begins.
+
+
+        • After Poll, EVMs are sealed and polling agents put their signature on the seal. Polling agents can travel up to strong room during transportation of polled EVMs from the polling station to the EVM Strong room.
+
+
+        • Strong Rooms: Candidates or their representatives can put their own seals on the strong rooms, where polled EVMs are stored after the poll and also camp in front of the strong room. These strong rooms are guarded 24x7 in multilayers, with CCTV facilities.
+
+
+        • Counting Centres: The polled EVMs are brought to the Counting Centres under security and in presence of candidates and Unique IDs of the seals, signature of polling agents on CU are shown to representatives of candidates before the start of counting.
+
+
+        12.Looking at the above series of fool-proof checks and balances that are undertaken by the ECI to make EVMs tamper proof, it is evident that neitherthe machines can be tampered-withnor they can leave the ECI-EVM system. Further, neither defective machines nor Non-ECI-EVM can get re-inducted/inducted into the polling process at any point of time. Non ECI-EVMs will get detected by the above process due to mismatch of BU & CU.
+
+
+        13. Some people argue that why have Developed Nations like the US and the European Union not adopted EVMs and some have even discontinued?
+
+
+        ECI EVMs are far superior to any EVMs worldwide. EVM, used in the Netherlands, Ireland and Germany were privately manufactured and had no independent certification system unlike a very robust verification and certification system through independent TEC or an ECI approved third party in case of ECI EVMs. Also, voting data in these NEDAP EVMs in the Netherlands was transferred using CDs, unlike our EVMs where it is stored internally and never transferred. Also these countries lacked full end to end administrative and security safeguards as well as legal framework. Finally their EVMs also lacked auditability.
+
+
+        A point is raised from time to time that several foreign countries have discontinued the use of voting machines and why India is using EVMs.
+
+
+        With the rapid advances in technology over the years, Election Management Bodies, professionals, experts, and activists (particularly Green Activists) have mooted the idea of using paperless electronic voting methods in different parts of the world in order to overcome the disadvantages of manual marking of paper ballots. The marriage between technology and election management goes back to at least 1892, when the first ‘ lever voting machine ’ was used in New York, after using the paper ballot for a long time. In the 1960s, punch-card machines were introduced in the USA, and the first EVM was introduced there in 1975. Electronic Voting has moved quite ahead since then.
+
+
+        Types of Electronic Voting:
+
+
+        The process of electronic voting can be of three types:
+
+
+        (i) Direct Recording Machines placed at designated polling station,
+
+
+        (ii) Internet Voting
+
+
+        • Remote Online Voting
+
+
+        • At Designated Polling Stations
+
+
+        (iii) Optical Scanners
+
+
+        • Stand-alone
+
+
+        • Networked for centralized counting of results
+
+
+        EVMs used in India fall under the first type of stand-alone direct recording machines with no possibility of any kind of network connectivity where voters cast their votes at an assigned polling station on the day of election under strict administrative security ensured by the ECI.
+
+
+        Even though ECI EVMs are also direct recording machines ECI EVMs are completely different from any of the EVMs used internationally either for direct recording or for internet voting or for optical scanning. This is clearly highlighted in the comparative analysis of ECI EVMs with the DRMs used in countries like Germany, Netherland, Ireland, and USA as follows:
+
+
+        The Netherlands
+
+
+        Electronic Voting was used in The Netherlands in between 1990-2007. The voting machines were manufactured by a private Dutch-company called NEDAP (Nederlandse Apparaten Fabriek NV). In 2006, the government ordered an independent testing of the voting machines. Two independent commissions, The Voting Machines Decision-making Commission and the Election Process Advisory Commission (EPAC) were also established on December 19, 2006 and January 18, 2007, respectively, to review the security and reliability features of NEDAP machines.
+
+
+        Following the observations of the two Commissions, the use of NEDAP machines and electronic voting was discontinued in 2007 on the following grounds:
+
+
+        • The Ministry of Interior and Kingdom Relations (MOIKR) of The Netherlands lacked adequate technical knowledge vis- à -vis the NEDAP machines, leading officials to depend on external actors for the conduct of elections.
+
+
+        • Technology vendors became part of the decision making process and the ministry was not in a position to exercise effective oversight.
+
+
+        • The Dutch Organization for Applied Scientific Research (Toegepast Natuurwetenschappelijk Onderzoek, TNO) certified and tested these machines following “ outdated standards ” which were not immune to modern IT and security threats.
+
+
+        • Moreover, the certification and testing reports were not made public depriving independent experts to verify the analysis.
+
+
+        • The legal framework, particularly the necessary security requirements, wasinadequate to deal with the specificities of the electronic voting process. (For a comprehensive report on electronic voting in The Netherlands, see link: https://www.ndi.org/sites/default/files/5_Netherlands.pdf)
+
+
+        Germany:
+
+
+        In Germany, the e-voting machines manufactured by NEDAP were used in between 2005 – 2009 before it came under criticism and finally discontinued. The Bundesverfassungsgericht (the Federal Constitutional Court of Germany) ordered the discontinuation of the use of NEDAP machines in 2009 because of the below-mentioned reasons:
+
+
+        • The use of Nedap electronic voting machines violated the principle of the public nature of elections (Article 38 in conjunction with Article 20.1 and 20.2 of the Basic Law) that requires that all essential steps in the elections are subject to public examinability unless other constitutional interests justify an exception.
+
+
+        • It also observed that “ it must be possible for the citizen to check the essential steps in the election act and in the ascertainment of the results reliably and without special expert knowledge ” .
+
+
+        (See the judgment in the following link:
+
+
+        http://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2009/ 03/cs20090303_2bvc000307en.html;jsessionid=FEA71E86E2CEE030FF7AAAC905 72279C.2_cid383)
+
+
+        Ireland:
+
+
+        NEDAP machines were used in Ireland in between 2002 – 2004. The use of these machines was questioned following which two independent commissions were set up. The two Commissions on the Secrecy, Accuracy and Testing of the Chosen Electronic Voting System, concluded the NEDAP machines could not be used in elections in Ireland on the following grounds:
+
+
+        • Inadequate technological safeguards
+
+
+        • Insecure transfer of data by the use of CDs
+
+
+        • Absence of a comprehensive independent end-to-end testing, verification and certification by a single accredited body
+
+
+        • Inconsistencies in physical security of machines across constituencies
+
+
+        • Absence of a clear policy guideline via-a-vis storage, transport, set-up, use and disposal of voting equipment; and
+
+
+        • Absence of comprehensive electronic register to record the identity, location and movement of the electronic voting devices.
+
+
+        (See links: http://www.umic.pt/images/stories/publicacoes1/00Index.pdf; http://www.umic.pt/images/stories/publicacoes1/Part%200%20Index.pdf)
+
+
+        United States of America:
+
+
+        In 2000, after the dispute on the voting method in the USA presidential elections, the voting method was reviewed (Esteve, Goldsmith, & Turner, 2012: 185). Accordingly, Direct Recording Electronic (DRE) Systems (like the widely used AccuVote TS developed by Premier Election Solutions, commonly called Diebold) were introduced. DRE Systems uses “ one of three basic interfaces (pushbutton, touchscreen or dial) ” through which “ voters record their votes directly into computer memory. The voter ’ s choices are stored in DREs via a memory cartridge, diskette or smart card … Some DREs can be equipped with Voter Verified Paper Audit Trail (VVPAT) printers... ” Currently, in the USA, the Direct Recording Machines are used in 27 states, among which paper audit trails are used in 15 states. The other voting methods include: Optical Scan Paper Ballot Systems, Ballot Marking Devices, and the Punch Card Ballot.
+
+
+        (See link: https://www.verifiedvoting.org/resources/voting-equipment/)
+
+
+        Other countries:
+
+
+        In Brazil, the machines used in elections are called ‘ electronic ballot boxes ’ which are stand-alone direct electronic recording systems. In Venezuela, SATIS (Smartmatic Auditable Election Systems) voting machines are used which were fully implemented across the nation in 2004. (Esteve, Goldsmith, & Turner, 2012: 185)
+
+
+        India:
+
+
+        Indian EVMs are truly unique compared to the e-voting machines used in other parts of the world for the following reasons:
+
+
+        • ECI-EVMs are stand-alone non-networked machines
+
+
+        • The ECI-EVMs are manufactured in two PSUs namely ECIL and BEL, unlike machines used in other countries, which were manufactured entirely by private entities. Hence there is no chance of involvement of vested interest of private players or technology vendors in decision making or production of the ECI-EVMs.
+
+
+        • ECI-EVMs have been time and again successfully verified and certified by an independent Technical Experts Committee after an end-to-end testing process. STQC under Ministry of Information and Technology, an accredited third party entity, conducts standardization and certification of ECI EVMs produced by manufacturers, unlike the machines used in Netherlands,
+
+
+        • In ECI EVMs data is stored internally and not transferrable by any device, unlike other countries where voting data recorded in the DRM is transferred by means of CD, etc.
+
+
+        • Commission has evolved full end to end security protocol and administrative safeguards for the use, storage, transportation and tracking of ECI EVMs, unlike in other countries where NEDAP machines were used.
+
+
+        • Unlike MOIKR of Netherlands, the Commission is fully backed by a Technical Expert Committee comprising of eminent professors.
+
+
+        • Every EVM has a unique number attached to it, which is recorded in the Election Commission ’ s database through EVM Tracking Software. This number of the EVM can always be cross-checked against the database.
+
+
+        • The software used in these EVMs is One Time Programmable (OTP), which can ’ t be re-written after manufacture.
+
+
+        • The ECI-EVMs are always under strict, uniform, high profile administrative and physical security as per legal framework across the country.
+
+
+        • Section 61 A of the Representation of the Peoples Act 1951 allows the use of EVMs by ECI. The different High Courts across the country have also upheld the use of EVMs time and again in various judgments and the Karnataka High Court in 2004 declared ECI-EVMs as “ national pride ” because of its transparency and robustness.
+
+
+        • Following the direction of the Hon ’ ble Supreme Court, the ECI has introduced the technology of VVPAT in order to ensure public verifiability. The Commission is committed to implement VVPATs nation-wide by 2019. Thus there will be 100% voter verifiability and auditability of every vote cast as opposed to lack of such facility in the NEDAP machines, which was struck down by the German Supreme Court as un-Constitutional, whereas Indian Supreme Court has upheld the validity of use of EVM for conducting elections in the country.
+
+
+        • Thus any comparison of ECI-EVMs with machines used elsewhere is misplaced.
+
+
+        The Commission has always worked in an open and transparent manner and always welcome questions, doubts and constructive and decent criticism of our processes so that we can further strengthen electoral processes.
+
+
+        During political party meeting on 12 May 2017, Commission had promised to organise an open challenge to give an opportunity to political parties to demonstrate that EVMs used in five States were tampered or EVMs even under technical and administrative safeguards can be tampered. Accordingly, ECI now proposed to open a challenge on 3 rd June 2017 onwards to all political parties.
+
+
+        Frame-work of the challenge:
+
+
+        Election Commission of India invites the nominees of National and State Recognized political parties who contested and claimed that the EVM machines held under the ownership of Election Commission of India and used in the recently held General Assembly Elections of five states namely Punjab, Goa, Manipur, Uttarakhand and Uttar Pradesh in Feb-Mar 2017 were tampered or that these could be tampered even under technical and administrative safeguards of ECI, to demonstrate their claims at the ECI Headquarters within the framework of the extant administrative and security protocols prescribed by the Commission.
+
+
+        Salient features of the EVM Challenge of the Commission are as follows:
+
+
+        Challenge Statement I:
+
+
+        That the EVMs used in the General Elections to five States-2017 were tampered to favour a particular candidate/political party by altering the results stored in the EVMs after the polls . The claimants will hence have to alter the results in the Control Units used during these polls in exactly the same scenario as the EVMs remain within the technical and administrative safeguards of ECI after the poll, i.e. during the storage in strong rooms or during counting, through
+
+
+        a. using press of combination of keys on CU or BU or BOTH, or
+
+
+        b. Bycommunication to CU or BU or Both via external wireless/Bluetooth/mobile phone etc.
+
+
+        Challenge Statement II
+
+
+        That the EVMs used in the General Elections to the five States-2017 were tampered before or during the poll day . The claimants will hence have to alter the results in the EVMs used during these polls in exactly the same scenario as the EVMs remain within the technical and administrative safeguards of ECI before the poll, i.e. during the storage in strong rooms or during the poll, through
+
+
+        c. using press of combination of keys of CU or BU or Both, or
+
+
+        d. by communication to CU or BU or Both via external wireless/Bluetooth/mobile phone etc.
+
+
+        Common Procedure for Challenge I and Challenge II
+
+
+        1. The EVM Challenge is open for participation from the National and State Recognized Political Parties only which participated in the five States' Assemblies Elections viz. Goa, Punjab, Manipur, Uttarakhand and Uttar Pradesh.
+
+
+        2. Each National and State Recognized Party intending to participate may nominate a maximum of 3 persons only to participate in the EVM Challenge. Each Party shall intimate the names of maximum 3 authorized persons , if any, who wish to accompany the chosen EVMs from the Warehouses to the Commission at New Delhi during transportation at their own cost.
+
+
+        3. The Political Parties willing to participate in the EVM Challenge must mandatorily confirm their interest to ECI by 5.00 pm on 26th May, 2017 through the email (evmchallenge@eci.gov.in) , wherein the details of the Nominated members must be furnished as per the prescribed Performa. Only those Political Parties, which respond by 5.00 pm on 26th May, 2017 to the ECI, shall be allowed to participate in the EVM Challenge. The response of the political parties shall mandatorily be made on the official letter-head of the party duly signed by the President or General Secretary of the political party concerned, which shall be scanned and emailed to the email id mentioned above.
+
+
+        4. Further, if the Nominees of any Political Party, to whom a Challenge date-time Slot has been allotted, fail to report at the designated time and venue without prior intimation or approval, shall forfeit their right to participation in the EVM Challenge.
+
+
+        5. Each Political Party will be allowed to choose a maximum of 4 EVMs of their choice from any 4 polling stations out of the Five poll-gone States. Examples; Maximum of 4 EVMs only form 4 polling stations can be chosen, either from one AC or from multiple ACs in a State or from any of the five States. It is clarified that any EVMs involved in EP (Election Petition) or those under any sealing by the orders of a competent Court, shall not be part of this EVM Challenge. If a Political Party does not wish to specify a particular EVM but wants ECI to provide any EVM of Commission ’ s choice, then the same should be intimated by 26th May, 2017.
+
+
+        6. The choice of the EVMs shall be emailed ( evmchallenge@eci.gov.in ) in the prescribed proforma by 5.00 pm on 26th May, 2017 .
+
+
+        7. The chosen EVM machines, including Control Units (CU), Ballot Units (BU) (one or more as deployed) and VVPAT (wherever deployed) shall be brought to the ECI at New Delhi, on as-is-where basis, in compliance of the extent of established protocol of ECI regarding opening of EVM strong-rooms/warehouse and EVM transportation.
+
+
+        8. The representatives of the Political Parties at State Level are at liberty to witness the opening of EVM Strong-rooms at the District/AC level where the EVMs are presently stored, inspect the machines for the various seals (as in protocol) and accompany the machines during their transportation to ECI in sealed trunks, if they so desire.
+
+
+        9. As these EVMs were used in the recently held elections and were stored post-counting, the EVMs would still have the candidate setting and the result of the said election.
+
+
+        10. The results of the machines as recorded during the counting in the previous elections shall be available in paper form also, having details like total votes polled and votes casted for each candidates etc.
+
+
+        11. A Challenge Slot of 4 Hours shall be allotted to each participating Political Party, wherein their registered nominees shall be given access to one of their chosen EVMs (CU+BU + VVPAT if deployed) for the purpose of PROVING the Challenge Statement 1 and 2. In case the first chosen EVM is in-operative as a result of transportation, then the second of the chosen EVM shall be allowed to be used for the challenge and so on. However, if a Political Party desires to avail of more time, the request shall be made in writing to the Commission, which shall decide the issue on merits and demands of reasonability.
+
+
+        12. The nominees may before proceeding for challenge if they want, check the result of previous election already stored in CU and verify that these are same as given by ECI in item 10 above as per ECI protocol of declaring results from CU. This step is optional and will be recorded if they opt for it in writing. The result of re-count also will be recorded.
+
+
+        13. The Nominees of the participating Political Parties shall be allowed the following methods on the Challenge EVMs to prove the challenge:
+
+
+        a. Pressing any sequence of buttons on the CU or BU or Both.
+
+
+        b. The use of any external wireless/Bluetooth/Mobile Phone device/Transmitter.
+
+
+        14. All Key Presses made by the Challenger shall be declared prior to the actual execution of key presses and these will manually be recorded by the ECI Counter Staff for keeping a “ written record of exact process of conduct ” of the “ challenge proving ” poll. In case the challenger wishes to use mobile or blue tooth during poll, he should inform the Election officials and this should also be recorded. This is especially relevant, in case the Challenger wishes to conduct any mock poll or full poll by either use of key presses or mobile phone / blue-tooth during his tamper attempt to prove the Challenge Statements.
+
+
+        15. All Key Presses shall be made in clear and unhindered view of the ECI Counter Staff and the recording Cameras and made with a Specially Designed Presser, so as to avoid any confusion or ambiguity in the key presses made by the Challenger using his fingers.
+
+
+        16. EVMs can be opened and only visually inspected during Challenge-II as this is allowed during First Level Check (FLC). However, EVMs cannot be opened during Challenge- I as EVMs are always kept sealed after the Poll till counting in actual poll scenario.
+
+
+        17. During the Challenge period, with regard to any written representation or any dispute or interpretation issues, the decision of the ECI Officer In-charge shall be final.
+
+
+        18. The EVM challenge shall be organised from 03.06.2017 onwards at Nirvachan Sadan, Ashoka Road, New Delhi.
+
+
+        Challenge Conclusion:
+
+
+        1. The Challenger under Challenge I shall be deemed to have ''FAILED'' if:
+
+
+        a. The EVM becomes non-functional after the tamper attempt made by the Challenger. (Reason: ECI EVMs are designed to go into error mode if any unwarranted technical operations are conducted rather than recording any wrong results).
+
+
+        b. The EVM is functional and results displayed on the CU after conduct of challenge attempt are the same as ECI declared results stored on the chosen CU (prior to the pressing of CLEAR Button).
+
+
+        c. If the Challenger violates any of the guidelines prescribed for the EVM Challenge.
+
+
+        d. The challenger withdraws from current challenge.
+
+
+        2. The Challenger under Challenge II shall be deemed to have ''FAILED'' if:
+
+
+        a. The EVM becomes non-functional after the tamper attempt made by the Challenger. (Reason: ECI EVMs are designed to go into error mode if any unwarranted technical operations are conducted rather than recording any wrong results).
+
+
+        b. The EVM remains functional and after erasing the earlier stored result, a mock poll or full poll is conducted by the Challenger along with his challenge attempt and manually recorded votes(by ECI staff) are the same as that stored on the chosen CU after the said mock/full poll.
+
+
+        c. If the Challenger violates any of the guidelines prescribed for the EVM Challenge.
+
+
+        d. The challenger withdraws from current challenge.
+
+
+        10. Certain naysayers have demanded that ECI should either permit them to take the EVMs with them for tampering or allow changing of internal circuit etc. of the EVM. This is like saying that they should be permitted to manufacture a new machine and introduce their new EVMs in our system. Further, it is common knowledge that changing the ‘ internal circuit ’ of any electronic device is like changing the whole device itself, after which it is no longer the same device . As any person with common sense will be able to appreciate, a non-ECI EVM or an EVM with a different ‘ internal circuit ’ is simply a different machine or look alike of ECI EVM hence can never be guaranteed by ECI to give correct results. Such a scenario is completely ruled out within our administrative safeguards and that ’ s why it is not proposed in the Challenge.
+
+
+        11. The Commission is thankful to all the citizens, voters, political parties and all stakeholders for their unwavering faith in the Commission for more than 67 years. The Commission would further like to thank all political parties for showing their continuous trust and confidence in the Election Commission of India as expressed during interventions of political parties on 12 th May in the All Party Meeting. The Commission would like to reassure the people of the country that the Commission would leave no stone unturned in preserving the purity, integrity and credibility of the Elections and reinforcing the faith and trust of the people in the electoral democracy of our country. I wish to reassure that citizens of the country that the Commission will never ever allow the faith of the people in the integrity of the election process to be shaken. The Commission desire all citizens and stakeholders to remain aware ,vigilant and alert about our electoral processes so that conduct of free and fair election by Commission is further strengthened.
+
+
+        RM/VM
+
+    
+    
+    (Release ID: 1490341) Visitor Counter : 205

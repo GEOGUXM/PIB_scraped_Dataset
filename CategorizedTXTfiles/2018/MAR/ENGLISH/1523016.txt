@@ -1,0 +1,68 @@
+      Ministry of Railways
+
+      Technological Advancements For Railway Signalling
+      Posted On: 07 MAR 2018 5:44PM by PIB Delhi
+
+
+    The following technological advancements with respect to signaling are being undertaken by Ministry of Railways : -
+
+
+    (i) Indian Railways have implemented Automatic Train Protection (ATP) system conforming to European Train Controlling System (ETCS) Level-I on 342 Route kilometers in which Movement Authority (Distance to travel) displayed in the Loco Cab is updated, whenever Loco passes over a balise fitted on track. This enables loco pilot to know the condition of signals ahead even when the visibility of signals is poor due to fog or any other reasons.
+
+
+    (ii) Indian Railways is now planning to implement an advanced version of Automatic Train Protection (ATP) system namely European Train Controlling System (ETCS) Level-II on its entire BG network of 60,000 Route Kilometers which will enable continuous updating of Movement Authority in Loco Cab through wireless network. The continuous updating of Movement Authority will ensure improved speed and line capacity as compared to ETCS Level-I.
+
+
+    (iii) A Global Positioning System (GPS) based ‘Fog PASS device’ has been developed which displays the name and distance of approaching signals and other critical landmarks like Un-manned level crossings etc. in advance during poor visibility conditions. It is expected to help reduce stress on Loco Pilots while running in foggy weather. About 6940 fog safe devices have been commissioned in 6 (Six) Zonal Railways (East Central, Northern, North Central, North Eastern, Northeast Frontier and North Western Railways) where the trains pass through fog affected region.
+
+
+    For smooth and safe movement of trains in fog, the following actions have also been taken:
+
+
+    Railways ensure the following during winter:
+
+
+    (i) Adequate availability of detonators at stations.
+
+
+    (ii) Lime marking across the track at the Signal Warning/Sighting Board.
+
+
+    (iii) Fresh painting of the Signal Warning (Sighting Board).
+
+
+    (iv) Fresh painting of Whistle Board, Fog Signal Posts, Road Signs, Lifting barriers of busy level crossings with Yellow/Black luminous indication strips.
+
+
+    (v) Adequate availability of additional staff for placement of detonators either from the Engineering Department or from the Operating Department.
+
+
+    (vi) Display of flashing red light tail lamp at the last vehicle of trains even during day time if the dense fog persists in lieu of tail boards in normal working.
+
+
+    (vii) Counseling of staff involved in train operation.
+
+
+    (viii) Intensive, round the clock monitoring of trains is done during fog at all three levels viz., Divisional, Zonal Head Quarter and Railway Board to ensure their punctuality.
+
+
+    (ix) To ensure running of trains right time when pairing trains are running late, scratch rakes are inducted to the extent operationally feasible.
+
+
+    (x) To avoid delay of trains due to foggy weather and to enhance level of safety in automatic block signaling sections affected by fog, the modified automatic signaling has been introduced which allows only two trains between stations.
+
+
+    This information was made available in reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    SBS/DK
+
+    
+    
+    (Release ID: 1523016) Visitor Counter : 267
+    
+    
+      Read this release in: Tamil

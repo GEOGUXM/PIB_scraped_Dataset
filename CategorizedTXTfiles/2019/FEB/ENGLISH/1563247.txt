@@ -1,0 +1,147 @@
+      Ministry of Water Resources, River Development and Ganga Rejuvenation
+
+      Flood Management
+      Posted On: 07 FEB 2019 4:18PM by PIB Delhi
+
+
+    Central Water Commission (CWC) has signed a collaboration agreement with Google for improving flood prediction system. As per the agreement, CWC and Google will share technical expertise in the field of artificial intelligence, machine learning, geo-spatial mapping and analysis of hydrological observation data to collaborate on (i) improving flood prediction systems, which will help provide location-targeted, actionable flood warnings, (ii) high priority research project utilizing Google Earth Engine to help visualize and improve flood management and (iii) a cultural project to build online exhibitions on the Rivers of India. The term of agreement is for three years. The l ist of flood forecasting stations maintained by Central Water Commission in the country is given in Annexure-I .
+
+
+    The water level data of flood monitoring stations maintained by CWC in the State of Kerala were uploaded in the Flood Forecasting Website of CWC. Further, Daily Flood Situation Report-cum-Advisories (DFSRCA), based on the Indian Meteorological Department (IMD) rainfall predictions and the rainfall-runoff models were being issued in the year 2018. These advisories were disseminated to all stakeholders including Kerala State Disaster Management Authority through Facebook, Twitter, Disaster Management Group of Ministry of Home Affairs. DFSRCA of 12 th August 2018 conveyed that
+
+
+    “ Heavy to very heavy rainfall has been forecast for 13 th and 14 th August in above areas, this rain may lead to rise in water levels again in river Periyar, Bharathapuzha, Kabini, Cauvery and its tributaries. Since most of the dams are near Full Reservoir Level, maximum caution may be exercised while releasing excess water to downstream areas especially near sea mouth where there is chance of swell waves as warned by the Indian National Centre for Ocean Information System (INCOIS).”
+
+
+    This was issued 3 days in advance of the actual event of flood experienced in Kerala which started from 15 th August 2018. These advisories were continued till the end of the flood spell indicating the districts affected as well as districts alerted in Kerala.
+
+
+    Annexure-I
+
+                                                                 
+Table-1: State-wise Flood Forecasting Stations                   
+                                                                 
+                                                                 
+                                              
+                                                                                                               
+Sl. No.                                         Name of State/UT   Number of flood forecasting Stations        
+                                                                                                               
+                                                                                                               
+                                                                                                               
+                                                                                                               
+                                                                                                                        
+                                                                   Level                                 Inflow  Total  
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+1                                               Andhra Pradesh     8                                     9       17     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+2                                               Arunachal Pradesh  2                                     0       2      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+3                                               Assam              29                                    0       29     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+4                                               Bihar              34                                    0       34     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+5                                               Chattisgarh        1                                     0       1      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+6                                               Diu & Daman        1                                     0       1      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+7                                               Gujarat            6                                     6       12     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+8                                               Haryana            1                                     1       2      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+9                                               Himachal Pradesh   1                                     0       1      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+10                                              Jammu & Kashmir    3                                     0       3      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+11                                              Jharkhand          2                                     8       10     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+12                                              Karnataka          1                                     9       10     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+13                                              Madhya Pradesh     2                                     2       4      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+14                                              Maharashtra        7                                     3       10     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+15                                              NCT, DELHI         2                                     0       2      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+16                                              Odisha             11                                    2       13     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+17                                              Rajasthan          0                                     10      10     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+18                                              Sikkim             0                                     1       1      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+19                                              Tamil Nadu         3                                     10      13     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+20                                              Telangana          5                                     6       11     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+21                                              Tripura            2                                     0       2      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+22                                              Uttar Pradesh      38                                    3       41     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+23                                              Uttarakhand        4                                     2       6      
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+24                                              West Bengal        11                                    3       14     
+                                                                                                                        
+                                                                                                                        
+                                                                                                                        
+                                                Total              174                                   75      249    
+                                                                                                                        
+                                                                                                                        
+
+    This information was given by Union Minister of State for Water Resources, River Development and Ganga Rejuvenation Shri Arjun Ram Meghwal in a written reply in Lok Sabha today.
+
+
+    *****
+
+
+    NP/SKP/IA
+
+    
+    
+    (Release ID: 1563247) Visitor Counter : 823

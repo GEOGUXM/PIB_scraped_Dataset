@@ -1,0 +1,113 @@
+      Ministry of Science & Technology
+
+      SERB approves funding for study of mathematical & simulation aspects of COVID 19
+      Posted On: 30 APR 2020 6:08PM by PIB Delhi
+
+
+    Science and Engineering Research Board (SERB), a statutory body under the Department of Science and Technology (DST), Government of India, has approved funding for 11 projects under MATRICS scheme for studying Mathematical modelling and computational aspects to tackle the COVID 19 pandemic.
+
+
+    Most of these studies attempt to propose mathematical/ simulation models to account for various factors relevant to COVID 19 by modifying the basic SIR (Susceptible-Infected-Recovered) models. Some of such factors are heterogeneity of population, the role of asymptomatic population, migration and quarantine, effect of social distancing and lockdown, socioeconomic factors and so on. These studies will be primarily aimed to study Indian conditions and will provide an estimate of Basic Reproduction Number-- the qualitative indicator of the degree of contagiousness of the disease. - These will be helpful to forecast future pandemic by using the data available and provide fundamental insights into kinetics and management of infectious diseases.
+
+
+    The proposed studies also aim to identify the maximum likelihood infection tree when infection reports and contact network structure are known to substantially reduce the efforts of the administration by targeting a subset of manageable size. They will address the spread of pandemic and the impact of preventive issues through a parametric prediction process with an outcome consisting of a packaged solution in the form of usable software which may be made available for ready use by the Government of India and identify possible cure of COVID 19 through the study of DNA structures by creating patterns of DNA of different viruses.
+
+
+    These studies of disease transmission dynamic models supported under the MATRICS Special call on Covid 19 will help to estimate parameter sets and provide control mechanisms of the spread of COVID-19 and also help the frontline health professionals and policymakers to define effective measures.
+
+
+    A good number of proposals had been received from across the country in the first phase under the SERB’s special call for proposal under the MATRICS Scheme.
+
+
+    The allotted projects are the following:
+
+                                                                                                                                                                                                                                               
+S.No  Project name                                                                                                                  PI Name                              Institution                                                           
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Modelling and Forecasting of COVID-19 pandemic                                                                                Prof. Mahendra Kumar Verma           Indian Institute of Technology Kanpur                                 
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Mathematical Modelling of Transmission Dynamics of COVID-19 and its Control                                                   Prof. Mini Ghosh                     VIT University Chennai                                                
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Mathematical and Statistical Modeling of COVID-19 Outbreak in India                                                           Prof. Siddhartha Pratim Chakrabarty  Indian Institute of Technology Guwahati                               
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Modelling, Analysis and Prediction for SARS-CoV-2 Infections                                                                  Prof. Utpal Manna                    Indian Institute of Science Education and Research, Thiruvananthapuram
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Bayesian Individual-level modeling of the spread of COVID-19 Pandemic.                                                        Prof. Sharvari Rahul Shukla          SYMBIOSIS International University                                    
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Anatomy of COVID-19 transmission dynamics: A modelling and computational approach from Indian perspective                     Prof. Nandadulal Bairagi             Jadavpur University                                                   
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Effects of Nonpharmaceutical Measures on COVID-19 Pandemic in India and Network-based Forecast Beyond Relaxation of Lockdown  Dr. Surajit Panja                    Indian Institute of Information Technology, Guwahati                  
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      A network optimization-based prediction model for COVID 19 outbreak tree                                                      Dr. Goutam Sen                       Indian Institute of Technology Kharagpur                              
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Optimization of lockdown, testing and isolating strategies to contain Covid-19 in India                                       Dr. Harshwardhan H. Katkar           Indian Institute of Technology Kanpur                                 
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Identification of possible cure of COVID-19 through study of DNA structures through Iterated Function Systems                 Dr. Pratibha                         Indian Institute of Technology Roorkee                                
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+1.                                                                                                                                                                                                                                             
+      Multi-cluster models for epidemic spread and evaluation based on data driven parameterization                                 Dr. Arzad Alam kherani               Indian Institute of Technology, Bhilai                                
+                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                               
+
+    (For more details, please contact Dr. Premila Mohan, Scientist 'G', SERB, premilamohan@serb.gov.in , Tel: 011-40000390)
+
+
+    ****
+
+
+    KGS/( DST)
+
+    
+    
+    (Release ID: 1619623) Visitor Counter : 772
+    
+    
+      Read this release in: Gujarati , Urdu , Assamese , Punjabi , Tamil , Telugu
+    
+    
+    
+
+         
+         
+1.       
+         
+1.       
+         
+1.       
+         
+1.       
+         
+1.       
+         
+1.       
+         
+1.       
+         
+1.       
+         
+1.       
+         
+1.       
+         
+1.

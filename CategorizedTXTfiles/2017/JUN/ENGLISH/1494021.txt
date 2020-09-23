@@ -1,0 +1,27 @@
+      Department of Space
+
+      India's GSAT-17 Communication Satellite Launched Successfully
+      Posted On: 29 JUN 2017 10:04AM by PIB Delhi
+
+
+    Today, GSAT-17 became India’s third communication satellite to successfully reach orbit in the past two months. GSAT-17 was launched in the early morning hours using the European Ariane 5 Launch Vehicle from Kourou, French Guiana. The 3477 kg GSAT-17 carries communication payloads in C-band, Extended C-band and S-band for providing various services to the country. The satellite also carries equipment for meteorological data relay and satellite based search and rescue services.
+    
+    After its lift-off at 0245 hrs (2:45 am) IST and a flight lasting about 39 minutes, GSAT-17 separated from the Ariane 5 upper stage in an elliptical Geosynchronous Transfer Orbit (GTO) with a perigee (nearest point to Earth) of 249 km and an apogee (farthest point to Earth) of 35,920 km, inclined at an angle of 3 degrees to the equator.
+    
+    ISRO's Master Control Facility (MCF) at Hassan in Karnataka took over the command and control of GSAT-17 immediately after its separation from the launch vehicle. Preliminary health checks of the satellite revealed its normal functioning.
+    
+    In the coming days, orbit raising manoeuvres will be performed to place GSAT-17 satellite in the Geostationary Orbit (36,000 km above the equator) by using the satellite’s propulsion system in steps.
+    
+    During the final stages of its orbit raising operations, the two solar arrays and both the antenna reflectors of GSAT-17 will be deployed. Following this, the satellite will be put in its final orbital configuration. GSAT-17 will be positioned at its designated orbital slot in the geostationary orbit and will be co-located with some of the Indian operational geostationary satellites. Later, it is planned to turn on the communication payloads of the satellite. After the successful completion of all the in-orbit tests, GSAT-17 will be ready for operational use.
+
+    *****
+
+
+    KSD/PK/KM
+
+    
+    
+    (Release ID: 1494021) Visitor Counter : 413
+    
+    
+      Read this release in: Tamil

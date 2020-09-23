@@ -1,0 +1,44 @@
+      Ministry of Statistics & Programme Implementation
+
+      Smart India Hackathon-2018
+      Posted On: 29 MAR 2018 10:56AM by PIB Delhi
+
+
+    Ministry of Statistics and Program Implementation (MoSPI) is participating in the Smart India Hackathon (SIH) – 2018 organized byAll India Council for Technical Education (AICTE) under the aegis of Ministry of Human Resource Development (MHRD). The Software edition Grand Finale of the Hackathon for MoSPIwill be held on Mar 30 & 31, 2018 at G V Bhoomaraddi College of Engineering & Technology, Hubli in Karnataka. Senior officials from the Ministry will be present during the two days of SIH-2018 to motivate the young students.
+
+
+    MoSPI has identified the following 10 problems on different areas of Official Statistics, on which the 38 teams comprising 304 students and mentors would build innovative digital solutions:
+
+     1. Consumer Price (CPI) data collection for Rural & Urban Sectors through mobile based application software [CPIAPP(R) & CPIAPP (U)].
+     2. International Comparison Program (ICP) data collection through mobile based application software [(CPAPP)].
+     3. Sub-national PPP data collection through mobile based application software [(SNPPPAPP)]
+     4. Online data dissemination and dynamic costing though web portal
+     5. Engagement Management System (EMS) through an Application for Desktop as well as Mobile-phones.
+     6. Estimation of trade Margins
+     7. Automated Compilation of ASI Schedules (AUDYOGIC)
+     8. Rural Price Collection through APP (RUPICOM)
+     9. Digitization of Aerial frame using mobile application (DIGIFRAME)
+    10. GPS based technique for improving Land Use Survey in ICS Scheme (LAKSHYA)
+
+    SIH- 2018 harnesses creativity and expertise of students, builds funnel for ‘Startup India, Standup India’ campaign, crowdsources solutions for improving governance and quality of life, and provides opportunity to Students to provide innovative solutions to India’s daunting problems.
+
+
+    
+    SIH- 2018 would be the second massive scale hackathon initiative in India following Smart India Hackathon 2017. With 27 Union Ministries and Departments and 17 State Governments having joined in this grand initiative, SIH-2018 is much bigger than its previous edition. It includes 2 sub-editions – Software edition, which is a nonstop 36-hr software product development competition and scheduled to be held on Mar 30 & 31, 2018. The Hardware edition, involving building of hardware solutions will be held later this year. During the software edition grand finale, teams of thousands of technology students will build innovative digital solutions for problems posed by different central govt. ministries/ departments. A total of 340 software problem statements are proposed for SIH-2018. Winners stand to get cash prizes and a chance to be part of the NASSCOM’s 10,000 Startups program.
+
+
+    *****
+
+
+    AKT/KP/SBP
+
+    
+    
+    (Release ID: 1526997) Visitor Counter : 957
+    
+    
+    
+    
+    
+
+10.

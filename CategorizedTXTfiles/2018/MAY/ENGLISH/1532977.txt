@@ -1,0 +1,53 @@
+      Ministry of Defence
+
+      Raksha Mantri Inaugurates Workshop on AI in National Security and Defence
+      Posted On: 21 MAY 2018 7:03PM by PIB Delhi
+
+
+    The Raksha Mantri Smt Nirmala Sitharaman inaugurated the ‘Stakeholders’ Workshop on Artificial Intelligence in National Security and Defence, Listing of Use Cases’, here today. It was attended by Chairman DRDO & Secretary Department of Defence R&D Dr S Christopher, Secretary (Defence Production) Dr Ajay Kumar and other senior officials of the Ministry of Defence and Services.
+
+
+    Artificial Intelligence (AI), a branch of computer science dealing with the simulation of intelligent behaviour in computers, has shown significant technical advancement in some of the developed countries.
+
+      * Most of this progress is due to advances in the AI sub-field of Machine Learning (ML).
+      * Most experts believe this rapid progress will continue and even accelerate.
+      * Most AI research advances are occurring in the private sector and academia.
+
+    AI has a potential to have transformative impact on national security. It is also seen that AI is essentially a dual use technology. While it can fuel technology driven economic growth, it also has potential to provide military superiority. India has strong IT industry and huge talent pool of engineers which are advantages which need to be leveraged. To study the whole gamut of issues surrounding strategic implications of AI in national security perspective, in global context, a multi-stakeholder Task Force represented by members from the Government, Services, Academia, Industry Professionals and Start-ups has been constituted with the approval of the Raksha Mantri for developing future roadmap on AI with following goals -
+
+      * To establish tactical deterrent in the region.
+      * To support its peaceful and commercial use.
+      * To mitigate catastrophic risk.
+      * To visualize potential transformative weaponry of future.
+      * To facilitate in keeping a check on non-state actors.
+      * To develop intelligent, autonomous robotic systems.
+      * To enhance capabilities for collection and analysis of data and also creation of data.
+      * To bolster cyber defence.
+
+    The Terms of Reference for the AI Task Force, of Ministry of Defence are as under-
+
+      * Study use of AI by other leading countries including US, China, Japan, Germany, Russia etc.
+      * Study of level of AI/ML development in India in general and specific in the context of defence needs.
+      * Make recommendations of making India a significant power of AI in defence specifically in the area of aviation, naval, land systems, cyber, nuclear, and biological warfare; Recommendations to include both defensive and offensive needs including counter AI needs. Make specific recommendations with respect to arrangements for AI safety required within defence ecosystem.
+      * Make recommendations for policy and institutional interventions that are required to regulate and encourage a robust AI based technologies for defence sector in the country. Specific suggestions for increased focus on AI within DRDO, BEL, service units, selected academic institutions of the country.
+      * Considering that most AI work is happening in private sector, make recommendations to work with start-ups/commercial industry in the field of use of AI for defence purposes.
+      * Recommendations for RFIs that need to be floated in next 2 years on dual use AI capabilities.
+      * Make recommendations regarding appropriate strategies of working with startups in US working in this area.
+      * Recommendations for funding required to achieve aforementioned goals.
+
+    The AI Task Force of Ministry of Defence under the Chairmanship Shri C Chandrasekharan, Chairman of Tata Sons, has met twice on 10 February and 28 April 2018. In the last meeting it was discussed that one of the key approach for the use of AI is to work on building profile that mimics normal behaviour by learning from the data generated from a given use case. Then using machine learning/ deep learning techniques, one can draw correlations among various parameters in an automated way (from the huge data set) and can flag pattern and anomalous behaviour for further analysis and insights. This essentially forms the basis for AI based applications. Thus, it was decided that a Stakeholders’ Workshop on AI in National Security and Defence shall be organized for ‘Listing of Use Cases.
+
+
+    SRR/NAo/Nampi/Rajib
+
+    
+    
+    (Release ID: 1532977) Visitor Counter : 283
+    
+    
+      Read this release in: Bengali
+    
+    
+    
+
+*

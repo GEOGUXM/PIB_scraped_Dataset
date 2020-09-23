@@ -1,0 +1,19 @@
+      Ministry of Finance
+
+      Use of USSD for Cashless Payments
+      Posted On: 03 FEB 2017 6:50PM by PIB Delhi
+
+      
+
+    National Payments Corporation of India (NPCI) has introduced USSD for mobile banking. It is an interoperable payment platform, comprising of customers 51 banks & 11 telecom operators in India, which provide basic banking services in 9 different languages, including Hindi & English, to under-banked / un-banked customers across India. USSD works both on smart phones and feature phones.
+    
+    *99# service of NPCI uses the USSD technology to make banking services accessible wherever voice grade mobile signals are available. USSD works on feature phone and without internet. It will help rural accountholders to carry out fund transfer through mobile banking.
+    
+    This was stated by Shri Santosh Kumar Gangwar, Minister of State in the Ministry of Finance in written reply to a question in Lok Sabha today.
+
+    ***
+    DSM/KA
+
+    
+    
+    (Release ID: 1481767) Visitor Counter : 24

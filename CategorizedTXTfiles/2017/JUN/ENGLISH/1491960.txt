@@ -1,0 +1,111 @@
+      Ministry of Earth Science
+
+      Long Range Forecast Update for the Southwest Monsoon Seasonal Rainfall 2017
+      Monsoon Seasonal Rainfall likely to be 98% of the Long Period Average
+      Posted On: 06 JUN 2017 4:16PM by PIB Delhi
+
+
+    The second stage forecast of Southwest monsoon seasonal rainfall was issued by Indian Meteorological Department(IMD) in New Delhi today. IMD has forecast that quantitatively, the monsoon seasonal rainfall for the country as a whole is likely to be 98% of the Long Period Average (LPA) with an error of ± 4%.
+
+
+    HIGHLIGHTS
+
+
+    Ø Rainfall over the country as a whole for the 2017 southwest monsoon season (June to September) is most likely to be NORMAL (96% to 104% of long period average (LPA)).
+
+
+    Ø Quantitatively, monsoon season rainfall for the country as a whole is likely to be 98% of the LPA with a model error of ±4%.
+
+
+    Ø Region wise, the season rainfall is likely to be 96% of LPA over North-West India , 100% of LPA over Central India , 99% of LPA over South Peninsula and 96% of LPA over North-East India all with a model error of ± 8 %.
+
+
+    Ø The monthly rainfall over the country as whole is likely to be 96% of its LPA during July and 99% of LPA during August both with a model error of ± 9 %.
+
+
+    India Meteorological Department (IMD) had issued the first stage operational long range forecasts for the southwest monsoon season (June-September) 2017 rainfall over the country as a whole on 18 th April. In addition to the update of its April assessment, forecasts for the monthly rainfall for July and August 2017 over the country as a whole, and seasonal rainfall forecast for the 4 broad geographical regions of India (NW India, NE India, Central India and South Peninsula) are also presented.
+
+
+    The forecast update for the southwest monsoon season (June-September) rainfall over the country as a whole was prepared using a 6-parameter Statistical Ensemble Forecasting System (SEFS). The 6 predictors used are: NE Pacific to NW Atlantic Sea Surface Temperature (SST) Anomaly Gradient (December + January), Southeast equatorial Indian Ocean SST (February), East Asia Mean Sea Level Pressure (February + March), Central Pacific (Nino 3.4) SST tendency (December to February to March to May), North Atlantic Mean Sea Level Pressure (May) and Northcentral Pacific 850 zonal wind gradient (May).
+
+
+    Dynamical forecast update generated in real time based on the Monsoon Mission Coupled Forecasting System (MMCFS) is also presented. The latest version of the MMCFS (currently operated horizontal resolution of 38km (T382)) is now implemented for operational use for rigorous performance evaluation on an experimental model in parallel with the SEFS at the Office of Climate Research and Services, IMD, Pune upon its transfer from Indian Institute of Tropical Meteorology, Pune.
+
+
+    Sea Surface Temperature Conditions in the Pacific & Indian Oceans
+
+
+    Since mid-March 2017, warm ENSO neutral conditions are prevailing over the tropical Pacific. The atmospheric conditions over the Pacific also reflect neutral ENSO conditions. The latest forecast from MMCFS indicates neutral ENSO conditions are likely till end of this year. This is in line with the forecasts from some of the global climate centers. However, outlook from other global climate centers also indicates about 60% probability of development of weak El Niño conditions during the second half of this year (2017).
+
+
+    In addition to the ENSO conditions over Pacific, other factors such as the Indian Ocean SSTs have also influence on monsoon rainfall. At present, neutral Indian Ocean Dipole (IOD) conditions are prevailing over Indian Ocean. The latest forecast from the MM CFS indicates weak positive IOD conditions are likely to develop during the monsoon season.
+
+
+    The second Stage Forecasts of Southwest Monsoon Seasonal Rainfall for 2017
+
+
+    i) Monsoon Mission Coupled Forecasting System (MMCFS)
+
+
+    T he latest experimental forecast based on the MMCFS suggest that the monsoon rainfall during the 2017 monsoon season (June to September) averaged over the country as a whole is likely to be 100% ± 5% of LPA.
+
+
+    ii) Seasonal (June-September) Rainfall over the country as a whole
+
+
+    Quantitatively, the season rainfall for the country as a whole is likely to be 98% of the long period average (LPA) with a model error of ±4%. The LPA rainfall over the country as a whole for the period 1951-2000 is 89 cm.
+
+
+    The 5 category probability forecasts for the Season (June to September) rainfall over the country as a whole is given below.
+
+                                                                       
+Category      Rainfall Range  Forecast Probability (%)  Climatological 
+                                                                       
+                                                                       
+              (% of LPA)                                Probability (%)
+                                                                       
+                                                                       
+                                                                       
+Deficient     < 90            7                         16             
+                                                                       
+                                                                       
+                                                                       
+Below Normal  90 - 96         28                        17             
+                                                                       
+                                                                       
+                                                                       
+Normal        96 -104         50                        33             
+                                                                       
+                                                                       
+                                                                       
+Above Normal  104 -110        13                        16             
+                                                                       
+                                                                       
+                                                                       
+Excess        > 110           2                         17             
+                                                                       
+                                                                       
+
+    It is to mention that region wise forecast assessment based on MMCFS was nearly in line with the forecast from the statistical models.
+
+
+    iii) Season (June-September) Rainfall over Broad Geographical Regions
+
+
+    The season rainfall is likely to be 96% of LPA over North-West India, 100% of LPA over Central India, 99% of LPA over South Peninsula, and 96% of LPA over North-East India all with a model error of ± 8 %.
+
+
+    iv) Monthly (July & August) Rainfall over the country as a whole
+
+
+    The rainfall over the country as a whole is likely to be 96% of its LPA during July and 99% of LPA during August both with a model error of ± 9 %.
+
+
+    --------
+
+
+    RDS/nb
+
+    
+    
+    (Release ID: 1491960) Visitor Counter : 173

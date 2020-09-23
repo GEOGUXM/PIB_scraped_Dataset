@@ -1,0 +1,27 @@
+      Ministry of Finance
+
+      GSTN unveils excel template for to help taxpayers perform easy data entry offline before uploading on the GST portal; Excel template together with an offline tool will make uploading large numbers of invoices much easier and quick; Offline Tool to be unveiled on July 17, 2017.
+      Posted On: 02 JUL 2017 6:47PM by PIB Delhi
+
+
+    Goods and Services Network (GSTN) has unveiled a simple excel based template that will facilitate the taxpayers in preparing and filing their monthly returns with maximum ease and minimal cost.
+    
+    The excel template is a part of GST Council’s approach to make tax compliance highly easy and convenient for taxpayers and also reduce the time of compliance to improve ease of doing business. This excel workbook template can be freely downloaded from the GST Common portal (www.gst.gov.in), and can be used by taxpayers to collate all invoice related data on a regular basis.
+    
+    The Excel format can be used by businesses to start maintaining their data. The taxpayer can prepare the details of his outward supply on weekly or any other suitable regular interval which can then be uploaded on GST portal on or before the 10th of subsequent month. The GSTR1 excel template workbook can be used to prepare the data for GSTR 1 return without connecting to internet in offline mode. This also benefits taxpayers in remote areas where Internet connectivity might not be good.
+    
+    The template comprises of eight worksheets. Summary of key values in each worksheet has been provided at the top to help taxpayers easily reconcile the data entered in the worksheets with that recorded in his accounting system/books to accurately prepare the return. Based on data entered in the Excel sheet, offline tool will prepare a file which will have to be uploaded by the taxpayer on GST Portal to create GSTR-1. Only while uploading the file on the GST portal, Internet connectivity will be required.
+
+    *********************
+
+
+    
+    
+    DSM
+
+    
+    
+    (Release ID: 1494346) Visitor Counter : 140
+    
+    
+      Read this release in: Tamil

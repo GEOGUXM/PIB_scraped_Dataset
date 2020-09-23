@@ -1,0 +1,41 @@
+      Ministry of Railways
+
+      New ticket confirmation process in Railways
+      Posted On: 20 JUL 2018 4:46PM by PIB Delhi
+
+
+    A tool has been developed to predict the probability of waitlisted ticket getting confirmed at the time of booking as well as during Passenger Name Record (PNR) enquiry of waitlisted ticket. The tool has been developed using the algorithm of Machine learning. The machine learning model has been developed using the waitlisted PNR data of past 2 years. This model creates the pattern for the various waitlist scenarios and predicts the probability for the future date journey. Currently this feature is integrated with Indian Railway Catering & Tourism Corporation (IRCTC) website only. In IRCTC website this feature is operational w.e.f. 13 June, 2018 as under:-
+
+     1. When the user is doing the booking transaction, and if the status of accommodation availability of the inputted journey is waitlisted, then the user can check the probability of confirmation.
+     2. At the time of PNR enquiry of waitlisted ticket, the user can check the probability of confirmation.
+
+    As far as trends of confirmation chances and cancellation chances probability is concerned, it is informed that it varies depending upon peak and lean periods, type of trains like short distance trains, long journey trains, trains with limited stoppage, etc.
+
+
+    In the computerised Passenger Reservation System (PRS), confirmed berths/seats are allotted on first come first served basis till the availability and thereafter Reservation Against Cancellation (RAC)/Waiting List tickets are issued. The status of RAC/Waiting List tickets get automatically updated against the cancellation of confirmed berths/seats and also against release of unutilised reservation quotas.
+
+
+    To facilitate those passengers who have to undertake journey at short notice and to save such passengers from the clutches of unscrupulous elements/touts, Tatkal scheme of reservation is available where the accommodation becomes available for booking on the previous day of journey from train originating station. Further, with a view to providing confirmed accommodation to waiting list passengers and to ensure optimal utilisation of available accommodation, a scheme known as Alternate Train Accommodation (ATAS) known as “VIKALP” was introduced as a pilot project in November, 2015. This scheme has been expanded to cover all type of train on all sectors from 01.04.2017. For this facility, waiting list passenger has to give an option at the time of booking of ticket & passengers with waiting list status at the time of preparation of first reservation charts are shifted to other trains, subject to availability of vacant accommodation.
+
+
+    In the computerized PRS there is already a provision to permit cancer patients and their attendants travelling on concessional tickets issued in exchange of concession certificate, to directly access Emergency Quota at the time of booking itself. Maximum number of berths/seats out of the Emergency Quota in a train, which can be accessed by Cancer patients and their attendants in Sleeper, is 4 and 2 each in AC Chair Car, AC 3 tier, AC 2 tier and First Classes. In addition, separate Cancer Patient Quota has also been defined in some identified trains. Moreover, instructions are also there that in case requests are received for confirmation of berths out of emergency quota from patients who have to undertake journey for checkup like cancer treatment and dangerous ailments which cannot be postponed due to compelling circumstances, the same should be considered by quota controlling authority as per extant norms so as to accommodate to the extent feasible after satisfying themselves of the genuineness of travel.
+
+
+    This information was given by the Minister of State of Railways Shri Rajen Gohain in a written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    APS/MKV/ENS
+
+    
+    
+    (Release ID: 1539463) Visitor Counter : 3023
+    
+    
+    
+    
+    
+
+2.

@@ -1,0 +1,32 @@
+      Ministry of Finance
+
+      Advisory to UIN Entities claiming GST Refunds
+      Posted On: 09 NOV 2018 4:17PM by PIB Delhi
+
+
+    The GST Act provides for allotting a Unique Identification Number (UIN) to Consulates, Embassies and other UN Organizations to enable such entities to claim refund of GST paid. One of the conditions for claiming this refund is to file Invoice Level Data in their FORM GSTR-11 on the common portal. There are common discrepancies which have been noticed by GST Authorities while processing refund applications.
+
+
+    FORM GSTR-11 under Rule 82 of the CGST Rules, 2017 mandates reporting “Place of Supply” for every invoice on which refund is applied for. Many UIN entities while filling invoice data have been reporting their place of supply as the State where they are registered instead of the place of supply as reflected in the invoice.
+
+
+    For example, it was observed that Embassies registered in Delhi have been consistently declaring their place of supply as “New Delhi” even on hotel service consumed in the State of Maharashtra for which the place of supply is Maharashtra.
+
+
+    It may be noted that under the GST law, place of supply determines the chargeability of CGST / SGST or IGST tax on an invoice. Generally, except few exceptions, if the location of the supplier and the place of supply are in the same State then CGST + SGST is charged on an invoice and if the location of the supplier and the place of supply are in separate States then IGST is charged.
+
+
+    Therefore, it is advised that while reporting the “place of supply” and charging of CGST / SGST or IGST on an invoice, the details shall be exactly as per the details mentioned in the invoice issued by the supplier of goods or services. Wrong reporting of invoice level data in FORM GSTR-11 or in the statement of invoice submitted may lead to delay in processing / rejection of refund claims.
+
+
+    ********************
+
+
+    DSM/RM
+
+    
+    
+    (Release ID: 1552302) Visitor Counter : 2074
+    
+    
+      Read this release in: Tamil

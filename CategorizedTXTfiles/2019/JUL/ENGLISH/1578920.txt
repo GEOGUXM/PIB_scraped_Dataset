@@ -1,0 +1,102 @@
+      Ministry of Communications
+
+      Launching the Broadband Readiness Index for Indian States and Union Territories (2019-2022)
+      Posted On: 16 JUL 2019 4:31PM by PIB Delhi
+
+
+    The Department of Telecom (DoT) and the Indian Council for Research on International Economic Relations (ICRIER) signed a Memorandum of Understanding (MoU) to develop a Broadband Readiness Index (BRI) for Indian States and Union Territories (UT). The first estimate will be made in 2019 and subsequently every year until 2022.Shri. Sanjay Shamrao Dhotre, Union Minister of State for Human Resource Development, Communications and Electronics & Information Technology, Ms. Aruna Sundararajan, Chairman Digital Communications Commission& Secretary, DoT,Shri. Amit Yadav, Joint Secretary, DoT, Dr. Rajat Kathuria, Director and Chief Executive, ICRIER and Ms. Geetha Nair, Secretary, ICRIER were present at the signing ceremony.
+
+
+    The National Digital Communication Policy (NDCP) 2018 acknowledged the need for building a robust digital communications infrastructure leveraging existing assets of the broadcasting and power sectors including collaborative models involving state, local bodies and the private sector. Accordingly, the policy recommended that a BRI for States and UTs be developed to attract investments and address Right of Way(RoW) challenges across India.
+
+
+    This index will appraise the condition of the underlying digital infrastructure and related factors at the State/UT level. Such an exercise will provide useful insights into strategic choices made by States for investment allocations in ICT programmes. In the spirit of competitive federalism, the index will encourage states to cross learn and jointly participate in achieving the overall objective of digital inclusion and development in India. The framework will not only evaluate a state’s relative development but will also allow for better understanding of a state’s strengths and weaknesses that can feed into evidence-based policy making. The methodology developed as a part of this research will be adapted and used on an annual basis for systematic evaluation of state-performance on metrics set out as the goals for 2022 under the new policy. As a result, ranking and understanding State/UT performance over time will be an important part of the exercise.
+
+
+    The BRI consists of two parts. Part I will focus on infrastructure development based on the measurement of nine parameters. These are provided in the Table below. Part II consists of demand side parameters which will be captured through primary surveys. It will include indicators such as percentage of households using computers/ laptops with internet connection, percentage of households with fixed broadband connection, internet users as a percentage of the population, smart phones density, percentage of households with at least one digitally literate member, etc. Theprimary survey will be conducted annually until 2022.
+
+                                                                                                                                                                                                                      
+S.No                                                      Proposed BRI Indicators                                                                                                                                     
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+1                                                         Availability of State Policy on RoW and Towers (based on DoT RoW Rules 2016                                                                                 
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+2                                                         Percentage of ROW cases given permission within 60 days of the first application                                                                            
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+3                                                         Availability of a centralized IT Portal for ROW clearances across all Government land and building owning authorities.                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+4                                                         Adoption of the National Building Code 2016 by the State                                                                                                    
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+(i)                                                       State policy to have enabling provisions for access togovernment lands and buildings for installation of telecom towers                                     
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+(ii)                                                      State policy to have enabling provision for 24* 7 telecom operations                                                                                        
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+(iii)                                                     Standardized RFP template for smart city implementation – enabling rules promoting non exclusivity and infrastructure sharing in a non-discriminatory manner
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+(iv)                                                      Common duct policy based on the Central Government’s “Dig Once Policy”                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+5                                                         Percentage of mobile towers connected with fibre                                                                                                            
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+6                                                         Number. of fibre kms per sq. KM/ per capita/ per 100 households                                                                                             
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+7                                                         Percentage of public institutions / offices connected by FTTX (Hospitals including PHCs, Police stations, Schools and CSCs)                                 
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+8                                                         Percentage of towers receiving grid supply (Duration: Urban 20 hours; Rural 12 Hours)                                                                       
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+(i)                                                       Priority electricity connection available to telecom towers in the state                                                                                    
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+(ii)                                                      Supply of electricity at affordable/ industrial rates to telecom towers                                                                                     
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+9                                                         NagarNet –Number of Public Wi-Fi Hotspots in urban areas                                                                                                    
+                                                                                                                                                                                                                      
+                                                                                                                                                                                                                      
+                                                        
+JanWiFi – Number of Public Wi-Fi Hotspots in rural areas
+                                                        
+                                                        
+
+    The development of BRIwill be a collaborative exercise with stakeholders including State governments and industry associations like the Tower and Infrastructure Providers Association ( TAIPA), the Internet Service Providers Association of India (ISPAI) and the Cellular Operators Association of India (COAI). This will be a first of its kind exercise that will comprehensively measure the development of telecom infrastructure at the sub national level.
+
+
+    <><><><><>
+
+
+    SNC
+
+
+    
+
+    
+    (Release ID: 1578920) Visitor Counter : 1425
+    
+    
+      Read this release in: Hindi

@@ -1,0 +1,56 @@
+      Ministry of Science & Technology
+
+      Microreactor developed by ARI produces uniform size of nanoparticles -- a major requirement in biomedical technology
+      Posted On: 22 APR 2020 5:27PM by PIB Delhi
+
+
+    Scientists from Pune based Agharkar Research Institute (ARI), an autonomous institute under the Department of Science & Technology (DST), Govt. of India have developed a microreactor that that can produce large quantities of uniform size of nanoparticles, thus serving a major requirement in biomedical technology.
+
+
+    The device could synthesize metal, semiconductor, and polymer nanoparticles by continuous flow active microreactor. Dr Dhananjay Bodas and his team from ARI who put together this microreactor on the basis of their earlier studies published in the journals Materials Science and Engineering and ACS Applied Materials and Interface also discovered that the parameters such as concentration of reactants, flow rate, agitation, reaction temperature as well as time, determined the size of nanoparticles and their distribution.
+
+
+    They further derived a mathematical equation using dimensional analysis to predict process parameters accurately for achieving true monodispersity ( maintaining a uniform size of nanoparticles ), and succeeded in synthesizing uniform size of nanoparticles in continuous flow active microreactors ( a device in which chemical reactions take place in a confinement with dimensions below 1 mm) with support from SERB,DST.
+
+
+    Nanoparticles possess unique size-dependent properties, which make them useful in biomedical technology but difference in their sizes which arises due to conventional methods of synthesizing them, reduces their efficiency. Maintaining a uniform size of the nanoparticles is a challenge faced by the biomedical industry. Besides, these methods use multiple reagents, are time consuming and produce toxic by-products.
+
+
+    "Using this method, we have now been able to produce gold and silver, cadmium-telluride, chitosan, alginate and hyaluronic acid nanoparticles of any size with coefficient of variation below five percent," asserted Dr Bodas.
+
+
+    Figure a) Schematic of the microreactorFigure b) Optical image microreactor
+
+
+    "We have observed that monodispersed silver nanoparticles show significant improvement in effectivity as an antimicrobial agent. Monodispersed chitosan and alginate nanoparticles display very high drug entrapment, sustained-release rate, and are biocompatible. They could be passively internalized in the cells due to the uniform and small size. Polymer coated cadmium-telluride quantum dots possess size-tunable fluorescence, high quantum efficiency, and biocompatibility required for multiplexed bioimaging," said Dr Bodas.
+
+
+    The researchers said the new approach in resolving the monodispersity paradox could be of immense value to researchers working in the field of nanoscience and nanotechnology and the technique may be applied to other chemical reactions where stringent control on the reaction dynamics is vital.
+
+
+    [References
+
+
+    1. N Veldurthi, P Ghoderao, S Sahare, D Bodas, A Kulkarni and T Bhave, Magnetically active micromixer assisted synthesis of drug nanocomplexes exhibiting strong bactericidal potential, Materials Science and Engineering, C68, 2016, 455-464.
+
+
+    2. V Kamat, D Bodas, and K Paknikar, Chitosan nanoparticles synthesis caught in action using microdroplet reactions, Nature Scientific Reports, 6, 2016, 22260.
+
+
+    3. V Kamat, I Marathe, D Bodas, V Ghormade and K Paknikar, Synthesis of monodisperse chitosan nanoparticles and in-situ drug loading using active microreactor, ACS Applied Materials and Interface, 7, 2015, 22839-22847.
+
+
+    Dr Dhananjay Bodas ( dsbodas@aripune.org, 020-25325127 ), Scientist, Nanobioscience Group, and Dr PK Dhakephalkar, Director (Officiating), ARI, Pune, (director@aripune.org, pkdhakephalkar@aripune.org, 020-25325002) can be contacted for further details. ]
+
+
+    ****
+
+
+    KGS/( DST)
+
+    
+    
+    (Release ID: 1617164) Visitor Counter : 618
+    
+    
+      Read this release in: Urdu , Hindi

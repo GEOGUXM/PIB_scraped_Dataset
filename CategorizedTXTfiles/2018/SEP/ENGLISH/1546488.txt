@@ -1,0 +1,26 @@
+      Ministry of Electronics & IT
+
+      Mr Ahluwalia launches C-DAC Information Media Server (CIMS)
+      Posted On: 18 SEP 2018 2:52PM by PIB Delhi
+
+
+    Shri S.S. Ahluwalia, Hon’ble Minister of State for Electronics and IT launches C-DAC Information Media Server (CIMS) for enhancing Good Governance.
+
+
+    C-DAC Information Media Server is a dedicated computer appliance having specialized application software to provide audio and video on demand. This low-cost affordable system is built with single board computer having powerful and energy efficient multi-core processor. It does not require any special purpose internet service provider or data connectivity. The common feature includes displaying text, images for viewing, video streaming, e-brochure; for viewing or downloading for offline reference .
+
+
+    Shri Ahluwalia said “Our Government is focussed towards providing Good Governance to every citizen of our country and has a dream of making them full aware with the various governmental schemes like Pradhan Mantri Jan Dhan Yojana, Pradhan Mantri MUDRA Yojana (PMMY), Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY), Atal pension Yojana (APY), Pradhan Mantri Awas Yojana (PMAY), Pradhan Mantri Fasal Bima Yojana (PMFBY), Make in India, Swachh Bharat Abhiyan, Soil Health Card Scheme, Digital India, Skill India Program, Beti Bachao, Beti Padhao Yojana, Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY), Atal Mission for Rejuvenation and Urban Transformation (AMRUT), One Rank One Pension Scheme through this system that will be available on all types of electronic and mobile platform.
+
+
+    Dr Hemant Darbari, Director General, C-DAC mentioned, “CIMS is very easy to setup and configure for deployments at locations such as Parliament (Today in Rajya Sabha, Members details), Education Institutes (eBooks, Timetable, news of the day, notices), Railways (Train running information, station layout maps), Hospitals (Doctors on duty, patient records). A user can connect via any smart device with WiFi capability and freely access the available information. Web pages are retrieved and delivers it across the Internet. In the simplest case, the video file is embedded in a web page and stored on the same host as the other components of the page.
+
+
+    ***
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1546488) Visitor Counter : 1003

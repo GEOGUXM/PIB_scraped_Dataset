@@ -1,0 +1,53 @@
+      Ministry of Communications
+
+      Union Minister Shri. Manoj Sinha inaugurated ‘Security Assurance Standard Facility’ and launched ‘Saral Sanchar Portal’at Bengaluru
+      Posted On: 15 NOV 2018 4:51PM by PIB Bengaluru
+
+
+      Union Minister Shri. Manoj Sinha inaugurated ‘Security Assurance Standard Facility’ and launched ‘Saral Sanchar Portal’at Bengaluru
+
+
+      Bengaluru , November 15, 2018
+
+
+      Hon’ble Union Minister of State for Communication (Independent Charge) and Minister of State for Railways, Shri Manoj Sinha inaugurated the Security Standards Facility of the National Centre for Communications Security, Department of Telecommunication. In a further push to the initiative of the Government for ease of doing business, Shri.Manoj Sinha launched the online portals of the Department of Telecommunication, Government of India, namely, ‘SARAL SANCHAR’ for processing of applications for provision of license and for registration, for provision of telecom services and a Portal for the Mandatory Testing and Certification of Telecom Equipment.
+
+
+      Speaking on the occasion Shri.Manoj Sinha said that the Government is seized of the concerns regarding the security of critical infrastructure of the country and especially of the communication infrastructure which forms the bedrock for all other critical sectors like power, transportation and civil aviation, banking and finance. In this regard the government has adopted a holistic approach encompassing security testing and certification of equipment, conduction of security audits, creation of facilities for threat intelligence and for the detection of and response to security incidents. He mentioned that Secure India is one of the three missions of the National Digital Communication Policy 2018 and reflects the importance accorded by the government. The Security Standards Facility is an important and much required component for securing our critical infrastructure and to meet India’s specific requirements.
+
+
+      Elaborating on the two portals that were launched Sh. Manoj Sinha said that they were an indication of the Government’s commitment to the Prime Minister’s vision of Digital India and for ease of doing business. He welcomed suggestions and feedback from the stakeholders to make the systems robust and more user-friendly. He said it was important for the citizens of the country to be provided quality services and to ensure their safety. The mandatory testing of telecom equipment is envisioned to ensure this and the portal will provide the industry and Government a mechanism for ease of the certification of telecom equipment.
+
+
+      The Secretary Telecommunication and Chairman Digital Communication Commission, Ms. Aruna Sundararajan, said that to strengthen capacity within government for handling the burgeoning challenges on the communication security front, the Department of Telecom has created a security vertical with manpower deployment across the country. A series of capacity building programmes have also been undertaken for the personnel to equip them to address the challenges. She thanked the IISc for the support that was extended for the project and mentioned that Bengaluru as the acknowledged technology hub of India is an apt location for the Security Assurance Standards Facility. On the online portals Ms Aruna Sundararajan appreciated the keen interest taken and for inputs provided by the industry during the consultative process for the preparation of the essential requirements for Mandatory Testing. She hoped that the portal will facilitate a seamless and integrated experience to the industry for the certification of telecom equipment. She also said that licensing and registration are important activities in DoT and the Saral Sanchar portal is to ease the process both for the department and the industry so that services can be quickly launched for the benefit of the citizens of the country.
+
+
+      The Security Assurance Standards Facility commissioned at Bengaluru is a facility of the Communication Security Certification Unit of the Department of Telecommunication. It is responsible for the development of Indian Telecom Security Assurance Requirements (ITSAR) and Test Schedules and Test Procedures (TSTP) for all ICT equipment. This facility is initially planned with four test beds for working on Core Equipment, Access Equipment, Transport Equipment and User Devices. It has been equipped with Open Source, Commercial and in house developed security testing tools with relevant test bed environment for the Device Under Test (DUT). A framework for the recognition of security test labs in the private /public sector and for the security certification of communication equipment has also been created. This framework provides for the parameters for recognition of security test labs and the process for the security certification of communication equipment against the Indian Telecom Security Assurance Requirements prepared by the Security Assurance Standards Facility.
+
+
+      The Mandatory Testing and Certification of Telecom Equipments (MTCTE) was notified by Government of India vide Gazette Notification No G.S.R. 1131(E) dated 5th September 2017. Under this scheme, all telecom equipments, whether imported or indigenously manufactured, are to be tested and certified against Essential Requirements (ERs), issued by Telecom Engineering centre (TEC) which is the technical arm of DoT and is the designated agency for testing of telecom equipment and issue of the certificates.
+
+
+      The testing is carried out with the objective of ensuring that the equipment meets relevant international standards such that it is safe to use, the radio frequency emissions from it are within prescribed limits, it does not degrade the performance of the network to which it is connected, and it complies with the relevant national regulations.
+
+
+      The portal available at https://mtcte.tec.gov.in has been developed for the online administration of MTCTE scheme.
+
+
+      ‘SARAL SANCHAR’ (Simplified Application for Registration and Licenses), is a web based portal for Issuing of various types of Licenses and Registration certificates with web link https:// saralsanchar.gov.in . The Portal covers receipt of applications from applicants and their and processing for issue of new Unified Licenses for provision of telecom services and Other Service Providers (OSP) registrations.
+
+
+      Applicants can apply for filling up the prescribed application form online and upload the documents and application form using Digital Signatures. The portal envisages that applicant gets prompts and alerts at various stages of application submission so that all necessary requirements are complied before submitting the application.
+
+
+      In addition to this, Machine to Machine Service Provider (M2MSP) Registration process shall also be started shortly through this portal. In future, DoT envisages extending the scope of the portal to cover post license activities like Renewal of License, Surrender/ Cancellation of License and allocation of various resources like LRN code, MNC code, MSC code, Short codes and integration with BharatKosh.
+
+
+      *****
+
+    
+    
+    (Release ID: 1552864) Visitor Counter : 339
+    
+    
+      Read this release in: Kannada

@@ -1,0 +1,48 @@
+      Ministry of Home Affairs
+
+      Cyber Security
+      Posted On: 18 DEC 2018 4:59PM by PIB Delhi
+
+
+    Government has taken a number of legislative, technical and institutional measures for addressing issues related to cyber security. These include National Cyber Security policy (2013), enactment of Information Technology (IT) Act, 2000 and setting up of Indian Computer Emergency Response Team (CERT-In). Some specific measures taken by the Government of India to strengthen cyber security system in the country are as under:
+
+
+     1. National Cyber Security Coordinator (NCSC) under National Security Council Secretariat (NSCS) coordinates with different agencies at the national level for cyber security matters.
+
+     2. Information Technology Act, 2000 was enacted to provide legal recognition for electronic communication, electronic commerce and cyber crimes etc. IT Act has deterrent provisions to deal with cyber threats and cyber attacks.
+     3. The Indian Computer Emergency Response Team (CERT-In) issues alerts and advisories regarding latest cyber threats and countermeasures on regular basis.
+
+    (iv) National Critical Information Infrastructure Protection Centre (NCIIPC) has been established for protection of critical information infrastructure in the country.
+
+     1. Cyber security exercises are being conducted regularly to enable assessment of preparedness of organizations in Government and critical sectors.
+
+    (vi) Guidelines have been issued for Chief Information Security Officers (CISOs) regarding their key roles and responsibilities for securing applications / infrastructure and compliance.
+
+     1. Cyber Swachhta Kendra (Botnet Cleaning and Malware Analysis Centre) has been launched for detection of malicious programs and provide free tools to remove the same.
+     2. National Cyber Coordination Centre (NCCC) has set up to generate necessary situational awareness of existing and potential cyber security threats and enable timely information sharing for proactive, preventive and protective actions by individual entities.
+     3. All the new government websites and applications are audited prior to their hosting and on regular basis after hosting.
+     4. CERT-In conducts regular training programmes for network / system administrators and Chief Information Security Officers (CISOs) of Government and critical sector organisations regarding securing the IT infrastructure and mitigating cyber attacks.
+     5. Under Cyber Crime Prevention for Women and Children (CCPWC) Scheme, Government of India has released grants to States/UTs including Andhra Pradesh for setting up of a Cyber Forensic cum Training Laboratory and organizing capacity building programme on cyber awareness and cyber crime investigation. Rs. 4.42 Crore has been released to Andhra Pradesh for the purpose.
+     6. A Division has been established under the Ministry of Home Affairs to deal with Cyber and Information Security.
+
+    The Indian Computer Emergency Response Team (CERT-In) has entered into Memorandum of Understanding (MoU) with its overseas counterpart agencies/Computer Emergency Response Teams (CERTs) for information exchange and collaboration for cyber security incident response.
+
+
+    This was stated by the Union Minister of State for Home Affairs, Shri KirenRijiju in a written reply to a question in the Lok Sabha today.
+
+
+    ****
+
+
+    BB/NK/SS/PP/1338
+
+    
+    
+    (Release ID: 1556474) Visitor Counter : 8526
+    
+    
+    
+    
+    
+
+6.

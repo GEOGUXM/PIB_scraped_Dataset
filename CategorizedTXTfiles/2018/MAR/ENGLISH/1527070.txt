@@ -1,0 +1,27 @@
+      Department of Space
+
+      GSLV Successfully Launches GSAT-6A Satellite
+      Posted On: 29 MAR 2018 8:15PM by PIB Delhi
+
+
+    India's Geosynchronous Satellite Launch Vehicle (GSLV-F08) successfully launched GSAT-6A Satellite into Geosynchronous Transfer Orbit (GTO) today (March 29, 2018). Today’s launch of GSLV was its twelfth and took place from the Second Launch Pad at Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota, the spaceport of India. This is the fifth consecutive success achieved by GSLV carrying indigenously developed Cryogenic Upper Stage.
+    
+    In its oval shaped GTO, GSAT-6A is now orbiting the Earth with a perigee (nearest point to Earth) of 169.4 km and an apogee (farthest point to Earth) of 36,692.5 km with an orbital inclination of 20.64 deg with respect to the equator.
+    
+    Few seconds before the launch countdown reached zero, the four liquid propellant strap-on motors of GSLV-F08, each with nearly 43 tons of liquid propellants, were ignited. At count zero and after confirming the normal performance of all the four strap-on motors, the 139 ton solid propellant first stage core motor was ignited and GSLV lifted off at
+    16:56 IST, as scheduled. The major phases of the flight occurred as intended. About seventeen and a half minutes after lift-off, GSAT-6A was successfully placed in GTO.
+    .
+    Soon after separation from GSLV, the two solar arrays of GSAT-6A were automatically deployed in quick succession and the Master Control Facility (MCF) at Hassan in Karnataka assumed control of the satellite. .
+    
+    GSAT-6A is a communication satellite built by ISRO to provide mobile communication services through multi beam coverage. For this, it is equipped with S and C band transponders.
+    
+    In the coming days, the orbit of GSAT-6A will be raised from its present GTO to the final circular Geostationary Orbit (GSO) by firing the satellite's Liquid Apogee Motor (LAM) in stages. The Satellite will be commissioned into service after the completion of orbit raising operations and its positioning in the designated slot in GSO following in-orbit testing of its payloads.
+
+
+    ***
+
+    BB/NK
+
+    
+    
+    (Release ID: 1527070) Visitor Counter : 1416

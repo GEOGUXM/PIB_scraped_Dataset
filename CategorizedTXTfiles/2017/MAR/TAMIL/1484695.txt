@@ -1,0 +1,209 @@
+      PIB Headquarters
+
+      Credibility of Electronic Voting Machines- regarding.
+      Posted On: 16 MAR 2017 6:34PM by PIB Chennai
+
+
+    1. The Election Commission has observed that after declaration of result of the recently held General Elections to the State Legislative Assemblies of Goa, Manipur, Punjab, Uttar Pradesh and Uttarakhand, some political parties have raised voice against the credibility of the ECI-EVMs, alleging tampering of EVMs during the said elections. One representation was received from National General Secretary, BSP without any specific allegation on 11.03.2017. ECI on 11.03.2017 itself has given detailed response to BSP rejecting the representation. ECI’s reply is available at www.eci.nic.in .
+
+    2. Such concerns, about alleged temperability of ECI-EVM have been raised earlier also since their introduction including before HC/SC. These allegations have been dismissed. ECI unequivocally reiterate that given effective technical and administrative safeguards, EVMs are not temperable and integrity of electoral process is preserved.
+
+
+    3. It will be useful to once again recapture some facts on the subject for information of citizens and all concerned.
+
+
+    4. Background of EVM
+
+
+    With a view to overcome certain problems associated with use of ballot papers and taking advantage of development of technology so that voters cast their votes correctly without any resultant ambiguity and removing the possibilities of invalid votes totally, the Commission in December, 1977 mooted the idea of EVM. The law was amended by the Parliament in December, 1988 and a new section 61A was inserted in the Representation of the People Act, 1951 empowering the Commission to use voting machines. The amended provision came into force w.e.f. 15 th March, 1989.
+
+
+    Central Government appointed the Electoral Reforms Committee in January, 1990 consisting of representative of several recognized National and State Parties. The Electoral Reforms Committee further constituted a technical Expert Committee for the evaluation of the electronic voting machines. The Committee came to conclusion that the electronic voting machine is a secure system. The expert committee, therefore, unanimously recommended in April, 1990 the use of the electronic voting machines without further loss of time.
+
+
+    5. Since 2000, EVMs have been used in 107 General Elections to State Legislative Assemblies and 3 General Elections to Lok Sabha held in 2004, 2009 & 2014.
+
+
+    6. Judicial Pronouncements on use of EVMs-
+
+
+    The issue of possible tampering of EVM has been raised before various High Courts since 2001 as mentioned below:-
+
+
+    (a) Madras High Court-2001
+
+
+    (b) Delhi High Court-2004
+
+
+    (c) Karnataka High Court- 2004
+
+
+    (d) Kerala High Court-2002
+
+
+    (e) Bombay High Court (Nagpur Bench)-2004
+
+
+    All the above High Courts after going into all aspects of the technological soundness and the administrative measures involved in the use of EVMs at elections in India, have held that the EVMs in India are credible, reliable and totally tamperproof. In some of these cases, even Supreme Court has dismissed appeals filed by some petitioners against High Court orders.
+
+
+    The Hon’ble Karnataka High Court held that “This invention is undoubtedly a great achievement in the electronic and computer technology and a national pride”. Both the Karnataka High Court and the Madras High Court observed that use of EVMs in election has several advantages over the system of ballot paper/ballot box election. The Hon’ble Madras High Court also categorically ruled out any question of tampering of the EVMs. The following observations made by the Madras High Court may be taken note of.
+
+
+    “There is also no question of introducing any virus or bugs for the reason that the EVMs cannot be compared to personal computers. The programming in computers, as suggested, has no bearing with the EVMs. The computer would have inherent limitations having connections through Internet and by their very design, they may allow the alteration of the programme but the EVMs are independent units and the programme in EVM is entirely a different system.”
+
+
+    In one of the cases, the Hon’ble High Court of Kerala in its order dated 6.2.2002 had recorded its appreciation on the efficiency of the mechanism. The judgment of the Kerala High Court in the said Election Petition was upheld by the Hon’ble Supreme Court in Civil Appeal (AIR 2003 SC 2271).
+
+
+    It is admitted before various courts that the data or technique brought in use in EVM in India were not subject to piracy as nobody knows anything about the contents of any type or has any unauthorized or free access to EVM.
+
+
+    Thereafter, the controversy was raised by political parties again after 2009 General Elections to House of People stating that EVMs were not fool proof and provide scope for manipulation. However, no specific allegation was raised nor could they prove before any court of law.
+
+
+    Some activists approached Supreme Court in 2009 which advised them to go to ECI. It was then these activists opened dialogue and ECI threw open challenge to anyone to demonstrate how machine owned by ECI can be tempered. However, in spite of opportunities given by ECI, machines opened and internal components shown, no one could demonstrate any tempering with the machine in ECI HQ. There proceedings were videographed.
+
+
+    In an extraordinary measure, the Commission invited those who had expressed reservations about the Electronic Voting Machine (EVM) to come and demonstrate the points made in their allegations from 3rd to 8th August 2009. Those invited included political parties, petitioners before various courts and some individuals who had been writing to the Commission on this issue. One hundred EVMs brought from ten states namely, Andhra Pradesh, Delhi, Gujarat, Karnataka, Madhya Pradesh, Maharashtra, Punjab, Rajasthan, Tamil Nadu and Uttar Pradesh, were kept at the Commission’s office in readiness for scrutiny and for any application to establish its alleged fallibility. The EVMs were offered for such demonstration in the presence of a technical experts group as well as engineers representing the EVM manufacturers, BEL and ECIL. The outcome of this exercise is that none of the persons, who were given the opportunity, could actually demonstrate any tamper ability of the ECI-EVMs. They either failed or chose not to demonstrate.
+
+
+    Some activists then showed on TV channel a ‘machine’ which they claimed can be manipulated. ECI countered allegation that the ‘machine’ was stolen from EVM warehouse in Mumbai, subjected to changes by activists and thus it was no longer the ‘machine’ used by ECI.
+
+
+    In 2010, all political parties except a few from Assam and Tamil Nadu in a meeting convened by ECI expressed satisfaction about the functioning of EVMs. At this stage, idea of VVPAT was moved for further exploration.
+
+
+    In 2009, in a case before Delhi High Court, all earlier allegations about EVM temperabilities were raised. However, Delhi High Court satisfied with detailed reply of ECI why EVM cannot be rigged and about ECI efforts on developing VVPAT decided and disposed of the case in 2012 that VVPAT may be developed early in consultation with political parties.
+
+
+    7. Technical Security of EVMs used by ECI
+
+
+    (a) The machine is electronically protected to prevent any tampering/manipulation. The programme (software) used in these machines is burnt into a One Time Programmable (OTP)/Masked chip so that it cannot be altered or tampered with. Further these machines are not networked either by wire or by wireless to any other machine or system. Therefore, there is no possibility of its data corruption.
+
+
+    (b) The software of EVMs is developed in-house by a selected group of Engineers in BEL (Defense Ministry PSU) and ECIL (Atomic Energy Ministry’s PSU) independently from each other. A select software development group of 2-3 engineers designs the source code and this work is not sub-contracted.
+
+
+    (c) After completion of software design, testing and evaluation of the software is carried out by an independent testing group as per the software requirements specifications (SRS). This ensures that the software has really been written as per the requirements laid down for its intended use only.
+
+
+    (d) After successful completion of such evaluation, machine code of the source programme code is given to the micro controller manufacturer for writing in the micro controllers. From this machine code, the source code cannot be read. Source code is never handed over to anyone outside the software group of PSUs.
+
+
+    (e) Micro controller manufacturer initially provides engineering samples to PSUs for evaluation. These samples are assembled into the EVM, evaluated and verified for functionality at great length. Bulk production clearance by PSU is given to micro controller manufacturer only after successful completion of this verification.
+
+
+    (f) The source code for the EVM is stored under controlled conditions at all times. Checks and balances are in place to ensure that it is accessible to authorized personnel only.
+
+
+    (g) During production in the factory, functional testing is done by production group as per the laid down Quality plan and performance test procedures.
+
+
+    (h) The software is so designed that it allows a voter to cast the vote only once. The vote can be recorded by an elector from the ballot unit only after the Presiding Officer enables the ballot on the Control Unit. The machine does not receive any signal from outside at any time. The next vote can be recorded only after the Presiding Officer enables the ballot on the Control Unit. In between, the machine becomes dead to any signal from outside (except from the Control Unit).
+
+
+    (i) Samples of EVMs from production batches are regularly checked for functionality by Quality Assurance Group, which is an independent unit within the PSUs.
+
+
+    (j) Certain additional features were introduced in 2006 in ECI-EVMs such as dynamic coding between Ballot Unit (BU) and Control Unit (CU) , installation of real time clock, installation of full display system and date and time stamping of every key-pressing in EVM.
+
+
+    (k) Technical Evaluation Committee in 2006 has concluded that any tempering of CU by coded signals by wireless or outside or Bluetooth or WiFi is ruled out as CU does not have high frequency receiver and data decoder. CU accepts only specially encrypted and dynamically coded data from BU. Data from any outside source cannot be accepted by CU.
+
+
+    8. Uniqueness of ECI-EVMs
+
+
+    Some political parties have stated that some foreign countries have stopped using EVMs. The Commission has come across comparisons between ECI-EVM and EVMs used by foreign countries. Such comparisons are both misplaced and misguided. ECI EVMs are Stand alone Machine. Therefore ECI-EVMs cannot be compared with machines of other countries.
+
+    (a) Most of the systems used in other countries are Computer based with internet connectivity. Hence, these could be vulnerable to hacking.
+
+    (b) As stated above, the software in the ECI-EVM chip is one time programmable (OTP) and burnt into the chip at the time of manufacture. Nothing can be written on the chip after manufacture. Thus the ECI-EVMs are fundamentally different from the voting machines and processes adopted in various foreign countries.
+
+    (c) Any surmise based on foreign studies or operating system based EVMs used elsewhere would be completely erroneous. The ECI-EVMs cannot be compared with those EVMs.
+
+
+    9. Procedural and Administrative Securities
+
+
+    The Commission has put in place an elaborate administrative system of security measures and procedural checks-and-balances aimed at prevention of any possible misuse or procedural lapses. These safeguards are implemented by ECI transparently with the active and documented involvement of political parties, candidates and their representatives at every stage to build their confidence on efficacy and reliability of EVMs. These safeguards are:
+
+
+    (a) Before every election, a first level checking (FLC) is done for every EVM to be used in the election by the engineers of the manufacturers in the presence of political parties’ representatives . Any malfunctioning EVM is kept separately and is not used in the election.
+
+
+    (b) Manufacturers certify at the time of FLC that all components in the EVM are original. After this, the plastic cabinet of Control Unit of the EVM is sealed using a “Pink Paper Seal”, which is signed by representatives of political parties and stored in strong rooms. After this stage, the plastic cabinet of control unit of the EVMs cannot be opened. There is no access to any component of inside of EVMs.
+
+
+    (c) Additionally, at the time of FLC, at least 1000 votes are cast by the representatives of political parties on 5%of EVMs randomly selected by them . A printout of the results of this mock poll as well as a sequential print out of every vote polled during the mock poll at the time of First Level Checking of EVMs are taken out for at least 5% of EVMs and shown to the representatives of political parties. Representatives of political parties are allowed to pick machines randomly for this purpose. In rest of the machines, numbers of votes polled during the mock poll are to the satisfaction of the representatives of political parties. Representatives of political parties are allowed to do mock poll themselves . It is all documented by DEOs/ROs.
+
+
+    (d) Subsequently, stored EVMs are randomized by computer software twice once for allocation of machines to assembly constituencies and second to polling stations in the presence of candidates or their representatives before they are distributed for use in individual polling stations. Such lists of EVM containing serial number of EVM allocated to particular polling station are provided to the political parties/candidates.
+
+
+    (e) Candidates and their representatives are allowed to conduct mock polls on EVMs at the time of candidate setting and also before the actual poll on the poll day to satisfy themselves about the satisfactory functioning of EVMs being used.
+
+
+    (f) Once the candidate setting is done, the Ballot Unit of the EVM is also sealed with thread/Pink Paper seals so that nobody has access to the inside of the Ballot Unit too. These Pink seals also bear signatures of representatives of political parties/candidate.
+
+
+    (g) A printout of the results of mock poll as well as a sequential print out of every vote polled during the mock poll at the time of Preparation of EVMs and candidate setting are also taken out for at least 5% of EVMs and shown to the representatives of political parties. Representatives of political parties are allowed to pick machines randomly for this purpose.
+
+
+    (h) On the poll day, a mock poll by casting at least 50 votes is conducted at every polling station in the presence of the representatives of the candidates/polling agents with their signature and a mock-poll certificate to that effect is obtained from every Presiding Officer.
+
+
+    (i) After the mock poll is over, another thread seal and green paper seals are put on the EVM to block access to all buttons on the EVM, except those, which are used for the conduct of poll. These paper seals and thread seals are allowed to be signed by the polling agents. After the poll is over, the Presiding officer presses the “Close” button on the EVM in the presence of polling agents. Thereafter, no votes can be polled in the EVM.
+
+
+    (j) After this, the entire EVM is sealed. Candidates and their agents are allowed to put their signatures on the seals , which they can check for the intactness of the seal before counting. Candidates/representatives travel behind vehicles carrying EVMs from polling stations to counting storage rooms.
+
+
+    (k) In addition to this, the strong rooms where EVMs are stored, for counting are also sealed and watched round the clock. The candidates and their representatives are allowed to put their own seals on the strong rooms. They are also allowed to keep a watch round the clock on the strong room. Security forces are deployed in multiple layers around storage rooms.
+
+
+    (l) The representatives of candidates of all political parties are given opportunity to participate in FLC, Preparation of EVMs before poll, mock poll, etc.
+
+
+    10. VOTER VERIFIABLE PAPER AUDIT TRAIL (VVPAT)
+
+
+    ECI based on consultation with political parties in 2010 considered to explore use of Voter Verifiable Paper Audit Trail (VVPAT) with a view to enhance transparency. Introduction of VVPAT implied that a paper slip is generated bearing name and symbol of the candidate along with recording of vote in Control Unit, so that in case of any dispute, paper slip could be counted to verify the result being shown on the EVM. Under VVPAT, a printer is attached to the balloting Unit and kept in the voting compartment. The paper slip remains visible on VVPAT for 07 seconds through a transparent window. Design of VVPAT made by BEL/ECIL was approved by ECI in 2013 and shown to persons who were pursuing matters in the Supreme Court. Rules were amended. ECI used VVPAT in Nagaland bye election in 2013 which proved great success. SC ordered introduction of VVPAT in phases and asked Government to sanction funds for procurement.
+
+
+    In this regard in June 2014, the Commission proposed to implement VVPAT at every polling station in the next General Election to Lok Sabha due in 2019 and asked for fund of Rs. 3174 cr from the Government. Hon’ble Supreme Court also permitted the ECI to implement VVPATs in phase manner.
+
+
+    In an ongoing case in the Supreme Court, Commission in the month of March 2017, has intimated the apex court that ECI will get requisite number of VVPATs manufactured in 30 months time from the time of release of fund by the Government.
+
+
+    ECI procured 20,000 VVPATs in 2013 and has since used VVPATs in 143 Assembly Constituencies. Further, 33500 VVPATs were manufactured by BEL in 2016 for further use of VVPATs. So far, VVPATs have been used in 255 Assembly Constituencies and 09 Parliamentary Constituencies. In Goa elections in 2017, VVPAT was employed in all 40 LACs. ECI employed about 52,000 VVPATs in five States where elections were held recently. Since 2014, ECI has been relentlessly pursuing with the Govt. for sanction and release of funds of Rs. 3174 cr requisite number of VVPATs so that they could be used in all PCs in GE to Lok Sabha in 2019.
+
+
+    As explained above, the Commission has put in place an elaborate technical and administrative system of safeguards to ensure error-free functioning of EVMs in elections. The Commission is thus fully satisfied with the tamper proof functioning of the ECI-EVMs. It may be stated that such allegations and suspicions have not been raised for the first time. Even on earlier occasions, the Commission has offered opportunities more than once to those alleging the tamperability of EVM, no one has been able to demonstrate to the Commission that the EVM with ECI and used in the country’s election process, can be manipulated or tampered with. The Commission does not find any merit in such allegations and reject all such allegations and suspicions raised by some political parties.
+
+
+    ECI assures all citizens that EVM of ECI are temper proof and fully satisfied with the integrity of electoral process using EVM. ECI will further enhance confidence of citizens in ECI’s electoral process by deploying VVPAT in phase manner.
+
+
+    Further, ECI did not receive specific complaints or concrete material from political parties/candidates about alleged tempering of EVMs during recently held election process. At this stage, baseless, speculative and wild allegations are being made which deserves to be rejected.
+
+
+    However, if any specific allegation with material facts is presented to ECI, the same will be looked into with all seriousness on administrative sides.
+
+
+    The Election Commission would like to underline that it always had a firm conviction and complete satisfaction that EVMs could not be tampered with. Its faith on the machine has never wavered through the conduct of elections in the last many years including the nationwide general elections in 2004, 2009 and 2014. To date, no one has been able to actually demonstrate that EVMs used by the Election Commission can be tampered with or manipulated. What has been demonstrated or claimed to have been demonstrated is on a privately assembled “look-alike of ECI-EVMs” and not the actual ECI-EVM. However, the extraordinary measure of requiring demonstration in ECI HQ in 2009 was undertaken by the Election Commission in fulfilment of its responsibility not to allow even a small shade of doubt about any aspect of its operation and in order to set at rest any misgiving anywhere.
+
+
+    Today, the Commission once again completely reaffirms its faith in the infallibility of the EVMs. These are fully tamper-proof, as ever.
+
+
+    ****
+
+    
+
+    
+    (Release ID: 1484695) Visitor Counter : 4

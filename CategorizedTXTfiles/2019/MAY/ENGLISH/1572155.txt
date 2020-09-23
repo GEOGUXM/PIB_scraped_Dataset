@@ -1,0 +1,80 @@
+      Ministry of Drinking Water & Sanitation
+
+      Official response from MDWS to recent Reuters story about the Swachh Bharat Mission
+      Posted On: 17 MAY 2019 2:16PM by PIB Delhi
+
+
+    The Reuters news agency has, earlier today, published a story titled “Modi proclaims a cleaner India, but the reality may be more murky”. In this story, it has raised questions around the progress made under the Swachh Bharat Mission (Grameen), specifically the findings of the recent National Annual Rural Sanitation Survey 2018-19. The National Annual Rural Sanitation Survey 2018-19 (NARSS) is the largest independent sanitation survey in the country carried out by an Independent Verification Agency, with a sampling framework that covers 6136 villages, 92040 households, and 5782 schools, 5803 Anganwadi Centres, 1015 Public toilets and 6055 Public spaces, making it the most representative sanitation survey in the country. The 2018-19 NARSS found the rural toilet usage to be 93.4%, and toilet usage in rural India to be 96.5%. Two more independent surveys conducted in the past by the Quality Council of India in 2017, and National Sample Survey Organization in 2016, also found the usage of these toilets to be 91% and 95% respectively.
+
+
+    The Ministry of Drinking Water and Sanitation was approached by Reuters ahead of publishing this story and had responded to each question raised by them in detail. However, the story published presents a one-sided view of the situation with all the details shared with Reuters by the Ministry about the NARSS survey portrayed as limited, half-sentences and deficient responses.
+
+
+    The Ministry would like to put out the complete version of the on-ground reality of the Mission as well as the Survey in context of the allegations made in this biased piece:
+
+     1. ““The whole point of this is for people’s health,” said Payal Hathi, a researcher consulted on the World Bank-backed survey. “It’s unfortunate that the data is so misleading.”… Hathi and fellow researcher Nikhil Srivastav also say they witnessed several lapses at meetings held to design the survey.”
+
+    The article says that the Ministry categorically dismissed and denied the claims of the two RICE researchers “without elaborating”. In reality, however, this Ministry shared a detailed background and elaboration with its dismissal of claims made by RICE researchers.
+
+
+    Firstly, the methodology and processes of the NARSS have been developed and approved by the Expert Working Group (EWG), which is chaired by Prof. Amitabh Kundu of JNU and former member of the National Statistical Commission, and co-chaired by Dr N. C Saxena, former Secretary to Government of India. The EWG comprised several sanitation experts and representatives from national and international developmental organizations, including the World Bank, UNICEF, BMGF, Water Aid India, Ministry of Statistics and Programme Implementation (MOSPI), NITI Aayog, among others. As the Reuters team was informed, this expert group has overseen and participated in the conduct of the NARSS, from questionnaire design to sampling to training of enumerators to the actual survey in the field. Some RICE representatives also attended a few meetings of the EWG during NARSS 2017-18, and were not associated with NARSS 2018-19 at all .
+
+
+    By raising questions about NARSS 2018-19 methodology, RICE representatives are not only attempting to undermine the credibility of NARSS (including the eminent EWG members), but also misleading the readers of Reuters. Given that RICE was never a part of any meetings of NARSS 2018-19, their assertion that they witnessed “several lapses at (NARSS) meetings” is a gross misrepresentation of readers and in-line with RICE’s history of biased, motivated and untruthful reporting of facts. (Ref http://pib.nic.in/PressReleseDetail.aspx?PRID=1569875 , http://pib.nic.in/PressReleseDetail.aspx?PRID=1570908 , http://pib.nic.in/PressReleseDetail.aspx?PRID=1559229 )
+
+
+     1. “Two (surveyors) called NARSS findings “impossible” and said very little time had been spent questioning respondents.”
+
+
+    As was clearly communicated to the Reuters team (but is missing from their article), as per the NARSS protocol the surveyor visiting a particular village is not told about the ODF status of the village to avoid any potential bias. In fact, an individual surveyor gets only a very limited number of villages in a State for survey, much lesser than the total number of villages surveyed in the State. Hence a surveyor (or a few surveyors) is not in a position to provide state wide estimates at all. Additionally, the whole survey process is completed using CAPI – Computer Aided Personal Interviewing – which does not permit an individual surveyor to perform any kind of analysis or generate estimates. Time spent on each interview is also recorded by the CAPI and monitored by the IVA.
+
+
+     1. ““If we see some open defecation in stray cases away from the main centre of a village, we cannot mark the village as non-ODF,” he said, adding trainers from the ministry told surveyors to follow such practices.”
+
+
+    This is strongly denied. As communicated to the Reuters team – both through an email and through a personal interaction at the Ministry office – the very process of the NARSS survey makes this assertion impossible. In fact, the concept of ‘main centre of a village’ is irrelevant because there were clear instructions to not declare a village ODF if they found faecal matter anywhere in the village , including Schools, Hospitals/Public Health Centre, Panchayat Bhawans, Community Centres/Halls, Places of worship- Temple/Masjid/Gurudwara/Church, Bus stand, Market Places, Public or Government Offices, Drinking Water sources etc. Together, these spots will undoubtedly present a holistic picture of open defecation (of lack thereof) in the village and, therefore, the “main centre” of the village is not even a relevant concept in the NARSS methodology.
+
+
+    Furthermore, it is important to note that the Ministry does not directly interact with the surveyors to maintain the integrity of the process. Oversight of the work of the surveyors is conducted by the Senior Project Team of the Independent Verification Agency.
+
+
+     1. ““The respondents will give you false answers,” said Nitya Jacob, a water and sanitation consultant. “They’re all tutored to say ‘yes-yes,’ we use toilets.””
+
+
+    Again, this is strongly denied. The allegation that all 92,000-plus respondents of the large scale survey would be tutored is naïve at the best and malicious at worst. On the contrary, as mentioned in the official response shared by the Ministry with Reuters, there typically exists a significant respondent bias among households to conceal that they have a toilet, in the expectation of receiving a further financial incentive from the government. This bias has been observed and recorded by both the EWG and the IVA of NARSS, and leads to an artificial underreporting of toilet access and usage, contrary to what the article says. Also, as part of the NARSS protocol, whether a village is ODF or not is not marked by a Surveyor but is analysed by IVA at Centre at the time of analysis of data and information.
+
+
+     1. Incidents of open defecation in Haryana
+
+
+    NARSS follows a random sampling process and in Haryana, the IVA surveyed 1530 households in 102 villages. This sample is only representative of the overall State sanitation access and usage. In fact, over the last few years, surveys have consistently maintained that Haryana has been one of the best performing States in rural India in terms of toilet usage, which was found to be 100% as per both, QCI 2017 and NARSS 2017-18 (which had sample sizes of 1.4 lakh households and 92040 households respectively).
+
+
+    In this regard, while it is difficult to comment on isolated incidents of non-usage, except as explained by the respondent bias mentioned above. Besides, NARSS follows a random sampling process and in Haryana, the IVA surveyed 1530 households in 102 villages. This sample is only representative of the overall State sanitation access and usage.
+
+     1. Alleged incidents of coercion in Karnataka
+
+    The Swachh Bharat Mission strongly supports positive behaviour change and the Ministry takes note of any coercion in implementation very seriously. Unfortunately, many reports – in particular those by motivated agencies like RICE – fail to distinguish between coercion and affirmative community action, like local Nigrani Samitis, or local GP or community level sanctions on open defecation, which reflects the limited understanding of the community approach to sanitation among them. It is notable that this point was never raised by the Reuters team in their questions posed to the Ministry. The Ministry encourages any agency/individual who finds an incidence of coercion on the ground to bring it to the attention of the Ministry and assures that action will be taken against any government official responsible for encouraging it.
+
+
+    The Ministry of Drinking Water and Sanitation is disappointed with the factually incorrect and poor quality of reporting done by a reputed agency like Reuters. It is clear that the article is based on a prejudiced and biased perspective on what is widely acknowledged to be a successful Mission and the largest behaviour change programme in the world which has succeeded in lifting more than 550 million people out of open defecation in a short period of less than 5 years.
+
+
+    <><><>><><>
+
+
+    SNC
+
+
+    
+
+    
+    (Release ID: 1572155) Visitor Counter : 1589
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Bengali
+    
+    
+    
+
+1.

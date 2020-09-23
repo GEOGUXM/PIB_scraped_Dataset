@@ -1,0 +1,110 @@
+      Ministry of Science & Technology
+
+      CSIR develops Less Polluting Firecrackers named – SWAS, SAFAL and STAR
+      
+      These crackers are 15-20 % cheaper than conventional onesand NEERI team involved in the project has 80 % women scientists
+      
+      E-crackers also being developed with products like E-Ladi, E-Anar, E-cracker show
+      
+      For the first time an Emission Testing Facility established in India for sound and emission testing of crackers
+      Posted On: 29 OCT 2018 7:32PM by PIB Delhi
+
+
+    “CSIR scientists have developed Less Polluting Firecrackers which are not only environment friendly but 15-20 % cheaper than the conventional ones”, said Dr Harsh Vardhan, Union Minister for Science & Technology, Earth Sciences, Environment, Forest & Climate Change at a press conference here, today.
+
+
+    These crackers have been named as safe water releaser (SWAS), safe minimal aluminium (SAFAL) and safe thermite cracker (STAR).
+
+
+    Highlighting that the Indian Fireworks industry is over 6000-crore worth of annual turnover and provides employment opportunities to over 5 lakh families directly or indirectly, the Minister said that this endeavour of CSIR aims at addressing the pollution concerns at the same time protecting the livelihoods of those involved in this trade.
+
+
+    The Minister mentioned that firecracker manufactures took keen interest with laboratories throughout the processand the new crackers would not require changes in theirmanufacturing facilities.
+
+
+    Dr. Harsh Varshan also listed a number of steps to make further improvements in the fire crackers. “First time in India, an Emission testing Facility has been established at CSIR-NEERI and extensive testing is in progress for conventional and green crackers for monitoring the emissions and sound”, he said.This facility uses all sophisticated instruments for measurement and sampling when firecrackers are used.
+
+
+    The Minister also informed thata raw material characterization facility is also coming up as it has been found that many times the poor quality raw materials used in fire crackers are the major sources of particulate matter pollution. CSIR would be detailing further strengthening by installation of additional facilities for raw materials testing at Sivakasi. This activity is likely to be initiated for testing in next two months after completion of certain formalities. This facility can come up in collaboration and partnership with Manufacturers’ associationTesting facilities.
+
+
+    Taking a comprehensive view of the firecracker sector, Dr. Harsh Vardhan said that in tune with its Scientific Social Responsibility, CSIR has been working on long term and futuristic goals which would lead to clean and safe Diwali.
+
+
+    Technical Details:
+
+
+    The crackers have been namedas safe water releaser (SWAS), safe minimal aluminium (SAFAL) and safe thermite cracker (STAR).
+
+
+    It has unique property of releasing water vapour and /or air as dust suppressant and diluent for gaseous emissions and matching performance in sound with conventional crackers.
+
+
+    SWAS crackers eliminates usage of (KNO 3 ) Potassium nitrate and Sulphurwith consequent reduction in particulate matter (30-35%) SO 2 and NOx. It has matching sound intensity with commercial crackers in the range of 105-110 dBA.
+
+
+    SWAS has been tested for shelf life upto 3 weeks with consistent performance.
+
+
+    STAR eliminates usage of KNO 3 and S with consequent reduction in particulate matter (35-40%), SO 2 and NOx. It has matching sound intensity with commercial crackers in the range of 105-110 dBA.
+
+
+    SAFAL has minimal usage of aluminium (only in flash powder for initiation)with consequent significant reduction in particulate matter(35-40 %) compared to commercial crackers. It has matching sound intensity with commercial crackers in the range of 110-115 dBA.
+
+
+    PESO has been approached to analyse and test SWAS/STAR/SAFAL from point of view of safety, stability and other related issues.
+
+
+    Also functional prototypes of flower pots for substitution of BaNO 3 (Barium nitrate) by low cost eco-friendly materials have been developed with significant reduction in particulate matter (30-35%).
+
+
+    These functional prototypes have been successfully demonstrated in Sivakasi to leading manufacturers.
+
+
+    E-crackers - CSIR-CEERI, being an electronics laboratory, is developing safe and pollution free technology of electronic crackers (E-crackers) to meet latent social aspiration of enjoying fireworks. It includes various products like E-Ladi, E-Anar, system for E-cracker show etc. At present CSIR-CEERI is ready with the laboratory level prototype of E-Ladi.
+
+
+    E-Ladi is based on high-voltage electrostatic discharge to generate light/sound effect. It is triggered by providing heat to the thermal switch which will give the excitement of firing the conventional cracker. The E-Ladi is also programmable to give various light/sound effect. The team from CSIR-CEERI Pilanihas devloped functional prototype of E-Ladi,demonstration is also planned in next two months.
+
+
+    Fig. below shows the lab level implementation of this concept on a decorative piece. High voltage generator is capable of producing very high voltage using the concept of tesla coil. These pods are connected in parallel to achieve desired light/sound pattern. The controller block consists of a pulse generator and a solid state device based circuit to control the switching of these pods. A video showing the operation of this E-Ladi is also attached herewith. The second version of this prototype will include compact form factor and thermal actuation arrangement.
+
+
+    Developed prototype of E-Ladi
+
+
+    Post combustion control system and devices :CSIR-NEERI has also planned to use area source control through development of new systems called PURE-WAYU as also photochip material for local dust control. The system is being tested currently.
+
+
+    Reduced Emission crackers: CSIR-CECRI, Karaikudi has developed reduced emission crackers through the replacement of commonly used Aluminium with Magnesium and Magnesium based compounds in flash powder.
+
+
+    CSIR-CECRI team, along with Krishna Fireworks, Sivakasi developed modified chemical formulations for flower pots, Jil Jil and atom bomb since these are in high demand in the market and form a major share of the industrial profit.
+
+
+    Flower pot essentially comprises of alkali nitrates, Aluminium powders of different grain sizes and in some cases the binder to enhance luminescence. Aluminium has been used as a primary heat source and to produce flash. In order to reduce the ignition temperature and subsequently to minimize the particulate matter, Magnesium could be a viable alternative to Aluminium. During the field trails at Sivakasi, many different compositions were tested for developing modified chemical formulations of flower pot. A lternate chemical formulations for flower pots were prepared by replacing Aluminium with Magnesium chips and Magnesium based compounds. Further these modified chemical formulations were tested and their characteristics in terms of colour, smoke, height of the lighting, brightness and ability to burst etc. were noted and analysed. These products showed promising results in terms of reduced emission of particulate matter (PM) level, toxic gases, less smoke and less noise. The team from CSIR-CECRI has developed flower pots by using eco-friendly materials with consequent implications on particulate matter (PM) reduction by 25-30%.
+
+
+    CSIR-NEERI is testing the efficacy of Bijli cracker by eliminating the use of ash as desiccants for reduction in particulate matter by 20%.
+
+
+    Potential sound emitting functional prototypes have been developed by team at CSIR NEERI based on the novel concept of exploiting exothermic heat of materials for bursting of crackers with consequent reduction in particulate matter (30-35%), no emission of SO 2 and low cost due to avoidance of usage of conventional oxidants.
+
+
+    Network of CSIR laboratories involved:
+
+
+    The networking laboratories of CSIR including: CSIR-Central Electronics Engineering Research Institute (CSIR-CEERI), CSIR-CentralElectrochemicalResearchInstitute(CSIR-CECRI), CSIR-CentralMechanical Engineering Research Institute(CSIR-CMERI), CSIR-CentralLeatherResearchInstitute (CSIR-CLRI), CSIR-IndianInstitute of ChemicalTechnology(CSIR-IICT), CSIR-Indian Institute of Toxicology Research (CSIR-IITR), CSIR-National Botanical ResearchInstitute(CSIR-NBRI), CSIR-NationalChemicalLaboratory (CSIR-NCL), CSIR-National Environmental EngineeringResearch Institute (CSIR-NEERI) have formulated a project with a specific goal to enhance CSIR innovation ability for developing globally competitive, cutting edge technologies for reduced emission fireworks.
+
+
+    *****
+
+
+    RDS/MS
+
+    
+    
+    (Release ID: 1551171) Visitor Counter : 3455
+    
+    
+      Read this release in: Bengali

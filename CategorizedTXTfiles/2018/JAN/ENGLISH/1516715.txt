@@ -1,0 +1,32 @@
+      Ministry of Finance
+
+      Reporting of U.S. Tax Identification Numbers (TINs) for pre-existing accounts by Financial Institutions
+      Posted On: 15 JAN 2018 3:00PM by PIB Delhi
+
+
+    India and USA have signed the Inter-Governmental Agreement (IGA) under FATCA in 2015. To enhance the effectiveness of information exchange and transparency, both the sides committed to establish, by January 1, 2017, rules requiring their Reporting Financial Institutions (RFIs) to obtain the Tax Identity Number (TIN) of each reportable person having a reportable account as of June 30, 2014 (pre-existing account).The Income-tax Rules, accordingly, provide for reporting of U.S. TIN from the year 2017 onwards in respect of any pre-existing account.
+
+
+    The US-IRS has issued guidelines through Notice 2017-46dated 25.09.2017 providing relaxation to Foreign Financial Institutions (FFIs) with respect to reporting of U.S.TIN for calendar years 2017, 2018 and 2019. Now the Competent Authority of USA will not determine significant non-compliance with the obligations under the IGA solely because of a failure of a reporting FFI to obtain and report each required U.S.TIN, provided that the reporting FFI:
+
+
+    (i) obtains and reports the date of birth of each account holder and controlling person whose U.S. TIN is not reported;
+
+
+    (ii) requests annually from each account holder any missing required U.S. TIN; and
+
+
+    (iii) before reporting information that relates to calendar year 2017 to the partner jurisdiction, searches electronically searchable data maintained by the reporting FFI for any missing required U.S. TINs.
+
+
+    The Indian RFIs reporting pre-existing accounts should, therefore, ensure that the U.S. TIN is reported in respect of pre-existing accounts for the year 2017 onwards. However, in case the U.S.TIN is not available, to avoid determination by the USA Competent Authority of significant non-compliance to the obligations of the IGA, the RFIs are advised to insert nine capital letters e.g. (i.e. AAAAAAAA) in the TIN field (for the Account Holder or Controlling Person, as the case may be), for such accounts in their reports in Form 61B, provided that all the three conditions listed above are met.
+
+
+    *****
+
+
+    DSM/SBS/KA
+
+    
+    
+    (Release ID: 1516715) Visitor Counter : 1363

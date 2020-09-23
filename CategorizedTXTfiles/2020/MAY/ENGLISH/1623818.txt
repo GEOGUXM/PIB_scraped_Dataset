@@ -1,0 +1,50 @@
+      Ministry of Science & Technology
+
+      ARI develop novel process for synthesis of Quantum Dots used in photographing cellular organelles
+      Posted On: 14 MAY 2020 5:31PM by PIB Delhi
+
+
+    Researchers at the Agharkar Research Institute (ARI), Pune an autonomous institute under the Department of Science & Technology have developed a new process for the synthesis of quantum efficient and biocompatible quantum dots (QDs) used in capturing images of cellular organelles and processes within visible wavelength ranges across the electromagnetic spectrum .
+
+
+    The process which involves continuous flow and is active microreactor assisted has been published in the journal Advances in Colloid and Interface Science recently.
+
+
+    Currently, b ioimaging applications such as visualisation of cellular organelles, tracking cellular processes, etc. are reliant on traditional fluorophores which are f luorescent chemical compounds that can re-emit light upon excitation .
+
+
+    These fluorophores are vulnerable to photobleaching, have low signal intensity, and overlapping spectra which restrict their use, particularly in multispectral bioimaging. Quantum Dot s have advantages over traditional fluorophores in terms of quantum efficiency, photo- and chemical-stability and their toxicity can be tackled by a surface coating which also expands the possibility of the conjugation of various biomarkers while targeting different organelles during multispectral bioimaging. However, it is challenging to reproducibly obtain the essential properties during synthesis. Thus, QDs are still not favoured commercially over traditional fluorophores.
+
+
+    To overcome this challenge Dr Dhananjay Bodas , Scientist, Nanobioscience Group at ARI developed the continuous flow active microreactor based synthesis in conjunction with mathematically predicted process parameters and employed it to obtain narrow size - tunable monodispersed QDs with high degree of reproducibility.
+
+
+    Further, the synthesized QDs were rendered biocompatible by coating with silicone. The coating not only provided biocompatibility but also enhanced quantum efficiency and photostability. These polymer-coated quantum efficient fluorescent nanocrystals were successfully applied in multispectral bioimaging -- multiple emission at the single excitation wavelength, of organelles of cells and zebrafish tissue.
+
+
+    According to Dr Boda's reproducibility can be achieved by stringent control on the synthesis process. Microreaction technology offers not only this alternative but advantages such as faster reaction rates, less concentration/ thermal gradients, less consumption of reagents and so on.
+
+
+    The method could be made industry viable by automation and could be scaled-up in future, which could pave the way for cost-efficient production of monodispersed, quantum efficient, photostable and biocompatible quantum dots, that might serve as an excellent alternative to traditional fluorophores says Dr Bodas .
+
+
+    Figure: a) Schematic of the microreactor used for the synthesis of quantum dots. b) The photoluminescence spectra showing the emission spectra (different colours) obtained at an excitation wavelength of 350 nm. The background is a photograph of different coloured QD s synthesised using the continuous flow active microreactor. c) The top-panel shows the QD s bound to the nucleus and cytoskeleton of NIH 3T3 cells and the bottom one to MF-20 and PCNA cells of zebrafish tissue. The images on the left are “ control ” whereas those on the right are the polymer quantum dot conjugates used for multiplexed bioimaging.
+
+
+    [Publication link: DOI: 10.1016/j.cis.2020.102137
+
+
+    For further details contact Dr Dhananjay Bodas (dsbodas@aripune.org, 020-25325127), Scientist, Nanobioscience Group, and Dr PK Dhakephalkar, Director (Officiating), ARI, Pune, ( director@aripune.org , pkdhakephalkar@aripune.org, 020-25325002).]
+
+
+    ****
+
+
+    KGS/(DST)
+
+    
+    
+    (Release ID: 1623818) Visitor Counter : 1059
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Punjabi

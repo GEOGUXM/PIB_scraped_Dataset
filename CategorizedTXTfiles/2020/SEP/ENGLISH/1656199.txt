@@ -1,0 +1,213 @@
+      Ministry of Health and Family Welfare
+
+      People affected by COVID-19
+      Posted On: 18 SEP 2020 4:30PM by PIB Delhi
+
+
+    The total number of people affected, recovered and died due to COVID-19 is given below :
+
+
+    State/UT wise details of number of total COVID-19 cases, active cases, recovered cases and deaths (as on 16-09-2020)
+
+                                                                                               
+S. No.  Name of State / UT                    Total Cases  Active cases  Recovered/      Deaths
+                                                                                               
+                                                                                               
+                                                                         Discharged/           
+                                                                                               
+                                                                                               
+                                                                         Migrated cases        
+                                                                                               
+                                                                                               
+                                                                                               
+1       Andaman & Nicobar Islands             3574         204           3318            52    
+                                                                                               
+                                                                                               
+                                                                                               
+2       Andhra Pradesh                        583925       92353         486531          5041  
+                                                                                               
+                                                                                               
+                                                                                               
+3       Arunachal Pradesh                     6466         1795          4658            13    
+                                                                                               
+                                                                                               
+                                                                                               
+4       Assam                                 146575       29180         116903          492   
+                                                                                               
+                                                                                               
+                                                                                               
+5       Bihar                                 160871       13055         146980          836   
+                                                                                               
+                                                                                               
+                                                                                               
+6       Chandigarh                            8592         2991          5502            99    
+                                                                                               
+                                                                                               
+                                                                                               
+7       Chhattisgarh                          70777        35909         34279           589   
+                                                                                               
+                                                                                               
+                                                                                               
+8       Dadra & Nagar Haveli and Daman & Diu  2783         229           2552            2     
+                                                                                               
+                                                                                               
+                                                                                               
+9       Delhi                                 225796       29787         191203          4806  
+                                                                                               
+                                                                                               
+                                                                                               
+10      Goa                                   25511        5102          20094           315   
+                                                                                               
+                                                                                               
+                                                                                               
+11      Gujarat                               116183       16357         96582           3244  
+                                                                                               
+                                                                                               
+                                                                                               
+12      Haryana                               98622        20430         77166           1026  
+                                                                                               
+                                                                                               
+                                                                                               
+13      Himachal Pradesh                      10335        3801          6444            90    
+                                                                                               
+                                                                                               
+                                                                                               
+14      Jammu and Kashmir                     56654        18678         37062           914   
+                                                                                               
+                                                                                               
+                                                                                               
+15      Jharkhand                             64439        14118         49750           571   
+                                                                                               
+                                                                                               
+                                                                                               
+16      Karnataka                             475265       98555         369229          7481  
+                                                                                               
+                                                                                               
+                                                                                               
+17      Kerala                                114033       31226         82341           466   
+                                                                                               
+                                                                                               
+                                                                                               
+18      Ladakh                                3499         938           2517            44    
+                                                                                               
+                                                                                               
+                                                                                               
+19      Madhya Pradesh                        93053        21620         69613           1820  
+                                                                                               
+                                                                                               
+                                                                                               
+20      Maharashtra                           1097856      292174        775273          30409 
+                                                                                               
+                                                                                               
+                                                                                               
+21      Manipur                               8210         1745          6418            47    
+                                                                                               
+                                                                                               
+                                                                                               
+22      Meghalaya                             4036         1818          2190            28    
+                                                                                               
+                                                                                               
+                                                                                               
+23      Mizoram                               1480         558           922             0     
+                                                                                               
+                                                                                               
+                                                                                               
+24      Nagaland                              5229         1269          3945            15    
+                                                                                               
+                                                                                               
+                                                                                               
+25      Odisha                                158650       32267         125738          645   
+                                                                                               
+                                                                                               
+                                                                                               
+26      Puducherry                            20601        4674          15522           405   
+                                                                                               
+                                                                                               
+                                                                                               
+27      Punjab                                84482        21154         60814           2514  
+                                                                                               
+                                                                                               
+                                                                                               
+28      Rajasthan                             105898       16761         87873           1264  
+                                                                                               
+                                                                                               
+                                                                                               
+29      Sikkim                                2173         464           1690            19    
+                                                                                               
+                                                                                               
+                                                                                               
+30      Tamil Nadu                            514208       46806         458900          8502  
+                                                                                               
+                                                                                               
+                                                                                               
+31      Telengana                             162844       30401         131447          996   
+                                                                                               
+                                                                                               
+                                                                                               
+32      Tripura                               20150        7498          12435           217   
+                                                                                               
+                                                                                               
+                                                                                               
+33      Uttarakhand                           34407        10739         23230           438   
+                                                                                               
+                                                                                               
+                                                                                               
+34      Uttar Pradesh                         324036       67335         252097          4604  
+                                                                                               
+                                                                                               
+                                                                                               
+35      West Bengal                           209146       23942         181142          4062  
+                                                                                               
+                                                                                               
+                                                                                               
+36      India (Total)                         5020359      995933        3942360         82066 
+                                                                                               
+                                                                                               
+
+    For appropriate management of COVID-19 cases, a three tier arrangement of health facilities [(i) COVID Care Center with isolation beds for mild or pre-symptomatic cases; (ii) Dedicated COVID Health Centre (DCHC) with oxygen supported isolation beds for moderate cases and (iii) Dedicated COVID Hospital (DCH) with ICU beds for severe cases] has been implemented. Tertiary care hospitals under ESIC, Defence, Railways, paramilitary forces, Steel Ministry etc. have been leveraged for case management. In addition, Defence Research and Development Organisation (DRDO) has set up large field hospitals with capacities ranging from 1000 to 10,000 isolation beds.
+
+
+    The availability of beds in various districts is monitored by Ministry of Health and Family Welfare. Based on the growth rate trajectory, States are conveyed the requirement to enhance capacity in advance and followed up through letters and video conferences.
+
+
+    Government of India has taken a number of other steps to contain/mitigate the impact of Covid Pandemic that applies to all sections of society. India followed a whole of Government and whole of society approach. Hon’ble Prime Minister, a High level Group of Ministers (GoM), Cabinet Secretary, Committee of Secretaries and senior officers in MoHFW continue to monitor public health response to COVID-19 in the country.
+
+
+    The public health actions were taken in a pre-emptive, pro-active, graded manner based on the evolving scenario. A number of travel advisories were issued restricting inflow of international travelers, till such time, commercial flights were suspended on 23rd March, 2020. Till then, a total of 14,154 flights with 15,24,266 passengers have been screened at these airports. Screening was also done at 12 major and 65 minor ports and land border crossings. In the initial part of the pandemic, India evacuated a large number of stranded passengers from then COVID affected countries (China, Italy, Iran, Japan, Malaysia) and again in the un-lockdown phase, a total of 13,18,891 passengers have been brought back (as on 14th September, 2020) and followed up.
+
+
+    Integrated Disease Surveillance Programme (IDSP) is conducting contact tracing through community surveillance. In the earlier part of the pandemic, this was done for travel related cases and subsequently for cases being reported from community as a part of containment strategy. As on 14th September 2020, a total of about 40 lakh persons have been kept under surveillance. There are 726 laboratories conducting COVID-19 Testing. India is testing is about 1 million samples a day. A total of 5.8 crore samples have been tested so far (as on 14th September 2020).
+
+
+    States are being supported in terms of supply of logistics. So far 1.41 Crore of PPE Kits, 3.44 crores N-95 masks, 10.84 crore tablets of Hydroxychloroquine and 30,663 ventilators and 1,02,400 oxygen cylinders have been supplied to States/UTs/ Central Government hospitals so far (as on 14th September, 2020).
+
+
+    Various cadres of personnel and volunteers across sectors and departments for COVID related works and maintenance of other essential medical services have been worked out, trained through resources made available on the website of MoHFW, iGOT (online platform) by DOPT (https://igot.gov.in/igot/).
+
+
+    MoHFW website is being daily to provide general public with information on current status of COVID-19 spread in India. Communication material is also being hosted on MoHFW website and through social media. A dedicated call centre / helpline (1075) has been started to guide community at large which are being used by the citizens very effectively and on a regular basis.
+
+
+    More than 30 vaccine candidates have been supported which are in different stages of development, 3 candidates are in advanced stage of Phase I/II/III trials and more than 4 are in advanced pre-clinical development stage. A National Expert Group on Vaccine Administration for COVID-19 has been constituted on 7th August, 2020, under NITI Aayog. Thirteen clinical trials of repurposed drugs have been undertaken to build a portfolio of therapeutic options for Covid-19 patients.
+
+
+    Further, financial assistance to States/UTs has been given based on the number of cases and trends of COVID-19 Pandemic. Accordingly, all the States/ UTs are provided with necessary financial support under India COVID-19 Emergency Response and Health System Preparedness Package. States /UTs were given flexibility to use the resources available under NHM to prepare the public healthcare system for COVID-19 management.
+
+
+    During FY 2020-21, funds of Rs 4256.79 crore have been released to the States/ UTs as on 10.09.2020 and the State wise amount allocated and released to each State/UT is given below:
+
+
+    The Minister of State (Health and Family Welfare), Sh Ashwini Kumar Choubey stated this in a written reply in the Lok Sabha here today.
+
+
+    *****
+
+
+    MV
+
+    
+    
+    (Release ID: 1656199) Visitor Counter : 64
+    
+    
+      Read this release in: Manipuri , Telugu

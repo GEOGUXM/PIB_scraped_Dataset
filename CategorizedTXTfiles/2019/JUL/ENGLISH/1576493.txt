@@ -1,0 +1,93 @@
+      Ministry of Finance
+
+      NPA accounts
+      Posted On: 01 JUL 2019 5:29PM by PIB Delhi
+
+
+    In terms of Reserve Bank of India (RBI)’s master circular dated 1.7.2015 on Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances, an asset becomes non-performing when it ceases to generate income for the bank. As per the circular, a non-performing asset (NPA) is a loan or an advance where—
+
+
+     1. in respect of a term loan, interest and/or instalments of the principal remain overdue for a period of more than 90 days;
+
+     2. in respect of an Overdraft/Cash Credit, the account remains ‘out of order’;
+     3. in respect of bills purchased and discounted, the bill remains overdue for a period of more than 90 days;
+     4. in respect of agricultural loans, the instalment of principal or interest thereon remains overdue for—
+
+    
+    (i) two crop seasons for short-duration crops, and
+    (ii) for one crop season for long-duration crops.
+
+
+     1. the amount of liquidity facility remains outstanding for more than 90 days, in respect of a securitisation transaction;
+
+
+     1. in respect of derivative transactions, the overdue receivables representing positive mark-to-market value of a derivative contract, if these remain unpaid for a period of 90 days from the specified due date for payment.
+
+        RBI has informed that the criteria for classifying an account as NPA have not been amended or changed during the past five years.
+
+    
+    As per RBI input, the account-wise information and information on promoters Bank company-wise is not centrally maintained with it. RBI has further informed that in terms of Section 45E of RBI Act, 1934, RBI is prohibited from disclosing credit information at bank/borrower level. Bank-group wise number of unique borrowers with exposure of Rs. 5 crore and above, whose loan accounts were classified as NPA as on 31.3.2019, as intimated by RBI, are as under:
+
+                                                
+Bank group                      Number of       
+                                unique borrowers
+                                                
+                                                
+                                                
+Public Sector Banks             6,699           
+                                                
+                                                
+                                                
+Private Sector Banks            1,859           
+                                                
+                                                
+                                                
+Foreign Banks                   220             
+                                                
+                                                
+                                                
+Small Finance Banks -Scheduled  6               
+                                                
+                                                
+                                                
+                                                
+
+    Steps taken to expedite and enable resolution of NPAs and recovery from NPA accounts, include, inter-alia, the following:
+
+
+    
+    (1) The Insolvency and Bankruptcy Code, 2016 (IBC) has been enacted, which has provided for taking over the management of the affairs of the corporate debtor at the outset of the corporate insolvency resolution process. Coupled with debarment of wilful defaulters and persons associated with NPA accounts from the resolution process, this has effected a fundamental change in the creditor-debtor relationship. In terms of RBI’s circular dated 7.6.2019 on “Prudential Framework for Resolution of Stressed Assets” complete discretion has been given to lenders with regard to design and implementation of resolution plans, while providing for disincentives in the form of additional provisioning for delay in implementation of resolution plan or initiation of insolvency proceedings.
+
+
+    (2) Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act has been amended to make it more effective, with provision for three months’ imprisonment in case the borrower does not provide asset details and for the lender to get possession of mortgaged property within 30 days.
+
+
+    (3) Suits for recovery of dues are also filed by banks before Debts Recovery Tribunals. Six new Debts Recovery Tribunals have been established to expedite recovery.
+
+
+    
+    (4) Under the PSB Reforms Agenda, PSBs have created Stressed Asset Management Verticals to focus attention on recovery, segregated monitoring from sanctioning roles in high-value loans, and entrusted monitoring of loan accounts of above Rs. 250 crore to specialised monitoring agencies for clean and effective monitoring, and created online end-to-end One-Time Settlement platforms for timely and better realisation.
+    Enabled by the above steps, Scheduled Commercial Banks have recovered Rs. 4,51,857 crore over the last four financial years, including record recovery of Rs. 1,50,789 crore during 2018-19.
+
+
+    This was stated by Smt. Nirmala Sitharaman, Union Minister of Finance & Corporate Affairs in a written reply to a question in Lok Sabha today.
+
+
+    *****
+
+
+    DSM/RM/PD
+
+    
+    
+    (Release ID: 1576493) Visitor Counter : 688
+    
+    
+    
+    
+    
+
+4. 
+   
+   
+1.

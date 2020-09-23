@@ -1,0 +1,39 @@
+      Ministry of Finance
+
+      Clarification with respect to the E-way Bill System
+      Posted On: 31 MAR 2018 6:30PM by PIB Delhi
+
+
+    The e-way Bill System for Inter-State movement of goods across the country is being introduced from 01st April 2018. Few clarifications regarding the new e-way bill system are as follows:
+
+     1. Situation: -Consider a situation where a consignor is required to move goods from City X to City Z. He appoints Transporter A for movement of his goods. Transporter A moves the goods from City X to City Y. For completing the movement of goods i.e. from City Y to City Z, Transporter A now hands over the goods to Transporter B. Thereafter, the goods are moved to the destination i.e. from City Y to City Z by Transporter B. How would the e-way bill be generated in such situations?
+
+    Clarification : -It is clarified that in such a scenario, only one e-way bill would be required. PART A of FORMGST EWB-01 can be filled by the consignor and then the e-way bill will be assigned by the consignor to Transporter A. Transporter A will fill the vehicle details, etc. in PART B of FORMGST EWB-01and will move the goods from City X to City Y.
+
+
+    On reaching City Y, Transporter A will assign the said e-way bill to the Transporter B. Thereafter, Transporter B will be able to update the details of PART B of FORMGST EWB-01. Transporter B will fill the details of his vehicle and move the goods from City Y to City Z.
+
+     1. Situation : - Consider a situation where a Consignor hands over his goods for transportation on Friday to transporter. But, the assigned transporter starts the movement of goods on Monday. How would the validity of e-way bill be calculated in such situations?
+
+    Clarification: -It is clarified that the validity period of e-way bill starts only after the details in PART B of FORMGST EWB-01 are updated by the transporter for the first time.
+
+
+    In the given situation, Consignor can fill the details in PART A of FORMGST EWB-01 on Friday and handover his goods to the transporter. When the transporter is ready to move the goods, he can fill the PART B of FORMGST EWB-01 i.e. the assigned transporter can fill the details in PART B of FORMGST EWB-01 on Monday and the validity period of the e-way bill will start from Monday.
+
+
+    ***
+
+
+    DSM
+
+    
+    
+    (Release ID: 1527118) Visitor Counter : 3332
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+1.

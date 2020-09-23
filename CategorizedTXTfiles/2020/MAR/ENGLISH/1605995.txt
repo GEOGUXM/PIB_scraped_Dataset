@@ -1,0 +1,84 @@
+      Ministry of Railways
+
+      Punctuality of Trains
+      Posted On: 11 MAR 2020 5:38PM by PIB Delhi
+
+
+    Punctuality of trains is accorded very high priority by Indian Railways. However, trains do get delayed not only due to the factors related to its internal working but also due to external factors which are beyond the control of Railways. In addition to asset failures, train running and punctuality is affected by factors such as line capacity, terminal capacity, constraints on account of inadequate infrastructure, increasing passenger and freight traffic, adverse weather conditions (fog, rains, breaches), intermittent natural calamities such as floods, cyclones, heavy rains, heavy road traffic at level crossing gates, law & order problems, miscreant activities such as theft of Railway assets, mid-section run over cases involving cattle and humans, etc.
+
+
+    In order to ensure timely operation of passenger trains, Railways has taken numerous steps which include:
+
+     1. Rigorous monitoring at Divisional, Zonal and Railway Board levels.
+     2. Standardization of rakes and provision of spare rakes to improve punctuality
+     3. Removal of infrastructure bottlenecks in a planned manner.
+     4. Integrated Mega Blocks are planned in such a way that all asset maintenance departments can do their work simultaneously.
+     5. End to end running of some trains with diesel locomotives to avoid detention on account of loco changing from diesel to electric.
+     6. Conversion of conventional rakes of Mail/Express trains (Integral Coach Factory design rakes) into LHB (Linke Hofmann Busch) rakes.
+     7. Rationalization of Time Table in order to make a group of similar speed trains.
+     8. Curtailment of stoppage time at major terminals.
+     9. Provision of Bye-pass at stations to avoid engine reversal.
+    10. For attaining accuracy in punctuality data, the timing of arrival and departures are being captured automatically through data-loggers.
+
+    Indian Railway Signalling assets are continuously being upgraded to install Modern Signalling System for timely operation of Passenger trains & reducing the journey time. The status of Signalling asset as on 31.01.2020 are as under:
+
+                                                                                                                                         
+S. No.  ITEM                                                                                                             As on 31.01.2020
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+1       Provision of Panel Interlocking (PI)/ Electronic Interlocking (EI)/ Route Relay Interlocking (RRI) at Stations.  6027            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+2       Stations with Complete Track Circuiting (Stations)                                                               6140            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+3       Block Proving by Axle Counters (Block Sections)                                                                  5610            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+4       Interlocked Level Crossings (Nos.)                                                                               11587           
+                                                                                                                                         
+                                                                                                                                         
+
+    Modernization of Signaling is proposed to be taken up on Golden Quadrilateral (GQ) and Golden Diagonal (GD) routes. The work includes Automatic Train Protection (ATP) System.
+
+
+    Indian Railways have decided to implement Automatic Train Protection (ATP) System on selected sections. These Systems enable Loco Pilots to drive trains even during heavy fog as movement authority/ Signal aspect is displayed in the cab of the Loco. This helps Loco Pilot to run the train confidently even during impaired visibility. The following ATP systems are working /in-progress:-
+
+     1. Train Protection and Warning System: Automatic Train Protection (ATP) System based on European Train Control System (ETCS Level-1) Technology i.e. Train Protection and Warning System (TPWS) has been implemented on 345 Route km (200 Route km Delhi - Agra Section, 117 Route km Chennai Suburban section and 28 Route km of Metro Railway Kolkata).
+     2. Train Collision Avoidance System (TCAS): Train Collision Avoidance System (TCAS) is an indigenous Automatic Train Protection (ATP) System developed in association with Indian manufacturers. The system has been installed on Lingampalli – Vikarabad – Wadi and Vikarabad - Bidar sections (250 Route km) on South Central Railway. Further, the systems are under implementation on 1199 Route km on South Central Railway.
+     3. Pilot projects for provision of Modern Train Control System based on latest LTE based European Train Control System (Level-2) is under implementation on 4 pilot sections of 640 Route kms.
+
+    This press release is based on information given by the Minister of Railways and Commerce & Industry, Shri Piyush Goyal in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    SG
+
+
+    
+
+    
+    (Release ID: 1605995) Visitor Counter : 254
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+3.

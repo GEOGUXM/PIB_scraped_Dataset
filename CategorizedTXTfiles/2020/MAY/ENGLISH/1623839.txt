@@ -1,0 +1,36 @@
+      Ministry of Education
+
+      NIT Kurukshetra Implements Enterprises Resource Planning (ERP), SAMARTH
+      
+      SAMARTH is an e-Governance platform, developed under National Mission of Education in Information and Communication Technology Scheme (NMEICT) of M/o HRD
+      
+      SAMARTH toenhance productivity through better information management in the institute by seamless access to information
+
+      Posted On: 14 MAY 2020 6:21PM by PIB Delhi
+
+    Department of Higher Education, M/o Human Resource Development, has mission to provide quality education to students across all Universities & HEIs. For this, M/o HRD has developed an e-Governance platform, SAMARTH(Enterprises Resource Planning) ERP, under National Mission of Education in Information and Communication Technology Scheme (NMEICT). ERP, SAMARTH, is an Open Standard Open Source Architecture, Secure, Scalable and Evolutionary Process Automation Engine for Universities and Higher Educational Institutions. It caters to faculty, students and staff at a University/Higher Educational Institutions. Now, the ERP, SAMARTH, has been implemented at National Institute of Technology, Kurukshetra, a participating unit under the World Bank supported Technical Education Quality Improvement Program (TEQIP). The objective of this initiative is to automate the processes of the Institute.
+
+
+    Following 38 modules have been implemented in NIT,Kurukshetra:
+
+
+    Organigram, Organizational Unit, Users, Employee Management, RTI Management, Legal Case Management, Leave Management, Estate Management, Fee Management, Vendor Bill Tracking, File Management & Tracking, Inventory Management, Research Project Management, Programmes Management, Payroll, Recruitment Management, Health Facilities Management, Knowledge Management, Transport Management, Content Federation (CFS), Training & Placements, Hostel Management, Budget and Accounts, Sports Facilities Management, Grievance Management (Employee), Uni Web Portal, Student Lifecycle, Endowment, College Affiliation, Student Feedback Management, Minutes and Retrieval/Document, Essential Services, Alumni Management, Core Communication,IT Service Desk,Training of Trainers Management(ToT) and Residence Allocation.
+
+
+    This initiative will enhance the productivity through better information management in the institute by seamless access to information, and its utilization for various purposes.
+
+
+    The software was provided by the SAMARTH team free of cost to NIT, Kurukshetra; the rollout by done through an in-house team at no additional cost through a collaboration between NMEICT and TEQIP teams inMHRD.
+
+
+    *****
+
+
+    NB/AKJ/AK
+
+    
+    
+    (Release ID: 1623839) Visitor Counter : 1531
+    
+    
+      Read this release in: Urdu , Hindi , Punjabi , Tamil , Telugu

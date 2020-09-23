@@ -1,0 +1,53 @@
+      Ministry of Science & Technology
+
+      One-step laser-based fabrication of self-cleaning metallic surfaces can help prevent rusting
+      Posted On: 31 AUG 2020 12:59PM by PIB Delhi
+
+
+    Ecofriendly self-cleaning surfaces that can protect biomedical and other applications from rusting and bacterial growth may soon be a reality with an ultrafast laser-based process that scientists have developed for fabrication of surfaces without use of coatings or additional surface treatment.
+
+
+    Scientists from International Advanced Research Centre for Powder Metallurgy & New Materials (ARCI), an autonomous institute of the Department of Science and Technology (DST), Govt. of India, at its Centre for Laser Processing of Materials, have brought out a single-step method to develop super-hydrophobic functional surfaces that have ability to repel water. Such surfaces do not allow water to cling long enough to evaporate and leave behind residue.
+
+
+    This indigenous laser processing, which has been published in the journal ‘ Materials Performance and Characterization ’, allows the fabrication of fast and flexible super-hydrophobic surfaces on a wide range of materials. By adjusting the laser processing parameters, in this method, it is possible to accurately control the structure pattern and precisely tailor the contact angle and the wetting properties of a variety of substrates. It is a robust, simple, fast, precise, and eco-friendly process and can be used to effectively fabricate robust super-hydrophobic surfaces and has high potential for large-scale application.
+
+
+    Currently, super-hydrophobic properties are achieved by developing rough surfaces and low surface free energy chemical coatings which are mostly two-step processes. The first step is to construct a rough surface by physical or chemical methods, and the second step involves chemical coatings of low surface free energy chemicals. However, these super-hydrophobic coating surfaces have many limitations, such as the use of fluorinated toxic reagent and poor mechanical stability.
+
+
+    In contrast, the single-step process developed by ARCI scientists comprises surface modification using a femtosecond laser ( lasers emitting light pulses with durations between a few femtoseconds and hundreds of femtoseconds, i.e. 10 -15 of a second ) , non-thermal, and ecofriendly. The efficient and straightforward strategy will encourage the scalability of the process both in terms of reducing the cycle time and applying the developed hierarchical micro-scale and nano-scale structures over large areas for practical applications in the prevention of corrosion, bacterial growth, and avoidance of repeated cleaning.
+
+
+    [Patent:
+
+
+    Ravi Bathe, K. S. Srin, and G. Padmanabham, “Method for Preparing Multifunctional and Isotropic, Uni-directional Superhydrophobic Surfaces using Ultrafast Laser” Indian Patent filed (24512/2020-DEL; dated 27/05/2020)
+
+
+    Publication link:
+
+
+    https://doi.org/10.1520/MPC20180090
+
+
+    For more details contact Dr. Ravi N Bathe (ravi@arci.res.in)]
+
+
+    Figure 1: 3D Optical and SEM images of laser surface modified stainless steel surfaces showing microgrooves and microspikes with periodic nanostructure over it.
+
+
+    Figure 2: The schematic diagram shows the directional superhydrophobicity on different surface features. Profile of water droplet on laser modified stainless steel surface (contact angle ~ 170 degree).
+
+
+    *****
+
+
+    NB/KGS(DST Media Cell)
+
+    
+    
+    (Release ID: 1649959) Visitor Counter : 352
+    
+    
+      Read this release in: Hindi , Marathi , Bengali , Manipuri , Assamese , Punjabi , Tamil

@@ -1,0 +1,46 @@
+      Ministry of Earth Science
+
+      “Met department issues district level weather forecasting covering all districts of the country”: Dr. Harsh Vardhan
+      Posted On: 18 JUL 2018 4:44PM by PIB Delhi
+
+
+    IMD, Ministry of Earth Sciences (MoES) under the scheme “Gramin Krishi Mausan Seva (GKMS)” issues district level weather forecast covering all the districts in the country. Based on the weather forecast, Agromet Advisories are prepared in collaboration with 130 Agromet Field Units (AMFUs) located at State Agricultural Universities, ICAR institutes and IIT on every Tuesday and Friday. Detailed information is provided under ‘Supplementary Information’. Most of the farmers in a district have been registered under the MKisan portal, Ministry of Agriculture and Farmers Welfare and the number of farmers in a district receiving the SMS Agromet advisories ranges from thousands to lakhs.
+
+
+    IMD is planning to establish District Agromet Units (DAMUs) at Krishi Vigyan Kendras (KVKs) to generate Agromet Advisories for each block of respective districts and reach out to the farmers to save the crops from weather aberration and ultimately increase the productivity of the crops.
+
+
+    IMD has already covered 637districts in the country for providing Agromet Advisories and is now venturing into implementation of block level weather forecast and Agromet Advisories in collaboration with Krishi Vigyan Kendras (KVKs) under ICAR network. From Monsoon 2018, IMD with AMFUs has started to prepare and disseminate the experimental block level advisory. A total 50 Agro-Met Field Units (AMFUs) representing 24 states have started the block level advisory on pilot basis in district of its location. As on date, these 50 units cover 200 blocks. At present, 39 million farmers registered with MKisan Portal are receiving the Agromet advisories directly through SMS.
+
+
+    The forecast accuracy of IMD is comparable, or better, than the leading centres of the world. The accurate forecast of the tropical cyclones PHAILIN, HUDHUD, VARDAH etc are the examples of best forecasts issued by IMD in recent years.
+
+
+    The recent upgradation of the High Power Computing System has helped in the implementation of the following modelling systems which would further refine cyclone forecasting:
+
+
+      * Global Ensemble Forecasting System (GEFS) at a very high a resolution of 12 km to provide forecast upto 7 days from 1 st June, 2018.
+
+      * The Unified Model (UM) and Unified Model Ensemble Prediction System (UMEPS) have been adapted from UK Meteorological Office (UKMO), UK to provide forecast upto 7 days with 12 km resolution from 1 st June, 2018.
+      * IMD also runs cyclone specific Hurricane Weather Research & Forecast (HWRF) Model adapted from NCEP, NOAA, USA with a resolution of 18 km, 6 km and 2 km for cyclone track and intensity prediction. A project has been undertaken to implement high resolution Ocean Atmospheric Coupled HWRF Model at IMD for cyclone forecasting.
+
+    This information was given by Union Minister of Earth Sciences, Dr. Harsh Vardhan, in a written reply to a question in Lok Sabha today.
+
+
+    ***
+
+
+    HK
+
+
+    
+
+    
+    (Release ID: 1539004) Visitor Counter : 227
+    
+    
+    
+    
+    
+
+*

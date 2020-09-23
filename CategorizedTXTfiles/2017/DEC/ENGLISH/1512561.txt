@@ -1,0 +1,67 @@
+      Ministry of Corporate Affairs
+
+      Insolvency and Bankruptcy Board of India issues Guidelines for Technical Standards for Core Services
+      Posted On: 14 DEC 2017 11:39AM by PIB Delhi
+
+
+    Based on recommendations of the Technical Committee, the Insolvency and Bankruptcy Board of India (IBBI) has laid down the Technical Standards for the performance of Core Services for the following matters under Regulation 13 of the IBBI (Information Utilities) Regulations, 2017:
+
+
+    i) standard terms of service;
+
+
+    ii) registration of users;
+
+
+    iii) unique identifier for each record and each user;
+
+
+    iv) submission of information;
+
+
+    v) identification and verification of persons;
+
+
+    vi) authentication of information;
+
+
+    vii) verification of information;
+
+
+    viii) data integrity;
+
+
+    ix) consent framework for providing access to information to third parties;
+
+
+    x) security of the system;
+
+
+    xi) security of information;
+
+
+    xii) risk management framework;
+
+
+    xiii) preservation of information; and
+
+
+    xiv) purging of information.
+
+
+    An information utility shall comply with the applicable Technical Standards, while providing services.
+
+
+    The Guidelines are available at www.mca.gov.in and www.ibbi.gov.in .
+
+
+    *****
+
+
+    DSM/SBS/KA/KN
+
+
+    
+
+    
+    (Release ID: 1512561) Visitor Counter : 398

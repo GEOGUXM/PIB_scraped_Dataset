@@ -1,0 +1,26 @@
+      Department of Atomic Energy
+
+      Malware in NPCIL system isolated, critical plant systems not affected
+      Posted On: 30 OCT 2019 6:26PM by PIB Delhi
+
+
+    Identification of malware in Nuclear Power Corporation of India Limited (NPCIL) system is correct. The matter was conveyed by the Indian Computer Emergency Response Team (CERT-In) when it was noticed by them on September 4, 2019.
+
+
+    The matter was immediately investigated by the Department of Atomic Energy (DAE) specialists. The investigation revealed that the infected PC belonged to a user who was connected in the internet connected network used for administrative purposes. This is isolated from the critical internal network. The networks are being continuously monitored.
+
+
+    Investigation also confirms that the plant systems are not affected.
+
+
+    ********
+
+
+    NK/PK
+
+    
+    
+    (Release ID: 1589632) Visitor Counter : 664
+    
+    
+      Read this release in: Urdu , Hindi

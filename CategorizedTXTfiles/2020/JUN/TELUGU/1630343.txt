@@ -1,0 +1,48 @@
+      ఆర్థిక మంత్రిత్వ శాఖ
+
+      ఎస్ఎంఎస్ ద్వారా నిల్ జిఎస్టి రిటర్న్ ని దాఖలు చేసే సౌకర్యాన్ని ప్రారంభించిన ప్రభుత్వం
+      Posted On: 08 JUN 2020 6:27PM by PIB Hyderabad
+
+
+    పన్ను చెల్లింపుదారులకు వివిధ సదుపాయాలు కల్పించడంలో భాగంగా ఒక ముఖ్యమైన చర్యకు ప్రభుత్వం శ్రీకారం చుట్టింది. ప్రభుత్వం ఈ రోజు నుండి నిల్ జిఎస్‌టి నెలవారీ రిటర్న్‌ను ఫార్మ్ జిఎస్‌టిఆర్ -3 బిలో ఎస్‌ఎంఎస్ ద్వారా దాఖలు చేయడానికి అనుమతించింది. ఇప్పటి వరకు సాధారణంగా పోర్టల్‌లో తమ ఖాతాలోకి లాగిన్ కావాల్సి ఉండేది. ప్రతి నెల వారి రిటర్న్‌లను దాఖలు చేయాల్సిన 22 లక్షలకు పైగా రిజిస్టర్డ్ పన్ను చెల్లింపుదారులకు జిఎస్‌టి సమ్మతి సౌలభ్యాన్ని గణనీయంగా మెరుగుపరుస్తుంది. ఇప్పుడు ఈ పన్ను చెల్లింపుదారుల్లో నిల్- రుణభారం లేని చెల్లింపుదారులు జిఎస్‌టి పోర్టల్‌కు లాగిన్ అవ్వవలసిన అవసరం లేదు వారి నిల్ రిటర్న్‌లను ఎస్ఎంఎస్ ద్వారా దాఖలు చేయవచ్చు.
+
+
+    2. ఈ సౌలభ్యాన్ని వినియోగించుకోవాలంటే, నిల్ ఫార్మ్ జిఎస్‌టిఆర్ -3 బి ని SMS ద్వారా దాఖలు చేసే కార్యాచరణను జిఎస్టిఎన్ పోర్టల్‌లో తక్షణమే అమల్లోకి తెచ్చారు. అలా దాఖలు చేసిన రిటర్న్‌ల స్థితిని జిఎస్‌టిఎన్ ఖాతాకు లాగిన్ చేసి నావిగేట్ చేయడం ద్వారా జిఎస్‌టి పోర్టల్‌లో ఇలా ట్రాక్ చేయవచ్చు: Services>Returns>Track Return Status.
+
+
+    ఎస్ఎంఎస్ ద్వారా నిల్ రిటర్న్స్ ని దాఖలు చేసే ప్రక్రియ ఈ కింద విధంగా ఉంటుంది:
+
+                                                                                                                                                                                                                                     
+Step                   SMS to 14409                               Receive from VD-GSTIND                                                                                                                                             
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+Initiate Nil Filing    NIL<space>3B<space>GSTIN<space>Tax period  123456 is the CODE for Nil filing of GSTR3B for09XXXXXXXXXXXZC for period 052020. Code validity 30 min.                                                            
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+                       Ex. NIL 3B 09XXXXXXXXXXXZC 052020                                                                                                                                                                             
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+Confirming Nil Filing  CNF <space>3B<space>Code                   Your, 09XXXXXXXXXXXZC, GSTR3B for 052020 is filed successfully and acknowledged vide ARN is AA070219000384. Please use this ARN to track the status of your return.
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+                       Ex. CNF 3B 123456                                                                                                                                                                                             
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+For Help, anytime      HELP<Space>3B                              To file NIL return of GSTIN for Mar 2020: NIL 3B 07CQZCD1111I4Z7 032020 To confirm Nil filing: CNF 3B CODE More details www.gst.gov.in                             
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+                       Ex. Help 3B                                                                                                                                                                                                   
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                     
+
+    ***
+
+    
+    
+    (Release ID: 1630343) Visitor Counter : 55
+    
+    
+      Read this release in: English , Malayalam , Urdu , Marathi , Hindi , Manipuri , Punjabi , Odia , Tamil

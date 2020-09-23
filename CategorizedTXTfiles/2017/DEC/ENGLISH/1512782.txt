@@ -1,0 +1,95 @@
+      Ministry of Railways
+
+      Safety Measures Taken in Indian Railways
+      Posted On: 15 DEC 2017 5:07PM by PIB Delhi
+
+
+    Improvement in Rail safety is a continuous process and constant endeavour is made to improve the same. Safety Audits/inspections are undertaken at regular intervals on all railway infrastructures with a view to identify weak areas in asset maintenance, safety procedure and systemic defects and to provide ways and means to prevent accidents. Besides, periodical safety drives are launched from time to time to indicate safety consciousness amongst staff and to streamline safety aspects including maintenance of assets. As a result of safety measures, Number of train accidents have been continuously decreasing from 135 in 2014-15 to 107 in 2015-16 and down to 104 in 2016-17. During the current year i.e. 2017-18 (from 1 st April to 30 th November 2017), a total of 49 consequential train accidents took place over Indian Railways in comparison to the 85 accidents in the corresponding period of the previous year, which is an improvement of 42 percent over last year. Apart from this following safety measures are undertaken:-
+
+
+    Steps for improving Tracks:
+
+
+    Railway tracks are replaced through track renewal works which is an ongoing process. Track renewal works are undertaken as and when stretch of track becomes due for renewal on the basis of criteria laid down in Indian Railway Permanent Way Manual on age cum condition basis viz. traffic carried in terms of gross million tonnes & incidence of rail fracture/failure, wear of rails, and maintainability of track as per standards etc. In case any stretch of track is not renewed in time due to various reasons including scarcity of funds, material etc. suitable speed restrictions, if required, are imposed to ensure safe running of trains. Additional funds are being provided through Rashtriya Rail Sanraksha Kosh (RRSK) and Mega Traffic Blocks are being arranged for executing these works.
+
+
+    For the year 2017-18, 3600 km target has been kept for track renewal.
+
+
+    Digital type of machines for Ultrasonic Flaw Detection (USFD) testing of rails is being used which are more reliable. This technology is being extensively used in Indian Railways to detect flaws in rails and weld failures in advance and take remedial steps to avert train accidents.
+
+
+    Electronic monitoring of track geometry is carried out with Track Recording Cars (TRC) and Portable Oscillation Monitoring Systems (OMS) to detect track geometry defects for planning maintenance. Maintenance inputs are given to track and bridges as per requirement noticed during manual inspections, TRC & OMS runs and USFD testing to keep track in safe condition.
+
+
+    Steps for improving Signaling:
+
+
+    Electrical/Electronic Interlocking System with centralized operation of points and signals are being provided to eliminate human failure and to replace old mechanical systems. These systems have been provided at 5661 stations upto 31.10.2017.
+
+
+    Complete Track Circuiting of stations to enhance safety for verification of track occupancy by electrical means instead of human element has been completed at about 5889 stations upto 31.10.2017.
+
+
+    Axle Counter for Automatic clearance of Block Section (BPAC) to ensure complete arrival of train before granting line clear and to reduce human element have been provided on 4935 block sections upto 31.10.2017.
+
+
+    Interlocking of Level Crossing Gates to protect Level Crossing Gate with signals to avoid accidents has been done at 10921 gates upto 31.10.2017.
+
+
+    Further Railways have been introducing following new safety technology for smooth and safe running of trains:
+
+
+    Train Protection & Warning System (TPWS) - Train Protection & Warning System (TPWS) mitigates safety risk of accidents/collisions due to loco pilot’s error of Signal Passing at Danger or over speeding. It is a proven European train protection technology and deployed extensively on World Railways.
+
+
+    Train Protection & Warning System ( TPWS) based on this proven technology has been operationalized on 342 RKMs in following sections of Indian Railways:
+
+
+    (a) Chennai - Gummidipundi Suburban Section of Southern Railway (50 RKMs).
+
+
+    (b) Dum Dum – Kavi Subhash section of Metro Railway, Kolkata (25 RKMs).
+
+
+    (c) Hazrat Nizamuddin – Agra Section of Northern/North Central Railway 200 RKMs).
+
+
+    (d) Basin Bridge - Arrakkonam Section of Southern Railway (67 RKMs).
+
+
+    Train Collision Avoidance System (TCAS) - TCAS is a developmental project being taken on a limited section of Lingamapalli – Vikarabad – Wadi - Bidar section (250 km) on South Central Railway. Operational deployment of TCAS on Railways on Absolute Block Signalling sections will be taken-up after successful conclusion of the extended field trials and safety certification of system by Independent Safety Assessor (ISA).
+
+
+    Extended field trials and safety validation of system to Safety Integrity Level-4 (SIL-4) by an Independent Safety Assessor (ISA) is in progress.
+
+
+    All Diesel locomotives are turned out from maintenance sheds with proper checking and super checking by Senior Supervisors and Officers. It is also ensured that all safety devices and equipment are functioning properly on all locomotives.
+
+
+    Fog PASS devices are provided to Crew working in fog affected areas.
+
+
+    It is ensured that no Crew is overdue for PME, Safety training, Refresher course and any other mandatory courses.
+
+
+    Preventive and predictive maintenance of the Railway assets is being undertaken to ensure safe train operation. Time to time special safety drives are undertaken involving officers and supervisors.
+
+
+    Proliferation of LHB coaches that have better safety features. It has been decided to completely switch over to the manufacture of LHB coaches from 1 st April 2018 onwards and stop the manufacture of ICF coaches. Around 3,000 LHB coaches shall be manufactured every year from 1 st April 2018 onwards as against average of 1000 LHB coaches in last 5 yrs. It has also been planned to retrofit around 32,000 existing ICF coaches having a life of upto 15 years and having Screw Coupling with (Centre Buffer Coupler) CBC in the next 5 years.
+
+
+    UMLC (unmanned level crossings): Topmost priority for eliminating UMLC gates in a time bound manner up to December 2018 and deployment of Gate Mitra for the interim period.
+
+
+    This Press Release is based on the information given by the Minister of State for Railways Shri Rajen Gohain in a written reply to a question in Rajya Sabha on 15.12.2017 (Friday).
+
+
+    ****
+
+
+    AKS/MKV/DK
+
+    
+    
+    (Release ID: 1512782) Visitor Counter : 940

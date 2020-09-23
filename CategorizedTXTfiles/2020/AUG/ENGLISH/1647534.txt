@@ -1,0 +1,47 @@
+      Ministry of Science & Technology
+
+      ARCI scientists convert tamarind waste & cotton waste to supercapacitor electrodes
+      Posted On: 21 AUG 2020 12:36PM by PIB Delhi
+
+
+    Tamarind seeds and cotton waste may soon be used to make low-cost supercapacitors for energy storage – thanks to the efforts of a group of Indian scientists who have used such waste biomass to develop materials for making cost-effective supercapacitor devices. This can pave the way towards affordable electric vehicles and hybrid vehicles which bank on supercapacitors significantly for their application in braking systems and start-stop cycles.
+
+
+    Responding to the intense hunt for supercapacitor materials to meet the widespread demand for supercapacitors, Scientists at the International Advanced Research Centre for Powder Metallurgy & New Materials (ARCI) , an autonomous institute of the Department of Science and Technology (DST), Govt. of India, have developed a couple of cost-effective electrode material for making affordable supercapacitor devices, from waste biomass like tamarind seeds and industrial cotton waste. They have converted the waste materials into highly porous carbon fibres by activation process and then utilised the porous carbon fibres to make high-performance supercapacitor electrodes. The findings of their recent work have been published in the ‘Journal of Materials Science: Materials in Electronics.’
+
+
+    The electrode materials made from the biomass waste has been tested with the help of a rapid testing protocol developed by Scientists at Centre for Fuel Cell Technology, ARCI-Chennai to evaluate different porous electrode materials for their suitability in supercapacitors. The protocol involves Electrochemical Impedance Spectroscopy (EIS) and records the impedance ( a parameter used to measure the opposition that a circuit presents to a current when a voltage is applied) offered by a material under a small perturbation and the capacitance ( ratio of the change in electric charge of a system to the corresponding change in its electric potential) formed by the arrangement of electrolyte ions over the electrode surface, which is called as double-layer capacitance.
+
+
+    The ARCI scientists used it to test the pore characteristics and stability of the activated carbon material prepared from tamarind seed and its suitability for supercapacitor application.
+
+
+    The Dynamic Electrochemical Impedance Spectroscopy (DEIS) results observed by the ARCI team exhibited a superior double layer capacitance value at all the applied potentials for the optimized sample with high surface area (2645 m 2 g -1 ) within 1 hour of the experiment, validating that the material could be used for supercapacitor electrode.
+
+
+    Dynamic Electrochemical impedance spectroscopy as a rapid screening procedure to identify supercapacitor electrode material
+
+
+    [Publication link:
+
+
+    https://link.springer.com/article/10.1007/s10854-019-02686-y
+
+
+    For more details contact Dr N. Rajalakshmi at rajalakshmi@arci.res.in,
+
+
+    (Contributor: Dr V. Raman, T. Ramesh and Dr L. Ram Gopal Reddy)]
+
+
+    *****
+
+
+    NB/KGS(DST Media Cell)
+
+    
+    
+    (Release ID: 1647534) Visitor Counter : 437
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Bengali , Punjabi , Tamil

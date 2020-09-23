@@ -1,0 +1,71 @@
+      Ministry of Housing & Urban Affairs
+
+      Chandigarh city uses Vehicle tracking applications and GPS enabled smart watches for waste collection drivers in its fight against Covid-19
+      Posted On: 20 APR 2020 4:51PM by PIB Delhi
+
+
+    As soon as the first COVID positive case was reported in Chandigarh, the City started quarantine of all the persons who came in contact with the positive case. The quarantined persons are also being tacked through CVD Tracker App. Special provisions were made for serving Essential items to quarantined families.
+
+
+    Waste Collection: 15 vehicles with team of drivers and helper equipped with PPE kits were deputed for collection and transportation of waste from Quarantines households. Quarantined households were divided in four zones supervised by one supervisor each.
+
+
+    All the drivers of these collection vehicles wear GPS enabled smart watch under e- Human Resource Tracking Project (E-HRTS). The movement of all vehicles is tracked through these smart watches through a dashboard. The sole target of this tracking is to ensure that no Quarantined household should be left out.
+
+
+    Sanitization: Public places are being sanitized regularly. Sanitization of dense areas/ slums and mandis is being carried out using Drones .
+
+
+    Services to Urban Poor: Migrant-worker shelter has been set up in Village Maloya where precooked food is being served to the workers. For urban poor, the city government has tied up with civil society, private sector, restaurants and various donors for distribution of food, soap, sanitary napkins and ration through NULM and Vendor cell network.
+
+
+    Doorstep distribution to urban poor households:
+
+      * Personal Hygiene kits (masks, sanitizers, sanitary napkins, baby diapers, soap, disinfectants such as Dettol, Savlon, etc.) by Association of Professional Social Workers and Development Practitioners (APSWDP)
+      * 500kg of dry ready to eat oat meal by Marico ltd, FICCI mobilised by APSWDP
+      * Regular Pre-cooked food by Indian federation of United Nation Association Chandigarh Chapter since lockdown
+      * 14 days dry Ration (Wheat flour 10kg, pulses, sugar 1 kg each, mustard oil 1 litre, half kg detergent and 200gm pickles) in low income and construction sites by Citizens donation coordinated by Swarmani youth Associations
+      * More than 30000 sanitary napkins distributed by MCC
+
+    Maintaining supply chain: Municipal Corporation of Chandigarh (MCC) has developed Google forms to identify requirements of shopkeepers and maintained supply chain by making it available to the distributors. The city identified and registered the vendors in various categories and used social media effectively to circulate the list with category of vendors (milk, groceries, fruit & vegetable, medicine, etc.) and vendors’ mobile number for each sector for home delivery.
+
+
+    Chandigarh Administration also tied up with various home delivery app-based vendors and big stores who deliver at home and circulated the numbers in wider public interest
+
+
+    Municipal Corporation in collaboration with Chandigarh Transport Undertaking also started delivering fruits and vegetables at neighbourhood level on regular basis. The service is available to all 12 lakh citizens and is being utilized across the city by over one and half lakh households.
+
+
+    F&V on Bus delivered to Citizens F&V on Bus delivered to Citizens
+
+
+    Tracking delivery vehicle through app
+
+
+    Municipal Corporation of Chandigarh is using mobile application for tracking of vehicles that carry essentials commodities to sectors/ villages to enable effective monitoring and utilization of resources. Initially vehicle can track by officers.
+
+
+    Application for vendor tracking: Chandigarh Municipal Corporation has delivery vehicles with drivers to operate in various localities for distribution of essential items. Some of the technology-based use cases include:
+
+      * Real time tracking of the vehicle movement across the city
+      * Better utilization of the assets - daily based Trips assigned through this app for better utilization of Vehicles
+      * Real-time information to driver to serve nearby vicinity in-case of requests from local citizens or emergency situation
+      * Tracking vehicular operations using web-portal by category of vehicles.
+      * Integration with Chandigarh Municipal Corporation Portal, through which citizens will be able to view latest location for vehicle working for essential item distribution
+
+    ****
+
+
+    RJ/NG
+
+    
+    
+    (Release ID: 1616393) Visitor Counter : 685
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Punjabi , Gujarati , Tamil , Telugu
+    
+    
+    
+
+*

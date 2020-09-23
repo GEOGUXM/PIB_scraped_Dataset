@@ -1,0 +1,46 @@
+      Ministry of Science & Technology
+
+      Bangalore based researchers synthesize durable, efficient, cost-effective catalyst for sustained & efficient Hydrogen Evolution
+      
+      Prof Ashutosh Sharma: “Developing efficient means of splitting water to produce hydrogen and obtaining the energy required for it from solar energy would be a significant part of the sustainable and green solutions for our energy needs”
+
+      Posted On: 10 AUG 2020 12:40PM by PIB Delhi
+
+    In order to phase out fossil fuels and combat climate change, hydrogen is projected as one of the next generation low carbon fuels. The future of use of hydrogen as a fuel lies in the design of efficient electrocatalysts for facilitating electrochemical splitting of water to produce hydrogen.
+
+
+    The effectiveness of the electrocatalyst for the hydrogen (H 2 ) evolution reaction (HER) largely depends on its durability (robustness), ability to lower the overpotential of an electrochemical reaction maximally, and cost of synthesis (production). The commercially used Platinum (Pt) / Carbon (C) catalysts are efficient but expensive and suffer from metal ion leaching or electrocatalyst corrosion when used for long duration.
+
+
+    Metal-organic frameworks (MOFs) and coordination polymers (COPs) are envisioned as the next generation catalysts as they can be tailored to achieve high surface area, less charge transfer resistance, and higher active sites for enhancing the efficiency of water splitting. Scientists have been searching for a novel approach for tuning of MOF based catalysts to prevent electrocatalyst corrosion.
+
+
+    Researchers from the Centre for Nano and Soft Matter Sciences (CeNS) an autonomous institute under the Department of Science and Technology (DST), Government of India have synthesized a novel COP consisting of palladium Pd(II) ions, that serve as a source of active sites for H-adsorption, and benzene tetramine (BTA) chelating ligands capable of better charge transfer. The two combine to form two-dimensional (2D) sheets of Pd(BTA) through the H-bond interactions. The research has been published in the journal ‘ACS Applied Energy Materials’.
+
+
+    The 2D Pd(BTA) sheets developed by the CeNS team were combined with reduced graphene oxide 2D sheets (rGO), to enhance the conductivity, and subjected to partial reduction to obtain Pd nanoparticles (NPs) encapsulated in COP-rGO composite 2D sheets/layers, promoting active sites for HER. The above catalyst, labeled as [Pd(BTA)-rGO] red , exhibited a remarkably less overpotential ( potential difference between a half-reaction's thermodynamically determined reduction potential and the potential at which the redox event is experimentally observed. It is directly related to a cell's voltage efficiency ). The COP based catalyst exhibited exceptionally high durability for 70 h at a high current density of −300 mA/ cm 2 . A study by the CeNS team revealed that the Pd nanoparticles of size 3−5 nm (nanometer) are the root cause for the remarkable electrocatalytic activity of [Pd(BTA)-rGO] red .
+
+
+    Thus, a combination of high activity due to Pd nanoparticles, less charge transfer resistance of rGO, and stability rendered by encapsulation of Pd nanoparticles by 2D sheets work in favor of the high efficiency and durability of the composite material. The researchers also state that ‘this technique of organic ligand encapsulation of metals/metal ions on conducting platform can be adopted for other metal-based electrocatalysts to attain exceptional long term catalytic stability.
+
+
+    “Developing efficient means of splitting water to produce hydrogen and obtaining the energy required for it from solar energy would be a significant part of the sustainable and green solutions for our energy needs,” said Prof Ashutosh Sharma, Secretary,DST
+
+
+    [Publication link: DOI: 10.1021/acsaem.9b01579.
+
+
+    For more details: please contact Dr. Neena Susan John, (jsneena@cens.res.in)]
+
+
+    *****
+
+
+    NB/KGS(DST Media Cell)
+
+    
+    
+    (Release ID: 1644706) Visitor Counter : 879
+    
+    
+      Read this release in: Hindi , Marathi , Bengali , Manipuri , Punjabi , Tamil

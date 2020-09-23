@@ -1,0 +1,83 @@
+      Ministry of Earth Science
+
+      Shoreline Mapping
+      Posted On: 29 MAR 2017 6:40PM by PIB Delhi
+
+      
+
+        The Indian National Centre for Ocean Information Services (INCOIS) has assessed shoreline change using the satellite data acquired during 1972-2000 in order to calculate the shoreline change rate. Shoreline change rate is one of the input parameters to calculate the coastal vulnerability index along the Indian coast.
+
+
+        This work was carried out during the period 2007-2009 at INCOIS using the satellite data acquired during 1972-2000, State wise shoreline change rate calculated at 1:100000 scale are given below
+
+                         
+State        Length (km)*
+                         
+                         
+                                           
+Erosion      No change     Accretion  Total
+                                           
+                                           
+                                                 
+Gujarat      933           650        573    2156
+                                                 
+                                                 
+                                                 
+Maharashtra  309           518        114    941 
+                                                 
+                                                 
+                                                 
+Goa          43            131        19     193 
+                                                 
+                                                 
+                                                 
+Karnataka    67            229        39     334 
+                                                 
+                                                 
+                                    
+Kerala          205  322   93   621 
+                                    
+                                    
+                                    
+Tamil Nadu      286  489   159  934 
+                                    
+                                    
+                                    
+Andhra Pradesh  185  473   430  1087
+                                    
+                                    
+                                    
+Orissa          153  220   125  498 
+                                    
+                                    
+                                    
+West Bengal     863  750   314  1927
+                                    
+                                    
+                                    
+Lakshadweep     30   98    24   152 
+                                    
+                                    
+                                    
+Andaman         366  1573  511  2449
+                                    
+                                    
+                                    
+Nicobar         286  200   317  803 
+                                    
+                                    
+
+        Satellite data were taken from open source Landsat of USA and Indian Remote Sensing (IRS) satellite of India data available at INCOIS from other projects were used; hence no expenditure was incurred towards data specific to this work.
+
+
+        This information was given by Minister of State for Ministry of Science & Technology and Ministry of Earth Sciences Shri Y.S.Chowdhary in a written reply to a question in Lok Sabha today.
+
+
+        ***
+
+
+        RDS/nb
+
+    
+    
+    (Release ID: 1486041) Visitor Counter : 248

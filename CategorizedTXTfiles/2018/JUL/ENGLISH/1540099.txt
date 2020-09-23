@@ -1,0 +1,60 @@
+      Ministry of Railways
+
+      E-Ticketing System in Railways
+      Posted On: 25 JUL 2018 4:59PM by PIB Delhi
+
+
+    A new Next Generation e-Ticketing System has been launched on 14.6.2018 with the following salient features:
+
+
+     1. In the new user-interface, the user can enquire/search trains and check availability of seat without login.
+
+
+     2. User can also change font size throughout the website.
+
+
+     3. User can predict the chance of waitlist or RAC (Reservation Against Cancellation) ticket getting confirmed on the basis of historical booking trends.
+
+
+     4. Enhanced ‘Vikalp’ feature provides user the option of choosing alternate accommodation in case of waitlist tickets in different trains including specials.
+
+
+     5. The user can manage the payment option by marking six banks as preferred banks.
+
+
+     6. On completion of payment, the details of booking shall be displayed in user friendly manner.
+
+
+     7. Different filters as per departure/arrival time, class, train and quota have been provided for facilitating journey planning.
+
+
+     8. It can be used on multiple mobile platforms without any problem.
+
+
+     9. New user interface also facilitates seamless navigation in mobiles, desktops, laptops and tablets.
+
+
+    10. There are number of additional features such as filters on ‘My Transactions’ where user can view booked tickets based on journey date, booking date, upcoming journey and completed journey.
+
+
+    11. Single screen information about the train including the train number, train name, originating and destination station and distances between them, arrival and departure time and journey time has now been arranged.
+
+
+        This information was given by the Minister of State of Railways, Shri Rajen Gohain in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    APS/MKV/ENS
+
+    
+    
+    (Release ID: 1540099) Visitor Counter : 363
+    
+    
+    
+    
+    
+
+11.

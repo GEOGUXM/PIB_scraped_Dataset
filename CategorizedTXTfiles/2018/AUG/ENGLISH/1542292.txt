@@ -1,0 +1,864 @@
+      Ministry of Road Transport & Highways
+
+      Surveillance System in Toll Plazas
+      Posted On: 09 AUG 2018 5:19PM by PIB Delhi
+
+
+    The Minister of State for Road Transport and Highways, Shipping and Chemical & Fertilizers Shri Mansukh L Mandaviya in a written reply to a question in Lok Sabha today informed that the
+
+
+    National Highways Authority of India (NHAI) had invited e-bids from eligible bidders for setting up Central Command & Control Centre at NHAI-HQ connected with Regional Offices and CCTV Surveillance & Monitoring of Vehicular Congestion on 210 toll plazas on National Highways. After successful demonstration of Proof of Concept (PoC) at 10 fee plazas, the system will be rolled-out to another 200 toll plazas where daily traffic flow is more than 10,000 vehicles. The details of 210 fee plazas are as follows:
+
+                                                                                                                                   
+Sl. No.  NH No.          Fee Plaza Name                            Fee Plaza Location                                              
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+1        4               Bankapur                                  Km 352.550                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+2        4               Hirebagewadi                              Km 482.600                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+3        4               Kognoli                                   Km 591.240                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+4        4               Hattargi                                  Km 537.770                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+5        73 (Old 48)     Brahamarakotlu                            Km 331.290                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+6        4               Banglore - Neelamangla                    Km 14.825, Km 26.075, Km 16.600 , Km 17.100, Km 23.150, Km 3.800
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+7        4               Chalageri                                 Km 288.200                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+8        75 (Old 4)      Karbylu (Bellur Cross)                    Km 100.250                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+9        7               Bagepalli                                 Km 464.774                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+10       75 (Old 4)      Hoskote                                   Km 307.700                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+11       48              Kirasave                                  Km 119.100                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+12       48              Shanthigrama                              Km 169.350                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+13       4               Karjeevanhalli                            Km 104.530                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+14       48 (Old 4)      Kaythsandra/Tumkur/Chokkanahalli          Km 61.430                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+15       50 (Old 13)     Kasaba (Bijapur)                          Km 103.888 (Km 227.700 of New NH-50)                            
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+16       4               Guilalu                                   Km 172.770                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+17       48 (Old 4)      Hebbalu                                   Km 237.650                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+18       7               Attibele (BETL)                           Km 32.700                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+19       48 (Old 4)      Neelamangala - Tumkur /Kulumepalya        Km 30.00                                                        
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+20       7               Elevated Section/ Electronic City         Km 18.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+21       13              Hitnal                                    Km 288.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+22       4               Gaddurur                                  Km 217.450                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+23       3               Indore Dewas (Indore Bypass)              Km 591.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+24       3               Jajau (Old Baretha)                       Km 28.600 (Old 34.000)                                          
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+25       3               Khalghat (Indore - Khalghat)              Km 75.700                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+26       3               Indore Dewas (Indore side)                Km 591.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+27       3               Sonvay                                    KM 4.000                                                        
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+28       5               Gurapalli (Berhampur)                     Km 389.609                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+29       5               Manguli                                   Km 34.624                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+30       5               Gudipada (Old Gangapada)                  Km 323.600                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+31       5               Sergrarh                                  Km 97.960                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+32       6               Baragarh (Barhaguda)                      Km 41.00                                                        
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+33       71              Dighal                                    Km 370.420                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+34       1A              Chiddan                                   Km 479.868                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+35       152(Old 22)     Dappar                                    Km 23.080                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+36       1               Gharaunda (Karnal)                        Km 111.483                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+37       1               Sambhu(Ghaggar)                           Km 212.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+38       1               Ladowal                                   Km 328.050                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+39       205 (Old 21)    Kurali (Behrampur)                        Km 35.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+40       5 (Old 22)      Chandimandir                              Km 51.400                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+41       3 (Old 1A )     Dhilwan                                   Km 410.180                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+42       71              Gangaycha Jatt                            Km 430.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+43       3 (Old 1A )     Nijjarpura                                Km 442.800                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+44       10              Rohad                                     Km 116.700                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+45       1A              Harsa Mansar                              Km 84.500                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+46       15              Ladpalwan                                 Km 16.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+47       71A             Dahar                                     Km 73.450                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+48       71A             Makrauli Kalan                            Km 14.600                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+49       15              Waryam Nangal                             Km 88.500                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+50       44 (Old 1A)     Chollang                                  Km 34.500                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+51       7               Omallur                                   Km 191.800                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+52       7               Palayam (Dharmapuri)                      Km 154.440                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+53       79,68           Nathakkarai                               Km 73.760                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+54       79 (Old 68)     Veeracholapuram (West)                    Km 105.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+55       45 B            Boothakudi                                Km 21.020                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+56       45 B            Chittampatti                              Km 113.630                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+57       7               Rasampalayan                              Km 259.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+58       68              Mettupatti                                Km 21.750                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+59       45              Athur (Tindivanam)                        Km 103.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+60       45              Surapattu (Chennai Bypass II)             Km 28.600                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+61       45              Vikravandi(Villupuram)                    Km 150.400                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+62       45              Thirumandurai                             Km 244.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+63       7               Etturvattam                               Km 74.930                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+64       67              Valavanthankottai                         Km 120.900                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+65       45              Paranur (Chengalpet)                      Km 52.820                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+66       45B             Pudurpandiyapuram                         Km 254.940                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+67       47              Vaiguntham                                Km 27.697                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+68       47              Vijaymangalmam                            Km 88.287                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+69       7               Nanguneri                                 Km 185.387                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+70       7               Kodai Road                                Km 398.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+71       45              Samayapuram                               Km 307.241                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+72       45              Sengurichi                                Km 192.750                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+73       138 (Old 7A)    Pudukottai (Vagaikulam)                   Km 17.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+74       210             Lechchumanapatti                          Km 19.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+75       4               Chennasamudram                            Km 104.900                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+76       210             Lembalakudi                               Km 57.317                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+77       67              Manavasi                                  Km 198.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+78       47              Kaniyur                                   Km 134.100                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+79       2               Badarpur                                  Km 18.70 & Km 20.200                                            
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+80       8               Choryasi                                  Km 245.650                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+81       84              Samakhiyali                               Km 308.600                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+82       8B              Vanana                                    Km 10.755                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+83       8A              Surajbari                                 Km 286.655                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+84       8               Bhagwada                                  Km 356.200                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+85       8               Charoti                                   Km 420.340                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+86       8               Khaniwade                                 Km 470.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+87       NE-1            Ahmedabad Vadodra Expressways             Km 2.600                                                        
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+88       151(Old 8D)     Gadoi                                     Km 51.250                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+89       47 (Old 59)     Pithai                                    km37.300                                                        
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+90       8A              Mokha                                     Km 44.500                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+91       6               Mandal (Vyara)                            Km 28.590                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+92       8               Vasad                                     Km 93.302                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+93       8               Radhvanaj (Kheda)                         Km 93.302                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+94       31              Dahalapara                                Km 971.200                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+95       37              Raha(Saragaon)                            Km 254.514                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+96       37              Nazira Khat                               Km 179.600                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+97       16 (Old 5)      Bellupada                                 Km 473.632                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+98       16 (Old 5)      Aganampudi                                Km 728.055                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+99       44 (Old 7)      Gamjal                                    Km 281.320                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+100      16 (Old 5)      Krishnavaram                              Km 865.553                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+101      44 (Old 7)      Indalwai                                  Km 342.700                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+102      16 ( Old 5 )    Bolapalli                                 Km 1200.000                                                     
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+103      44 (Old 7)      Shakhapur                                 Km 114.850                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+104      163 (Old 202)   Gudur (Hyd-Yadgiri)                       Km 38.100                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+105      16 (Old 5)      Sullurpet                                 Km 86.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+106      5(Old 16)       Chilakapalem                              Km 616.704                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+107      65 (Old 9)      Panthangi                                 Km 60.650                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+108      16 (Old 5)      Budanam                                   Km 124.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+109      16 (Old 5)      Madapam                                   Km 589.554                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+110      44 (Old 7)      Raikal                                    Km 54.290                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+111      16 (Old 5)      Vempadu                                   Km 795.498                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+112      5               Main Toll (Gosthani Gate) (Sheela Nagar)  Km 9.158 & Km 2.262                                             
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+113      5 (Old 16)      Kaza                                      Km 416.800                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+114      5 (Old 16)      Kalaparru                                 Km 1050.780                                                     
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+115      16 (Old 5)      Sunambatti (Musunur)                      Km 1326.000                                                     
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+116      16 (Old 5)      Nathavalasa/ Vizianagaram                 Km 656.704                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+117      16 (Old 5)      Tangutur                                  Km 1264.000                                                     
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+118      7               Amakathadu                                Km 250.700                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+119      65 (Old 9)      Chillakallu                               Km 205.025                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+120      65 (Old 9)      Korlaphadu                                Km 118.250                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+121      16 (Old NH-5)   Unguturu                                  Km 999.600                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+122      16 (Old NH-5)   Eethakota                                 Km 946.300                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+123      8               Paduna                                    Km 311.100                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+124      8               Khandi Obari                              Km 348.450                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+125      8               Kishangarh (Badgaon)                      Km 360.700                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+126      76              Narayanpura                               Km 166.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+127      11              Ludhawai                                  Km 64.570                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+128      79 and 76       Rithola                                   Km 28.500                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+129      11              Korai                                     Km 30.090                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+130      11              Sikandra                                  Km 156.600                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+131      11 (New-52)     Tatiyawas                                 Km 257.00                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+132      79              Jojro Ka Khera                            Km 163.650                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+133      11              Amoli                                     Km 98.500                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+134      8               Thikariya (Jaipur)                        Km 286.700                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+135      12              Barkheda (Chandlai)                       Km 30.500                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+136      11              Rajadhok                                  Km 204.700                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+137      79              Kanwaliyas                                Km 80.800                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+138      11 (New-52)     Akhepura                                  Km 324.638                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+139      8               Gegal                                     Km 378.800                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+140      14              Birami                                    Km 154.00                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+141      14              Uthamam                                   Km 202.315                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+142      12              Kishorpura                                Km 180.00                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+143      8               Mandawada (Gomati)                        Km 187.244                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+144      8               Negadiya                                  Km 238.170                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+145      1A (Old 44)     Thandikhui                                Km 88.300                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+146      1A (Old 44)     Lakhanpur/ Rajbagh                        Km 16.400                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+147      44 (Old 1A)     Bann                                      Km 22.600                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+148      31              Paschim Madati                            Km 547.350                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+149      41              Sonapetya                                 Km 11.600                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+150      6               Debra                                     Km 112.245                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+151      60              Rampura                                   Km 103.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+152      31C             Guabari                                   km 243.00                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+153      6               Jaladhulagori (Dhulagarh)                 Km 35.250                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+154      2               Nivedita Setu                             Km 654.059                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+155      31              Surjapur                                  Km 451.00                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+156      2               Beliyad                                   Km 438.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+157      34              Kishorpur (Chandermore)                   Km 260.375                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+158      24              Joya                                      Km 121.975                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+159      2 & 27          Cable Stayed Naini Bridge                 Km 1.600                                                        
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+160      2               Tundla                                    Km 224.950                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+161      27 (Old 25)     Semri                                     Km 140.400                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+162      24              Brijghat                                  Km 88.500                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+163      25 & 2          Usaka ( Chamari)                          Km 229.913                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+164      9 (Old 24)      Dasna                                     Km 29.300                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+165      2               Anantram                                  Km 353.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+166      28              Mandawnagar                               Km 198.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+167      2               Gurau (Semra Atikabad)                    Km 285.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+168      28              Chaukadi                                  Km 163.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+169      2               Katoghan                                  Km 120.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+170      2               Mahuvan                                   Km 164.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+171      2               Lalanagar                                 Km 279.120                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+172      28              Muziana Hetim                             Km 307.00                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+173      27(Old 25)      Ait                                       Km 187.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+174      25              Nawabganj                                 Km 39.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+175      24              Itunja (Barabhari)                        Km 467.00                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+176      28              Ahmadpur                                  Km 53.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+177      28              Ronahi                                    Km 107.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+178      9 (Old 24)      Triyakhetal                               km. 228.885                                                     
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+179      2               Badauri                                   Km 527.275                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+180      93              Baros                                     Km 14.950                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+181      93              Madrak                                    Km 71.820                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+182      24              Khairabad (Karondi)                       Km. 420.00                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+183      24B(Old NH-30)  Dakhina Sekhpur                           Km. 42.550                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+184      91              Luharali                                  Km 47.500                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+185      91              Somna                                     Km 113.30                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+186      9(Old 24)       Niyamatpur Ekrotiya                       Km. 172.698                                                     
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+187      4               Anewadi                                   Km 748.600                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+188      65              Patas                                     Km 65.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+189      4               Khedshivapur                              Km 819.240                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+190      3               Arjunali                                  Km 532.690                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+191      47              Tasawade                                  Km 694.150                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+192      47              Kini                                      Km 634.500                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+193      9               Varwade                                   Km 178.572                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+194      53              Thakurtola                                Km 331.865                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+195      6               Sundar Nagar                              Km 276.135                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+196      2               Mohania                                   Km 86.000                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+197      2               Sasaram                                   Km 907.100                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+198      2               Daffi                                     Km 800.00                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+199      28              Parsoni Khem                              Km 468.700                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+200      57              Maithi                                    Km 26.200                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+201      31              Barsoni                                   Km 416.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+202      31              Kharik                                    Km 333.150                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+203      31              Maranga                                   Km 397.885                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+204      77              Runni                                     Km 26.090                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+205      33              Pundag                                    Km 98.930                                                       
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+206      19 (Old-2)      Saukala                                   Km 200.100                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+207      19 (Old-2)      Rasoiya Dhamna                            Km 279.425                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+208      NH-18           Palempalli                                Km 168.300                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+209      544 (Old 47)    Paliyekkara                               Km 278.000                                                      
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+210      47              Chullimada Hamlet (Pampampallam)          Km 189.400                                                      
+                                                                                                                                   
+                                                                                                                                   
+
+    *****
+
+
+    NP/MS/MS
+
+    
+    
+    (Release ID: 1542292) Visitor Counter : 341

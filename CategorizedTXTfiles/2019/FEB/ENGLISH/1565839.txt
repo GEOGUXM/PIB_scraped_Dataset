@@ -1,0 +1,70 @@
+      Ministry of Finance
+
+      Amendments to the Indian Stamp Act, 1899 for Rationalization of Stamp Duty & Design of Zero Evasion Collection Mechanism in Respect of Securities market instruments
+      Posted On: 21 FEB 2019 5:36PM by PIB Delhi
+
+
+    The President of India, today, gave his assent to the Amendments to the Indian Stamp Act, 1899 which were introduced as part of the Finance Act 2019. The was in fulfillment of the commitment made in the last Union Budget 2018-19 to take reform measures with respect to Stamp Duty regime on financial securities transactions in consultation with the States and make necessary amendments to the Indian Stamp Act, 1899. The Finance Bill 2019 was passed by both the Houses of Parliament, Lok Sabha and Rajya Sabha, on 12 th and 13 th February 2019 respectively.
+
+
+    Objective
+
+
+    The amendments propose to create the legal and institutional mechanism to enable states to collect stamp duty on securities market instruments at one place by one agency (through the Stock Exchanges or Clearing Corporations authorised by the stock exchange or by the Depositories) on one Instrument. A mechanism for appropriately sharing the stamp duty with relevant State Governments based on state of domicile of the buying client is also proposed.
+
+
+    Background
+
+
+    The present system of collection of stamp duty on securities market transactions has led to multiple rates for the same instrument, resulting in jurisdictional disputes and multiple incidences of duty, thereby raising the transaction costs in the securities market and hurting capital formation. This has also given scope for rate shopping and evasion of duty.
+
+
+    In order to facilitate ease of doing business and to bring in uniformity and affordability of the stamp duty on securities across States and thereby build a pan-India securities market, the Central Government, after due deliberations, in exercise of powers under Entry 91 of the List I and Entry 44 of List III of the 7th Schedule of Indian Constitution, has decided to amend the Indian Stamp Act, 1899 to create the legal and institutional mechanism to enable states to collect stamp duty on securities market instruments at one place by one agency (through Stock Exchanges or Clearing Corporations authorized by it or by the Depositories) on one Instrument and develop a mechanism for appropriately sharing the stamp duty with relevant State Governments.
+
+
+    Salient Features
+
+
+    To achieve the rationalisation of stamp duty structures, the amendments, inter-alia, provide for the following structural reforms; —
+
+     1. Each security is charged with a duty as specified in Schedule I of the Act. Securities are defined to include all those instruments specified in clause (h) of section 2 of the Securities Contracts (Regulation) Act, 1956; a “derivative” as defined in clause (a) of Section 45U of the Reserve Bank of India Act, 1934; a Certificate of Deposit, Commercial Usance Bill, commercial paper and such other debt instrument of original or initial maturity up to one year as the Reserve Bank of India may specify from time to time; repo on Corporate Bonds; and any other instrument declared by the Central Government, by notification in the Official Gazette, to be securities for the purposes of this Act.
+     2. All rates are applicable only on one side (either by the buyer or by the seller but not by both), while presently States charge stamp duty on both sides.
+     3. While fixing the rates, the rates charged by Maharashtra is taken as the benchmark as Maharashtra accounts for around 70% of the total stamp duty collection in the country. However, the rates are chosen in such a manner that it provides a revenue neutral position to the state governments while reducing overall tax burden for investors.
+     4. While duty is applicable normally on the transaction value, in case of swaps the first leg of the cash flow; in case of options its premium; and in case of repo on corporate bonds the interest paid by the borrower are considered for levy of duty.
+     5. For all exchange based secondary market transactions in securities, stock exchanges (SEs) shall collect the duty; and for off-market transactions (which are made for a consideration as disclosed by trading parties) and initial issue of securities happening in demat form, depositories shall collect the duty. In the future event of inter-operability of clearing corporations (CCPs), which provides for linking of multiple CCPs while allowing participants to consolidate their clearing and settlement functions at a single CCP, irrespective of the stock exchange on which the trade is executed, stock exchanges can authorize CCPs to collect stamp duty on behalf of state governments. This is because when inter-operability of CCPs is enabled, investors will be able to buy and sell securities at any stock exchange and clear through any CCP of their choice. If so, the categorization of a transaction as delivery vs. non-delivery based trades so as to fix appropriate levies, can only be done by CCPs. The CCPs are substantially owned by stock exchanges (at least 51% shareholding rests with SEs).
+     6. State of domicile of the buying client or that of the broking house /depository Participant of the buying client (in case the buyer is outside India, as in the case of Foreign Portfolio Investors (FPIs)) would be taken as the basis for remitting duty to the respective States.
+     7. Issue of securities is also proposed to be brought into the same tax framework as that of trading of securities, that is, authorising depositories to collect duty from companies and redistributing to States based on the domicile State of subscribers /buyers of security.
+     8. The depositories /repositories and trading platforms under the jurisdiction of the Reserve Bank of India are also brought into this framework. However, Government Securities (G-secs) and instruments based on G-secs (such as repos/reverse repos on G-Secs) have been excluded from the purview of stamp duty. Platforms, which facilitate liquidity adjustments like call money market have also been excluded.
+     9. In order to prevent multiple incidence of taxation, it is proposed that no stamp duty shall be collected by the State on any secondary record of transaction associated with a transaction on which the depository / stock exchange has been authorised by the State Government to collect the stamp duty.
+    10. Tax arbitrage is avoided by providing the same rate of stamp duty for issue or re-issue or sale or transfer of securities happening outside stock exchanges and depositories.
+    11. Further, rule-making powers are granted to the Central Government for implementing the new collection mechanism. Penalty provisions have also been incorporated.
+    12. For facilitating the collection, stock exchanges/clearing corporations/depositories shall be eligible for some commission which will be decided in consultation with State Governments
+
+    Implementation Strategy / Inter-state Council mechanism
+
+
+    Subsequent to the enactment of the Act, it is proposed to create a Coordination Council under Article 263 of the Indian Constitution by a separate order/notification of the President of India. This Council comprising of representatives from Union and States may be tasked with the responsibility of making recommendations regarding review / revision of stamp duty rates. The Government will also notify the required rules.
+
+
+    Impact
+
+
+    The proposed rationalised and harmonised system is expected to lead to zero tax evasion. Further, cost of collection would be minimised while revenue productivity is enhanced. Adoption of the centralised collection mechanism is expected to bring in not only more revenue but greater stability to the revenue collection by the states. Further, this system will help develop equity markets and equity culture across the length and breadth of the country, ushering in balanced regional development.
+
+
+    *****
+
+
+    DSM/RM/KA
+
+    
+    
+    (Release ID: 1565839) Visitor Counter : 6484
+    
+    
+      Read this release in: Urdu
+    
+    
+    
+
+12.

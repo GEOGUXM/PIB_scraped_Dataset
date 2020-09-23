@@ -1,0 +1,41 @@
+      Ministry of Railways
+
+      Indian Railways introduces New Passenger friendly Information System at Anakapalle Station in Vijayawada Division
+      
+      The objective of this application is to provide better features and easy guidance to the passengers thereby providing satisfactory user experience
+      
+      Posted On: 30 DEC 2019 6:08PM by PIB Delhi
+
+
+    Indian Railways introduced a new Passenger Information System at Anakapalle Railway Station of Vijayawada Division in South Central Railway. The Passenger Information system comprises both “At a Glance Display Board” (which gives a glance of the status of various train timings at the Station) and “Coach Guidance Display Board” (which provides the Coach Composition position of a train). The objective of this application is to provide better features and easy guidance to the passengers and thereby providing satisfactory user experience.
+
+
+    In the new Passenger Information System provided at Anakapalle Station, new technology has been adopted by which the estimated arrival of the trains at the station is taken based on the real time location of the trains. This is done by taking continuously updated data sourced automatically from the Centralized Railway Information System (CRIS) server from time to time. The system provides automated display information about the trains expected at the station in the next two hours in Trilingual form i.e. Telugu, English and Hindi.
+
+
+    In addition, the system also provides facility for operator to modify the data instantly in case of any emergencies. The cost of the equipment is Rs 10 lakhs including supply, installation, commissioning and onsite warranty of 3 years.
+
+
+    At a Glance Display boards are single faced with Ultra HD LED commercial grade Monitor and generally installed at the entrance of the station. They consist of 3 to 5 lines and are used for displaying information of upcoming trains at the station. A passenger on arrival at the station can identify the trains reaching the station in next two hours from the display and he also gets information of Arrival/Departure time of particular train number/name, expected time of arrival, location of his coach from engine based on Up direction or Down direction. This system also provides crucial information to passenger about direction of train running to enable him reach his coach easily. Passenger can identify the train direction, train engine location, coach position easily as the entire train composition is depicted in graphical way. Further he can identify the time of arrival/expected time, his coach number, his train number and train name.
+
+
+    Coach Guidance display boards are small boards having face on both sides. They are overhung on the platforms to indicate the coach position of the trains. Coach numbers of the train from the engine, general, sleeper, AC and other coaches are displayed according to the placement of particular coaches. This information is displayed after announcement and before arrival of the train.
+
+
+    Apart from providing better guidance to rail users about running of trains, coach position and platform number, this new system can also be used for displaying additional information for traveling public about various amenities available at the station and about their location on the platform.
+
+
+    Since the introduction of the new Passenger Information System, the performance of these boards is found to be good and passengers have been appreciating the new facility provided to them. Shri Gajanan Mallya, General Manager, SCR complimented the Vijayawada Railway Division on introducing this new technology for the benefit of the passengers and advised them to continually monitor its performance so that the same can be extended to some more stations.
+
+
+    *****
+
+
+    SG/MKV/AP
+
+    
+    
+    (Release ID: 1598006) Visitor Counter : 387
+    
+    
+      Read this release in: Hindi

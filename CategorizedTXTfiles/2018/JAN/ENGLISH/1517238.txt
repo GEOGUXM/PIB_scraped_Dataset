@@ -1,0 +1,62 @@
+      Ministry of Electronics & IT
+
+      MEITY launches Cyber Surakshit Bharat to strengthen Cybersecurity
+      
+      The first public-private partnership of its kind in India
+      
+      Posted On: 19 JAN 2018 5:41PM by PIB Delhi
+
+
+    Recognizing the need to strengthen the cybersecurity ecosystem in India, and in alignment with the Honourable Prime Minister’s vision for a ‘Digital India’, the Ministry of Electronics and Information Technology (MeitY), announced the Cyber Surakshit Bharat initiative in association with National e-Governance Division (NeGD) and industry partners at an inaugural event in Delhi today. Shri K J Alphons, Honourable Minister of State for Electronics & Information Technology and Tourism (Independent Charge), inaugurated the initiative in the presence of Shri Ajay Prakash Sawhney, Secretary, Ministry of Electronics & Information Technology, Shri Suresh Chandra, Secretary, Ministry of Law & Justice, Shri Sanjeev Gupta, President & CEO, Digital India Corporation, Shri Anant Maheshwari, President – Microsoft India , Ms. Debjani Ghosh, President Designate, NASSCOM, Shri Rakesh Maheshwari, Group Coordinator (Cyber Security), MeitY, Shri Jayesh Warrier, India Practice Head (CRS), Wipro and Shri Raghuvir HR, Sales Director, Dimension Data, India.
+
+
+    Conceptualized with the mission to spread awareness about cybercrime and building capacity for safety measures for Chief Information Security Officers (CISOs) and frontline IT staff across all government departments, Cyber Surakshit Bharat will be operated on the three principles of Awareness, Education and Enablement. It will include an awareness program on the importance of cybersecurity; a series of workshops on best practices and enablement of the officials with cybersecurity health tool kits to manage and mitigate cyber threats. Cyber Surakshit Bharat is the first public-private partnership of its kind and will leverage the expertise of the IT industry in cybersecurity. The founding partners of the consortium are leading IT companies Microsoft, Intel, WIPRO, Redhat and Dimension Data. Additionally, knowledge partners include Cert-In, NIC, NASSCOM and the FIDO Alliance and premier consultancy firms Deloitte and EY.
+
+
+    Speaking at the event Minister Shri K J Alphons, Honourable Minister of State for Electronics & Information Technology and Tourism (Independent Charge) said, “Securing the nation’s cyberspace is vital for achieving the Honourable Prime Minister’s vision of a Digital India. The fruits of development must reach the last man out there. The Digital India has led to a rapid transformation in the governance system. To ensure good governance, the private corporate sector must come forward.”
+
+
+    “Today, India is home to over 118 crore Aadhaar accounts, providing people with a unique identity. We have opened 30 crore bank accounts for the poor and underprivileged section of the society and linked those with Aadhaar. So far the Government has transferred subsidies worth 2.40 lakh crore to the Jan Dhan accounts linked with Aaddaar, thereby saving over 60,000 crore, which would earlier go to the middlemen. As we are moving towards that ecosystem, we also must ensure that our systems are protected and our data is secured. Keeping this concern in mind, the government has launched the Cyber Surakshit Bharat, with a primary objective to keep our data safe and protected. The best brains in both the government and corporate sector must come together to ensure a safe a secure cyberspace. I am happy that today we have CISOs in many institutions, we have them in as many as 60 ministries and departments of the government of India; 230 banks and 45 other financial institutions have CISOs to protect their data and systems. We must not forget that there is a bunch of smart individuals out there who are trying to steal our data, and to outsmart them we all have to work together towards building a robust cyber security system that keeps all these confidential information protected.” Added Shri. Alphons.
+
+
+    Shri Ajay Prakash Sawhney, Secretary, Ministry of Electronics & Information Technology said, “ With a billion plus mobile phone linked with a billion plus Aadhaar connections and a billion plus bank accounts, we are definitely going to face billions and billions of threats, which are growing and becoming more and more sophisticated. The only way, we hope to counter these threats is at least to come together, of which this particular initiate "Cyber Sukarkshit Bharat" is a classic example of how industry association , with top entities in the industry and various players from Govt in both central & state are joining hands and coming together. I believe, we have done a fair amount of work in cyber security. Many of our organisations are active, they are not only organisation within the central govt, but number of partner organisations and all the major IIT's, IISC's many branches, many centers of C-Dec and many research teams in academic institutions and elsewhere are contributing tremendously. We are coming up with tools and made efforts to reach out law & enforcement agencies, great amount of capacity building is happening among the law enforcement agencies across the countries. We are happy that we are participating in it.
+
+
+    “The role of CISO is possibly a challenging role in any organisation. Now we have put CISO in place in ministries, organisations, various dept, financial sectors, in telecom and many key areas and trying to put in all efforts to equip them, give them the tools, organisational strength to perform their goals better. To begin with 5-6 companies have come forward for some big role. I believe that the consortium approach is a great way to move forward and I hope that more & more of large and very capable companies will join hands & help us in this endeavor." Added Shri Sawhney.
+
+
+    In his opening remarks, Shri. Sanjeev Gupta, President & CEO, Digital India Corporation emphasized on the increasing importance of identifying roles of the CIOs and CISOs in both government and private institutions. He stressed on the need of an integrated effort of private and public to handle emerging cyber security threats.
+
+
+    MeitY had earlier issued a directive to all Central Government ministries to appoint a Chief Security Officer (CSO) to ensure Cyber safety, in addition to issuing an RFP to all empanelled auditors to conduct a cybersecurity audit for government departments.
+
+
+    The inaugural ceremony was followed by the first national workshop for Central and State government CISOs. Conducted by security experts of the consortium partners, the daylong orientation provided comprehensive guidance on topics ranging from the fundamental building blocks of a secure critical infrastructure to the role of a CISO in IT risk management to analyzing a department’s cyberhealth. The sessions also covered management of identity, devices and apps; OS (operating system) level security practices as well as attack methods and vulnerabilities.
+
+
+    Speaking of the initiative, Anant Maheshwari, President – Microsoft India, said, “Cyber Surakshit Bharat is a significant initiative. I congratulate the Government and our industry partners for coming together to launch it. Security and data privacy is the highest priority for Microsoft. We invest over a billion dollars every year globally in this area. Here in India, we launched our Cybersecurity Engagement Center in October 2016 to build local capabilities and are now proud to be part of this important initiative. As part of this initiative we will bring the best experts to help train and create capability to deal with the latest cybersecurity challenges.”
+
+
+    Cyber Surakshit Bharat aims to conduct a series of training programs in the next six months across Delhi, Mumbai, Bangalore, Hyderabad and Chennai. The audience will include CISOs and technical officials from:
+
+
+    · The central government
+
+
+    · State governments and Union Territories
+
+
+    · Public Sector Banks
+
+
+    · Public Sector Units
+
+
+    · Defense forces, defense PSUs and technical arms of the Air Force, Army and Navy
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1517238) Visitor Counter : 8265

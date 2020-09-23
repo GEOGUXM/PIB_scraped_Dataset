@@ -1,0 +1,53 @@
+      Ministry of Science & Technology
+
+      INST scientists find route to fabricate precisely controlled nanostructures of desired geometry & location on 2D materials
+      Posted On: 26 MAY 2020 1:25PM by PIB Delhi
+
+
+    Researchers at Institute of Nano Science and Technology (INST) Mohali, an autonomous institute under the Department of Science & Technology (DST) have found a straightforward and unique route to fabricate precisely controlled nanostructures of desired geometry and location on 2D materials, through a rapid one-step low power laser writing process.
+
+
+    Approaches used so far to achieve the controllability over hotspots distribution, which involves the synthesis of complex morphologies, limits their potential to be used for large area substrates.
+
+
+    In order to overcome this, the INST group developed a hybrid Surface-enhanced Raman spectroscopy( SERS) platform of Molybdenum disulfide (MoS 2) nanostructure decorated with gold nanoparticles, where direct laser writing is used to engineer the artificial edges on the surface of MoS 2. This created localized hotspots with remarkable precision and control. Surface-enhanced Raman spectroscopy (SERS) is a technique for molecular detection and characterization that relies on the enhanced Raman scattering of molecules that are adsorbed on SERS-active surfaces, such as nanostructured gold or silver.
+
+
+    In the research by Dr. Kiran Shankar Hazra and his group which has been accepted for publication in the journal ACS Nano,a focused laser beam of meager power of a conventional Raman spectrometer was used to do nanostructuring on 2D flakes of desired feature size and geometry just by playing with the laser power and exposure time. Using this technique, they achieved the minimum feature size of ̴300nm, which is close to the diffraction limit of the laser used (i.e., 532nm laser line).
+
+
+    In SERS sensing, producing SERS substrate of controllable hotspots distribution with desired geometry and location is the main challenging task. Several efforts have been made by researchers to attain the controllability over hotspots distribution via employing various synthesis procedures, hotspots engineering, defect engineering, and so on. However, the random distribution of hotspots and precision over geometrical nanostructure has limited the progress in the field of SERS sensing.
+
+
+    The hybrid SERS platform developed by the INST group offers controlled formation of localized hotspots for ultrasensitive and reproducible detection of analytes. Low power-focused laser irradiation technique was employed to create artificial edges on atomically thin 2D MoS2 sheet, which enables the superior deposition of AuNPs along the artificial edges, and enhances the local electromagnetic field leading to formation of hotspots.
+
+
+    The innovative route to attain the accuracy and control over localized hotspots formation at desired position and geometry, which is advantageous over randomly distributed hotspots in conventional SERS substrates. The team is now exploring various applications of 2D material nanostructures in the field of catalysis, sensing, and optoelectronics devices.
+
+
+    This research in SERS sensing will open a new avenue for the development of commercialized SERS substrate with a localized detection capability of analytes. The AuNPs decorated, and laser-etched 2Dsheets based SERS hybrid platform will also shed new light in the SERS sensing of biological and chemical molecules. The artificial edges of the 2D layers can be functionalized with an antibody with adequate coating and linkers for the SERS detection of various biomarkers.
+
+
+    Figure 1: Enhancement of Raman signal of RhB along the artificial edges of MoS2
+
+
+    Figure 2: Raman mapping of the localized hotspots created along the artificially sculptured edges
+
+
+    [Publication link : doi.org/10.1021/acsnano.0c02418
+
+
+    For more details contact Dr. Kiran Shankar Hazra (kiranshankar.hazra@gmail.com, 0172 – 2210075)]
+
+
+    *****
+
+
+    KGS/DST
+
+    
+    
+    (Release ID: 1626881) Visitor Counter : 805
+    
+    
+      Read this release in: Punjabi , Urdu , Hindi , Tamil

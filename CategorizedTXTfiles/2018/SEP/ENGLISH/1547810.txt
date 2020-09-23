@@ -1,0 +1,67 @@
+      Ministry of Electronics & IT
+
+      IT Minister inaugurates Centre of Excellence for Data Analytics
+      
+      DigiVaarta to popularize Digital Payments
+      
+      India has emerged as a big centre of Data Analytics; today the world is looking at India: IT Minister
+      Posted On: 28 SEP 2018 3:28PM by PIB Delhi
+
+
+    Union Minister of Electronics & IT, Sh. Ravi Shankar Prasad today inaugurated Centre of Excellence for Data Analytics (CEDA) in New Delhi. The technology backbone of the government – the National Informatics Centre (NIC), in a joint initiative with National Informatics Centre Services Incorporated (NICSI) has set up CEDA.
+
+
+    Speaking at the inauguration the IT Minister said that today is the age of Data, and Data is power and information highway is equally important as national highways. “India has emerged as a big centre of data analytics and today the whole world is looking at us”, added Sh. Prasad. Unveiling the potential that data analytics has in transforming the way the government schemes are run, Sh. Prasad also released a white paper on ‘Data Analytics in Government’ which brings to the fore the need for a data driven decision making and policy formulation in Government across the entire spectrum of its activities.
+
+
+    Minister of State for Electronics & IT Sh. S.S. Ahluwalia who was also present at the launch said that data analysis has been traditionally done since the time of Kautaliya for effective decision making, but today with great capabilities achieved in Information and communication technologies Data analysis can help in effective and efficient governance.
+
+
+    Centre of Excellence for Data Analytics (CEDA) will aid in fast-tracking the adoption of advanced analytics in government . In the era of rapid digitization of various government functions and services under Government of India’s flagship Digital India program, t he centre aims to strengthen citizen service delivery through data-driven governance. The Centre of Excellence for Data Analytics (CEDA) has been created to support government departments to unlock the hidden potential of the data that they are generating as a part of the governance processes, and use it to improve the overall governance. It will provide world class data analytics services to the Government. Through its service offerings, CEDA aims to:
+
+
+      * Be a focal point and centre of expertise in data analytics for government and public sector
+
+      * Help ministries in assessing impact from the analytics solutions and help in understanding changes to organizational roles and responsibilities
+      * Facilitate faster and cost effective technology adoption
+      * Promote capacity building and enable the departments to self-service analytics with minimum technical support
+      * Implement knowledge repository to collect learnings from across projects and share best practices across initiatives to ensure adoption of best practices
+      * It aims at providing following services to Government:-
+     1. Data Quality Assurance Services –. The centre will provide data profiling tools and techniques and necessary expertise to analyse the data for quality issues. While data cleaning shall be done for making the data ready for analytical use, recommendations shall also be given in order to help the department take necessary actions to further improve their data collection process.
+     2. Custom-built Data Analytics Solutions – Build analytic solutions that are specific to a particular problem which may relate to a single or a combination of departments.
+     3. Develop reusable assets - This will be one of the many USPs of the centre. CEDA will build Data Analytic solutions that address a generic data analytics problem that is prevalent across departments or States. Such a solution will then be made available to other departments/states as a pre-built analytic solution that can be operationalized for the new States at a cost effective and a much faster rate.
+     4. Knowledge Management – CEDA will implement knowledge repository to collect learnings from across projects and share best practices across initiatives and will ensure usage of best practices in across the government.
+     5. Capacity Building and Self Service Analytics – Besides creating the analytics solutions for the government departments, the centre’s focus would also be to train and enable the departments to do self-service analytics by simplifying the data in a manner in which an administrator can use it with minimum technical support.
+     6. Change Management - CEDA will help ministries in assessing impact from the analytics solutions and help in understanding changes to organizational roles and responsibilities
+
+    The shift towards the digital age, propelled by Digital India Program, has led to tremendous growth in data related to various aspects of Government functions and services. As the next logical step, government departments are now looking to exploit this mount of gold mine by investing in analytical solutions that can turn this data into insights.
+
+
+    CEDA proposes to establish strong partnerships with academia and industry to ensure that the cutting edge technologies and quality expertise are brought in to help the Government take advantage of the booming analytic wave. Through its focused efforts, the centre aims to provide data analytics services to the government and help in solving complex policy issues through data-driven decision making to ensure effective formulation and implementation of various development initiatives that will ultimately benefit the citizens.
+
+
+    DIGIVAARTA LAUNCHED
+
+
+    DigiVaarta was launched in Delhi with the express intention of spreading awareness on DigiDhan, and also to spread popularity of BHIM’s barcode-based merchant payment mode with merchants and traders at large. This launch has two components –
+
+
+     1. An SMS application which operates from NIC’s SMS Gateway on a special Short-code service allotted for this purpose by DoT with the number “14444”. Citizens will receive SMS messages which are pre-approved by experts and the response messages will be made available for further action, analysis and research. The Government proposes initially to pay for the citizen’s response so as to promote citizen’s engagement and make the awareness program completely free for the citizen.
+
+     2. A Mobile application version of DigiVaarta, which can be accessed and used by smart phone users. This app can perform many more function beyond chat, offers audio-video tutorials etc.
+
+    The initiative aims to enable citizen government dialogue and engage citizens in educational and outreach programmes. With the mobile phone as its interface, DigiVaarta’s content and communication style is interactive and adaptive. The same message can be used to interact with both smart phone and feature phone users. It can engage the user over multiple channels in a 2-way interaction, using different content styles (stories, images, videos, discussions and polls) in different languages. DigiVaarta has been launched to spread awareness amongst the common public on digital payment topics such as BHIM, Aadhar Enabled Payment Systems (AePS), Bharat QR, and Security Do’s and Don’ts to begin with.
+
+
+    NNK/GK/MD
+
+    
+    
+    (Release ID: 1547810) Visitor Counter : 1029
+    
+    
+    
+    
+    
+
+2.

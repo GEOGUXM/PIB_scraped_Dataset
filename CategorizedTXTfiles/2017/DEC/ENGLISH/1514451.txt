@@ -1,0 +1,991 @@
+      Ministry of Communications
+
+      Year End Review-2017: Ministry of Communications
+      
+      Important Achievements of DoT in the year 2017
+
+      Posted On: 28 DEC 2017 1:18PM by PIB Delhi
+
+      1. Launch of National EMF Portal : Department of Telecommunications (DoT) has launched Tarang Sanchar, a web portal of information sharing on Mobile Towers and EMF Emission Compliances, with a view to generate confidence and conviction with regard to safety and harmlessness from mobile towers, clearing any myths and misconceptions. The portal can be accessed at www.tarangsanchar.gov.in . The EMF portal provides a public interface where an easy map-based search feature has been provided for viewing the mobile towers in vicinity of any locality. By click of a button, information on EMF compliance status of mobile towers can be accessed. Detailed information about any tower site, if requested, will be sent on email to the users. Additionally, any person can request for EMF emission measurement at a location by paying a nominal fee of ₹ 4000/- online. Local Telecom Enforcement Resource and Monitoring (TERM) field unit of DoT will conduct the test (the requestor can be present, if he so desires) and the test reports will be provided. The portal also has ‘EMF Overview’ and ‘Learn’ Sections, which provide numerous articles, booklets and videos, to further educate the citizens about EMF and coverage of telecom services. Public can also access the ‘DoT Initiatives section’ which has various leaflets, articles and Frequently Asked Questions. The portal has the complete collated technical details of over 16.33 lakh base stations (BTSs), spread across the country, of all technologies (2G, 3G, 4G etc.) and of all Telecom Service Providers (TSPs).
+
+
+      2. Public Awareness Programmes on EMF emission issue : The nation-wide Awareness Programme, on EMF Emissions & Telecom Towers to build a direct bridge of engagement between different stakeholders and to fill the information gap with scientific evidence, initiated by DoT in 2016-17, have further been followed up at sub-state level by the TERM field units of DoT so that more and more people are made aware about the scientific facts on health effects of EMF emissions from mobile towers. Pamphlets/Information Brochures on various topics related to EMF have also been published and distributed in various regional languages. These programmes have helped in bringing lot of clarity on this issue and resulted in reduction of new court cases, public grievances and RTI on the related matters.
+
+
+      3. Launch of Satellite based mobile services through Satellite Gateway M/s BSNL : The Department of Telecommunications granted a License under ‘Suigeneris’ category to M/s BSNL on 25.08.2014 for “Provision and Operation of Satellite based service using Gateway installed in India” with all India service area on non-exclusive basis. This work has been carried out by M/s BSNL in partnership with M/s INMARSAT and the Satellite Gateway has been installed at Ghaziabad, UP. The Satellite mobile services through the BSNL Gateway have been inaugurated on 24.05.2017. This is a quantum leap in the field of Telecommunications to connect the un-connected through the provisioning of satellite mobile services across the country. The services are being provisioned in phased manner initially for the government agencies such as Defence Services, Disaster Management Authorities, Parliamentary Forces, Railways, PSUs etc. and subsequently for the common public.
+
+
+      4. Launching of schemes under Skill Development: Hon’ble MoSC (IC) has launched two schemes in the domain of Skill Development in Telecom Sector to commemorate the Birth Centenary of Pandit Deen Dayal Upadhayaji as under:
+
+
+      (i) Pandit Deendayal Upadhyaya Sanchar Kaushal Vikas Pratisthans Scheme - It is a Pilot scheme which proposes to create the skill development training centres that will be opened in various rural, backward and other needy areas and will be named as “Pandit Deendayal Upadhyaya Sanchar kaushal Vikas Pratisthans”. Initially in the Pilot phase, it is proposed to start 10 such centres to impart skill development trainings to 10,000 candidates taking the necessary training infrastructure from BSNL/other PSUs/Government Organisations/Private entities etc. Subsequently, as the scheme succeeds it will be spread to open more ‘Pandit Deendayal Upadhyaya Sanchar Kaushal Viksa Pratisthans’ across the nation.
+
+
+      (ii) Pandit Deendayal Upadhyaya Telecom Skill Excellence Awards schems : This scheme is aimed to recognize the special contributions of citizens of India in the areas of Telecom Skilling, Telecom Services, Telecom Manufacturing, Telecom Applications in deploying telecom dependent sectoral solutions for different fields such as agriculture, commerce, health, education etc.
+
+
+      The Scheme shall have following cash awards and citation to be given annually. :
+
+                                             
+   Types of prizes  Cash Award   No of awards
+                                             
+                                             
+                                             
+1  First Prize      Rs 50,000/-  01          
+                                             
+                                             
+                                             
+                                             
+                                             
+2  Second Prize     Rs 30,000/-  02          
+                                             
+                                             
+                                             
+                                             
+                                             
+3  Third Prize      Rs 20,000/-  05          
+                                             
+                                             
+                                             
+                                             
+
+      (iii) In order to generate additional Skilled Manpower, Department of Telecom through its PSUs namely Bharat Sanchar Nigam Limited (BSNL), Mahanagar Telephone Nigam Limited (MTNL), Telecommunications Consultants India Ltd (TCIL) and ITI ltd. has achieved the following:-
+
+                                                                
+Sl no  Organization  Achievements till November 2017 except MTNL
+                                                                
+                                                                
+                                                                
+1.     BSNL          26255                                      
+                                                                
+                                                                
+                                                                
+2.     MTNL          1626                                       
+                                                                
+                                                                
+                                                                
+3.     TCIL          76                                         
+                                                                
+                                                                
+                                                                
+4.     ITI           1593                                       
+                                                                
+                                                                
+                                                                
+       Total         29,550                                     
+                                                                
+                                                                
+
+      5. Growth in Telecom Sector:
+
+
+      (i) The growth of Telecom Sector in our country has been remarkable over the last few years as a result of key reforms and initiatives undertaken by the Department of Telecommunications. The industry has also wholeheartedly participated in the development efforts. From 898.02 million in 2012-13, total telecom connections in the country reached 1194.99 million in 2016-17, registering a growth of 33.07%. As on end of September 2017, the total subscription stood at 1207.04 million out of which 501.99 million connections were in the rural areas and 705.05 million in the urban areas. Wireless telephony now constitutes 98.04% of all subscriptions whereas share of landline telephones now stands at 1.96% at the end of September 2017.The overall tele-density in India is now at a high of 93.42% with tele-density in rural areas being 56.78% and that in urban areas at 172.86%.
+
+
+      (ii) The Government has placed considerable emphasis on growth of internet and broadband in the country as part its Digital India campaign. The number of Internet subscribers (both broadband and narrowband put together) which was 422.18 million at the end of March, 2017 increased to 431.21 million by the end of June'17. The number of subscribers accessing internet via wireless phones etc. was 409.55 million at the end of June'17. The number of wired Internet subscribers was 21.67 million at the end of June'17. The number of Broadband subscribers was 300.84 million at the end of June, 2017. There was a net increase of 9.03 million in the Internet subscribers during the period from March,2017 to June,2017.
+
+
+      (iii) FDI equity inflow in the telecom sector touched US $ 6.08 billion in the first half of the financial year (April to September, 2017). This is more than four times that the sector witnessed during financial year 2015-16 and around 10% more than that during 2016-17.
+
+
+      6. Swachhta Pakhwara in DoT :
+
+
+      During the first fortnight of July, 2017 (1 st July to 15 th July) Swachhta Pakhwara was observed in Department of Telecommunications and its PSUs/Other Organisations from 1 st to 15 th July, 2017. During this pakhwara various cleanliness activities were undertaken by this Department as well as by all its PSUs/Other Organisations in office premises as well as in public places. Certain TSPs also participated in the Pakhwara. On conclusion of the Pakhwara the Hon’ble MoSC (I/C) addressed the press and briefed on the activities undertaken during the Swachhta Pakhwara.
+
+
+      7. Swachhta Hi Seva pakhwara :
+
+
+      On the occasion of completion of 3 years of launching of Swachh Bharat Mission “ Swachhta Hi Seva” Pakhwara was celebrated in Department of Telecommunications and its PSUs/Other Organisations from 15 th September to 2 nd October, 2017. During this pakhwara various cleanliness activities as well as Jagroota Abhiyaan (viz. Nukkad Natak, display of placard in which swachhta slogan was written) were undertaken by this Department and all its PSUs/Other Organisations inside and outside of office premises.
+
+
+      Important Achievements of Department of Posts
+
+
+      1. Implementation of Core Banking Solutions in the Department of Posts
+
+
+      Overview:
+
+
+      • The Post Office Savings Bank (POSB) was started in 1882 to facilitate small savings in the country. It operates as an agency of the Ministry of Finance and caters to the basic savings needs of the citizens.
+
+
+      • All the 1.55 Lakh Post Offices in the country provide the basic banking products of the POSB. Of these 25,353 are departmental Post Offices which are manned by the regular government employees.
+
+
+      • At the end of March 2017, there were35.62 Cr live accounts with a balance of Rs. 5,32,338 Crore and Savings certificates with an outstanding balance of Rs. 1,98,935 Crore
+
+
+      • The Post Offices were operating on a standalone software which operated in a closed environment.
+
+
+      • Many value added services like ATMs, inter branch banking, Internet and mobile banking, DBT etc were not available to the POSB customers
+
+
+      Challenges faced:
+
+
+      • Though an impressive customer base, the banking services were not upto industry standards.
+
+
+      • As the complexity of services grew, it became difficult to monitor it on the old system.
+
+
+      • Government schemes of DBT, financial inclusion and social security could not be serviced on the old software.
+
+
+      • Modern payment systems like Debit cards, AEPS, APBS, Internet and mobile banking were not available.
+
+
+      • Thus there was an urgent need for introduction of a Core Banking Solution (CBS) software in the POSB at par with the banks.
+
+
+      Initiative:
+
+
+      • The project of CBS was conceived as a part of the overall IT modernization project 2012 of the DoP. The project aimed to introduce CBS in all the 25,353 departmental Post Offices.
+
+
+      • The sheer size of the number of offices, the data to be migrated, connectivity and the tight timeline were the biggest challenges to be overcome.
+
+
+      • The RFP for this was floated on 21.12.2010 and was awarded on 12.03.2012
+
+
+      • Special teams were formed at the Directorate, Chennai and all the administrative units to take this up in a project mode.
+
+
+      • The huge data was cleansed, verified, checked and rechecked to avoid any errors in migration to the new system.
+
+
+      • Efforts were made to verify all the passbooks of the customers one at a time to verify their balances.
+
+
+      • Infrastructure was upgraded wherever required to support the software.
+
+
+      • Monitoring played a key role in the project. Regular reports, Video Conferences, meetings, field visits and web based monitoring was used extensively to track the progress.
+
+
+      • A big task was change management, internal communication and training of more than one lakh employees in the new software. This was managed through training in the Postal Training Centres, Work Place training Centres, Regional, Circle and Divisional Office levels. Officials were provided handholding by internal teams to make them feel comfortable.
+
+
+      • Frequent interactions were arranged for the employees, unions and officers to listen to their grievances and give them the ownership of the project.
+
+
+      • With this preparation in the background, the first Post Office of the country, Greams Road, Sub Post Office was migrated to CBS on 16.12.2013
+
+
+      Key results:
+
+
+      • 23,424 out of a total of 25,353 (92%) Post Offices are on the CBS platform as on 11/10/2017. Thus the POSB is the largest entity in the country on the CBS platform surpassing all the banks. This feat was achieved in less than four years.
+
+
+      • A total of 37.62 Cr accounts and 31.79 Crore savings certificates are on the CBS platform for anywhere banking as of 11/10/2017.
+
+
+      • 991 of the proposed 1000 ATMs are functional in the country. The ATMs are interoperable with other banks.
+
+
+      • Customers can access their CBS POSB account from anywhere in the country
+
+
+      • Greater visibility of transactions for better reporting and monitoring.
+
+
+      • Internet and Mobile banking in closed environment is ready for roll out.
+
+
+      Impacts:
+
+
+      • A significant step towards financial inclusion as all these CBS accounts can be used for MGNREGS, DBT, social security pensions and other programs of the Government of India. CBS can also be integrated with AEPS and APBS.
+
+
+      • The data and CBS environment is ready for providing CBS based services even to the rural areas through handheld devices in 1.3 lakh Branch Post Offices.
+
+
+      • Introduction of operational hygiene and system at par with other banks.
+
+
+      • Saving of time for the customers as the transactions are online and happen in real time.
+
+
+      • Provision of alternate banking channels like ATMs, Internet and Mobile banking to customers.
+
+
+      • Services like RTGS, NEFT, POSB debit cards at POS as digital payments, full fledged internet and mobile banking can be provided with India Post Payment Bank (IPPB) in near future.
+
+
+      2. Postal Life Insurance (PLI )
+
+
+      Overview:
+
+
+      • Postal Life Insurance (PLI), introduced in 1884, is one of the oldest life insurance schemes for benefit of Government and semi-Government employees. Rural Postal Life Insurance (RPLI), introduced on March 24, 1995 on recommendations of Malhotra Committee, provides insurance cover to people residing in rural areas, especially weaker sections and women living in rural areas.
+
+
+      • There are six life insurance plans, both in Postal Life Insurance (PLI) and Rural Postal Life Insurance (RPLI), as given below:-
+
+                                                                                                   
+Sl No.  PLI                                         RPLI                                           
+                                                                                                   
+                                                                                                   
+                                                                                                   
+1.      Whole Life Assurance (Suraksha)             Whole Life Assurance (Gram Suraksha)           
+                                                                                                   
+                                                                                                   
+                                                                                                   
+2.      Endowment Assurance (Santosh)               Endowment Assurance (Gram Santosh)             
+                                                                                                   
+                                                                                                   
+                                                                                                   
+3.      Convertible Whole Life Assurance (Suvidha)  Convertible Whole Life Assurance (Gram Suvidha)
+                                                                                                   
+                                                                                                   
+                                                                                                   
+4.      Anticipated Endowment Assurance (Sumangal)  Anticipated Endowment Assurance (Gram Sumangal)
+                                                                                                   
+                                                                                                   
+                                                                                                   
+5.      Joint Life Assurance (Yugal Suraksha)       10 Years RPLI (Gram Priya)                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+6.      Children Policy (Bal Jeevan Bima)           Children Policy (Bal Jeevan Bima)              
+                                                                                                   
+                                                                                                   
+
+      • Low Premium and High Bonus is the unique feature of PLI and RPLI schemes.
+
+
+      • At the on March 31, 2017, there were 46.8 lakh PLI and 146.8 lakh RPLI policies across the country with aggregate sum assured of Rs 1,13,084.81 crores and 83,983.46 crores respectively.
+
+
+      • All 1.55 Lakh Post offices in the country (including 1.25 Branch Post Offices in rural areas) provide the services of Postal Life Insurance (PLI) and Rural Postal Life Insurance (RPLI) .
+
+
+      Challenges faced :
+
+
+      • Competitive Scenario in Life Insurance Industry after liberalization of Insurance sector pursuant to setting up of IRDAI in 2000.
+
+
+      • Limited clientele base of Postal Life Insurance.
+
+
+      • Inadequate budgetary provisions for payment of incentive/commission to PLI/RPLI sales persons.
+
+
+      • Lower maximum limit of sum assured in PLI and RPLI
+
+
+      Initiatives:
+
+
+      • The insurance industry in India has undergone transformational changes after liberalisation of the insurance sector in the year 2000, subsequent to setting up of the insurance regulator Insurance Regulatory and Development Authority of India (IRDAI). In such a competitive scenario, Postal Life Insurance (PLI) / Rural Postal Life Insurance (RPLI) has taken certain important strides to redefine itself as detailed below :
+
+
+      (i) Increase in Sum Assured Limit of PLI / RPLI policies :
+
+
+      The maximum limit of life insurance (sum assured) has been increased to Rs 50 lakhs in case of PLI and Rs 10 lakh in respect of RPLI policies.
+
+
+      (ii) Technology Induction :
+
+
+      All the PLI / RPLI operations have been automated under the FSI project. Keeping in tune with any - time and any - where insurance, Core Insurance Solution (CIS) has successfully been inducted in 808 HOs and 25,464 SOs all over the country. Under Core Insurance Solution, following facilities are available to insurants :
+
+
+      · Development of web portal allows customers to view and carry out transactions related to their PLI policies on real time basis.
+
+
+      · Convenient premium payment option to insurants and real time updation of premium payment in policies.
+
+
+      · Generation of SMS alerts like premium due, premium payment, maturity due etc.
+
+
+      · Anytime any-where servicing of PLI policies. All insurance policies will be stored electronically for easy retrieval and quicker customer service fulfilment from anywhere in the country.
+
+
+      (iii) Expansion of Clientele Base of PLI :
+
+
+      It has now been decided that benefits of PLI will no more be confined to Government and semi-Government employees, but will also be available to professionals such as Doctors, Engineers, Management Consultants, Charted Accountants, Architects, Lawyers, Bankers etc. and to employees of listed companies of NSE (National Stock Exchange) and BSE (Bombay Stock Exchange). The decision has been taken to enlarge the cover of social security and bring maximum number of people under the protection of Postal Life Insurance (PLI).
+
+
+      (iv) Launch of Sampoorna Bima Gram (SBG) Yojana :
+
+
+      • Under Sampoorna Bima Gram (SBG) Yojana, at least one village (having a minimum of 100 households) has been identified in each of the revenue districts of the country, wherein endeavour will be made to cover all households of that identified village with a minimum of one RPLI (Rural Postal Life Insurance) policy each. Coverage of all households in the identified Sampoorna Bima Gram village is the primary objective of this scheme.
+
+
+      • It has also been decided to extend the coverage of SBG Yojana in Adarsh Grams adopted by Members of Parliament.
+
+
+      • This scheme will go a long way in increasing the insurance penetration in rural India as well as enhancing the financial inclusion of rural populace.
+
+
+      Key results:
+
+
+      (i) Increased Business Performance of PLI and RPLI:
+
+
+      There has been a consistent growth in the new business procured (premium income) and average sum assured in respect of PLI and RPLI policies:
+
+                                                                                                                                                                                           
+Year     Premium Income (PLI) (in Rs Crores)  Average sum assured per policy (PLI) (in Rs lakhs)  Premium Income (RPLI) (in Rs Crores)  Average Sum Assured per policy (RPLI) (in Rs lakhs)
+                                                                                                                                                                                           
+                                                                                                                                                                                           
+                                                                                                                                                                                           
+2016-17  7233.89                              5.20                                                2120.02                               1.83                                               
+                                                                                                                                                                                           
+                                                                                                                                                                                           
+                                                                                                                                                                                           
+2015-16  6657.03                              4.86                                                2012.17                               1.03                                               
+                                                                                                                                                                                           
+                                                                                                                                                                                           
+                                                                                                                                                                                           
+2014-15  5963.46                              4.41                                                1983.95                               0.97                                               
+                                                                                                                                                                                           
+                                                                                                                                                                                           
+
+      (ii) High Reversionary Bonus :
+
+
+      PLI and RPLI policies have the unique distinction of paying high bonus and low premium as compared to other life insurers in India, as detailed below :
+
+                                                                                                                
+Year                                                  PLI                                                   RPLI
+                                                                                                                
+                                                                                                                
+                                                                                                          
+Rate of Bonus for Rupees those sum assured per annum  Rate of Bonus for Rupees those sum assured per annum
+                                                                                                          
+                                                                                                          
+                                                                                                                              
+EA                                                    WLA                                                   AEA   EA  WLA  AEA
+                                                                                                                              
+                                                                                                                              
+                                                                                                                                  
+31.03.2015                                            58                                                    85    53  50   65   47
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+31.03.2014                                            58                                                    85    53  50   65   47
+                                                                                                                                  
+                                                                                                                                  
+                                                                                                                                  
+31.03.2013                                            58                                                    85    53  50   65   47
+                                                                                                                                  
+                                                                                                                                  
+
+      The bonus rates given above are highest in Indian life insurance industry.
+
+
+      (iii) Growth in Asset Under Management (AUM) /Investment Functions of PLI / RPLI Fund :
+
+
+      With effect from November 2009, management of PLI / RPLI funds is done in-house in accordance with IRDAI(Investment) Regulations, as amended from time to time. Details of AUM for last three years are furnished below:
+
+                                                                                                                       
+As on Date  PLI Fund        RPLI Fund       Total AUM with Fund Managers (in Rs Crores)  Frozen Corpus   Total Corpus  
+                                                                                                                       
+                                                                                                                       
+            (in Rs Crores)  (in Rs Crores)                                               (in Rs Crores)  (in Rs Crores)
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+31.03.2017  39,975.94       16,113.55       56,089.49                                    20,893.68       76,983.17     
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+31.03.2016  31217.12        13566.25        44783.37                                     20,893.68       65,677.05     
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+31.03.2015  24740.33        11337.57        36077.90                                     20,893.68       56,971.58     
+                                                                                                                       
+                                                                                                                       
+
+      Impacts:
+
+
+      • A significant step towards providing affordable life insurance coverage of Postal Life Insurance (PLI) to professionals such as Doctors, Engineers, Management Consultants, Charted Accountants, Architects, Lawyers, Bankers etc. and to employees of listed companies of NSE (National Stock Exchange) and BSE (Bombay Stock Exchange).
+
+
+      • Sampoorna Bima Gram (SBG) linking with Saansad Adarsh Gram will result in increase in insurance penetration in India along with enhanced financial inclusion.
+
+
+      • Improved operational and technological system in sale and after sales of PLI and RPLI under Core Insurance Solution
+
+
+      • Providing ease in policy purchase and after sales service to customers
+
+
+      • Providing options for purchase of high value PLI/RPLI policy
+
+
+      • Decentralization of PLI/RPLI service at the door step of customers at CPC co-located at Head Post Offices.
+
+
+      3. Leveraging Post Offices as Passport Seva Kendra
+
+
+      Overview:
+
+
+      In view of greater mobility of Indian population in search of education, better work opportunities and other social commitments, passport has become a necessary document which everyone is requiring to obtain. The Ministry of External Affairs has 38 Passport Offices and 93 Passport Seva Kendras operating across the country to provide these services to the applicants. The Ministry of External Affairs (Government of India) has provided 1.15 crore passports and related services during the calendar year 2016.
+
+
+      In view of the increased demand and inability of these 93 centres to cater to the needs of people located at distances, the Ministry of External Affairs in collaboration with Department of Posts has decided to leverage the post office network to help make available the passport related services in all the states by establishing Post Office Passport Seva Kendras (POPSK). This joint venture started on 25.1.2017 at Metagalli Post Office, Mysuru, Karnataka and Dahod Head Post Office, Gujarat which were inaugurated by the Hon’ble Minister for Chemical and Fertilizers Shri Ananth Kumar and Gen (Dr.) V.K. Singh, Hon’ble Minister of State for External Affairs respectively.
+
+
+      In the budget speech of the 2017, the Union Finance Minister Shri Arun Jaitley announced that:-
+
+
+      “Our citizens in far flung regions of the country find it difficult to obtain passport and redress passport related grievances. We have decided to utilize Head Post Offices as the front office for rendering passport services” .
+
+
+      Consequently, it was agreed to setup 235 Post Offices Passport Seva Kendra in various parts of country in a phased manner out of which 86 POPSKs will be set up in 1 st phase and 149 POPSKs will be set up in 2 nd phase.
+
+
+      Initiatives:
+
+
+      Notwithstanding the constraints and keeping in mind that POPSK will serve the citizens at large, Department of Posts has tried its best to move ahead for opening of POPSKs.
+
+
+      Key Results:
+
+
+      Of the 86 POPSK agreed in 1st phase, 59 POPSKs are functioning in camp mode and remaining 27 are various phase of readiness. Around 3.75 lakh passport appointments have been processed through these POPSKs .
+
+
+      Impacts:
+
+
+      The POPSKs has brought convenience to the citizens by making passport services available in their vicinity through Post Offices and save them from travelling long distances for obtaining a Passport. This has also increased footfall in the Post Offices.
+
+
+      Challenges:
+
+
+      Taking this project forward, the challenges faced by the Department are:-
+
+
+      · India Post is now expanding services to include India Post Payment Bank (IPPB) and regular postal operations like Post Office Savings Bank, counter operations, e-payment etc., there is a constraint of space as in most Post Offices space is based on the schedule of accommodation and to make 1000 sq. ft. for Passport Seva Kendras out of the existing space is sometimes difficult.
+
+
+      · Identifying and making available Verifying Officer (VO) and Granting Officer (GO) in every POPSK who are with a grade pay of Rs.4600/- is becoming difficult as there has been a ban on recruitment for a couple of years and many posts in that grade still remain unfilled.
+
+
+      · To open a POPSK at every 50 kilometers
+
+
+      · Training of postal officials identified as VO and GO on sovereign as well technical functions
+
+
+      · Considering the response received by the POPSKs in camp mode, capacity will required to be enhanced.
+
+
+      · Financials to be formalized.
+
+
+      · Project to be institutionalized by way of an MoU between DoP and MEA.
+
+
+      · Upgradation of POPSKs from camp mode to full-fledged Passport Seva Kendra
+
+
+      Despite the various challenges, in view of the fact that the Post Office Passport Seva Kendra will be meeting the needs of the citizens at large, the available buildings and spaces are being repaired, spruced up with a standardized look and feel in order to make them available as POPSKs, at the locations as agreed to by Ministry of External Affairs and Department of Posts. This would increase the footfall of customers at the post office and would create a win-win situation.
+
+
+      4. CPMG, Ahmedabad: Success Story
+
+
+      (I) Collection of the Examination & Recruitment fee under e-Payment :
+
+
+      Overview:
+
+
+      In Gujarat Circle, e-Payment service was launched in the year 2006 and presently available at 1,341 post offices throughout Gujarat Circle. It is a smart option for the businesses and organizations to collect their bills or other payments on-line through post office network.
+
+
+      Challenges faced:
+
+
+      · Network Connectivity
+
+
+      · e-Payment Data remains non-transfer to central server.
+
+
+      · NEFT/RTGS not available.
+
+
+      Initiatives:
+
+
+      • Gujarat Govt. had implemented e.Governance Project for recruitment of various cadres through online NIC, Gandhinagar.
+
+
+      • Gujarat Circle approached to Govt. of Gujarat for offering our e-Payment service for collection of Exam fee.
+
+
+      • Collection of Examination / Recruitment fees of various State Govt. Departments / Organizations through Department Post Offices were offered for entire state.
+
+
+      • NIC, Gandhinagar created OJAS (Online Job Application System) Web Portal for this purpose. With Co-ordination of NIC and State Government, MIS System has been developed & created User-IDs and Password for all Departmental Post Offices as well as Circle, Regional & Divisional level Login for monitoring.
+
+
+      • On receipt of request from recruitment department, Biller ID of the respective Department is being created & suitable instructions with details of duration, last date of acceptance of fees, Amount of fees, particulars of Biller ID etc. are being conveyed. Training in this regard for all staff also arranged up to all level.
+
+
+      • Rs.12/- (Rs.10/- + Service Tax, now GST) for each collection of fees collected under ePayment from the candidate.
+
+
+      Key results:
+
+
+      Revenue Performance of the Project :
+
+                                                                         
+Period                       No. of Transaction  DOP Revenue (Rs. In Cr.)
+                                                                         
+                                                                         
+                                                                         
+2015-2016                    16,40,022           1.91                    
+                                                                         
+                                                                         
+                                                                         
+2016-2017                    15,72,188           1.83                    
+                                                                         
+                                                                         
+                                                                         
+2017-2018 (Up to Sept-2017)  5,84,345            0.60                    
+                                                                         
+                                                                         
+
+      Ø Revenue probability for the year 2017-2018 is Rs.2.00 Crore.
+
+
+      Ø Other work under ePayment:
+
+
+      • Tie up with Gujarat State Petroleum Corporation (GSPC) and Sabarmati Gas Company Limited (SGL) (Govt. Undertaking) for collection of Gas Bill amount under e-Payment.
+
+
+      • Initial GSPC bills collection started during 2012 -13 with a monthly average of 38,600 reached to 67,500 bills during 2016-17.
+
+
+      Ø Collection of Admission / Course / Convocation form fee under e-Payment: Tie up with the following Universities for collection Admission / Course fee and Convocation form & fee :
+
+
+      1. Gujarat University : Physical Application of external Courses & Fee
+
+
+      2. Dr. Baba Saheb Ambedkar Open University (BAOU) : Admission fee for various Courses/ Semester
+
+
+      3. Veer Narmad South Gujarat University, Surat: Physical convocation forms and fees.
+
+                                                                                       
+Name of University                                  Revenue            Revenue         
+                                                                                       
+                                                                                       
+                                                    2015-16 (in lakh)  2016-17(in lakh)
+                                                                                       
+                                                                                       
+                                                                                       
+Gujarat University, Ahmedabad                       21.55              25.43           
+                                                                                       
+                                                                                       
+                                                                                       
+Dr. Baba Saheb Ambedkar Open University, Ahmedabad  0.38               1.04            
+                                                                                       
+                                                                                       
+                                                                                       
+Veer Narmad South Gujarat University, Surat         6.00               4.38            
+                                                                                       
+                                                                                       
+
+      Impacts:
+
+
+      “Student’s Enrolments were increased up to three times in comparison of pre system, rather than post system of e-payment”
+
+
+      -Prof. Shri M N Patel, Vice Chancellor, Guj. University
+
+
+      (II) Distribution of Prize Money to the Winners of Khel Mahakumbh through e-Money Order.:
+
+
+      Overview:
+
+
+      Ø Khel-Mahakumbh is a prestigious annual sporting competition conducted every year since 2010 by State Government (Department of Sports Youth & Culture, Sports Authority of Gujarat (SAG), a registered trust of the Government is an implementing body).
+
+
+      Ø The Prize money to the winner of Event were being distributed since 2010 through relevant Coach Manager/Institute/School etc. In the year, 2014 it was with ICICI Bank .
+
+
+      Challenges Faced:
+
+
+      · In some cases prize amount is more than Rs.5,000/- under this situation we have no other option but to split the Amount in 2(Two) eMOs.
+
+
+      · The Revision of present ceiling of Rs.5,000/- is Essential
+
+
+      Initiatives:
+
+
+      Ø With the convincing approach for delivery of Prize Money in the hands of actual winner of the game, it was agreed to assign DOP from 2015.
+
+
+      Ø Over 40 lakh participants across Gujarat are registered during 2016.
+
+
+      Ø The competition is being organized from Village to State level, during January to March every year & Registration carried out from September to November of the preceding year.
+
+
+      Ø Total 27 Games covered under this mega sporting competition apart from Divyang in four categories by covering all age groups for all events.
+
+
+      Ø Every District Sports Officer is sending particulars of the winners along with amount directly to the Nodal Post Office i.e., Ahmedabad GPO maintaining continuous Serial No. in XML format for bulk booking of eMO.
+
+
+      Ø Ahmedabad GPO is nominated as Nodal PO for booking of bulk eMOs under One to Many (OTM) option and is evolving monitoring cell for close and strict monitoring on division wise transmission of e.MOs up to updating of payment status by segregating & supplying division wise information to the concerned division across the circle. Each eMO so taken into the system will be assigned a computer generated PNR number.
+
+
+      Ø Co-ordination team of dedicated officers at GPO/CO level for monitoring purpose.
+
+
+      Key results:
+
+
+      Performance of the Project:
+
+                                                                          
+Year     No. of eMO  eMO Value (in cr.)  DOP Com. (in cr.)  Total (in cr.)
+                                                                          
+                                                                          
+                                                                          
+2015-16  1,67,316    Rs.29.74            Rs.1.48            Rs.31.22      
+                                                                          
+                                                                          
+                                                                          
+2016-17  1,77,208    RS.30.75            Rs.1.53            Rs.32.29      
+                                                                          
+                                                                          
+
+      Ø Revenue probability for the year 2017-2018 is Rs.1.75 Crore.
+
+
+      Impacts:
+
+
+      1. Additional source for revenue generation for the Department
+
+
+      2. Distribution of prize money through representative / Banks diverted to India Post.
+
+
+      3. Prompt and Transparent distribution of Prize Money in the hands of actual winner.
+
+
+      (III)Distribution of Scholarship:
+
+
+      Overview:
+
+
+      Scholarship accounts were opened throughout Gujarat Circle. There were 2,64,621 accounts opened in different post offices of Gujarat Circle. These accounts were required to be verified before they can process the grant in these accounts. It was a very gigantic task. Gujarat CPC has referred the case to CEPT for getting the data dump so that the accounts can be verified electronically.
+
+
+      Challenges faced :
+
+
+      The data dump was not made available by the CEPT due to some technical reasons. It was suspected that all these accounts will be transferred to Bank if the task is not completed within short period of time. To enter the each and every account in Finacle and check it required lots of time and manpower. State Government had given only 10 days’ time for verification of accounts.
+
+
+      The second big challenge after verification of these accounts was that the fund in these accounts will be transferred electronically by the nodal banks using NEFT platform. After taking up the matter with CEPT, it was cleared that NEFT platform is not yet made functional in Department of Post.
+
+
+      Initiatives:
+
+
+      In Gujarat CPC we have kept the data of interest statement shared by the CEPT. The data was processed and stored in SQL server. Hence the verification work of these accounts was carried out electronically by matching the data of interest statement and the data provided by Government of Gujarat using the tool developed by Shri Miral Khamar, ASP CPC & Mukesh Parmar, System Admin, CPC Gujarat, total 252338 accounts were verified electronically. The rest 12283 accounts could not be verified as the data dump was available upto March 2017. These accounts were verified by entering individual account number in finacle. All the Staff of CPC was utilized for the purpose. Verification of the account was completed within three days by working in long shifts. To find solution of posting in these accounts, state Government authority was assured that as soon as we receive the data of account numbers and draft we will process the data within two days and detail report will be shared with them. Hence officials of State Government were convinced in the meeting for arranging to give the list of account numbers along with the amount to be deposited for scholarship with draft/cheque.
+
+
+      Key results:
+
+
+      After a constant follow up, drafts were collected from all the nodal banks proactively and the same was processed at Ahmedabad GPO and all the accounts for which grant was given were posted with the amounts.
+
+
+      Impacts:
+
+
+      The main impact of this task was that we could save around 2.60 lakhs account to go to silent. Moreover, since the money is deposited in the beneficiary’s accounts, it has provided with the opportunity to grab the business of accounts in these field.
+
+
+      5. CPMG, Karnataka Circle: Success Story
+
+
+      OVERVIEW:
+
+
+      • Based on the requirement of the eCommerce companies and their end customers, Circle had experimented SAME DAY DELIVERY of eCommerce shipments through Speed Post in Bangalore.
+
+
+      • The system was aimed at booking at centralized office, dispatching of the consignments to the delivery post office and updating the status of delivery or otherwise on the same day of receipt.
+
+
+      • The system of SAME DAY DELIVERY of articles commenced in the month of December 2014 covering 12 PINCODEs in Bengaluru city. Separate booking unit for this facility commenced w.e.f 07.04.2015 in Bangalore GPO and has been extended to 94 pincodes as on date.
+
+
+      • The delivery area of 94 PINCODEs are covered by 39 Nodal Delivery Centre’s in Bangalore for delivery of the consignments.
+
+
+      • Shipments received from Amazon (till morning 0900 hours) are booked and dispatched to the NDCs by 1300 hours and delivered in the afternoon & delivery status is updated on the same day by 2000 hours. This is a twelve hour process cycle.
+
+
+      • The booking and dispatch of the same day delivery consignments are attended at Bangalore GPO.
+
+
+      CHALLENGES:
+
+
+      • The Nodal Delivery centre’s were already handling the total Speed Post delivery volume in Bangalore.
+
+
+      • The delivery staff were required to be trained for attempting and delivering the speed post consignments on the same day of receipt.
+
+
+      • Though the delivery was happening the updation of the delivery information was not taking place at the delivery post offices.
+
+
+      • Maintenance of 98% delivery performance benchmark.
+
+
+      • The varying sizes of the parcels received for delivery and its handling.
+
+
+      INITIATIVES:
+
+
+      • An exclusive team of GDS were poolled at different NDC’s for delivering Amazon same day delivery articles.
+
+
+      • These GDS were sensitized to attempt deliveries, calling the customers before attempting the delivery and updating the status at the end of the day.
+
+
+      • The importance of flow of information from the delivery end to the customer by way of updating the delivery status in the Speed Net was emphasised among the delivery staff and the officials handling Amazon SDD articles.
+
+
+      • Monitoring mechanism at Circle Office was devised and daily report from the Divisions were called for and a consolidated Daily Performance Review Report with observations of the CO if any were sent back to the Divisions for taking corrective actions wherever found necessary.
+
+
+      • During peak seasons when the volumes would be higher, circle monitoring team had direct interaction with the delivery units and delivery staff to ensure the issues at ground level was addressed to maintain the delivery performance at 98%.
+
+
+      • The Divisional heads were directed to take on the spot decisions for engaging private vehicles or divert the available resources to the needy offices depending upon the volume of mails received for delivery at the particular delivery centre.
+
+
+      • National Account facility was extended to Amazon with higher rebate.
+
+
+      KEY RESULTS:
+
+
+      • The performance under same day delivery system was constantly maintained at 98%.
+
+
+      • The daily average volume for Same Day Delivery increased from 100 articles to 2000 articles per day.
+
+
+      • Total volume of SDD touched 7.5 Lakhs during the year 2016-17 and 3.2 lakh were delivered during 2017-18.
+
+
+      IMPACTS:
+
+
+      • The above arrangement has given a platform to the DOP to establish its strength for the SAME DAY DELIVERY which is one of the requirements of booming eCommerce industry.
+
+
+      • DOP secured market share of Same Day Delivery of the articles is established.
+
+
+      • The delivery of more than 11 Lakh articles in the city had helped to regain the positive impression about India Post delivery system.
+
+
+      • The youth segment are covered by the eCommerce deliveries and this volume in the metro city had better impacts among the minds of the youth who desire the articles to be delivered on the day of ordering itself.
+
+
+      • 3.5 Crore revenue is earned from SAME DAY DELIVERY.
+
+
+      6. O/o CPMG, West Bengal: Success Story
+
+
+      Overview:
+
+
+      A) E Commerce:
+
+
+      · West Bengal Circle, with a large number of 9074 post offices spread across 1,03, 921 sq. km of area, has revamped its collection and delivery operations. Besides the traditional services, the Circle has adapted to meet the growing needs of corporate customer and general members of public. To cater to the demands of the market, the Circle has introduced parcel delivery for its corporate E commerce clients.
+
+
+      · The Circle has enrolled as many as 46 e-commerce companies both National as well as local players ..
+
+
+      · Mechanized delivery of parcels and large Speed Post articles are being done at the doorstep of the addressee by using vehicles.
+
+
+      B) Savings Bank:
+
+
+      · All the 9074 Post Offices in West Bengal Circle provide the basic banking products of the POSB. Of these 1,768 are departmental Post Offices which are manned by the regular government employees.
+
+
+      · At the end of March 2017, there were 2.69 Cr live accounts and 70.27 Lakh certificates issued and discharged from which total Rs.567.66 Cr. revenue has been earned.
+
+
+      · Out of 1768 post offices (H.O.+ S.O.) 1438 post offices migrated in CBS platform.
+
+
+      · Customers were demanding modern industry level services which were not possible in the Sanchay Post environment.
+
+
+      Challenges faced:
+
+
+      E-Commerce:
+
+
+      · Out of total 9074 post offices in West Bengal Postal Circle, 1111 post offices are in urban area and 7963 post offices are in rural sector. Since most of the post offices are in rural sector, speedy delivery of articles to the members of public and the uploading of delivery information in the system is a challenging task.
+
+
+      · As the customer behaviour has changed over the last decade, the buyers are more inclined to purchase products/ goods online and habituated to get prompt delivery at the doorstep.
+
+
+      · The two main requirement from the E-Commerce companies were:
+
+
+      a) over 90% delivery performance.
+
+
+      b) uploading of delivery information in the system.
+
+
+      Savings Bank:
+
+
+      · Though an impressive customer base, the Savings banking services were not upto industry standards.
+
+
+      · Government schemes of DBT, financial inclusion and social security could not be serviced in all Post offices due to non-availability of new software.
+
+
+      Initiatives:
+
+
+      E-Commerce:
+
+
+      · Mechanized delivery of parcels and large Speed Post articles i.e. a system of mechanized nodal delivery was introduced wherein parcels are delivery at the doorsteps of the addressee by using vehicles. This is functional at 35 nodal offices covering 117 Post Offices in Kolkata local TD area. Mechanized delivery is also available at Howrah, Hooghly, Siliguri, Port Blair and Gangtok. covering 24 post offices.
+
+
+      · In order to monitor and maintain high delivery performance the Circle Monitoring Cell has been set up .
+
+
+      · The Circle has also embarked upon providing one stop solution to its E-commerce customers by setting up E-commerce hub at Nabadiganta .which will function as booking, processing and despatch point for all parcels.
+
+
+      · Infrastructure was upgraded wherever required to support the software.
+
+
+      Savings bank:
+
+
+      · So far 1768 post offices out of 1438 has been rolled out under CBS platform and the CPC in the Circle office is fully functional.
+
+
+      · 64 interoperable ATMs have been installed in the Circle.
+
+
+      Key results:
+
+
+      E-Commerce:
+
+
+      · The Circle has captured as many as 46 e-commerce companies out of which Amazon, Flipkart and Naaptol are big players. Amazon had started its business with DoP, WB Circle in January 2016 and Naaptol in September 2016. The e-commerce segment, having generated approx. Rs 4.5 crore in 2016-17, is poised to touch a double-digit figure by the next year, having delivered half a million units already in the last year. There has been remarkable growth in the EP/BP parcels which is evident from the table below:
+
+                                                                                          
+Year                        Traffic  Total revenue of e-commerce parcels (in crore of Rs.)
+                                                                                          
+                                                                                          
+                                                                                          
+15-16                       71946    0.51                                                 
+                                                                                          
+                                                                                          
+                                                                                          
+16-17                       375608   2.23                                                 
+                                                                                          
+                                                                                          
+                                                                                          
+17-18 (up to September’17)  262193   1.2                                                  
+                                                                                          
+                                                                                          
+
+      · The Circle has achieved a growth of 38% in 17-18 over 16-17 (up to September).
+
+
+      Savings Bank:
+
+
+      · In F.Y. 2017-18, W.B.Circle achieved Rs.586.75 Cr. SBCC Revenue out of target of Rs 765 Cr.
+
+
+      · At the end of September 2017, there were 14291654 SB accounts, 4601237 RD accounts, 4677066 MIS accounts, 2348909 TD accounts ,142398 PPF accounts and 636208 Sukanya Samriddhi accounts are in live.
+
+
+      Impact:
+
+
+      · A significant step towards capturing the new era market to generate more revenue through e-Commerce business.
+
+
+      · A significant step towards financial inclusion as all these CBS accounts can be used for MGNREGS, DBT, social security pensions and other programs of the Government of India. System can be integrated with AEPS and APBS.
+
+
+      · Saving of time for the customers as the transactions are online and happen in real time.
+
+
+      · Provision of alternate banking channels like ATMs, Internet and Mobile banking to customers.
+
+
+      <><><<><><>
+
+
+      SNC
+
+
+    
+
+    
+    (Release ID: 1514451) Visitor Counter : 5068

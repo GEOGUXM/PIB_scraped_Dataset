@@ -1,0 +1,156 @@
+      PIB Headquarters
+
+      PIB’S DAILY BULLETIN ON COVID-19
+      Posted On: 02 JUL 2020 6:21PM by PIB Delhi
+
+
+    (Contains Press releases concerning Covid-19, issued in last 24 hours, inputs from PIB Field Offices and Fact checks undertaken by PIB)
+
+
+    Updates on Covid-19 from Ministry of Health and Family Welfare: Recovery rate fast moving to touch 60%; Difference between recovered and active cases increases to 1,32,912
+
+
+    As on date, there are 1,3 2,912 recovered cases more than the active COVID-19 cases.Timely clinical management of COVID-19 cases has resulted in more than 10,000 daily recoveries. During the last 24 hours, a total of 11,881 COVID-19 patients have been cured, taking the cumulative figure to 3,59,859. This further takes the recovery rate to 59.52%.Presently, there are 2,26,947 active cases and all are under medical supervision.During the last 24 hours 2,29,588 samples have been tested. The cumulative number of samples tested, as on date, is 90,56,173.The testing lab network in the country is further strengthened. With 768 labs in the government sector and 297 private labs, there are as many as 1065 labs in the country.
+
+
+    For details: https://pib.gov.in/PressReleasePage.aspx?PRID=1635886
+
+
+    Removal of obstructions paves the way for ramped up COVID-19 testing; Now, Private Practitioner can also prescribe a COVID-19 test
+
+
+    Through a significant step announced by the Central Government, COVID-19 testing can now be done on the prescription of any registered practitioner, and not exclusively a Government doctor. The Centre has strongly advised States/UTs to take immediate steps to facilitate testing at the earliest by enabling all qualified medical practitioners, including private practitioners, to prescribe COVID test to any individual fulfilling the criteria for testing as per ICMR guidelines.Reiterating that ‘Test-Track-Treat’ is the key strategy for early detection and containment of the outbreak, the Centre has advised States/ UTs to take all possible steps to ensure full capacity utilization of all COVID-19 testing laboratories in the State/ UT. This shall ensure full capacity utilization of all labs, especially the private ones, thus hugely benefitting the people.
+
+
+    For details: https://pib.gov.in/PressReleasePage.aspx?PRID=1635869
+
+
+    Government of India removes Impediments in COVID-19 Testing; Urges States to Ramp up Testing
+
+
+    Ms. Preeti Sudan, Health Secretary and DrBalramBhargava, DG (ICMR) urged the States/UTs yesterday to take immediate steps to facilitate and ramp up testing. They have reiterated that ‘test-track-treat’ is the key strategy for early detection and containment of the pandemic.Pointing out that in some States/ UTs, the capacity utilization of the testing labs, particularly the ones in private sector, is grossly sub-optimal, They are also advised to facilitate testing at the earliest by enabling all qualified medical practitioners, including private practitioners, to prescribe COVID test to any individual fulfilling the criteria for testing as per ICMR guidelines. While RT-PCR is the gold standard for diagnosis of COVlD-19, ICMR has recently approved the use of a point-of-care Rapid Antigen Test for early detection of COVID-19. In order to facilitate testing, States/UTs have also been advised to make efforts in 'campaign mode' by setting up camps/ using mobiles vans in high incidence areas to collect samples of all symptomatic individuals as well as their contacts, and get those samples tested by using rapid antigen test. In addition to ramping up and facilitating testing, States/UTs have also been urged to pay attention to 'contact tracing' as it holds the key to containing the virus.
+
+
+    For details: https://pib.gov.in/PressReleasePage.aspx?PRID=1635746
+
+
+    ASHAs of Odisha: overcoming COVID related stigma and discrimination; More than 46,000 ASHAs working closely with local communities to fight COVID-19
+
+
+    About 46,627 ASHAs in Odisha have emerged as champions against COVID-19 in rural and urban areas, addressing local health needs. They are seen to be working closely with GaonKalyanSamitis in the rural areas and MahilaArogayaSamitis in the urban areas, community collectives within which ASHAs are embedded. They have used these forums to facilitate COVID preventive actions by promoting the use of masks/face covers when stepping out in public spaces, being attentive towards frequent hand washing, following physical distancing, enhancing awareness of COVID symptoms etc.The ASHAs have created wide awareness about these through IEC activities like distribution of leaflets and posters at SwasthyaKantha (wall at village level).
+
+
+    For details: https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1635840
+
+
+    NPPA is monitoring price increase of critical medical equipment for COVID-19 Pulse Oximeter and Oyxgen Concentrators and also ensuring sufficient availability of the same in the country
+
+
+    Government is striving to ensure sufficient availability of critical medical equipment for clinical management of COVID-19 in the country. Ministry of Health & Family Welfare has identified list of critical medical equipment for the same and has requested National Pharmaceutical Pricing Authority (NPPA) to ensure availability of the same in the country. The Government is committed for availability of life saving drugs/devices at affordable prices to the consumers. All the medical devices have been notified as Drugs and have come under regulatory regime. In order to keep check on the price rise of critical medical equipment, NPPA has called for price related data from manufacturers/importers of (i) Pulse Oximeter and (ii) Oxygen Concentrator to ensure that prices existing as on 1st April 2020 should not be increased more than 10% in a year.A Stakeholders Consultation with Medical Devices Industry Associations and Civil Society Group was held in NPPA on 1st July 2020 wherein it was stressed that all the manufacturers/importers of critical medical equipment shall ensure sufficient availability of the same in the country. The Medical Devices Industry Associations have been urged to bring down the retail price of critical medical equipment.
+
+
+    For details: https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1635899
+
+
+    Telephone conversation between Prime Minister and the President of Russian Federation
+
+
+    Prime Minister Shri NarendraModi spoke on phone with President of the Russian Federation H.E. Mr Vladimir Putin on 2 July 2020.The leaders took note of the effective measures undertaken by the two countries to address the negative consequences of the Covid-19 global pandemic and agreed on the importance of closer India-Russia ties for jointly addressing the challenges of the post-COVID world.They agreed to maintain the momentum of bilateral contacts and consultations, leading to the annual bilateral Summit to be held in India later this year. Prime Minister conveyed his keenness to welcome President Putin in India for the bilateral Summit.
+
+
+    For details: https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1635882
+
+
+    Union HRD Minister and Union Health Minister jointly launch the Drug Discovery Hackathon 2020
+
+
+    Union Minister for Human Resource Development Shri Ramesh Pokhriyal ‘Nishank’, and Union Minister for Health and Family Welfare &Science and Technology Dr. Harsh Vardhan today launched Drug Discovery Hackathon through online platform. This Drug Discovery Hackathon is a joint initiative of MHRD, AICTE and CSIR and supported by partners like CDAC, MyGov, Schrodinger and ChemAxon.Hackathon will primarily focus on computational aspects of drug discovery and will have three Tracks. Track-1 will deal with computational modelling for drug design or identifying ‘lead’ compounds from existing databases that may have the potential to inhibit SARS-CoV-2 while Track-2 will encourage participants to develop new tools and algorithms using data analytics and AI/ML approach for predicting drug-like compounds with minimal toxicity and maximal specificity and selectivity. A third track, named Track 3 is a Moon-shot approach which will only deal with novel and out-of-the-box ideas in this field.
+
+
+    For details: https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1635913
+
+
+    Finance Minister: Strive to make GST Tax Administration simple ensuring Ease of Doing Business
+
+
+    GST Day, 2020 or third anniversary of introduction of GST was marked by CBIC and all its field offices across India on July 01, 2020. Union Minister for Finance& Corporate Affairs Smt. NirmalaSitharaman in her message on GST Day, highlighted that GST has come a long way in simplifying the GST Tax Administration based on feedback from stakeholders. Key points of FM’s message were:Focus on Hon’ble Prime Minister’s clarion call for AatmaNirbhar Bharat, strive to make the tax administration simple for taxpayers ensuring Ease of Doing Business in essence and foresee the issues faced by business community and proactively address them.The Finance Minister congratulated CBIC officers for the commendable job done by them during these testing times of COVID 19 and went beyond call of duty to help and handhold taxpayers. She also appreciated the record amount of refund disbursed to ease cash flow of taxpayers during this period.
+
+
+    For details: https://pib.gov.in/PressReleasePage.aspx?PRID=1635730
+
+
+    Shri Ram Vilas Paswanurges the States/UTs to pick the remaining food grains of previous months and speed up the distribution of food grains among beneficiaries
+
+
+    Union Minister for Consumer Affairs, Food & Public Distribution, Shri Ram Vilas Paswan held a media briefing yesterday to provide details of provision, preparedness and necessary steps taken by the ministry for providing additional food grains @ /month 5kg/person free of cost to all beneficiaries (AAY and PHH) covered under Targeted Public Distribution System as per provision of NFSA (including those covered under DBT).Shri Paswan also thanked Prime Minister Shri Narendra Modi for extending this scheme till November end, so that poor and needy persons will not go hungry and get free ration during the rainy and forthcoming festival seasons at the time of current Covid-19 pandemic. A total of 200 LMT grains will be distributed among 80 crore NFSA beneficiaries free of cost, as well as a total of 9.78 LMT gram will also be distributed among about 20 crore families.
+
+
+    F or details: https://pib.gov.in/PressReleasePage.aspx?PRID=1635691
+
+
+    OPERATION SAMUDRA SETU- INS JALASHWA BRINGS BACK 687 INDIAN CITIZENS FROM IRAN
+
+
+    INS Jalashwa, deployed by the Indian Navy for “Operation SamudraSetu", entered Tuticorinharbour yesterday, with 687 Indian nationals embarked from Bandar Abbas, Iran. So far Indian Navy ships have brought back 920 Indian citizens from Iran.With this evacuation, the Indian Navy has now repatriated 3992 Indian nationals from Maldives, Sri Lanka and Iran during the ongoing pandemic.
+
+
+    For details: https://pib.gov.in/PressReleasePage.aspx?PRID=1635766
+
+
+    Digital journey has focused on empowerment, inclusion and digital transformation and its positive impact is being felt in all aspects of the lives of Indian citizens: Ravi Shankar Prasad, Meity celebrates 5 years of Digital India
+
+
+    Shri Ravi Shankar Prasad, the Union Minister for Electronics & IT, Communications and Law & Justice, has said that the digital journey has focused on empowerment, inclusion and digital transformation and its positive impact is being felt in all aspects of the lives of Indian citizens. While addressing a video conference marking celebration of 5 years journey of India's Digital India Programyesterday, he stated that in the current pandemic scenario, thanks to JAM trinity (Jan Dhan, Aadhaar and Mobile), people are able to work from home, people are able make digital payment, students are able to learn through TV, Mobile and Laptop, patients are able to take tele-consultation, and farmers in remote corner of India is able to get PM-KISAN benefits directly in their bank accounts. Digital India’s initiatives have played a pivotal role during the CoVID-19 situation, such as AarogyaSetu, E-Sanjeevani, sensitisation through MyGov and Social media platforms etc.
+
+
+    For details: https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1635683
+
+
+    SER RUNS 2266 TRIPS OF PARCEL EXPRESS TRAINS TO SUPPLY OF ESSENTIAL COMMODITIES IN THE WAKE OF COVID-19
+
+
+    South Eastern Railway (SER), during this national crisis, has already run 2266 trips of Time Tabled Parcel Express Trains carrying essential commodities viz., food items, groceries, medicines, medical equipment, fish, fruits, cotton goods, gunny bags, vegetables, onion, ginger, garlic and other daily need items to different parts of the country from April 2 to June 30, 2020. SER during the above period, has carried 36,532 tonnes of parcel traffic containing 13,73,645 packages to different places in the country.
+
+
+    For details: https://pib.gov.in/PressReleasePage.aspx?PRID=1635687
+
+
+    INPUTS FROM PIB FIELD OFFICES
+
+      * Kerala: State Agriculture Minister V.S. Sunil Kumar says, in the wake of transmission of Covid-19 in Ernakulam market, more caution is needed in Kochi. He said at present there is no community transmission in Ernakulam district and that action will be taken against those hiding the symptoms of the disease and violating the protocol. The condition of one patient undergoing treatment for the disease in the district after returning from Kuwait is very serious. Of the 12 confirmed of the virus yesterday, eight contracted it through contact. Meanwhile, the swab samples of 26 people have been collected after an employee of the market tested positive. A Keralite nun has succumbed to Covid-19 in Delhi. The state recorded 151 new Covid-19 cases and 132 recoveries yesterday. 2,130 patients are still undergoing treatment across the state.
+      * Tamil Nadu: Puducherry reported 63 new Covid-19 cases; presently 459 persons are undergoing treatment. Since elections cannot be held due to the Covid situation, the State government has promulgated another ordinance extending the term of the special officers in the urban local bodies in many districts from the earlier extended date of June 30 to December 31,2020. 3882 new cases, 2852 recoveries & 63 deaths reported yesterday. Total cases till now : 94049, Active cases: 39856, Deaths: 1264, Active cases in Chennai: 22777.
+      * Karnataka: To contain Covid, the state is planning to impose lockdown rules in containment zones from July 7, after completion of SSLC (10 standard) exams. Following complaints that burial of Covid patients was being carried out without following protocol, State has ordered all District Collectors to identify areas outside cities for burial of dead Covid patients. 1272 new cases, 145 discharges & 7 deaths reported yesterday. Total positive cases till now : 16,514, Active cases: 8194, Deaths: 253 Discharges: 8063.
+      * Andhra Pradesh:With speculation on for a possible 15-day complete lockdown in Hyderabad's GHMC limits and some adjoining districts of Telangana, people hailing from AP are rushing back to their native places. As a result, heavy traffic jams are being witnessed at several points along Andhra -Telangana border, with long queue line of vehicles stretching into several kilometers. State is contemplating to reduce the academic syllabus by 30% and working days to 180 from August 3, 2020 to the second week of May 2021. 845 new cases, 281 discharged and five deaths reported during last 24 hours after testing 14,285 samples. Of the 845 cases, 29 are inter-state cases and four from abroad. Total cases: 16,097, Active cases: 8586, Discharged: 7313, Deaths: 198.
+      * Telangana: Private hospitals line up for government nod to treat Covid-19 patients. The state government issued certain guidelines while permitting hospitals with a 100-bed capacity to treat Covid-19 patients. 1018 new cases, 788 recoveries & 07 deaths reported yesterday. Total cases reported till yesterday: 17357, Active cases: 9008, Deaths: 267, Discharges: 8082.
+      * Maharashtra: The current count of COVID19 patients in the state is 180298. 5537 new patients have been identified as positive and 2243 patients have recovered on Wednesday. In all, 93154 patients have been discharged from hospitals throughout the state after recovery till Wednesday. Total Active patients are 79075.
+      * Gujarat: In Gujarat, the total number of COVID-19 cases has reached to 33,318 with 675 new cases reported during the last 24 hours. Also, 21 patients have lost their lives taking the death toll due to the pandemic in the state up to 1,869.
+      * Rajasthan: The total cases stand at 18,427 with the report of 115 new cases and 5 deaths today morning. 3358 active cases exist in the state while 14,643 patients have recovered in the state so far. Udaipur reported the maximum – 21 cases, followed by Bikaner with 12 new cases, and then Rajsamand and Dholpur reporting 10 cases each today.
+      * Madhya Pradesh: 268 new cases have been reported at M.P. on Wednesday, which takes the state tally of COVID-19 to 13,861. While there are 2625 active cases, the total number of recovered patients is 10655 and 581 deaths have occurred so far. Hotspot Indore has reported 25 new cases and 3 deaths on Wednesday. The total cases stand at 4734 in Indore. Capital city Bhopal recorded 41 new cases and 4 deaths on Wednesday. Therefore, the total cases at Bhopal now stand at 2830. District Morena has reported the maximum number, that is, 73 new cases and also one death, while Gwalior recorded 25 cases and Bhind 22 cases on Wednesday.
+      * Chhattisgarh: 81 new cases have been identified and also 53 patients recovered and one death took place in the state on Wednesday. While the total count of positive cases till date stands at 2940, there are 623 active cases in the state at present.
+      * Goa: 72 new positives have been reported on Wednesday, which takes the state tally of COVID-19 patients to 1387. There are 713 active patients in the state. With the recovery of 74 patients as on Wednesday, the total number of recovered patients now stands at 670. One death of a co-morbid patient also occurred on Wednesday which takes the death toll to 4 in the state.
+      * Arunachal Pradesh: Total 24,856 samples collected for Covid-19 tests so far in Arunachal Pradesh. Out of this, results for 1669 are awaited. Currently 128 active cases and 66 people recovered and discharged. The bazar committee of Doimukh in Arunachal Pradesh has decided to go for four days of complete shutdown of all business establishments in the market till 5th July as a preventive measure to minimize the spread of COVID-19.
+      * Assam: Assam Health Minister HimantaBiswaSarma tweeted that 2 person died of COVID-19 today.
+      * Manipur: Churachandpur COVID-19 Care Centre inaugurated at NIELIT Churachandpur Extension Centre in Manipur. The 50 bed Centre will be supervised by the CMO Churachandpur.
+      * Mizoram: No new COVID19 cases found in last 24 hrs in Mizoram. 382 swab samples tested negative while results for 15 samples are awaited.Active cases in state stands at 37 while123 recovered. And the total COVID-19 cases in the state stands at 160.
+      * Nagaland: 34 new positive cases of COVID-19 have been detected in Nagaland. Total number of positive cases stands at 535 with 353 active cases while 182 have recovered so far. Health and Family Welfare Minister of Nagaland said the first batch of equipment for installation of BSL-2 Lab at Tuensang has arrived and technical work will be done on war footing.
+      * Chandigarh: The Administrator, UT Chandigarh, directed that all cases of fever, ILI, SARI, SARS, & vector be tested for covid. He also appealed to the residents to inform the authorities about any suspect case in neighbourhood, so that medical team could approach them and arrange testing. He stated that the Unlock 2 orders passed by the Ministry of Home Affairs have been adopted in Union Territory, Chandigarh. There will be strict implementation of mask-wearing, social distancing in public places and any person violating the guidelines/directions will be penalized.
+      * Punjab: In a bid to effectively tackle the increasing patient load in Government Hospitals due to spread of Coronavirus, Punjab Cabinet accorded approval to fill 3954 existing vacant regular posts in Health department and 291 posts in Medical Education & Research Department.
+      * Himachal Pradesh: While interacting with the beneficiaries of Mukhya Mantri Gram KaushalYojna through video conferencing, Chief Minister said that during the COVID-19 pandemic only the rural economy has survived, which was an indication of the fact that these areas have firm base to deal with any kind of eventuality. He said that efforts should be made to start rural development oriented schemes to benefit the youth so that they do not have to migrate from rural areas to urban areas in search of employment.
+      * Haryana: Amid COVID-19 Pandemic, Haryana Government has laid special emphasis on strengthening delivery facilities in both public and private health institutions across the State to ensure safe and uninterrupted institutional delivery facilities being given to pregnant women. In non-COVID Hospitals, a provision for separate LDR room i.e. (labour, delivery, and recovery) has been made. Along with this, a facility of an isolation ward for delivery and admission of COVID positive pregnant cases may be created, in cases where it is not possible to send pregnant women to special COVID hospitals.
+
+    FACTCHECK
+
+
+    YB
+
+    
+    
+    (Release ID: 1635951) Visitor Counter : 677
+    
+    
+      Read this release in: Marathi , Assamese , Manipuri , Bengali , Punjabi , Gujarati , Telugu , Kannada , Malayalam
+    
+    
+    
+
+*

@@ -1,0 +1,31 @@
+      Ministry of Road Transport & Highways
+
+      Ministry of Road Transport & Highways asks transport authorities to accept DL, RCor other documents presented through DigiLockerormParivahan platform
+      
+      Impounding of documents to be reflected electronically through 'eChallan' system
+
+      Posted On: 09 AUG 2018 4:30PM by PIB Delhi
+
+    The Ministry of Road Transport & Highways has issued an advisory to states to accept Driving Licence, Registration Certificate or other documents in 'electronic form' presented through DigiLocker or mParivahan platform as valid under the Motor Vehicles Act 1988 and treat them at par with the certificates issued by the transport authorities. This is in response to a number of Grievances/RTI applications received in the Ministry where citizens have raised the issue that the documents available in DigiLocker or them Pa r ivahan app are not considered valid by the traffic police or the motorvehicles department, when asked to produce.
+
+
+    The Advisory clarifies that the DigiLocker platform of the Ministry of Electronics and Information Technology, Government of India and the mParivahan mobile app of the Road Transport & Highways Ministry has the facility topull a citizen's Driving Licence or the Registration Certificate or any other certificate inan electronic form. These electronic records available on Digi Locker or mParivahan are deemed to be legally recognised at par with the original documents as per the provisionsof the Information Technology Act , 2000.As per the provisions of the Motor Vehicles Act 1988 , and the Central Motor Vehicles Rules 1989, the owner / driver has to produce the documents viz. licence orcertificate of registration etc. to the authority on demand.
+
+
+    The Advisory further says that the data related to the insurance of new vehicles and renewal of insurance ofvehicles is also being uploaded by the Insurance Information Board (liB) on the VAHAN database on a daily basis now and the same is reflected on the mParivahan / eChallan app of the Ministry. If the vehicle registration details on the mParivahan / eChallan appcontain the details of the policy which is in-force , then the requirement of a physicalcopy of the insurance certificate is also not to be enforced.
+
+
+    Regarding cases of offence when there is a requirement ofthe documents to be impounded , the enforcement agencies can have such impoundingreflected in the VAHAN/ SARATHI database electronically through the 'eChallan' system.There would be no requirement of physical seizure of the such documents.This IT based online verification of certificates is expected to help the enforcement authority in ensuring the genuineness of the details which further would result in better compliance and effective monitoring.
+
+
+    State using any such online enforcement solution through alternative database have been asked to transfer the relevant information electronically through web service of VAHAN/ SARATHI database.
+
+
+    ******
+
+
+    NP/MS/MS
+
+    
+    
+    (Release ID: 1542222) Visitor Counter : 1369

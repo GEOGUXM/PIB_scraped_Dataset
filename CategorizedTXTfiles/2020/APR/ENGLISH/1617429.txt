@@ -1,0 +1,47 @@
+      Ministry of Science & Technology
+
+      Virucidal coating to prevent COVID transmission
+      Posted On: 23 APR 2020 2:36PM by PIB Delhi
+
+
+    A team of researchers at Faridabad-based Regional Centre for Biotechnology (RCB) led by Dr. Avinash Bajaj has initiated a study to engineer virucidal coatings to prevent the COVID-19 Transmission.
+
+
+    The study is being conducted in collaboration with Dr. Milan Surjit from Translational Health Science and Technology Institute (THSTI) and Dr. Samrat Mukhopadhay from Department of Textile Technology, Indian Institute of Technology, Delhi. Regional Centre for Biotechnology (RCB), is an 'Institution established by the Department of Biotechnology, Government of India, under the auspices of UNESCO.
+
+
+    Dr. Bajaj's group has expertise in engineering of antimicrobial molecules that can target the membranes of microorganisms selectively. Here, the group will be extending their expertise on developing the molecules that will target the membranes of Covid-19 viral particles selectively. These molecules will then be used for engineering of different surfaces like glass, plastic and textiles including cotton, nylon, and polyester to provide virucidal coating that can potentially inhibit the viral transmission.
+
+
+    In another effort to help fight the pandemic, a research group led by Prof. Deepak T. Nair at the Centre is trying to find out how to inhibit the activity of a protein called nsp12 protein that houses the RNA-dependent RNA polymerase activity responsible for the duplication of the RNA genome of the SARS-CoV-2 virus.
+
+
+    The group has used computational tools to build a homology model of the three-dimensional structure of the nsp12 protein. The model was then used to identify possible inhibitors of the nsp12 protein. The studies predict that the methylcobalamin form of Vitamin B12 may bind to the active site of the nsp12 protein and inhibit its activity. The group is now seeking to carry out further experiments to validate this hypothesis. If found effective, methylcobalamin may be immediately be deployed in the field since it is already a part of many drug formulations.
+
+
+    The group has also initiated efforts to purify the nsp12 protein to develop high throughput plate assays that can be used to identify different inhibitors of the protein. These inhibitors will serve as lead molecules for the development of novel drugs against the SARS-CoV-2 virus.
+
+
+    Besides, efforts are underway to identify possible inhibitors of two other proteins from the SARS-CoV-2 virus using computational tools. These include nsp14, which has a methyltransferase and exoribonuclease activity and nsp13 which has a RNA helicase activity.
+
+
+    The available genome sequences of SARS-CoV-2 are also being analysed to identify regions in the genome which may be structured and can be targeted using small molecule to perturb translation or replication of the genome.
+
+
+    Noting that intense efforts are ongoing to identify possible inhibitors of the SARS-CoV-2 life cycle and already a promising lead molecule has been identified, the scientists pointed out that the availability of live virus to carry out experiments that can validate the computational studies will considerably bolster the efforts at RCB to unearth a drug for the ongoing pandemic.
+
+
+    In addition, a group of scientists at the Centre is working to develop a highly sensitive and specific, rapid, point-of-care, low-resource-requiring, colorimetric and cost-effective test for COVID-19 detection with Dr. Priyanka Maurya of S H C Shine Biotech, another on a probe based RT PCR diagnostics kit with Dr. Shailendra Vyas of Bioheaven, a third group on a rapid molecular diagnostic kit with Dr. Sandeep Verma of InnoDx and the fourth on a PCR based in-vitro diagnostic kits with Dr. Suresh Thakur of NGIVD.
+
+
+    ****
+
+
+    KGS/( DST-(Vigyan Samachar))
+
+    
+    
+    (Release ID: 1617429) Visitor Counter : 683
+    
+    
+      Read this release in: Punjabi , Urdu , Hindi , Assamese , Bengali , Gujarati , Tamil , Telugu

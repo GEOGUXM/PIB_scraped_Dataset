@@ -1,0 +1,32 @@
+      Ministry of Road Transport & Highways
+
+      Pilot Project for Using FASTags for Parking Purposes Launched at Hyderabad Airport
+      Posted On: 09 DEC 2019 4:15PM by PIB Delhi
+
+
+    Ministry of Road Transport and Highways has started a pilot project for using FASTags for parking purposes at Hyderabad Airport. The pilot project has been launched in two phases, the first being a controlled pilot testing, wherein only ICICI tags would be used. The second phase of pilot shall cover all other Issuer Bank tags. This has been done to ensure the benefits of FASTag beyond tolling. Conceptualised as FASTag 2.0, it covers parking payments, fuel payments, etc. After the success in Hyderabad, the project will be launched at Delhi airport. Other banks like SBI, Axis, HDFC & IDFC are also in talks with airports in Mumbai, Bangalore & few of the malls to launch FASTag 2.0.
+
+
+    With the Parking use case, all the vehicles fitted with FASTags, as also those sold post December 2017, will automatically benefit as they have been already fitted with a FASTag. The journey of FASTag 2.0 has many exciting use cases like Fuel Payments, Enforcement (E-challan) payments, Access Management at offices and residence. GST council has also mandated FASTag for all commercial vehicles which would be generating an E-way bill from 1 st April, 2020. This integration will be a big boost to GSTN as it would help in identifying the leakages with respect to non-issuance/ miss reporting of E-way bill.
+
+
+    National Electronic Toll Collection (FASTag) programme, the flagship initiative of Ministry of Road Transport and Highways has been implemented on pan India basis across National Highway toll plazas. It has given a major fillip to the digital India initiative by converting cash toll payments to electronic and brought in an enhanced transparency in entire tolling ecosystem. With the recent mandate to declare all lanes of fee plazas on National Highways as “FASTag lanes”, it has seen a much wider adoption both in terms of new tag sales as well as higher transactions at the toll plazas.
+
+
+    FASTag issuance saw a huge jump during the last two weeks of November last. Form a daily average of twenty eight thousand tags, the daily issuance shot to a daily average of 1.5 lakh tags in last 5 days. Similarly, transactions have also gone up - from an average one million daily transactions to around 1.6-1.7 million daily transactions.
+
+
+    The mandate would definitely increase the penetration of NETC, as many of the toll plazas are already collecting 50-55% of the toll collection through FASTag. The higher NETC penetration will ensure a seamless movement of traffic and would bring down the overall Logistic cost in the country. The increase in NETC penetration would also add a lot of transparency in the ecosystem.
+
+
+    ***
+
+
+    RCJ/MS
+
+    
+    
+    (Release ID: 1595553) Visitor Counter : 406
+    
+    
+      Read this release in: Hindi

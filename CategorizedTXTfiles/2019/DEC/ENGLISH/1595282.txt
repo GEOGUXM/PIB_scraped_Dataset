@@ -1,0 +1,189 @@
+      Ministry of Consumer Affairs, Food & Public Distribution
+
+      Aadhaar-Based Technical Improvements in PDS
+      Posted On: 06 DEC 2019 4:37PM by PIB Delhi
+
+
+    The Department in association with all States/UTs is implementing a scheme on ‘End-to-End Computerization of PDS Operations’. The scheme includes digitization of ration cards/beneficiaries data including seeding of Aadhaar numbers and installation of ePoS (electronic Point of Sale) devices at all FPSs for bringing transparency in the distribution and ensured delivery of highly subsidised foodgrains under NFSA. State/UT wise statement showing progress of Aadhaar seeding and ePoS installation is Annexed.
+
+
+    Further, Department has issued a notification under the Section-7 of the Aadhaar Act 2016 on 08/02/2017 (as amended from time to time) for the use of Aadhaar in PDS for the distribution of subsidized foodgrains to eligible beneficiaries under the National Food Security Act, 2013 (NFSA). The said notification issued on 08/02/2017 requires that beneficiaries under NFSA who do not possess an Aadhaar number or are not yet enrolled for Aadhaar, but are desirous of availing subsidies under NFSA, should make an application for Aadhaar enrolment by 30/06/2017; presently extended up to 31/12/2019.
+
+
+    Also, in case of any areas/FPS locations with poor internet connectivity/temporary unavailability of network, which may result in failure of biometric authentication of beneficiaries, the Department has issued clear instructions to all State/UT Governments that no genuine beneficiary shall be denied for aforesaid reasons including technical failure/poor biometric of the beneficiary.
+
+
+    This information was given in a written reply by the Minister of State for Consumer Affairs, Food & Public Distribution, Shri. Danve Raosaheb Dadarao in Rajya Sabha today.
+
+
+    *****
+
+
+    APS/AS
+
+
+    ANNEXURE
+
+                                                           
+Statement on Digitization, Aadhaar seeding & FPD automation
+                                                           
+                                                           
+                                                                                                                                         
+SN                                                           State                 Digitization (%)  % Aadhaar Seeding in  FPS Automation
+                                                                                                     Ration Cards          (%)           
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+1                                                            Andaman & Nicobar     100%              97%                   96%           
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+2                                                            Andhra Pradesh        100%              100%                  100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+3                                                            Arunachal Pradesh     100%              57%                   1%            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+4                                                            Assam                 100%              0%                    0%            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+5                                                            Bihar                 100%              77%                   32%           
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+6                                                            Chandigarh (DBT)      100%              100%                  NA            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+7                                                            Chhattisgarh          100%              98%                   97%           
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+8                                                            Dadra & Nagar Haveli  100%              100%                  100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+9                                                            Daman & Diu           100%              100%                  100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+10                                                           Delhi                 100%              100%                  0%            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+11                                                           Goa                   100%              98%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+12                                                           Gujarat               100%              99%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+13                                                           Haryana               100%              100%                  100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+14                                                           Himachal Pradesh      100%              100%                  100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+15                                                           Jammu & Kashmir       100%              83%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+16                                                           Jharkhand             100%              95%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+17                                                           Karnataka             100%              100%                  99%           
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+18                                                           Kerala                100%              99%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+19                                                           Lakshadweep           100%              100%                  100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+20                                                           Madhya Pradesh        100%              90%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+21                                                           Maharashtra           100%              98%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+22                                                           Manipur               100%              81%                   0%            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+23                                                           Meghalaya             100%              0%                    0%            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+24                                                           Mizoram               100%              93%                   0%            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+25                                                           Nagaland              100%              69%                   0%            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+26                                                           Odisha                100%              99%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+27                                                           Puducherry (DBT)      100%              100%                  NA            
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+28                                                           Punjab                100%              99%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+29                                                           Rajasthan             100%              97%                   97%           
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+30                                                           Sikkim                100%              91%                   99%           
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+31                                                           Tamil Nadu            100%              100%                  100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+32                                                           Telangana             100%              99%                   100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+33                                                           Tripura               100%              100%                  100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+34                                                           Uttar Pradesh         100%              100%                  100%          
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+35                                                           Uttarakhand           100%              94%                   60%           
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+36                                                           West Bengal           100%              64%                   82%           
+                                                                                                                                         
+                                                                                                                                         
+                                                                                                                                         
+                                                             Summary               100%              85.8%                 83.2%         
+                                                                                                                                         
+                                                                                                                                         
+
+    *
+
+    
+    
+    (Release ID: 1595282) Visitor Counter : 478

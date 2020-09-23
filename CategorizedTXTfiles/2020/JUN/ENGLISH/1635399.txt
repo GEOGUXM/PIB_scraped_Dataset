@@ -1,0 +1,73 @@
+      Ministry of Finance
+
+      Implementation of Amendments in the Indian Stamp Act, 1899 and Rules made from 1st July, 2020 for Rationalized Collection Mechanism of Stamp Duty across India with respect to Securities Market Instruments
+      Posted On: 30 JUN 2020 6:42PM by PIB Delhi
+
+
+    The Amendments in the Indian Stamp Act, 1899 brought through Finance Act 2019 and Rules made thereunder will come into effect from tomorrow, i.e. 1 st July, 2020 vide notifications dated 30 th March, 2020.
+
+
+    In order to facilitate ease of doing business and to bring in uniformity of the stamp duty on securities across States and thereby build a pan-India securities market, the Central Government, after due deliberations and consultations with the States, through requisite amendments in the Indian Stamp Act, 1899 and Rules made thereunder, has created the legal and institutional mechanism to enable states to collect stamp duty on securities market instruments at one place by one agency (through Stock Exchange or Clearing Corporation authorized by it or by the Depository) on one Instrument. A mechanism for appropriately sharing the stamp duty with relevant State Governments has also been developed which is based on the state of domicile of the buyer.
+
+
+    The present system of collection of stamp duty on securities market transactions led to multiple rates for the same instrument, resulting in jurisdictional disputes and multiple incidences of duty, thereby raising the transaction costs in the securities market and hurting capital formation.
+
+
+    The relevant provisions of the Finance Act, 2019 amending the Indian Stamp Act, 1899 and the Indian Stamp (Collection of Stamp-Duty through Stock Exchanges, Clearing Corporations and Depositories) Rules, 2019 were notified simultaneously on 10 th December, 2019 and these were to come into force from 9 th January, 2020, which was later extended to 1 st April, 2020 vide notifications dated 8 th January, 2020. Further, considering the requests received from stakeholders, country-wide lockdown situation due to Covid-19 and in line with the relaxations given on statutory and regulatory compliance in other sectors, the date for implementation of amendments in the Indian Stamp Act, 1899 brought through Finance Act 2019 and Rules made thereunder was further extended to 1 st July, 2020 vide notifications dated 30 th March, 2020.
+
+
+    Potential Impact
+
+
+    This rationalized and harmonized system through centralized collection mechanism is expected to ensure minimize cost of collection and enhance revenue productivity. Further, this system will help develop equity markets and equity culture across the length and breadth of the country, ushering in balanced regional development.
+
+
+    Salient Features
+
+
+    To achieve the rationalization of stamp duty structures, the amendments, inter-alia, provide for the following structural reforms; —
+
+     1. The stamp-duty on sale, transfer and issue of securities shall be collected on behalf of the State Government by the collecting agents who then shall transfer the collected stamp-duty in the account of the concerned State Government.
+     2. In order to prevent multiple incidences of taxation, no stamp duty shall be collected by the States on any secondary record of transaction associated with a transaction on which the depository / stock exchange has been authorised to collect the stamp duty.
+     3. In the extant scenario, stamp duty was payable by both seller and buyer whereas in the new system it is levied only on one side (payable either by the buyer or by the seller but not by both, except in case of certain instrument of exchange where the stamp duty shall be borne by both parties in equal proportion).
+     4. The collecting agents shall be the Stock Exchanges or authorized Clearing Corporations and the Depositories.
+     5. For all exchange based secondary market transactions in securities, Stock Exchanges shall collect the stamp duty; and for off-market transactions (which are made for a consideration as disclosed by trading parties) and initial issue of securities happening in demat form, Depositories shall collect the stamp duty.
+     6. The Central Government has also notified the Clearing Corporation of India Limited (CCIL) under the jurisdiction of RBI and the Registrars to an Issue and/or Share Transfer Agents (RTI/STAs) to act as a collecting agent. The objective is to bring OTC derivative transactions reported to CCIL and physical space (non-demat) transactions in mutual funds handled through RTI/STAs under the ambit of stamp duty regime so as to avoid any tax arbitrage.
+     7. The collecting agents shall within three weeks of the end of each month transfer the stamp-duty collected to the State Government where the residence of the buyer is located and in case the buyer is located outside India, to the State Government having the registered office of the trading member or broker of such buyer and in case where there is no such trading member of the buyer, to the State Government having the registered office of the participant.
+     8. The collecting agent shall transfer the collected stamp-duty in the account of concerned State Government with the Reserve Bank of India or any scheduled commercial bank, as informed to the collecting agent by the Reserve Bank of India or the concerned State Government.
+     9. The collecting agent may deduct 0.2 per cent of the stamp-duty collected on behalf of the State Government towards facilitation charges before transferring the same to such State Government.
+    10. For many segments, there is reduction in duty. For example, the rate prescribed is lower for issue of equity/debentures and for transfer of debentures (including re-issue) to aid capital formation and to promote corporate bond market.
+    11. For equity cash segment trading (both delivery and non-delivery-based transactions) and options, since rates are to be charged only on one side in line with the new scheme, it can be stated that there is an overall reduction in tax burden.
+    12. Secondary market transfer of instruments which are traded with differences in a few basis points, like interest rate / currency derivatives or corporate bonds are being charged at a very lower rate from the existing rates. For the newly introduced ‘repo on corporate bonds’, a far lower rate is specified, since similarly positioned repo on Government Securities is not subject to duty.
+    13. No stamp duty shall be chargeable in respect of the Instruments of transaction in stock exchanges and depositories established in any International Financial Services Centre set up under section 18 of the Special Economic Zones Act, 2005.
+    14. Tax arbitrage is avoided by providing the same rate of stamp duty for issue or re-issue or sale or transfer of securities happening outside stock exchanges and depositories.
+    15. Mutual funds, being delivery-based transactions in securities, were supposed to have been paying the duty as per various State Acts. All mutual fund transactions are thus liable for stamp duty and the new system has only standardized the charges across states and the manner of collection of stamp duty.
+
+    Readiness for Implementation
+
+
+    Even during the strict lockdown phases in view of pandemic situation, all efforts were made to ensure market continuity because Stock Markets are critical for the economy.
+
+
+    The amendments to the Stamp Act and the rates have been in public domain since February 2019 (when Finance Act, 2019 was notified) and market had enough time to prepare for this. The operational systems of Stock Exchanges, Clearing Corporations, Depositories, CCIL and RTI/ STAs are all set / prepared to roll out the relevant provisions of amended Indian Stamp Act 1899 and rules made thereunder from 1 st July, 2020.
+
+
+    The Regulators (RBI & SEBI) have been authorized by the Central Government under the Indian Stamp Act, 1899 to issue clarificatory circulars/ operational guidelines on specific issues so as to ensure smooth implementation from 1 st July, 2020.
+
+
+    ****
+
+
+    RM/KMN
+
+    
+    
+    (Release ID: 1635399) Visitor Counter : 7517
+    
+    
+      Read this release in: Punjabi , Urdu , Marathi , Hindi , Tamil
+    
+    
+    
+
+15.

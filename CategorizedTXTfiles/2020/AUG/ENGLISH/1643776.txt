@@ -1,0 +1,32 @@
+      Ministry of Jal Shakti
+
+      Ministry of Jal Shakti launches new version of India Water Resources Information System
+      Posted On: 06 AUG 2020 4:32PM by PIB Delhi
+
+
+    The Ministry of Jal Shakti has launched a new version of the India Water Resources Information System (India-WRIS) with new functionalities and features. Open to the public, and accessible through the web portal www.indiawris.gov.in, this portal contains information related to Water Resources through dashboards for rainfall, water levels & discharge of rivers, water bodies, ground water levels, reservoir storages, evapotranspiration and soil moisture, as well as modules on water resources projects, water bodies, hydro-met data availability and tools for GIS layer editing.
+
+
+    Water is key to life and development. Judicious use of water resources assumes utmost importance, particularly when increasing population, urbanization and related development creates additional pressure on available resources. Good planning of any resource requires a strong data base and a reliable information system. To address this need, the Ministry of Jal Shakti (MoJS), under the National Hydrology Project, launched the first version of India Water Resources Information System (India-WRIS) in July, 2019. Since then, a number of new functionalities and features have been added into the system.
+
+
+    India WRIS is, at present, receiving data from many central and state agencies like CWC, CGWB, IMD, NRSC, Andhra Pradesh, Uttar Pradesh and Gujarat etc. on regular basis. Data from other agencies is also being integrated into the system, so that it becomes a comprehensive platform for any data related to water and land resources. The MoJS has established a dedicated organization, National Water Informatics Centre (NWIC) to maintain and update India WRIS.
+
+
+    The basis for all hydro-met observation data is the Water Information Management System (WIMS). Through a secured login, Central and State Water Agencies can enter, analyse, validate and manage data for water level (Both Surface Water & Ground Water), flow, water quality, sediment and many climate parameters. The system includes time series data obtained through manual readings as well as telemetry data received by means of GPRS or satellite.
+
+
+    Through this portal, any stakeholder can visualize the information in a user friendly manner, as well download the information in the form of excel reports and graphs. The key features of the system are Water information easily made available to users and general public, for decision makers, water managers, farmers & experts, Direct access to hydro-met information from Central and State agencies, Real-time data available with one click, Variety of modules for different needs, Latest technologies, continuous development and improvement.
+
+
+    Various user groups can utilize the information as follow like farmers and farmer Welfare Associations can plan crops and cropping pattern based on the rainfall, water availability in storages and ground water aquifers and with changing times the associations can involve youth for utilizing the data appropriately as real time data is available on this web site. Individuals can use the data as per their requirement, to know the availability of water in their locality, ground water level, Level of water in the nearby river and such many facts. Planners and Administrators can utilize this data of their States, Basins for proper utilization of water and to reduce the impact of Flood and Drought. Decision support System (DSS) can be developed. Researchers can utilize the data for water related studies and Modelling purposes as the data frequency required for such studies is available.
+
+
+    APS/SG/MG *****************
+
+    
+    
+    (Release ID: 1643776) Visitor Counter : 1504
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Bengali , Manipuri , Punjabi , Tamil

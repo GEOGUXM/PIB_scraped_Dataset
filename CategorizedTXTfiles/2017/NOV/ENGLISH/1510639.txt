@@ -1,0 +1,190 @@
+      Ministry of Electronics & IT
+
+      Prime Minister Shri Narendra Modi Inaugurates The 5th Global Conference On Cyberspace, 2017
+      Posted On: 23 NOV 2017 5:35PM by PIB Delhi
+
+
+    · Launches the UMANG App
+
+
+    · His Excellency, Mr. Ranil Wickramasinghe, Prime Minister of Sri Lanka has been the guest of Honour
+
+
+    · The Prime Minister felicitated the winners of the Global Cyber Challenge called Peace-a-thon
+
+
+    Shri Narendra Modi, Hon’ble Prime Minister of India inaugurated the Global Conference on Cyberspace 2017 in the Capital today in the presence of His Excellency, Mr. Ranil Wickramasinghe, Prime Minister of Sri Lanka, Shri Ravi Shankar Prasad, Hon’ble Minister for Electronics & Information Technology and Law & Justice, Government of India, Shri Manoj Sinha, Minister of State(IC), Department of Telecommunication, Government of India, Shri KJ Alphons, Minister of State, Tourism, Ministry of Electronics and Information Technology, Government of India, Secretary General of International Telecommunication Union, Mr. Houlin Zhao amongst other dignitaries.
+
+
+    The Prime Minister also launched the UMANG App that aims to bring 162 government services on a single mobile app, with a larger goal to make the government accessible on the mobile phone of our citizens.
+
+
+    UMANG at a glance:
+
+
+    · Uniform User Friendly Interface across Government services
+
+
+    · 162 services of 33 department/ applications and 4 States
+
+
+    · Single mobile app to access 1200+ services of various government services from Centre, State and utility services
+
+
+    · Supports 13 Indian languages and caters to on-demand scalability
+
+
+    · Will soon support feature phones without internet connectivity through USSD
+
+
+    Themed on Cyber4All: A Secure and Inclusive Cyberspace for Sustainable Development , this is the fifth edition of GCCS wherein international leaders, policymakers, industry experts, think tanks and cyber experts will gather to deliberate on issues and challenges for optimally using cyber space. The overall goals of GCCS 2017 are to promote the importance of inclusiveness and human rights in global cyber policy, to defend the status quo of an open, interoperable and unregimented cyberspace, to create political commitment for capacity building initiatives to address the digital divide and assist countries, and to develop security solutions in a balanced fashion that duly acknowledge the importance of the private sector and technical community.
+
+
+    In his welcome address, Shri Ravi Shankar Prasad, Hon’ble Minister for Electronics & Information Technology and Law & Justice, said, “The fundamental philosophy of our government led by Prime Minister Narendra Modi is ‘Sabka Saath, Sabka Vikas’ (cooperation of all for development of all). Digital India seeks to realise this goal of inclusive development by using the tools of technology. The digital India vision of our Prime Minister Narendra Modi has given a new approach to achievement of the Sustainable Development Goals of the United Nations. It has given a new paradigm of technology led development for sustainable development. The spectrum of India’s digital development ranges from digital delivery of services to rising digital economy powered by 1.3 billion people and reinforced by demographic dividend where 65% of them are below the age of 35.”
+
+
+    “India’s quest for a safe and secure cyber space flows from India’s commitment for an inclusive digital world leading to inclusive and sustainable development. India is privileged to host over 4000 distinguished delegates from 131 countries who have come together to give a safe, secure and sustainable digital future to the humanity.” Added Shri Ravi Shankar Prasad.
+
+
+    “Corruption and leakages in the service delivery system that were the biggest roadblocks to inclusive growth and sustainable development have been tackled effectively by using the trinity of JanDhan Bank accounts-Aadhaar digital identity and Mobile phones or JAM trinity. Direct Benefit Transfers of financial entitlements into the bank accounts of the poor have benefited 515 million people and has curbed corruption and leakages in the system. It has also led to savings of nearly $9 billion in last three years of tax payers money that was earlier pocketed by fictitious claimants and middlemen. I am confident that Global Conference on Cyber Space 2017 which is the largest congregation of experts from technology world, researchers, academicians and policy makers would prove to be a milestone in our quest for a safe, secure and inclusive cyber space.” Concluded Shri Prasad.
+
+
+    The Prime Minister also felicitated the winners of the Global Cyber Challenge called Peace-a-thon. The winners were declared following a 36-hour challenge in the Grand Finale of the Hackathon, wherein hundreds of teams from throughout India and from countries like USA, Canada, France, Argentina, Australia and Algeria turned up to showcase their talent and compete in the challenge.
+
+
+    The category-wise details of the winners are mentioned below:
+
+
+    Global Cyber Challenge “Most Innovative Idea towards Startup”
+
+                                                             
+Team Name           Name                Competition   Country
+                                                             
+                                                             
+                                                             
+Astra               Mr. Ananda Krishna  Peace-a-Thon  France 
+                                                             
+                                                             
+                  
+Mr. Shikhil Sharma
+                  
+                  
+
+    Winners – Peace-a-thon (National)
+
+                                                                                       
+Rank                  Team Name     Name                          Competition   Country
+                                                                                       
+                                                                                       
+                                                                                       
+WINNER                CyGuard       Mr. Sachin Parekh             Peace-a-Thon  India  
+                                                                                       
+                                                                                       
+                    
+Mr. Rohit Bhaskar   
+                    
+                    
+                    
+Mr. Tanay Shah      
+                    
+                    
+                                                                                       
+1 st Runner Up        Tech Wizards  Ms. Vineeta Garg              Peace-a-Thon  India  
+                                                                                       
+                                                                                       
+                    
+Mr. Rohit Tuli      
+                    
+                    
+                                                                                       
+2 nd Runner Up        DeepSafe      Mr. Dendi Sathya Veera Reddy  Peace-a-Thon  India  
+                                                                                       
+                                                                                       
+                    
+Mr. KVV Durga Prasad
+                    
+                    
+                    
+Mr. R Barath        
+                    
+                    
+                                                                                       
+3 rd Runner Up        Aggies        Mr. Bharadwaj Satchidanandan  Peace-a-Thon  USA    
+                                                                                       
+                                                                                       
+                                                                                       
+Consolation           Blue Monks    Mr. Sayak Dhar                Peace-a-Thon  India  
+                                                                                       
+                                                                                       
+                                                                                       
+                                    Mr. Saswata Das                                    
+                                                                                       
+                                                                                       
+                                                                                       
+                                    Mr. Debanjit Sarkar                                
+                                                                                       
+                                                                                       
+                                                                                       
+
+    Global Cyber Challenge – Capture the Flag (OT) – WINNERS
+
+                                                                        
+Rank                  Name             Competition  Team Name    Country
+                                                                        
+                                                                        
+                                                                        
+WINNER                Mr. Vijay Kumar  CTF - OT     Bitvijays    India  
+                                                                        
+                                                                        
+                    
+Mr. Tanoy Bose      
+                    
+                    
+                    
+Mr. Vignesh Durairaj
+                    
+                    
+                                                                        
+Runner Up             Mr. Swapnil      CTF - OT     evesdropper  India  
+                                                                        
+                                                                        
+                    
+Mr. Aarush Ahuja    
+                    
+                    
+                    
+Mr. Punit Maurya    
+                    
+                    
+
+    Global Cyber Challenge – Capture the Flag (IT) – WINNERS
+
+                                                                      
+Rank                Name               Competition  Team Name  Country
+                                                                      
+                                                                      
+                                                                      
+WINNER              Mr. Palash Bansal  CTF - IT     D4rkc0de   India  
+                                                                      
+                                                                      
+                  
+Mr. Aneesh Dogra  
+                  
+                  
+                                                                      
+Runner Up           Mr. Sanat Sharma   CTF - IT     dcua       USA    
+                                                                      
+                                                                      
+                  
+Mr. Aaditya Purani
+                  
+                  
+
+    Incepted in 2011 in London , second GCCS was held in 2012 in Budapest with focus on relationship between internet rights and internet security, which was attended by 700 delegates from nearly 60 countries. The third edition of GCCS was held in 2013 in Seoul with commitment to Open and Secure Cyberspace. The fourth version GCCS 2015 was held on April 16-17, 2015 in The Hague, Netherlands, which saw participation from 97 countries.
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1510639) Visitor Counter : 370

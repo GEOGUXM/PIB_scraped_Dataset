@@ -1,0 +1,32 @@
+      Ministry of Earth Science
+
+      Weather Forecast System
+      Posted On: 18 JUL 2017 3:39PM by PIB Delhi
+
+
+    India Meteorological Department (IMD) operates a dedicated weather and climate monitoring, detection and warning services useful for various sectors of economy. Monsoon prediction and the weather forecasting systems in the country are comparable to the best in the world. However, efforts are continuously being made to further enhance the level of efficiency of the forecasting systems
+    
+    Improvement of weather forecasting services is a continuous process. Government has initiated a comprehensive modernization programme for IMD covering (i) up-gradation of observation systems (ii) advanced data assimilation tools (iii) advanced communication and IT infrastructure (iv) high performance computing systems and (v) intensive/sophisticated training of IMD personnel. Forecasts, early warning of severe weather events and advisories are issued by IMD at national, state and district levels. In order to provide early warning of severe weather events, IMD has setup a network of State Meteorological Centres to have better coordination with the state and district level agencies.
+    
+    To improve the prediction of Monsoon, National Monsoon Mission was launched in 2012. Under the National Monsoon Mission initiative, the Indian Institute of Tropical Meteorology (IITM), Pune, Indian National Centre for Ocean Information Services (INCOIS), Hyderabad and National Centre for Medium Range Weather Forecasting (NCMRWF), Noida have embarked upon to build state-of-the-art coupled ocean atmospheric models for (i) improved prediction of monsoon rainfall on extended range to seasonal time scale (11 days to one season) and (ii) improved prediction of temperature, rainfall and extreme weather events on short to medium range time scale (up to 10 days) so that forecast skill gets quantitatively improved further for the operational services of IMD.
+    
+    Through Indo-US collaboration, a “Monsoon Desk” has been set up for working jointly for improving seasonal forecast of Indian monsoon rainfall. Through this forum, Indian and US Scientists are exchanging their ideas and sharing their expertise. This effort has led to appreciable improvements in the efficiency of models in making better forecasts.
+    
+    The monsoon forecast for the country is prepared by Climate Prediction Unit of Climate Research and Services Division (CR&S), IMD, Pune. The present long range forecast system based on the statistical models has shown some useful skill in predicting all India seasonal rainfall including the deficient monsoon season rainfall during 2015. However, in order to overcome the limitations of the statistical models used so far, a state of the art dynamical prediction system was implemented by MoES for generating operational long range monsoon forecasts.
+    
+    The Gramin Krishi Mausam Seva (GKMS) of IMD has been successful in providing the crop specific advisories to the farmers through different print/visual/Radio/ IT based media including short message service (SMS) and Interactive Voice Response Service (IVRS) facilitating for appropriate field level actions. Weather forecast based agro-meteorological advisories are disseminated through Kisan portal launched by the Ministry of Agriculture and also under public private partner. At present, the GKMS products are disseminated through SMS and IVRS to about 21million farmers in the country. As per the recent National Council of Applied Economic Research (NCAER) report, farming community of the country is using the GKMS service products of India Meteorological Department (IMD) for critical farm operations Viz. (i) Management of sowing (Delayed onset of rains); (ii) Changing crop variety (Delay in rainfall); (iii) Spraying Pesticides for disease control (occurrence of rainfall); (iv) Managing Irrigation (Heavy rainfall Forecast).
+    
+    The third party assessment by the National Council of Applied Economic Research (NCAER) on the agromet services provided by the ministry concluded that the annual economic benefit for the farmers cultivating 4 principal crops (Wheat, Rice, Sugarcane and Cotton) was Rs 42,000 Crore in 2015.
+    
+    This information was given by Minister of State for Science & Technology and Earth Sciences Shri Y.S.Chowdary in written reply to a question in Rajya Sabha.
+
+    ****
+
+
+    
+    
+    RDS/nb
+
+    
+    
+    (Release ID: 1495962) Visitor Counter : 150

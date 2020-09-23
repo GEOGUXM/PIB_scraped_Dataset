@@ -1,0 +1,52 @@
+      Ministry of Railways
+
+      Ultra Modern Signalling System in Railways
+      Posted On: 03 JAN 2018 4:26PM by PIB Delhi
+
+
+    Computer/Microprocessor based Signalling Systems are being used extensively on Indian Railways. Predominantly Computer/Microprocessor based systems being used are:-
+
+
+    1. Electronic Interlockings with centralized operation of points and signals are being provided to eliminate human failure and to replace old mechanical systems. These systems have been provided at 1256 stations over Indian Railways upto 30.11.2017.
+
+
+    2. Automatic Train Protection (ATP) System: -
+
+
+    (i) ATP System based on European Train Control System (ETCS) technology mitigates safety risk of accidents/collisions due to loco pilot’s error of Signal Passing at Danger or over speeding. It is a proven European train protection technology and deployed extensively on World Railways.
+
+
+    European Train Control system has been operationalized on 342 RKMs on Indian Railways.
+
+
+    (ii) Train Collision Avoidance System (TCAS) is a developmental project being taken on a limited section (250 km) on South Central Railway. Operational deployment of TCAS on Railways on Absolute Block Signalling sections will be taken-up after successful conclusion of the extended field trials and safety certification of system by Independent Safety Assessor (ISA).
+
+
+    3. Train Detection Device:- To ensure complete arrival of train before granting line clear and to detect presence of train in a station of axle counters have been provided 15342 Numbers of axle counters on block sections and Station sections over Indian Railways.
+
+
+    4. Centralized Traffic Control (CTC) in Indian Railways:- A Centralized Traffic Control (CTC) with Electronic Interlocking and automatic signalling system is being set up on the Ghaziabad-Kanpur route - one of the busiest sections of Indian Railways. This is 410 km long electrified route dealing with 200 trains per day. Its Central Traffic Control Centre is established at TUNDLA station.
+
+
+    CTC System will help in real time monitoring and better management of trains. It provides for remote operation of signals from the centralized traffic control office. The CTC system has been made operational for seven stations pilot section.
+
+
+    5. Train Management System (TMS):- TMS helps in real-time monitoring of trains in the control room. The arrival status of local trains is displayed on indicators installed on platforms in the form of a countdown timer (in minutes) to the train’s arrival on the platform accompanied by automatic announcements on platforms.
+
+
+    TMS has been provided on Mumbai suburban section of Western and Central Railway. On WR, it covers section from Churchgate to Virar extending over 60 km covering 28 stations and on CR it covers suburban section from CST Mumbai to Kalyan extending over 54 km covering 26 Stations. TMS work is also nearing completion at Howrah on Eastern Railway.
+
+
+    This Press Release is based on the information given by the Minister of State for Railways Shri Rajen Gohain in a written reply to a question in Lok Sabha on 03.01.2018 (Wednesday).
+
+
+    ****
+
+
+    AKS/MKV/PM
+
+
+    
+
+    
+    (Release ID: 1515244) Visitor Counter : 631

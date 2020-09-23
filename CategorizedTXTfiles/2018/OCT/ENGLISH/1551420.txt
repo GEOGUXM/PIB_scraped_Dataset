@@ -1,0 +1,358 @@
+      Ministry of Railways
+
+      Rationalisation of Flexi Fare Scheme
+      
+      Review of Flexi Fare scheme done based on the recommendation of the Review committee, Comptroller and Auditor General’s report, and representations from passengers
+      
+      Flexi Fare completely removed from 15 trains
+      
+      Flexi Fare removed from 32 trains during lean period (February, March and August)
+      
+      Graded Discount upto 20% on last fare to be given (class wise) in case of class occupancy being less than 60%
+      
+      Highest slab reduced from 1.5 times to 1.4 times
+      
+      Posted On: 31 OCT 2018 6:56PM by PIB Delhi
+
+
+    Flexi Fare Scheme was launched with effect from 9th September, 2016. The scheme generated high revenue however initially there was a drop of passengers which picked up later on. Further, to rationalise the fares an 8 member committee was formed to review the scheme and make it more passenger friendly. The review of the scheme has been done based on the recommendation of the committee, Comptroller and Auditor General’s report, and representations from passengers. The Railways has reviewed Flexi Fare Scheme and introduced following changes:
+
+
+      * Discontinuation of Flexi-fare in trains with average monthly occupancy less than 50% throughout the previous year. (List of 15 Trains given in Annexure A)
+
+      * Discontinuation of Flexi-fare, in lean period of 3 months, in trains with average monthly occupancy between 50-75% throughout the previous year. (List of 32 Trains given in Annexure B)
+      * Maximum current cap of 1.5 times to be reduced to 1.4 times in all classes
+      * To increase the occupancy of less patronised classes (2A, 3A, CC etc.), Graded discount of 20% on last fare on all trains with Flexi Fare and Humsafar Trains where occupancy of a particular class is less than 60% (4 days prior to scheduled departure of the train). Further, 10% discount will be offered as per the table given below:
+
+    Upto -70% occupancy : 20% on last fare
+
+
+    70-80% occupancy : 10% on last fare
+
+
+    Above 80% occupancy : Nil
+
+      * Changes shall be implemented from Advance Reservation Period (ARP) i.e. 4 months after making necessary changes in Passenger Reservation System, on an experimental basis for six months to be further extended after assessing its outcome
+
+    Annexure A
+
+
+    List of trains with occupancy less than 50% (2017-18) from which Flexi Fare will be removed in 2018-19
+
+                                                                
+Sl No.  Train no.  Train type  Train Name                       
+                                                                
+                                                                
+                                                                
+1       12006      Shatabdi    Kalka-New Delhi Shatabdi         
+                                                                
+                                                                
+                                                                
+2       12012      Shatabdi    Kalka-New Delhi Shatabdi         
+                                                                
+                                                                
+                                                                
+3       12037      Shatabdi    New Delhi-Ludhiana Shatabdi      
+                                                                
+                                                                
+                                                                
+4       12038      Shatabdi    Ludhiana-New Delhi Shatabdi      
+                                                                
+                                                                
+                                                                
+5       12043      Shatabdi    Moga(Ludhiana)-New Delhi Shatabdi
+                                                                
+                                                                
+                                                                
+6       12044      Shatabdi    New Delhi-Moga(Ludhiana) Shatabdi
+                                                                
+                                                                
+                                                                
+7       12047      Shatabdi    New Delhi-Bhatinda Shatabdi      
+                                                                
+                                                                
+                                                                
+8       12048      Shatabdi    Bhatinda-New Delhi Shatabdi      
+                                                                
+                                                                
+                                                                
+9       12085      Shatabdi    Guwahati-Dibrugarh Shatabdi      
+                                                                
+                                                                
+                                                                
+10      12086      Shatabdi    Dibrugarh-Guwahati Shatabdi      
+                                                                
+                                                                
+                                                                
+11      12087      Shatabdi    Naharlagun-Guwahati Shatabdi     
+                                                                
+                                                                
+                                                                
+12      12088      Shatabdi    Guwahati-Naharlagun Shatabdi     
+                                                                
+                                                                
+                                                                
+13      12277      Shatabdi    Howrah-Puri Shatabdi             
+                                                                
+                                                                
+                                                                
+14      22205      Duronto     Chennai-Madurai Duronto          
+                                                                
+                                                                
+                                                                
+15      22206      Duronto     Madurai-Chennai Duronto          
+                                                                
+                                                                
+
+    Annexure B
+
+
+    List of trains with occupancy between 50%-75% (2017-18) from which Flexi Fare will be removed in lean period of 2018-19
+
+                                  
+S.No  Train No.  Train Name       
+                                  
+                                  
+                                  
+1     12005      KALKA SHATABDI   
+                                  
+                                  
+                                  
+2     12014      AMRITSAR SHATABDI
+                                  
+                                  
+                                  
+3     12016      AJMER SHATABDI   
+                                  
+                                  
+                                  
+4     12018      DEHRADUN SHATABDI
+                                  
+                                  
+                                  
+5     12020      SHATABDI EXPRESS 
+                                  
+                                  
+                                  
+6     12025      SHATABDI EXP     
+                                  
+                                  
+                                  
+7     12026      PUNE SHATABDI    
+                                  
+                                  
+                                  
+8     12030      SWARNA SHATABDI  
+                                  
+                                  
+                                  
+9     12031      AMRITSAR SHATABDI
+                                  
+                                  
+                                  
+10    12032      AMRITSAR SHATABDI
+                                  
+                                  
+                                  
+11    12039      KGM NDLS SHT     
+                                  
+                                  
+                                  
+12    12041      SHATABDI EXPRESS 
+                                  
+                                  
+                                  
+13    12042      NJP HWH SHATABDI 
+                                  
+                                  
+                                  
+14    12045      NDLS CDG SHATABDI
+                                  
+                                  
+                                  
+15    12046      CDG NDLS SHATABDI
+                                  
+                                  
+                                  
+16    12213      DURONTO EXPRESS  
+                                  
+                                  
+                                  
+17    12214      YPR DURONTO EXP  
+                                  
+                                  
+                                  
+18    12219      SC DURONTO EXP   
+                                  
+                                  
+                                  
+19    12223      LTT ERS DURONTO  
+                                  
+                                  
+                                  
+20    12224      ERS LTT DURONTO  
+                                  
+                                  
+                                  
+21    12227      INDORE DURONTO   
+                                  
+                                  
+                                  
+22    12228      MUMBAI DURONTO   
+                                  
+                                  
+                                  
+23    12239      JAIPUR DURONTO   
+                                  
+                                  
+                                  
+24    12240      JP MMCT DURONTO  
+                                  
+                                  
+                                  
+25    12243      SHATABDI EXP     
+                                  
+                                  
+                                  
+26    12244      SHATABDI EXP     
+                                  
+                                  
+                                  
+27    12278      SHATABDI EXPRESS 
+                                  
+                                  
+                                  
+28    12437      RAJDHANI EXP     
+                                  
+                                  
+                                  
+29    12441      BSP NDLS RAJ EX  
+                                  
+                                  
+                                  
+30    12442      BILASPUR RJDHNI  
+                                  
+                                  
+                                  
+31    12453      RNC NDLS RAJ EXP 
+                                  
+                                  
+                                  
+32    22414      NZM MAO RAJ      
+                                  
+                                  
+
+    *****
+
+
+    SVS/MKV/ENS
+
+    
+    
+    (Release ID: 1551420) Visitor Counter : 1295
+    
+    
+      Read this release in: Urdu , Bengali
+    
+    
+    
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+*

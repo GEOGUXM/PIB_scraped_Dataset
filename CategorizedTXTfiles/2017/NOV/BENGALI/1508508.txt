@@ -1,0 +1,23 @@
+      Ministry of Communications
+
+      Affordable tariff structure for rural and remote areas to promote Digital India
+      Posted On: 07 NOV 2017 3:53PM by PIB Kolkata
+
+
+    BharatNet, a flagship project of the Government of India to provide Broadband services in rural and remote areas has entered in service provisioning phase. As on 05.11.2017, Optical Fibre Cable (OFC) connectivity has been achieved in 1,03,275 GPs by laying fibre for 2,38,677 km. Due to several measures initiated to accelerate the end-to-end connectivity, GPON equipment has been installed in 85,506 GPs and 75,082 GPs are Services Ready.
+
+
+    Digital India, to provide Digital Services in rural and remote areas, is one of the priority areas of the Government. In order to provide affordable broadband services in rural India under the dynamic leadership of our Hon'ble Prime Minister of India Shri Narendra Modi, a new attractive and affordable tariff structure has been decided with the principle of more you use, less you pay. This tariff structure is expected to be reflected in the tariffs to be charged from the consumers by the service providers.
+
+
+    For asymmetrical bandwidth between block to GPs the charges per annum varies from Rs.700/- per Mbps for up to 10Mbps and Rs. 200/- per Mbps for 1 Gbps. However, for symmetrical bandwidth between block to GP, charges have been prescribed as Rs.1000/- per Mbps up to 10Mbps, and Rs.500/- per Mbps for 100 Mbps per annum. Tariff for any intermediate Bandwidth shall be calculated on pro-rata basis.
+
+
+    Further, discount of 5% to 25% have been offered for taking bandwidth in more than 1000 GPs to more than 25,000 GPs in a single application. Further, to lower the entry barriers, port charges at block and GP have been waived off. Tariffs for dark fibre are prescribed as Rs.2250/- per fibre per km per annum for service providers and Government agencies.
+
+
+    After such initiatives have been taken by the government, Telecom Service Providers have come forward for utilizing the BharatNet connectivity. Airtel has shown interest in 10000 GPs for taking 1 Gbps connectivity on lease while Reliance Jio, Vodafone and Idea are interested in taking 100 Mbps connectivity on lease in about 30000, 2000 and 1000 GPs respectively. The rolling out of services by TSPs in these GPs is expected to trigger the village level eco-system thereby widening the extent to cover more and more number of GPs in near future. This will give an impetus to broadband facilities in rural India.
+
+    
+    
+    (Release ID: 1508508) Visitor Counter : 5

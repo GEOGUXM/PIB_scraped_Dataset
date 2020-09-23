@@ -1,0 +1,304 @@
+      Ministry of Defence
+
+      Engagement of Private Players in Design and Development for HAL
+      Posted On: 05 FEB 2018 4:30PM by PIB Delhi
+
+
+    In order to create a sustainable defence Aerospace ecosystem, HAL has engaged private partners for Design & Development (D&D) of products and technologies.
+
+
+    To encourage private participations, HAL has created Research & Development (R&D) corpus of 10% of its Operational Profit After Tax (PAT).
+
+
+    A portal for ‘Make-in-India’ has been launched on Company’s website www.hal-india.com which gives details of various foreign Line Replaceable Units (LRUs), Systems, Spare parts, electrical, electronic items for HAL’s projects such as Advance Light Helicopter (ALH), Light Combat Aircraft (LCA), Dornier (DO 228), Hawk, Jaguar etc for indigenization by Indian private industries. Following have been hosted on HAL’s website to encourage participation of private industries:-
+
+
+      * More than 300 numbers of systems and sub systems of mechanical, electrical, avionics, instrumentation for various HAL’s project such as ALH, LCA, DO 228, Hawk and Jaguar etc.
+
+      * More than 100 Tools, Testers and Ground Equipment (TTGE) items of SU-30 MKI, which can be taken up by private companies for maintenance, repair and indigenization.
+      * Details of testing facilities available at HAL for utilization by private industries.
+
+    Some of the major design initiatives taken by HAL for the following systems with the private partners are as under:
+
+                                                                      
+PLATFORM                         SYSTEM                               
+                                                                      
+                                                                      
+                                                                      
+Light Utility Helicopter (LUH)   Smart Cockpit Display System Hardware
+                                                                      
+                                                                      
+                                                                      
+Light Combat Helicopter (LCH)    Control and Display Unit             
+                                                                      
+                                                                      
+                               
+Data Interface Unit            
+                               
+                               
+                               
+Multi-Function Display Hardware
+                               
+                               
+                                                                      
+Jaguar DARIN III                 Data Transfer System                 
+                                                                      
+                                                                      
+                                                                      
+SU30-MKI                         Solid State Flight Data Recorder.    
+                                                                      
+                                                                      
+
+    The private players have expressed interest to come forward to join hands with HAL. The details of major partnership with private players are as follows:-
+
+                                                                                                                                                                                                                                                          
+S. No.                                                              PRIVATE PLAYER                                          PRODUCTS / TECHNOLOGIES DEVELOPED                                                                                             
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+1.                                                                  M/S ACCORD SOFTWARE                                     CONTROL AND DISPLAY UNIT (CDU) FOR IADS OF LCH.                                                                               
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                  
+CONTROL SATURATION & WARNING SYSTEM OF ALH.                       
+                                                                  
+                                                                  
+                                                                                                                                                                                                                                                          
+2.                                                                  M/S ACD TECHNOLOGIES                                    ANTENNA & DIPLEXER FOR UHF SATCOM.                                                                                            
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+3.                                                                  M/S AEROSPACE ENGINEERS                                 LUBE PUMP FOR ALH, LCH & LUH.                                                                                                 
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                  
+FUEL SYSTEM BELLOWS FOR ALH, LCH & LUH.                           
+                                                                  
+                                                                  
+                                                                  
+HYDRAULIC SYSTEM HOSES & HOSE FITTINGS FOR ALH, LCH & LUH.        
+                                                                  
+                                                                  
+                                                                                                                                                                                                                                                          
+4.                                                                  M/S ALPHA DESIGN TECHNOLOGIES                           BSP (BOARD SUPPORT PACKAGE) AND FIRMWARE.                                                                                     
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+5.                                                                  M/S ANANTH TECHNOLOGIES                                 V/U HF POWER AMPLIFIER                                                                                                        
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+6.                                                                  M/S ANANYA TECHNOLOGIES                                 AIR DATA ATTITUDE AND HEADING REFERENCE SYSTEM (ADAHRS) FOR JAGUAR DARIN III AIRCRAFT.                                        
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+7.                                                                  M/S AMPHENOL INTERCONNECT                               DIFFERENT TYPES OF SOLDERING (76 TYPES) AND CRIMPING TYPES (181 TYPES) OF CONNECTORS USED IN SU-30MKI AND MIG SERIES AIRCRAFT.
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+8.                                                                  M/S COMAVIA SYSTEM TECHNOLOGIES                         STATIC TEST JIG FOR AFCC.                                                                                                     
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+9.                                                                  M/S DATA PATTERN                                        SMART COCKPIT DISPLAY SYSTEM FOR LUH.                                                                                         
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+10.                                                                 M/S DATASOL INOVATIVE LABS                              CONTROL AND DISPLAY UNIT OF IFF FOR IJT, INDIAN NAVAL SHIPS.                                                                  
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                  
+INTEGRATED STANDBY INSTRUMENT SYSTEM OF SU-30MKI AIRCRAFT AND ALH.
+                                                                  
+                                                                  
+                                                                                                                                                                                                                                                          
+11.                                                                 M/S ELECTRO CIRCUIT SYSTEMS                             PCB DESIGN FOR VARIOUS PROJECTS                                                                                               
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                  
+RECEIVER SUB MODULE OF IFF MK XII TRANSPONDER FOR BOING P81.      
+                                                                  
+                                                                  
+                                                                                                                                                                                                                                                          
+12.                                                                 M/S EXCELL RF TECKNOLOGIES                              MANUFACTURE OF TRANSMITTER ANTENNA AND RECEIVER ANTENNA FOR AKASH MISSILES.                                                   
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+13.                                                                 M/S INDO ELECTROSTAT                                    SOLENOID VALVE.                                                                                                               
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+14.                                                                 M/S KARNATAKA HYBRID MICRO DEVICES                      MANUFACTURE OF ECCM MODULES.                                                                                                  
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+15.                                                                 M/S L&T LIMITED, STRATEGIC ELECTRONIC CENTRE            PASSENGER OXYGEN SYSTEM (OXYGEN CYLINDER, REGULATOR, HOSE, MASK)                                                              
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+16.                                                                 M/S MERLINHAWK AEROSPACE                                TESTER FOR ENGINE, FLY BY WIRE AND AIR INTAKE CONTROL PANEL OF SU-30 MKI AIRCRAFT.                                            
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+17.                                                                 M/S MAHENDRA AEROSPACE (FORMERLY PLEXION TECHNOLOGIES)  DESIGN OF LCH FRONT & CENTRE FUSELAGE.                                                                                        
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+18.                                                                 M/S RAGA ASSOCIATES                                     MIXER MODULE DEVELOPMENT FOR V/UHF.                                                                                           
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+19.                                                                 M/S S WAVE SYSTEMS                                      DATA INTERFACE UNIT (DIU) FOR IADS OF LCH.                                                                                    
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                    M/S SAMTEL HAL DISPLAY                                                                                                                                                                
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                  
+DATA TRANSFER SYSTEMS (DTS) FOR JAGUAR DARIN III AIRCRAFT.        
+                                                                  
+                                                                  
+                                                                  
+SMART MULTI FUNCTIONAL DISPLAY (SMFD) FOR SU-30 MKI.              
+                                                                  
+                                                                  
+                                                                                                                                                                                                                                                          
+20.                                                                 SYSTEMS (SHDS)                                          MULTI-FUNCTIONAL DISPLAY (MFD) FOR IADS OF LCH.                                                                               
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+21.                                                                 M/S SHAKTI ENTERPRISES                                  CREW HELMET FOR ALH.                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+22.                                                                 M/S SLN TECHNOLOGIES                                    SOLID STATE FLIGHT DATA RECORDER (SSFDR) FOR SU-30MKI.                                                                        
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+23.                                                                 M/S SONIC MULTITECH                                     SIGNAL CONDITIONING UNIT USED IN MIG-29 AIRCRAFT ENGINE HEALTH MONITORING SYSTEM.                                             
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+24.                                                                 M/S SYSTEMS AIDS                                        MULTI INPUT AUDIO WARNING UNIT (MIAWU) FOR JAGUAR DARIN III AIRCRAFT.                                                         
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+25.                                                                 M/S SOUTHERN ELECTRONICS                                STAND BY WARNING PANEL (SWP) FOR ALH & LCH.                                                                                   
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                  
+ENGINE FIRE DETECTION UNIT FOR ALH, LCH & LUH.                    
+                                                                  
+                                                                  
+                                                                                                                                                                                                                                                          
+26.                                                                 M/S TURBO TECH                                          OIL COOLING SYSTEM FOR ALH.                                                                                                   
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+27.                                                                 M/S WAVELET GROUP                                       TPC (TURBO PRODUCT CODE) ALGORITH, DEVELOPMENT FOR SDR (SOFTWARE DEFINED RADIO).                                              
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                          
+
+    This information was given by RakshaRajyaMantriDr.SubhashBhamre in a written reply to Shri SambhajiChhatrapatiin Rajya Sabha today.
+
+
+    NAo/Nampi/Rajib
+
+
+    
+
+    
+    (Release ID: 1519146) Visitor Counter : 167
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+*

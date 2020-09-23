@@ -1,0 +1,42 @@
+      Ministry of Railways
+
+      Booking to Tatkal Tickets & Measures to Avoid Misuse of Tatkal Scheme
+      Posted On: 27 MAR 2018 6:42PM by PIB Delhi
+
+
+    On Indian Railways, reserved accommodation including Tatkal accommodation can be booked through computerised Passenger Reservation System (PRS) on first come first served basis. During peak rush periods/days when demand outstrips the availability, reserved accommodation especially in higher classes and on popular routes gets exhausted within short duration of opening of reservation. However, during lean periods, on non-popular and lower classes, the accommodation remains available for longer duration. The phenomenon is more relevant for Tatkal where limited accommodation is earmarked. This happens as the available limited accommodation is accessed simultaneously through more than 10,300 counters at 3465 computerised Passenger Reservation Centers as well as through internet.
+
+
+    To avoid misuse of Tatkal Scheme, there are some inbuilt features in Tatkal scheme which includes provision of not granting refund on cancellation of confirmed Tatkal tickets except in case of certain special circumstances indicated in the scheme, not allowing any modification of Tatkal ticket, etc. Some additional steps have also been taken to facilitate the passengers and to avoid the misuse, some of which are:-
+
+
+     1. Staggering of the timings of reservation under Tatkal scheme.
+
+     2. Captcha implementation in Registration, Login and Booking page to check fraudulent booking through automation software.
+     3. Imposition of minimum time limit before proceeding for payment gateway as well as after making payment while booking tickets through internet.
+     4. Making OTP(one time password) compulsory for all net Banking Payment options.
+     5. Disabling authorised agents to book Tatkal tickets during first half an hour of opening of reservation.
+
+    To keep a check on the activities of touts, preventive as well as regular checks are conducted jointly/individually by Vigilance, Security and Commercial Departments, and the action against the culprits is taken as per provisions of Section 143 of Railways Act, 1989.
+
+
+    This information was made available in reply to a question in Rajya Sabha.
+
+
+    ****
+
+
+    SBS/MKV/PM
+
+
+    
+
+    
+    (Release ID: 1526647) Visitor Counter : 589
+    
+    
+    
+    
+    
+
+5.

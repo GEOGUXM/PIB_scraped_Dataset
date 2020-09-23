@@ -1,0 +1,184 @@
+      Ministry of Railways
+
+      Upgradation of Safety Standards to Prevent accidents in Railways
+      Posted On: 30 JUL 2018 3:28PM by PIB Delhi
+
+
+    Safety is accorded the highest priority by Indian Railways and all possible steps are undertaken on a continual basis to prevent accidents and to enhance safety of passengers. As a specific measure after taking note of recent accidents, the following measures have been taken :-
+
+     1. It had been decided to completely stop the manufacture of ICF Coaches since 01.04.2018 and shift to safer Linke Hofmann Busch (LHB) design coaches having anti-climbing features.
+     2. To prevent accidents due to human error, all electric locomotives are provided with Vigilance Control Device (VCD) which takes inputs through positive actions of the driver like operation of master controller, application of brakes and pressing of button etc. to judge his alertness every 60 seconds and applies brakes, if found lacking, thereby ensuring safety.
+     3. Simulator based training is being imparted for improving the driving skills and the reaction time of Loco Pilots.
+     4. Special drives to check the alertness of Loco Pilots and other safety parameters are regularly being launched.
+     5. Electrical/Electronic Interlocking System with centralized operation of points and signals are being provided to eliminate human failure and to replace old mechanical systems. These systems have been provided at 5786 stations upto 30.06.2018.
+     6. Track Circuiting of stations to enhance safety for verification of track occupancy by electrical means instead of human element has been completed at about 6001 stations upto 30.06.2018.
+     7. Axle Counter for Automatic clearance of Block Section (BPAC) to ensure complete arrival of train without manual intervention before granting line clear to the next train and to reduce human element have been provided on 5125 block sections upto 30.06.2018.
+     8. Interlocking of Level Crossing (LC) Gates to protect L.C Gate with signals to avoid accidents has been done at 11085 gates upto 30.06.2018.
+     9. Automatic Train Protection System:-
+      * Automatic Train Protection (ATP) System called Train Protection and Warning System (TPWS) has been implemented on 342 RKMs (200 RKMs Delhi-Agra Section, 117 RKMs Chennai section and 25 RKMs of Metro Railway, Kolkata).
+      * An ATP System called Auxiliary Warning System (AWS) is presently functional on 364 RKMs in the Mumbai suburban sections of Central Railway (240 RKMs) and Western Railway (124 RKMs).
+      * An ATP System being indigenously developed called Train Collision Avoidance System (TCAS) is under trial on 250 RKMs of South Central Railway as pilot project.
+
+    The following measures have been taken to upgrade the various safety standards and infrastructures of the Railways:-
+
+     1. Provision of Crew Voice and Video recording system on electric locos - Crew Voice/Video recording system ensures effective and tamper proof video and voice recording of locomotive cab for post failure event analysis. Loco no. 32001 fitted with Crew Voice/Video recording system has been commissioned in December, 2017 on trial basis.
+     2. 500 nos. of Crew Voice and Video recording system under Rashtriya Rail Sanraksha Kosh (RRSK) has been sanctioned in Budget 2018-19.
+     3. Upgradation of safety measures and infrastructure of the Railways is a continuous and ongoing activity as a basic part of maintenance and examination of Rolling Stock over Indian Railways.
+     4. Modern track structure consisting of PSC (Pre-stressed Reinforced Concrete) sleepers, 60 kg, 90 or higher UTS ( Ultimate Tensile Strength) rails, fan-shaped layout on PSC sleepers for turnouts, Steel channel Sleepers on girder bridges is being used while carrying out primary track renewals. Further, it has been decided to lay Thick Web Switches on indentified routes which is a continuous process.
+     5. A work for modernization of complete Signaling system on Indian Railways has been included in the works programme of 2018-19 for implementation on complete 60,000 Route Kilometers (RKMs) on Broad Gauge (BG) network of Indian Railways with expenditure on this project subject to due processes/mandatory approvals and sanctions.
+
+    Expenditure on safety related activities forms part of both Revenue and Capital sections of Budget. In 2017-18, an expenditure of ₹62152 cr. has been incurred on safety related activities. Further, in 2018-19, a Budget provision of ₹73065 cr. has been made for the same. A statement indicating expenditure on safety relative activities is given below.
+
+
+    Expenditure on Safety Related Activities (All Indian Railways).
+
+
+    (₹ in crores)
+
+                                                                                                   
+                                                          Actual            Budget Estimate 2018-19
+                                                                                                   
+                                                                                                   
+                                                          2017-18 (Approx)                         
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Revenue Expenditure (Gross) on Safety:                                                             
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Repairs & Maintenance of Permanent Ways & Works           13925             14619                  
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Repairs & Maintenance of Motive Powers                    6288              6745                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Repairs & Maintenance of Carriages & Wagons               15053             15825                  
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Repairs & Maintenance of Plant & Equipment                7752              8751                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Operating Expenses –Traffic-Minor head 600-Safety         32                31                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Total Revenue (Safety):                                   43050             45971                  
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Capital Expenditure (Gross) on Safety:                                                             
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Assets – Acquisition, Construction & Replacement :                                                 
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Road Safety Works – Level Crossings                       535               700                    
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Road Safety Works – Road Over/Under Bridges               5449              6300*                  
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Track Renewals                                            8897              11450                  
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Bridge Works                                              453               740                    
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Signalling & Telecom Works                                1254              2025                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Workshops (POH/IOH of Rolling Stock)                      936               2579                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Other planheads (under RRSK)                              1578              3300                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Total Capital (Safety):                                   19102             27094                  
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+Total Exp (Revenue+Capital) on Safety Related Activities  62152             73065                  
+                                                                                                   
+                                                                                                   
+                                                        
+*includes funds under Extra Budgetary Sources           
+                                                        
+                                                        
+
+    This information was given by the Minister of State of Railways Shri Rajen Gohain in a written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    SVS/MKV/ENS
+
+    
+    
+    (Release ID: 1540624) Visitor Counter : 323
+    
+    
+      Read this release in: Marathi , Tamil
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+5.

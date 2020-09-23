@@ -1,0 +1,373 @@
+      Ministry of Rural Development
+
+      Beneficiaries Covered Under PMAY
+      Posted On: 13 DEC 2018 5:42PM by PIB Delhi
+
+
+      A statement indicating category-wise house sanctioned under PMAY-G, State/UT-wise is given at Annexure-I. There is no separate provision for earmarking of targets to Other Backward Classes. These beneficiaries are included in others category.
+
+
+      The Ministry of Rural Development monitors the physical progress under PMAY-G regularly to ensure the completion of houses allocated to different categories including SC, ST, Minorities and Others. For effective monitoring following steps have been taken:
+
+
+      (i). Instead of multiple bank accounts at various levels in the State/UT, a single account at the State level, i.e. State Nodal Account (SNA), has been kept. Funds under PMAY-G are transferred directly to the beneficiary account from SNA through the PFMS-AwaasSoft platform.
+
+
+      (ii). Performance monitoring is done through real time capture of progress using workflow enabled transactional data in AwaasSoft. The data generated from the transactions in AwaasSoft are collated as system generated reports for monitoring different pre-determined parameters of performance.
+
+
+      (iii). A mobile based application- ‘AwaasApp’, which has both off line and on line versions, empowers officials and citizens to capture and upload geo-tagged, time and date stamped photographs of the house at various stages of construction thereby reducing time lags in verification.
+
+
+      (iv). Implementation of PMAY-G is reviewed in Performance Review Committee (PRC) meetings on quarterly basis, Common Review Mission, regular State Coordinating Officers meeting, Area Officer’s visits and National Level Monitors visits.
+
+
+      The detail of house allocated and constructed under PMAY-G in the State of Tamil Nadu during the last five year is as under:
+
+                                           
+                          (Unit in Nos.)   
+                                           
+                                           
+                                           
+Years    House allocated  House constructed
+                                           
+                                           
+                                           
+2014-15  53,429           27,732           
+                                           
+                                           
+                                           
+2015-16  98,602           28,537           
+                                           
+                                           
+                                           
+2016-17  1,76,338         1,44,892         
+                                           
+                                           
+                                           
+2017-18  1,30,214         1,70,265         
+                                           
+                                           
+                                           
+2018-19  21,000           58,435           
+                                           
+                                           
+
+      Data as reported by the State as on AwaasSoft as on 11.12.2018
+
+                                                                                                                                                           
+                                                                                                                                                           
+                                                                                                                                                           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                   (Annexure-I)
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                           
+                          Category wise House Sanctioned under Pradhan Mantri Awaas Yojana-Gramin                                                 (Units in
+                                                                                                                                                           
+                                                                                                                                                           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                   Nos.)       
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+S                2014-15                                                                                      2015-16                    2016-17                        2017-18                    2018-19                     
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+No                                                                                                                                                                                                                             
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+    State        ST       SC                                                                       Minoritie  ST       SC     Minoritie  ST       SC         Minoritie  ST       SC     Minoritie  ST       SC     Minorities  
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                   s                          s                              s                          s                                      
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+1   ARUNACHAL    460      1                                                                        22         16       0      1          1249     0          2          6        0      0          0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+    PRADESH                                                                                                                                                                                                                    
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+2   ASSAM        30646    18267                                                                    48300      27809    13892  39513      69347    35320      37249      10724    3317   9784       0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+3   BIHAR        8513     15773                                                                    45652      5605     65341  39585      21366    181228     122844     6806     38673  95952      0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                          2                                                                                                                                                                                                    
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+4   CHHATTISGAR  30296    7082                                                                     544        26855    7402   562        98432    41794      2424       75453    44488  206        13009    78252  617         
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+    H                                                                                                                                                                                              3                           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+5   GOA          92       17                                                                       67         70       18     45         14       3          9          0        0      0          0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+6   GUJARAT      16967    3391                                                                     1172       15012    3626   2385       56247    6722       2994       48296    4013   1285       0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+7   HARYANA      13       16150                                                                    3233       4        7575   1304       40       5100       2623       3        4410   1728       0        1      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+8   HIMACHAL     757      3788                                                                     124        562      1825   139        875      1903       186        365      846    95         0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+    PRADESH                                                                                                                                                                                                                    
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+9   JAMMU AND    3661     1968                                                                     329        2346     787    60         4531     2062       141        4356     2387   122        0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+    KASHMIR                                                                                                                                                                                                                    
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+10  JHARKHAND    23800    8011                                                                     4329       26115    9210   1860       91866    45136      33256      58725    34478  23916      53242    29932  364         
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+11  KERALA       3824     15181                                                                    17872      4349     20232  17672      1050     3809       4238       188      1039   933        0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+12  MADHYA       64679    22053                                                                    5926       55913    18181  5632       19868    98493      4048       16423    85398  4388       21947    11106  7704        
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+    PRADESH                                                                                                                              4                              3                          7        0                  
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+13  MAHARASHTR   77120    40725                                                                    6094       69356    32939  12755      70948    63311      24319      52870    33992  6315       31196    4431   74          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+    A                                                                                                                                                                                                                          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+14  MANIPUR      1159     48                                                                       1404       4131     84     2355       5784     262        1087       0        0      0          0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+15  MEGHALAYA    8183     62                                                                       160        5558     6      63         16098    96         759        3312     13     203        0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+16  MIZORAM      1276     1                                                                        0          745      0      0          2657     0          1          0        0      0          0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+17  NAGALAND     7135     3                                                                        11         994      1      0          2801     0          14         0        0      0          0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+18  ODISHA       82602    40242                                                                    3039       77682    40245  3026       13659    101062     6424       13333    69320  2719       10219    50208  1878        
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                         2                              7                          3                           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+19  PUNJAB       3        1719                                                                     14         6        3012   8          0        7743       164        1        3045   120        0        0      0           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+20  RAJASTHAN    65779    14269                                                                    1314       50970    7016   1034       11047    49362      10882      87305    49586  12499      77625    52306  10922       
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                         3                                                                                     
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                              
+21  SIKKIM       1223   199    851     335    49     170     474    82      65      0      0      0       0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+22  TAMIL NADU   2174   32538  1885    3660   59113  5116    7258   95428   4872    5275   51494  2154    126    1219   161   
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+23  TRIPURA      5731   1958   761     9357   2030   658     13028  3075    1541    807    155    50      0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+24  UTTAR        5400   23438  75198   7266   21347  70302   7405   332892  93688   4391   15610  45978   1221   17098  18444 
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    PRADESH             7                     2                                            2                                  
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+25  UTTARAKHAN   1114   5727   1216    1141   2969   1651    1208   3500    2970    0      1      13      0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    D                                                                                                                         
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+26  WEST BENGAL  62695  17873  95114   61896  18084  87128   51320  190329  133112  45099  15803  123268  79744  25132  174968
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                        6                     9                                            6                     0            
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+27  ANDAMAN      0      0      8       0      0      0       0      0       0       0      0      0       0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    AND NICOBAR                                                                                                               
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+28  DADRA AND    0      0      0       0      0      0       288    3       0       779    0      1       4511   0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    NAGAR                                                                                                                     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    HAVELI                                                                                                                    
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+29  DAMAN AND    0      0      0       0      0      0       0      0       0       6      0      0       0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    DIU                                                                                                                       
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+30  LAKSHADWEE   0      0      0       5      0      5       53     0       0       0      0      0       0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    P                                                                                                                         
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+31  PUDUCHERRY   0      0      0       0      0      0       0      0       0       0      0      0       0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+32  ANDHRA       10137  23939  5585    11628  24356  1204    9887   24420   1886    762    1922   74      0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    PRADESH                                                                                                                   
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+33  KARNATAKA    31884  45346  13707   32308  44932  13862   12982  26401   11441   16315  22735  9270    0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+34  TELANGANA    16392  16231  1933    17025  11271  2204    0      0       0       0      0      0       0      0      0     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    Total        56371  88977  335864  51871  77043  310299  99295  131953  503239  71941  76545  341073  69942  59582  215132
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+                 5      1              9      3              7      6               4      0              8      7            
+                                                                                                                              
+                                                                                                                              
+
+      All figures are reported by States/UTs on Awaassoft as on 11.12.2018
+
+
+      This information was given by the Minister of State for Rural Development, Shri Ram Kripal Yadav in Lok Sabha today.
+
+
+      ****
+
+
+      APS/AS
+
+    
+    
+    (Release ID: 1555852) Visitor Counter : 3295

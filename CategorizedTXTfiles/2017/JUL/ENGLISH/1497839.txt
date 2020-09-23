@@ -1,0 +1,122 @@
+      Ministry of Earth Science
+
+      Ocean Observation Systems
+      Posted On: 31 JUL 2017 5:14PM by PIB Delhi
+
+
+        The Ministry of Earth Sciences has been implementing a major program on Ocean Observations System since 1996. The ocean observation system has been designed to acquire real-time, time series data on surface meteorological and upper oceanographic parameters from the seas around India including from the Indian Ocean Region. A wide range of ocean observation systems are deployed in different parts of the Indian Ocean for acquisition of specific ocean parameters on different spatial and temporal scales. These include moored buoys, drifters, current meters, wave rider buoys, Cargo floats, tide gauges, coastal radars and acoustic doppler current profilers (ADCP), which are broadly classified into two categories viz., drifters and moored. The primary purpose of acquiring a suite of accurate measurements of ocean parameters is to cater research and a wide range of operational services including issue of issue of early warning to tsunami and storm surges. Besides, the information from the seas around India is extremely useful of ocean-atmospheric modelling purposes and validation of satellite data. One of the major observing systems is moored buoy network, equipped with deployment and maintenance of a set of buoys at fixed locations in the Exclusive Economic Zone of India (EEZ) for obtaining long term data. These buoys are capable of collecting data upto 76 parameters and transmitting the information in real time through satellites. Currently, the moored buoys network has been augmented to 19 buoy network, deployed in the Arabian Sea and Bay of Bengal. The ocean observing systems are primarily deployed, operated and maintained by four organizations viz., National Institute of Ocean Technology (NIOT), Chennai; National Institute of Oceanography (NIO), Goa; Indian National Centre for Ocean Information Services (INCOIS), Hyderabad and Survey of India, Dehradun. All the systems except Tide gauges and coastal Radar are deployed in the EEZ of India, outside jurisdiction of coastal states/UT of India. Details of observations systems deployed, operated, maintained and supported by India and their current status are as under:-
+
+                                                                              
+Type of Platform                          Target  Commissioned till June, 2017
+                                                                              
+                                                                              
+                                                                              
+Argo Floats                               200     291                         
+                                                                              
+                                                                              
+                                                                              
+Drifters*                                 150     103                         
+                                                                              
+                                                                              
+                                                                              
+Moored Buoys                              16      19                          
+                                                                              
+                                                                              
+                                                                              
+Tide Gauges                               36      34                          
+                                                                              
+                                                                              
+                                                                              
+Coastal Radars                            10      10                          
+                                                                              
+                                                                              
+                                                                              
+Current Meter Array                       10      11                          
+                                                                              
+                                                                              
+                                                                              
+Acoustic Doppler Current Profiler (ADCP)  20      21                          
+                                                                              
+                                                                              
+                                                                              
+Tsunami Buoys                             7       9                           
+                                                                              
+                                                                              
+                                                                              
+Wave Rider Buoy                           16      16                          
+                                                                              
+                                                                              
+
+        The details of fund allocated for 12 th Plan period (2012-17) (Rs. In crores) are as follows:
+
+                                                                                                                                                                        
+No.  Type of Observing System/institute                                                                                     2012 –  2013-  2014 –  2015-  2016 -  Total 
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                            13      14     15      16     17            
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+1    Argo profiling floats (INCOIS)                                                                                         6.00    6.00   6.00    6.00   6.00    30.00 
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+2    Drifters (INCOIS)                                                                                                      2.00    2.00   2.00    2.00   2.00    10.00 
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+3    XBT/XCTD (INCOIS)                                                                                                      2.50    2.50   2.50    2.50   2.50    12.50 
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+4    Equatorial and coastal current meter array (INCOIS)                                                                    4.10    5.60   4.10    2.60   2.60    19.00 
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+5    Coastal ADCP moorings (INCOIS)                                                                                         3.00    4.50   4.50    3.50   3.00    18.50 
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+6    Marine met. Ocean parameters onboard Ships/Rigs (AWS & wave) (INCOIS)                                                  2.10    2.10   2.10    0.60   0.60    7.50  
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+7    Wave rider buoys along the coast of India (INCOIS)                                                                     1.60    2.10   2.10    0.60   0.60    7.00  
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+8    Bay of Bengal Observatory (INCOIS)                                                                                     1.45    2.45   1.70    0.70   0.70    7.00  
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+9    Other Observation network (Underway CTD & water quality, Turbulence, coastal CTD moorings, RAMA mooring etc) (INCOIS)  2.84    4.64   5.54    2.84   1.09    16.95 
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+10   Calibration and Validation site (NIOT)                                                                                 1.18    1.42   4.30    1.33   1.50    9.73  
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+11   Coastal Radar (NIOT)                                                                                                   2.40    2.40   2.90    2.90   3.40    14.00 
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+12   Moored Data Buoys (Met-Ocean and Tsunami) and Gliders (NIOT)                                                           6.00    29.75  30.75   43.00  37.00   146.50
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+     Grand Total                                                                                                            35.17   65.46  68.49   68.57  60.99   298.68
+                                                                                                                                                                        
+                                                                                                                                                                        
+
+        This information was given by Minister of State for Science & Technology and Earth Sciences Shri Y.S.Chowdary in written reply to a question in Rajya Sabha today
+
+
+        *****
+
+
+        RDS/nb
+
+    
+    
+    (Release ID: 1497839) Visitor Counter : 271

@@ -1,0 +1,20 @@
+      Ministry of Power
+
+      Cyber Security for National Power Grid
+      Posted On: 03 DEC 2019 6:28PM by PIB Delhi
+
+
+    The National Power Grid comprises of large number of assets established across the country. Interconnectedness is a key feature of networked world and cyber opportunity and threat are part of it. For curbing the cyber threats over national power grid, multiple steps have been taken. For securing transmission assets of POWERGRID, communication from equipment of Substations to control centers are done over dedicated optical fiber network owned by POWERGRID without any connectivity to external networks. They are further protected through multiple Firewalls. These systems are kept isolated from office networks, to prevent any malicious online attack because of Internet connectivity. Also, POWERGRID is certified for ISO27001 Information Security Management System as laid down in Information Technology Act, 2000. Further, Ministry of Power has formed Sectoral CERT-Transmission housed in POWERGRID, which works in close coordination with Indian Computer Emergency Response Team (CERT-In), National Critical Information Infrastructure Protection Centre (NCIIPC), Ministry of Home Affairs (MHA) and Ministry of Electronics and Information Technology (MeitY) and which has laid down detail procedures for Protected Systems, alerts and advisories, regular cyber audit, Crisis Management Plan (CMP), mock drills and exercises.
+
+
+    This information was provided by Union Minister of State (IC) Power, New & Renewable Energy and Skill Development and Entrepreneurship Shri R.K. Singh, in written reply to a question in Rajya Sabha today.
+
+
+    ******
+
+
+    RCJ/RP
+
+    
+    
+    (Release ID: 1594760) Visitor Counter : 745

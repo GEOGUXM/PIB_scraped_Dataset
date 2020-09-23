@@ -1,0 +1,47 @@
+      Ministry of Science & Technology
+
+      RRI Scientists find a new way for quantum state estimation that can make crucial quantum operations simpler
+      Posted On: 31 AUG 2020 1:03PM by PIB Delhi
+
+
+    Scientists experimenting with new ways to manipulate quantum states so that they can be harnessed for computing, communication, and metrology, has found a novel way to characterise and estimate such states. This method of characterisation called Quantum State Interferography , can help make such manipulations simpler so that several crucial operations in quantum technologies become less cumbersome.
+
+
+    Scientists from Raman Research Institute, an autonomous institute under the Department of Science & Technology, Govt. of India, have found a new way of inferring the state of a system (both two-dimensional qubits, the simplest quantum system as well as higher-dimensional “qubits”) from an interference pattern, which they term ‘Quantum State Interferography’. This work, partially supported by the QuEST network programme of the DST, has been accepted for publication in the journal Physical Review Letters .
+
+
+    The determination of an unknown quantum state is usually done by a method known as Quantum State Tomography (QST). This involves measuring projection of the quantum state on various directions in state space and reconstructing the quantum state from the information obtained. However, in particular, scenarios where the dimensions are large, the operations needed to perform tomography increase quadratically. The experimental settings often need to be changed many times, thus making the process very cumbersome.
+
+
+    The RRI team showed that without changing any settings in the experimental setup, it is possible to infer the unknown quantum state of a higher dimensional system. The setup requires only two interferometers from which many interferograms can be obtained to reconstruct the state. This provides a ‘black box’ approach to quantum state estimation -- between the incidence of the photon and extraction of state information, conditions within the set-up are not changed, thus providing a true single-shot estimation of the quantum state.
+
+
+    A qubit is a 2-dimensional quantum system and requires usually 2 complex numbers to be determined towards state estimation. However, various constraints and physical assumptions leave only two real numbers, finally to be determined. Instead of finding these two real numbers from various projections, in this work, they were determined from the intensity and phase shift of the interference pattern. Also, when many such quantum states are incoherently mixed, the amount of mixedness can be determined from the visibility of the interference pattern. This can be used to characterize the state of a two-particle system, which in turn can be used to quantify entanglement, also in a single-shot method. This idea can be further extended to find parameters describing higher-dimensional quantum states from a set of interference patterns.
+
+
+    This work gives a single-shot black-box approach to quantum state estimation as well as quantifying quantum entanglement. Manipulation of quantum states is the most crucial operation in any quantum technology protocol, be it quantum computing, quantum communication, or quantum metrology. Similarly, quantum entanglement is a ubiquitous resource in quantum technology. The new technique for quantum state estimation developed and experimentally demonstrated by Urbasi Sinha and her group members at the Quantum Information and Computing Lab at RRI is a handy and effective tool in comparison to conventional techniques with a tremendous scaling gain involving the use of interferometry. Theoretical support for this development was provided by a collaborator from HRI. Moreover, the work also indicates how this technique could lead to miniaturised devices in the long run, which could be used for quantum state estimation at a commercial scale.
+
+
+    Figure: Quantum State Interferography can serve as a "black box" tool for quantum state estimation from the interference pattern without any need for change in experimental settings.
+
+
+    [Publication link:
+
+
+    https://journals.aps.org/prl/accepted/3607bY09D3214e77d23f4a87330320d171b04ebfb
+
+
+    For more details, Professor Urbasi Sinha ( usinha@rri.res.in ) can be contacted.]
+
+
+    *****
+
+
+    NB/KGS(DST Media Cell)
+
+    
+    
+    (Release ID: 1649962) Visitor Counter : 464
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Assamese , Punjabi , Tamil

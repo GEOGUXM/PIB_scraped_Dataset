@@ -1,0 +1,23 @@
+      Ministry of Railways
+
+      GPS enabled device in Trains
+      Posted On: 03 JAN 2018 4:39PM by PIB Delhi
+
+
+    Ministry of Railways in collaboration with Indian Space Research Organisation (ISRO) is implementing Real-Time Train Information System (RTIS) which involves tracking of train by placing GPS / GAGAN (GPS Aided Geo Augmented Navigation System) based devices on locomotives. In Phase-I, the RTIS project will cover about 2700 electric locomotives in which the GPS device will be installed. This phase is planned to be completed by December, 2018. Remaining locomotives will be covered in subsequent phases.
+
+
+    The trials for this system have been done on New Delhi – Guwahati and New Delhi – Mumbai Rajdhani trains on six electric locomotives. A reliable and high level (about 99.3%) of real time reporting of arrival departure timing updates has been observed, which is considered adequate to meet the RTIS requirements.
+
+
+    This Press Release is based on the information given by the Minister of State for Railways Shri Rajen Gohain in a written reply to a question in Lok Sabha on 03.01.2018 (Wednesday).
+
+
+    ****
+
+
+    AKS/MKV/PM
+
+    
+    
+    (Release ID: 1515266) Visitor Counter : 619

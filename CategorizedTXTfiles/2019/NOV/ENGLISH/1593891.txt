@@ -1,0 +1,85 @@
+      Ministry of Railways
+
+      ISRO enabled GPS system in Indian Railways
+      Posted On: 27 NOV 2019 6:48PM by PIB Delhi
+
+
+    Real-time Train Information System (RTIS) project is being executed by Centre for Railway Information System (CRIS), which is an Information Technology arm of the Ministry of Railways, in collaboration with Indian Space Research Organisation (ISRO). It is primarily used for acquisition of train movement data, including that of arrival, departure, run-through timings at the stations in route. As the RTIS devices have been installed in locomotives, the trains hauled by such locomotives get tracked through this system. The zone-wise details of installation of RTIS device in the passenger and goods train locomotives till 20.11.2019, are as under:
+
+                                                                                        
+Zone                        Number of Passenger Locomotives  Number of Goods Locomotives
+                                                                                        
+                                                                                        
+                                                                                        
+Central Railway             103                              217                        
+                                                                                        
+                                                                                        
+                                                                                        
+East Coast Railway          53                               140                        
+                                                                                        
+                                                                                        
+                                                                                        
+East Central Railway        89                               76                         
+                                                                                        
+                                                                                        
+                                                                                        
+Eastern Railway             130                              28                         
+                                                                                        
+                                                                                        
+                                                                                        
+North Central Railway       44                               71                         
+                                                                                        
+                                                                                        
+                                                                                        
+Northern Railway            268                              61                         
+                                                                                        
+                                                                                        
+                                                                                        
+South Central Railway       146                              127                        
+                                                                                        
+                                                                                        
+                                                                                        
+South East Central Railway  50                               14                         
+                                                                                        
+                                                                                        
+                                                                                        
+South Eastern Railway       121                              157                        
+                                                                                        
+                                                                                        
+                                                                                        
+Southern Railway            232                              48                         
+                                                                                        
+                                                                                        
+                                                                                        
+West Central Railway        181                              116                        
+                                                                                        
+                                                                                        
+                                                                                        
+Western Railway             177                              00                         
+                                                                                        
+                                                                                        
+                                                                                        
+Total                       1594                             1055                       
+                                                                                        
+                                                                                        
+
+    Additional funds for installation of RTIS system in 6000 more locomotives (both passenger and goods) have been sanctioned in 2019.
+
+
+    The automatic acquisition of the train running data by the RTIS system helps in improving the efficiency of train control, dissemination of accurate train running information to the passengers and freight customers, and emergency messaging between locomotive and control centre.
+
+
+    This information was given by the Minister of Railways and Commerce & Industry, Shri Piyush Goyal in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    SG/MKV
+
+    
+    
+    (Release ID: 1593891) Visitor Counter : 333
+    
+    
+      Read this release in: Bengali

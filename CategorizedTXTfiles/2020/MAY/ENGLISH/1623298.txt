@@ -1,0 +1,301 @@
+      Ministry of Statistics & Programme Implementation
+
+      Price Movement of Selected Sub-Groups/Groups of Consumer Price Index on Base 2012=100 for Rural, Urban and Combined for the month of April 2020
+      Posted On: 12 MAY 2020 5:30PM by PIB Delhi
+
+
+    The National Statistical Office (NSO), Ministry of Statistics and Programme Implementation is releasing Price Movement of selected Sub-Groups/Groups of Consumer Price Index (CPI) on Base 2012=100 for Rural, Urban, Combined for the month of April 2020 (Provisional) and CPI (Final) for the month of March 2020 in this press note. The corresponding Consumer Food Price Index (CFPI) for all India Rural, Urban and Combined are also being released.
+
+
+    2. The Price data are usually collected from selected 1114 urban markets and selected 1181 villages through personal visits by field staff of Field Operations Division of NSO, MoSPI on a weekly roster. In view of the preventive measures and announcement of nation-wide lockdown by the Government to contain spread of COVID-19 pandemic, the price collection of Consumer Price Index (CPI) through personal visits of price collectors was suspended with effect from 19 th March, 2020. In the month of April, 2020, price data was largely collected by telephonic enquiry from the designated outlets. This was supplemented by information collected during the personal purchase of field staff for the items being transacted from neighborhood outlets keeping in view the travel advisories. The whole exercise was carried out by well experienced and professional staff of FOD, NSO stationed at about 200 locations across the country. NSO accordingly collected prices from 674 urban markets and 524 villages, for commodities which were available and being transacted during the lockdown period.
+
+
+    3. In view of the limited transactions of products in the market in the month of April, 2020, it has been decided to release the Price Movement of Sub-groups/Groups of CPI, following the principles of adequacy. The Price Movement of these Sub-groups/Groups of CPI were worked out with following criteria:
+
+
+    i) The price of only those items were included which have been reported from at least 25% of markets, separately for Rural & Urban sector and constituted more than 70% weight of the respective Sub-groups/Groups.
+
+
+    ii) The all India indices have been compiled using Direct Approach by considering a common market at the national level in both Rural & Urban sectors separately.
+
+
+    4. Accordingly, the Price Movement for the sub-groups ‘Meat and fish’ and ‘Prepared meals, snacks, sweets etc.’ under ‘ Food & Beverages’ Group as well as the Groups ‘ Pan, tobacco and intoxicants’ Group , ‘ Clothing and Footwear Group ’ were not compiled. Under ‘Miscellaneous’ Group, only the index for ‘ Health ’ subgroup has been compiled for the month of April, 2020. The General CPI and indices at State/UT level are not being released for the month of April, 2020.
+
+
+    5. The Price Movement of all sub-groups under ‘ Food & Beverages Group ’ (except sub-groups ‘ Meat and fish ’, ‘Prepared meals, snacks, sweets etc .’), ‘ Housing Group ’, ‘ Fuel & Light Group ’ and ‘ Health Sub-group ’ under ‘ Miscellaneous Group ’, CFPI (excluding Meat and Fish subgroup) of CPI at All India level, separately for Rural, Urban & Combined sector are being released at Annex-I .
+
+
+    6. All India Inflation rates ( on point to point basis i.e. current month over same month of last year, i.e., March 2020 over March 2019) , based on General Indices and CFPIs are given as follows:
+
+
+    All India Inflation rates (%) based on CPI (General) and CFPI
+
+                                           
+Indices        Mar. 2020 (Final)  Mar. 2019
+                                           
+                                           
+                                                                 
+Rural          Urban              Combd.     Rural  Urban  Combd.
+                                                                 
+                                                                 
+                                                                       
+CPI (General)  6.09               5.59       5.84   1.80   4.10    2.86
+                                                                       
+                                                                       
+                                                                       
+CFPI           8.88               8.59       8.76   -1.46  3.47    0.30
+                                                                       
+                                                                       
+
+    Notes: Combd. - Combined
+
+
+    7. Price data are received through web portal, maintained by the National Informatics Centre.
+
+
+    Next date of release is scheduled for 12th June, 2020 (Friday) for May 2020 .
+
+
+    ***
+
+
+    Annex I
+
+
+    Price Movement of Sub-Groups/Groups of All India CPI for the month of March, 2020 (Final) and April, 2020 (Provisional)
+
+
+    (Base: 2012=100)
+
+                                                                                                                              
+Group Code                          Sub-group Code  Description                          Rural    Urban          Combined     
+                                                                                                                              
+                                                                                                                              
+                                                                                                                                                                     
+Weights                             Mar. 20 Index   Apr. 20 Index                        Weights  Mar. 20 Index  Apr. 20 Index  Weights  Mar. 20 Index  Apr. 20 Index
+                                    (Final)         (Prov.)                                       (Final)        (Prov.)                 (Final)        (Prov.)      
+                                                                                                                                                                     
+                                                                                                                                                                     
+                                                                                                                                                                                          
+(1)                                 (2)             (3)                                  (4)      (5)            (6)            (7)      (8)            (9)            (10)   (11)   (12) 
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.01          Cereals and products                 12.35    144.4          147.2          6.59     146.5          151.8          9.67   145.1  148.7
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.02          Meat and fish                        4.38     166.8          -              2.73     167.5          -              3.61   167.0  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.03          Egg                                  0.49     147.6          146.9          0.36     148.9          151.9          0.43   148.1  148.8
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.04          Milk and products                    7.72     151.7          155.6          5.33     151.1          155.5          6.61   151.5  155.6
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.05          Oils and fats                        4.21     133.3          137.1          2.81     127.5          131.6          3.56   131.2  135.1
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.06          Fruits                               2.88     141.8          147.3          2.90     143.3          152.9          2.89   142.5  149.9
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.07          Vegetables                           7.46     152.3          162.7          4.41     167.0          180.0          6.04   157.3  168.6
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.08          Pulses and products                  2.95     141.8          150.2          1.73     139.7          150.8          2.38   141.1  150.4
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.09          Sugar and Confectionery              1.70     112.6          119.8          0.97     114.4          121.2          1.36   113.2  120.3
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.10          Spices                               3.11     154.0          158.7          1.79     151.5          154.0          2.50   153.2  157.1
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.2.11          Non-alcoholic beverages              1.37     140.1          139.2          1.13     131.9          133.5          1.26   136.7  136.8
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    1.1.12          Prepared meals, snacks, sweets etc.  5.56     160.0          -              5.54     159.1          -              5.55   159.6  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+1                                                   Food and beverages &                 54.18    148.2          150.1          36.29    150.1          153.5          45.86  148.9  151.4
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+2                                                   Pan, tobacco and intoxicants         3.26     170.5          -              1.36     173.3          -              2.38   171.2  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    3.1.01          Clothing                             6.32     153.4          -              4.72     147.7          -              5.58   151.2  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    3.1.02          Footwear                             1.04     147.6          -              0.85     133.8          -              0.95   141.9  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+3                                                   Clothing and footwear                7.36     152.5          -              5.57     145.6          -              6.53   149.8  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+4                                                   Housing                              #        #              #              21.67    154.5          155.6          10.07  154.5  155.6
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+5                                                   Fuel and light                       7.94     153.4          -              5.58     141.4          137.1          6.84   148.9  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    6.1.01          Household goods and services         3.75     151.5          -              3.87     140.8          -              3.80   146.4  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    6.1.02          Health                               6.83     156.7          154.3          4.81     145.0          144.8          5.89   152.3  150.7
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    6.1.03          Transport and communication          7.60     135.8          -              9.73     124.6          -              8.59   129.9  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    6.1.04          Recreation and amusement             1.37     151.2          -              2.04     137.9          -              1.68   143.7  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    6.1.05          Education                            3.46     161.2          -              5.62     152.5          -              4.46   156.1  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                    6.1.06          Personal care and effects            4.25     145.1          -              3.47     145.3          -              3.89   145.2  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+6                                                   Miscellaneous                        27.26    148.6          -              29.53    138.7          -              28.32  143.8  -    
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                            
+General Index (All Groups)          100.00          149.8                                -        100.00         147.3          -        100.00         148.6          -    
+                                                                                                                                                                            
+                                                                                                                                                                            
+                                                                                                                                                                            
+Consumer Food Price Index (CFPI) $  47.25           147.1                                150.4    29.62          149.1          154.1    39.06          147.8          151.7
+                                                                                                                                                                            
+                                                                                                                                                                            
+
+    Notes:
+
+     1. Prov. : Provisional
+
+    2. : excluding ‘Meat and fish’ subgroup
+
+
+    3. : CPI (Rural) for Housing is not compiled
+
+
+    4. : CPI not compiled for April 2020
+
+
+    5. :‘Food and beverages’ index compiled excluding sub-groups viz. ‘Meat and fish’ and ‘Prepared meals, snacks, sweets etc.’ by following standard methodology of distributing their weights over remaining sub-groups
+
+
+    Click here to see Data in PDF
+
+
+    ******
+
+
+    VRRK/VJ
+
+    
+    
+    (Release ID: 1623298) Visitor Counter : 876
+    
+    
+      Read this release in: Urdu , Hindi , Punjabi
+    
+    
+    
+
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+1.

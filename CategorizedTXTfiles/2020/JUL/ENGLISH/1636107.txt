@@ -1,0 +1,52 @@
+      Ministry of Science & Technology
+
+      IIT Hyderabad uses artificial intelligence to study supply chain network of biofuels
+      
+      Dr Kishalay Mitra: “In India, biofuels generated from non-food sources is the most promising source of carbon-neutral renewable energy
+
+      Posted On: 03 JUL 2020 2:11PM by PIB Delhi
+
+    --By: Jyoti Singh
+
+
+    Bio-derived fuels are gaining widespread attention among the scientific community across the world. The work on biofuels is in response to the global call for reducing carbon emissions associated with the use of fossil fuels. In India too, biofuels have caught the imagination of researchers.
+
+
+    For instance, researchers of the Indian Institute of Technology (IIT) Hyderabad have started using computational methods to understand the factors and impediments in incorporating biofuels into the fuel sector in India.
+
+
+    A unique feature of this work is that the framework considers revenue generation not only as an outcome of sales of the biofuel but also in terms of carbon credits via greenhouse gas emission savings throughout the project lifecycle.
+
+
+    The model has shown that if bioethanol is integrated with mainstream fuel, the costs associated with it are follows: production cost 43 per cent, import 25 per cent, transport 17 per cent, infrastructure 15 per cent, and inventory 0.43 per cent. The model has also shown that the feed availability to the tune of at least 40 per cent of the capacity is needed to meet the projected demands.
+
+
+    Kapil Gumte and Dr Kishalay Mitra
+
+
+    Dr Kishalay Mitra, lead researcher, Department of Chemical Engineering, IIT Hyderabad, said, “In India, biofuels generated from non-food sources is the most promising source of carbon-neutral renewable energy. These second-generation sources include agricultural waste products such as straw, hay and wood, among others, that do not intrude upon food sources.”
+
+
+    The team has considered multiple technologies available for bioenergy generation across several zones in the country and performed a thorough feasibility study using data of suppliers, transport, storage and production, among others, published by the Indian Government.
+
+
+    Elaborating on this research, Kapil Gumte, Research Scholar, IIT Hyderabad, said, “We use machine learning techniques to understand the supply chain network. Machine learning is a branch of artificial intelligence in which the computer learns patterns from available data and updates automatically to produce an understanding of the system and predictions for the future.”
+
+
+    “The techno-economic-environmental analysis on country-wide multi-layered supply chain network and the use of machine learning techniques have helped us capture the uncertainty in forecasting demands and other supply chain parameters and their effects on the operational and design decisions in the long run,” added Dr Mitra.
+
+
+    The results of this work have been published in the Journal of Cleaner Production .
+
+
+    *****
+
+
+    NB/KGS/(India Science Wire)
+
+    
+    
+    (Release ID: 1636107) Visitor Counter : 1184
+    
+    
+      Read this release in: Punjabi , Urdu , Hindi , Manipuri , Bengali , Tamil

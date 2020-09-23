@@ -1,0 +1,181 @@
+      Ministry of Electronics & IT
+
+      Sh. Ravi Shankar Prasad launches the Nation-Wide Hackathon #OpenGovDataHack
+      Posted On: 12 SEP 2017 3:48PM by PIB Delhi
+
+        * The Hackathon would be conducted by NIC and IAMAI as a part of the Startup Eco-system Development Programme
+        * A 24hours Hackathon themed on Drinking Water & Sanitation, Transport, Education, Crime & Health will take place in seven cities
+
+      Union Minister for Electronics & Information Technology Shri Ravi Shankar Prasad today launched a nation-wide hackathon #OpenGovDataHack. As part of the Startup Eco-system Development program, NIC and IAMAI have collaborated to conduct Nation Wide Hackathon #OpenGovDataHack across seven states of India . It aims to Support & Showcase potentially great Ideas/Talent from Inner India by reaching out in their own State/City ( 7 Cities ). It is to enable them making their ideas developed into Apps/Infographics primarily by use of Open Government Data around the themes of Drinking Water& Sanitation, Transport, Education, Crime and Health to a stage, after which it can be evaluated by jury and be selected for Prizes and future support/funding.
+
+
+      Speaking on the occasion, Mr. Ravi Shankar Prasad, Hon’ble Minister of Electronics and Information Technology said , “The government is committed to make best use of big data in establishing rule of precision governance. While doing so every care would be taken to ensure that strict privacy rights of individuals are protected. However, unauthorised use of data would be dealt with iron-hand to ensure that nothing comes in the way of making data-analytics a national movement.”
+
+
+      “The big data analytics should focus on poor & under privileged and facilitate inclusive growth. While aiming at taking lead in data analytics it must be ensured that technology is inclusive, affordable, transformative & developmental. #OpenGovDataHack being taken up in seven states would catalyse further start up movement. I would like assure you all that the Government is determined to hand-hold successful start-ups and make it a big success.” added Shri Ravi Shankar Prasad.
+
+
+      Shri Ajay Prakash Sawhney, Secretary, Ministry of Electronics & Information Technology, said , “The open data platform is a huge opportunity for the country and a brilliant foundation in place to have so much of data already being made available. However, there is big gap between data being available and data being utilized. I believe there are not only gaps, but we have serious opportunities available. A lot of intellectual effort needs to go into creating that value. On one side, we have this wonderful platform in reach our country, on the other side there is this huge opportunity for new services that can be made available, and thirdly there is massive resource available to us in terms of creative young minds in institutions, industry, start-ups across the country. I think Hackathon is a great opportunity, it fits in to our start-up movement as well, and I hope that our youngsters will be able to not only come out with new ideas, they will be able to provide valuable services to departments, to citizens, to communities across the country.”
+
+
+      The workshops will be organized for Stakeholders Sensitization, identifying Problem Statements and Data Gathering at respective cities. Students, Community, Startups, Academia, and Industry etc. can participate.
+
+
+      The #OpenGovDataHack will being with the o onsite City Challenge, a 24 hours Hackathon event will be held at 7 centres/ institutes/ organizations across Hackathon cities on different weekends. The participating teams will be required to submit Apps prototypes and Info-graphics. Selected Apps prototypes from all seven onsite city Centre and online submissions will be taken forward for App development. Each team will be given 2 months of mentorship/incubation to develop the App, post which the teams will submit the final Apps for evaluation.
+
+
+      The apps will be evaluated by a panel of jury comprised of the members from the Community, Government, Academia and Industry etc., and the shortlisted teams will be invited for a presentation on the App. The Hackathon process will conclude with an International conference on Open Data, wherein the winners of the Apps Challenge will be awarded.
+
+
+      About Open Government Data Platform:
+
+
+      The Open Government Data (OGD) Platform India has been set up by the National Informatics Centre (NIC) in compliance with National Data Sharing and Accessibility Policy (NDSAP) 2012. The objective of the policy is to provide proactive access to government owned sharable data along with its usage information.
+
+
+      OGD Main Features Include:
+
+
+      · Single point access to open datasets
+
+
+      · Workflow based web access to the departments to publish their datasets through a predefined metadata
+
+
+      · Enhanced visualization tool
+
+
+      · Better user experience and efficient discoverability of resources
+
+
+      · Cataloging of similar resources
+
+
+      · Consumable Open APIs
+
+
+      · Catalogue embedding
+
+
+      · Catalogue sharing widgets, catalogue subscription
+
+
+      · Mobile and Web Apps
+
+
+      · Community participation through blogs, infographics, visualizations and much more…
+
+
+      A number of Hackathons, Data Meets and Open App Challenges have been conducted to bring out innovative applications, info-graphics and visualizations using the government data.
+
+
+      OGD Analytics
+
+
+      · 111 Chief data Officer have been nominated
+
+
+      · datasets:
+
+
+      o 1,18,450 datasets
+
+
+      o Under 4220 catalogs
+
+
+      o By 106 Departments
+
+
+      o 12.57 Million times viewed &
+
+
+      o 4.94 Million Times Download
+
+
+      · 1200 + visulizations have been created
+
+
+      · 2200 + APIs
+
+
+      · 1,44,307 Registered Users
+
+
+      Top 10 Sector data
+
+
+      · Health and Family Welfare - 48525
+
+
+      · Home Affairs -031598
+
+
+      · Agriculture -21033
+
+
+      · Rajya Sabha - 4363
+
+
+      · Statistics & Programme -2199
+
+
+      · Niti Aayog - 1599
+
+
+      · Transport- 1303
+
+
+      · Water -1060
+
+
+      · Environment & Forests -917
+
+
+      · Human Resource Development - 747
+
+
+      Community Engagement:
+
+
+      The Platform also acts as a knowledge - sharing platform through online communities. Citizens with specific interests are encouraged to contribute blogs and joins online forums around various datasets or their domain of interest. Platform demonstrated its potential to the App Developers Community through various contest such as :
+
+
+      · 12th Plan Hackathon
+
+
+      · In pursuit of an Idea
+
+
+      · CMA Hackathon
+
+
+      · #OpendataApps Challenge with Nasscom
+
+
+      · Code for Honor 2014 with Microsoft
+
+
+      A separate Community Portal ( http://community.data.gov.in ) has been launched to provide a common platform for knowledge sharing through contributioin of blogs, info-graphics, Visualization, etc. using data available on the platforms. Similarly a dedicated event portal ( https://event.data.gov.in ) also helps in management of workshops, hackathons, challenges, etc. OGD has organised 24 major events/apps-challennges/hackathons, workshops/training/awareness sessions, roundtable, etc.so far.
+
+
+      OGD SaaS (Software as a Service)
+
+
+      OGD Platform is available as Software as a Service (SaaS) model. Following Open Data Portals have been created using OGD SaaS: Sikkim Open Data Portal ( http://sikkim.data.gov.in )Tamil Nadu Open Data Portal ( http://tn.data.gov.in ) and Surat Municipal Corporation ( http://surat.data.gov.in ).
+
+
+      NNK/MD
+
+
+    
+
+    
+    (Release ID: 1502509) Visitor Counter : 329
+    
+    
+    
+    
+    
+
+*

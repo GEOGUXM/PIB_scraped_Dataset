@@ -1,0 +1,41 @@
+      Ministry of Power
+
+      Larsen & Toubro bids lowest for EESL’s tender for Smart Meters
+      Posted On: 09 OCT 2017 8:44PM by PIB Delhi
+
+
+    • Lowest quote of Rs. 2722, per single phase smart meter
+
+
+    • Genus Power and KEONICS emerge as second and third lowest bidders
+
+
+    Larsen & Toubro (L&T) has emerged as the lowest bidder of the tender issued by Energy Efficiency Services Limited (EESL) to procure 50 Lakh smart meters. The company has been selected through an international competitive bidding. The meters will be installed over a period of 3 years in a phased manner in Uttar Pradesh UP) and Haryana. L&T quoted the lowest price of Rs. 2722, per single phase smart meter.
+
+
+    The tender floated by EESL, a company under the administrative control of Ministry of Power, Government of India (GoI), is the world’s largest single Smart Meter procurement. Fourteen leading manufacturers from around the world participated in the tender. 40 lakh smart meters will be deployed in UP and the remaining 10 lakh in Haryana. The price quoted by L&T is 40-50% lower than the current market rates.
+
+
+    Smart meters are a part of the overall Advanced Metering Infrastructure Solutions (AMI) aimed at better demand response designed to reduce energy consumption during peak hours. The overall AMI solution will also have a system integrator who will be responsible for meter installation, data storage on cloud, preparing dashboards, etc. The bids for the system integrator will open on October 31, 2017.
+
+
+    The meters are being procured for implementation of smart grid projects in Haryana and Uttar Pradesh since these states grapple with huge AT&C losses, with the latest figures for both states being 28.42% and 34.36% respectively[1]. The smart meters will help these states in not only significantly reducing their AT&C losses by way of increased billing efficiency, but will completely change the way in which electrical energy is presently being consumed and paid for by the consumers. Installation of these smart meters along with its associated communication and IT infrastructure will enable the DISCOMs to obtain real time energy consumption data of each consumer for subsequent analysis.
+
+
+    The Smart meters procured by EESL use GPRS technology to allow 2 –way communication between the DISCOM and consumers. Once installed, an energy supplier can read a meter via the mobile phone network. Householders can also receive a digital display which helps them to access how much power they are consuming – and its cost – in real time. Smart meters enable one to see the consumption pattern and the cost. This means one can adapt the energy use and cut down on waste to provide financial savings to consumers. They further provide an accurate and real-time information about the energy use, enabling one to take informed decisions about their energy behaviour.
+
+
+    EESL is procuring the smart meters and services of the system integrator with 100% investment and the Utilities will make zero-investment. The repayment to EESL will be through savings resulting from enhanced billing efficiency, avoided meter reading costs, etc. It is said that the average cost of meter reading is Rs. 40 per meter, which will be completely avoided.
+
+
+    EESL is driven by the objective of facilitating faster adoption of disruptive technology solutions while balancing economic development and environmental sustainability. EESL is committed to enabling a complete transformation of the energy infrastructure in the country with unique solutions.
+
+
+    ***
+
+
+    RM/
+
+    
+    
+    (Release ID: 1505434) Visitor Counter : 103

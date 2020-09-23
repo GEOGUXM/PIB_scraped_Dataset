@@ -1,0 +1,982 @@
+      Ministry of Statistics & Programme Implementation
+
+      Consumer Price Index Numbers on Base 2012=100 for Rural, Urban and Combined for the month of July 2020
+      Posted On: 13 AUG 2020 5:30PM by PIB Delhi
+
+
+    The National Statistical Office (NSO), Ministry of Statistics and Programme Implementation is releasing Consumer Price Index (CPI) on Base 2012=100 for Rural, Urban and Combined for the month of July 2020 (Provisional) in this press note. The corresponding Consumer Food Price Index (CFPI) for all India Rural, Urban and Combined are also being released.
+
+
+    2. The Price data are usually collected from selected 1114 urban markets and selected 1181 villages through personal visits by field staff of Field Operations Division of NSO, MoSPI on a weekly roster. As the various pandemic related restrictions were gradually lifted and non-essential activities started resuming operations, availability of price data has also improved. NSO collected prices from 1054 (95%) urban markets and 1089 (92%) villages during the month of July, 2020. CPIs for Sub-Groups, Groups, General CPI (R, U & C), CFPI (R, U & C) at All India level and State-wise General CPI (R, U & C) are being released for those State/UTs where responses from 70% or more markets have been received from rural and urban sector separately.
+
+
+    3. In view of above, final indices for the month of June 2020 and provisional indices for the month of July 2020 have been compiled by following the usual practice of bottom-up approach (aggregating from State level indices). All India Inflation rates ( on point to point basis i.e. current month over same month of last year, i.e., July 2020 over July 2019) , based on General Indices and CFPIs are given as follows:
+
+
+    All India Inflation rates (%) based on CPI (General) and CFPI
+
+                                                   
+Indices        Jul. 2020 (Prov.)  Jun. 2020 (Final)
+                                                   
+                                                   
+                                                                         
+Rural          Urban              Combd.             Rural  Urban  Combd.
+                                                                         
+                                                                         
+                                                                               
+CPI (General)  7.04               6.84               6.93   6.34   6.12    6.23
+                                                                               
+                                                                               
+                                                                               
+CFPI           9.89               9.05               9.62   8.84   8.58    8.72
+                                                                               
+                                                                               
+
+    Notes: Prov. – Provisional, Combd. - Combined
+
+
+    4. Monthly changes in the General Indices and CFPIs are given below:
+
+
+    Monthly changes (%) in All India CPI (General) and CFPI: Jul. 2020 over Jun. 2020
+
+                                              
+Indices        Rural     Urban        Combined
+                                              
+                                              
+                                                                     
+Index Value    % Change  Index Value  % Change  Index Value  % Change
+                                                                     
+                                                                     
+                                                                     
+Jul.20         Jun.20    Jul.20       Jun.20    Jul.20       Jun.20  
+                                                                     
+                                                                     
+                                                                                               
+CPI (General)  155.1     152.7        1.57      153.1        150.8     1.53  154.2  151.8  1.58
+                                                                                               
+                                                                                               
+                                                                                               
+CFPI           155.5     151.5        2.64      160.2        156.9     2.10  157.2  153.4  2.48
+                                                                                               
+                                                                                               
+
+    Note: Figures of July 2020 are provisional.
+
+
+    5. Price data are collected from selected towns and selected villages by the Field Operations Division (FOD) of NSO, MoSPI. Price data are received through web portals, maintained by the National Informatics Centre.
+
+
+    Next date of release: 14 th September, 2020 (Monday) for August 2020 .
+
+
+    List of Annex
+
+                                                                                                                                                                                   
+Annex  Title                                                                                                                                                                       
+                                                                                                                                                                                   
+                                                                                                                                                                                   
+                                                                                                                                                                                   
+I      All-India General (all-groups), Group and Sub-group level CPI and CFPI numbers for June and July 2020 (P) for Rural, Urban and Combined                                     
+                                                                                                                                                                                   
+                                                                                                                                                                                   
+                                                                                                                                                                                   
+II     All-India inflation rates for General (all-groups), Group and Sub-group level CPI and CFPI numbers for June and July 2020 (P) for Rural, Urban and Combined                 
+                                                                                                                                                                                   
+                                                                                                                                                                                   
+                                                                                                                                                                                   
+III    General CPI for States where responses from 70% or more markets have been received from rural and urban separately, for Rural, Urban and Combined for June and July 2020 (P)
+                                                                                                                                                                                   
+                                                                                                                                                                                   
+                                                                                                                                                                                   
+IV     Inflation rates of major States, having population more than 50 lakhs as per population Census 2011, for Rural, Urban and Combined for June and July 2020 (P)               
+                                                                                                                                                                                   
+                                                                                                                                                                                   
+
+    Annex I
+
+
+    All India Consumer Price Indices
+
+
+    (Base: 2012=100)
+
+                                                                                                                            
+Group Code                        Sub-group Code  Description                          Rural    Urban          Combined     
+                                                                                                                            
+                                                                                                                            
+                                                                                                                                                                   
+Weights                           Jun. 20 Index   Jul. 20 Index                        Weights  Jun. 20 Index  Jul. 20 Index  Weights  Jun. 20 Index  Jul. 20 Index
+                                  (Final)         (Prov.)                                       (Final)        (Prov.)                 (Final)        (Prov.)      
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                                        
+(1)                               (2)             (3)                                  (4)      (5)            (6)            (7)      (8)            (9)            (10)   (11)   (12) 
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.01          Cereals and products                 12.35    148.2          147.8          6.59     152.7          151.6          9.67   149.6  149.0
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.02          Meat and fish                        4.38     190.3          190.8          2.73     197.0          198.0          3.61   192.7  193.3
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.03          Egg                                  0.49     149.4          150.8          0.36     154.6          154.6          0.43   151.4  152.3
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.04          Milk and products                    7.72     153.3          153.5          5.33     153.4          153.5          6.61   153.3  153.5
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.05          Oils and fats                        4.21     138.2          140.1          2.81     132.9          133.5          3.56   136.3  137.7
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.06          Fruits                               2.88     143.2          146.9          2.90     151.8          154.7          2.89   147.2  150.5
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.07          Vegetables                           7.46     148.9          171.3          4.41     171.2          192.2          6.04   156.5  178.4
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.08          Pulses and products                  2.95     150.3          150.4          1.73     152.0          151.3          2.38   150.9  150.7
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.09          Sugar and Confectionery              1.70     113.2          114.2          0.97     116.3          116.8          1.36   114.2  115.1
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.10          Spices                               3.11     159.8          160.6          1.79     158.8          160.2          2.50   159.5  160.5
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.2.11          Non-alcoholic beverages              1.37     142.1          143.5          1.13     135.6          136.6          1.26   139.4  140.6
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  1.1.12          Prepared meals, snacks, sweets etc.  5.56     161.8          161.6          5.54     161.7          163.3          5.55   161.8  162.4
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+1                                                 Food and beverages                   54.18    152.3          155.8          36.29    157.0          159.9          45.86  154.0  157.3
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+2                                                 Pan, tobacco and intoxicants         3.26     182.4          184.2          1.36     186.7          189.3          2.38   183.5  185.6
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  3.1.01          Clothing                             6.32     154.7          155.3          4.72     149.1          150.2          5.58   152.5  153.3
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  3.1.02          Footwear                             1.04     150.0          149.5          0.85     136.6          135.4          0.95   144.4  143.6
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+3                                                 Clothing and footwear                7.36     154.1          154.5          5.57     147.2          147.9          6.53   151.4  151.9
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+4                                                 Housing                              -        -              -              21.67    154.7          155.5          10.07  154.7  155.5
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+5                                                 Fuel and light                       7.94     144.9          146.2          5.58     137.1          138.3          6.84   141.9  143.2
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  6.1.01          Household goods and services         3.75     151.7          152.2          3.87     140.4          144.8          3.80   146.4  148.7
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  6.1.02          Health                               6.83     158.2          158.6          4.81     148.1          148.8          5.89   154.4  154.9
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  6.1.03          Transport and communication          7.60     141.4          143.7          9.73     129.3          133.1          8.59   135.0  138.1
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  6.1.04          Recreation and amusement             1.37     153.2          153.0          2.04     144.5          144.4          1.68   148.3  148.2
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  6.1.05          Education                            3.46     161.8          162.4          5.62     152.5          156.6          4.46   156.4  159.0
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                  6.1.06          Personal care and effects            4.25     151.2          153.5          3.47     152.2          155.3          3.89   151.6  154.2
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+6                                                 Miscellaneous                        27.26    151.7          153.0          29.53    142.0          145.1          28.32  147.0  149.2
+                                                                                                                                                                                        
+                                                                                                                                                                                        
+                                                                                                                                                                          
+General Index (All Groups)        100.00          152.7                                155.1    100.00         150.8          153.1    100.00         151.8          154.2
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+Consumer Food Price Index (CFPI)  47.25           151.5                                155.5    29.62          156.9          160.2    39.06          153.4          157.2
+                                                                                                                                                                          
+                                                                                                                                                                          
+
+    Notes:
+
+     1. Prov. : Provisional.
+     2. CFPI : Out of 12 sub-groups contained in ‘Food and Beverages’ group, CFPI is based on ten sub-groups, excluding ‘Non-alcoholic beverages’ and ‘Prepared meals, snacks, sweets etc.’.
+     3. - : CPI (Rural) for housing is not compiled.
+
+    Annex II
+
+
+    All India year-on-year inflation rates (%) for July 2020 (Provisional)
+
+
+    (Base: 2012=100)
+
+                                                                                                                                      
+Group Code                  Sub-group Code  Description                          Rural          Urban    Combined                     
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                                                      
+Jul. 19 Index               Jul. 20         Inflation Rate                       Jul. 19 Index  Jul. 20  Inflation Rate  Jul. 19 Index  Jul. 20  Inflation Rate       
+(Final)                                     (%)                                  (Final)                 (%)             (Final)                 (%)                  
+                                                                                                                                                                      
+                            Index                                                               Index                                   Index                         
+                            (Prov.)                                                             (Prov.)                                 (Prov.)                       
+                                                                                                                                                                      
+                                                                                                                                                                      
+                                                                                                                                                                                      
+(1)                         (2)             (3)                                  (4)            (5)      (6)             (7)            (8)      (9)             (10)   (11)   (12)   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.01          Cereals and products                 138.4          147.8    6.79            141.4          151.6    7.21            139.3  149.0  6.96   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.02          Meat and fish                        164.0          190.8    16.34           160.2          198.0    23.60           162.7  193.3  18.81  
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.03          Egg                                  138.4          150.8    8.96            142.5          154.6    8.49            140.0  152.3  8.79   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.04          Milk and products                    143.9          153.5    6.67            144.1          153.5    6.52            144.0  153.5  6.60   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.05          Oils and fats                        124.4          140.1    12.62           119.3          133.5    11.90           122.5  137.7  12.41  
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.06          Fruits                               146.4          146.9    0.34            154.7          154.7    0.00            150.3  150.5  0.13   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.07          Vegetables                           150.1          171.3    14.12           180.1          192.2    6.72            160.3  178.4  11.29  
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.08          Pulses and products                  130.6          150.4    15.16           128.9          151.3    17.38           130.0  150.7  15.92  
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.09          Sugar and Confectionery              110.8          114.2    3.07            111.8          116.8    4.47            111.1  115.1  3.60   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.10          Spices                               141.7          160.6    13.34           141.6          160.2    13.14           141.7  160.5  13.27  
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.2.11          Non-alcoholic beverages              138.5          143.5    3.61            129.5          136.6    5.48            134.7  140.6  4.38   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            1.1.12          Prepared meals, snacks, sweets etc.  156.7          161.6    3.13            155.6          163.3    4.95            156.2  162.4  3.97   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+1                                           Food and beverages                   143.0          155.8    8.95            147.7          159.9    8.26            144.7  157.3  8.71   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+2                                           Pan, tobacco and intoxicants         164.5          184.2    11.98           167.2          189.3    13.22           165.2  185.6  12.35  
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            3.1.01          Clothing                             151.6          155.3    2.44            144.7          150.2    3.80            148.9  153.3  2.96   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            3.1.02          Footwear                             146.6          149.5    1.98            131.9          135.4    2.65            140.5  143.6  2.21   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+3                                           Clothing and footwear                150.9          154.5    2.39            142.7          147.9    3.64            147.6  151.9  2.91   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+4                                           Housing                              -              -        -               150.6          155.5    3.25            150.6  155.5  3.25   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+5                                           Fuel and light                       146.8          146.2    -0.41           127.0          138.3    8.90            139.3  143.2  2.80   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            6.1.01          Household goods and services         150.0          152.2    1.47            137.7          144.8    5.16            144.2  148.7  3.12   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            6.1.02          Health                               152.2          158.6    4.20            140.8          148.8    5.68            147.9  154.9  4.73   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            6.1.03          Transport and communication          131.2          143.7    9.53            120.6          133.1    10.36           125.6  138.1  9.95   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            6.1.04          Recreation and amusement             147.5          153.0    3.73            135.0          144.4    6.96            140.5  148.2  5.48   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            6.1.05          Education                            159.1          162.4    2.07            150.4          156.6    4.12            154.0  159.0  3.25   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                            6.1.06          Personal care and effects            136.1          153.5    12.78           135.1          155.3    14.95           135.7  154.2  13.63  
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+6                                           Miscellaneous                        144.2          153.0    6.10            134.5          145.1    7.88            139.5  149.2  6.95   
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                             
+General Index (All Groups)  144.9           155.1                                7.04           143.3    153.1           6.84           144.2    154.2           6.93        
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                                                
+Consumer Food Price Index   141.5           155.5                                9.89           146.9    160.2           9.05           143.4    157.2           9.62                           
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+
+    Notes:
+
+     1. Prov. : Provisional.
+     2. - : CPI (Rural) for housing is not compiled.
+
+    Annex III
+
+
+    State/UT wise General Consumer Price Indices
+
+
+    (Base: 2012=100)
+
+                                                                           
+Sl. No.    Name of the State/UT       Rural          Urban    Combined     
+                                                                           
+                                                                           
+                                                                                                                                 
+Weights    Jun. 20 Index              Jul. 20 Index  Weights  Jun. 20 Index  Jul. 20 Index  Weights  Jun. 20 Index  Jul. 20 Index
+           (Final)                    (Prov.)                 (Final)        (Prov.)                 (Final)        (Prov.)      
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                               
+(1)        (2)                        (3)            (4)      (5)            (6)            (7)      (8)            (9)            (10)   (11) 
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+1          Andhra Pradesh             5.40           155.7    156.0          3.64           154.8    157.9          4.58           155.4  156.7
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+2          Arunachal Pradesh          0.14           158.8    160.3          0.06           --       --             0.10           158.8  160.3
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+3          Assam                      2.63           164.8    163.8          0.79           157.0    161.4          1.77           163.2  163.3
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+4          Bihar                      8.21           149.0    151.2          1.62           149.5    152.6          5.14           149.1  151.4
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+5          Chhattisgarh               1.68           150.9    155.9          1.22           148.9    151.0          1.46           150.1  154.0
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+6          Delhi                      0.28           148.3    149.8          5.64           144.1    149.6          2.77           144.3  149.6
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+7          Goa                        0.14           159.8    163.3          0.25           149.9    152.7          0.19           153.7  156.8
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+8          Gujarat                    4.54           147.2    148.9          6.82           143.5    145.2          5.60           145.1  146.8
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+9          Haryana                    3.30           145.7    149.6          3.35           144.8    147.5          3.32           145.3  148.6
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+10         Himachal Pradesh           1.03           141.8    144.5          0.26           148.6    151.4          0.67           143.0  145.8
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+11         Jharkhand                  1.96           153.1    155.5          1.39           151.6    155.6          1.69           152.5  155.5
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+12         Karnataka                  5.09           156.5    157.7          6.81           158.0    158.9          5.89           157.3  158.3
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+13         Kerala                     5.50           162.3    164.0          3.46           157.5    160.5          4.55           160.6  162.8
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+14         Madhya Pradesh             4.93           149.1    152.6          3.97           151.6    155.2          4.48           150.1  153.7
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+15         Maharashtra                8.25           153.1    154.7          18.86          146.6    149.0          13.18          148.8  150.9
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+16         Manipur @                  0.23                                   0.12                                   0.18                       
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+17         Meghalaya                  0.28           150.3    150.4          0.15           148.8    150.3          0.22           149.8  150.4
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+18         Mizoram                    0.07           156.5    156.0          0.13           146.7    147.4          0.10           150.5  150.8
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+19         Nagaland @                 0.14                                   0.12                                   0.13                       
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+20         Odisha                     2.93           155.8    159.3          1.31           149.0    151.2          2.18           153.9  157.0
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+21         Punjab                     3.31           149.5    151.7          3.09           142.5    144.8          3.21           146.4  148.6
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+22         Rajasthan                  6.63           149.2    152.6          4.23           151.0    152.7          5.51           149.8  152.6
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+23         Sikkim                     0.06           161.9    163.1          0.03           152.4    155.9          0.05           158.8  160.8
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+24         Tamil Nadu                 5.55           158.9    159.9          9.20           156.5    158.3          7.25           157.5  159.0
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+25         Telangana                  3.16           155.0    157.4          4.41           154.4    156.4          3.74           154.7  156.9
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+26         Tripura                    0.35           169.8    174.1          0.14           156.9    157.2          0.25           166.5  169.7
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+27         Uttar Pradesh              14.83          148.8    152.3          9.54           151.0    153.3          12.37          149.6  152.7
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+28         Uttarakhand                1.06           151.8    153.5          0.73           148.0    149.2          0.91           150.4  151.9
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+29         West Bengal                6.99           153.4    157.8          7.20           158.2    158.2          7.09           155.7  158.0
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+30         Andaman & Nicobar Islands  0.05           167.8    164.9          0.07           150.0    155.0          0.06           158.7  159.9
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+31         Chandigarh                 0.02           150.6    153.9          0.34           144.4    146.3          0.17           144.8  146.7
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+32         Dadra & Nagar Haveli       0.02           144.4    146.4          0.04           146.3    148.7          0.03           145.7  147.9
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+33         Daman & Diu                0.02           156.4    158.2          0.02           151.4    150.2          0.02           154.3  154.9
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+34         Jammu & Kashmir*           1.14           158.8    158.9          0.72           155.7    158.4          0.94           157.7  158.7
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+35         Lakshadweep                0.01           164.8    169.0          0.01           157.7    157.5          0.01           161.2  163.1
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+36         Puducherry @               0.08                                   0.27                                   0.17                       
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                        
+All India  100.00                     152.7          155.1    100.00         150.8          153.1    100.00         151.8          154.2
+                                                                                                                                        
+                                                                                                                                        
+
+    Notes:
+
+     1. Prov. : Provisional.
+     2. @ : Indices of Nagaland, Manipur and Puducherry have not been released following the threshold criteria mentioned in para 2 of the press release.
+     3. -- : indicates the receipt of price schedules is less than 80% of allocated schedules and therefore indices are not compiled.
+     4. * : Figures of this row pertain to the prices and weights of the combined Union Territories of Jammu & Kashmir and Ladakh (erstwhile State of Jammu & Kashmir).
+
+    Annex IV
+
+
+    Major State/UT wise year-on-year inflation rates (%) for July 2020 (Provisional)
+
+
+    (Base: 2012=100)
+
+                                                                            
+Sl. No.        Name of the State/UT  Rural           Urban          Combined
+                                                                            
+                                                                            
+                                                                                                                                    
+Jul. 19 Index  Jul. 20               Inflation Rate  Jul. 19 Index  Jul. 20   Inflation Rate  Jul. 19 Index  Jul. 20  Inflation Rate
+(Final)                              (%)             (Final)                  (%)             (Final)                 (%)           
+                                                                                                                                    
+               Index                                                Index                                    Index                  
+               (Prov.)                                              (Prov.)                                  (Prov.)                
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                                  
+(1)            (2)                   (3)             (4)            (5)       (6)             (7)            (8)      (9)             (10)   (11) 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+1              Andhra Pradesh        143.9           156.0          8.41      144.8           157.9          9.05     144.2           156.7  8.67 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+2              Assam                 147.4           163.8          11.13     144.6           161.4          11.62    146.8           163.3  11.24
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+3              Bihar                 142.2           151.2          6.33      142.0           152.6          7.46     142.2           151.4  6.47 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+4              Chhattisgarh          142.6           155.9          9.33      144.1           151.0          4.79     143.2           154.0  7.54 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+5              Delhi                 146.7           149.8          2.11      144.3           149.6          3.67     144.4           149.6  3.60 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+6              Gujarat               141.4           148.9          5.30      138.3           145.2          4.99     139.6           146.8  5.16 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+7              Haryana               140.4           149.6          6.55      139.0           147.5          6.12     139.7           148.6  6.37 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+8              Himachal Pradesh      140.0           144.5          3.21      141.5           151.4          7.00     140.3           145.8  3.92 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+9              Jharkhand             145.9           155.5          6.58      144.3           155.6          7.83     145.3           155.5  7.02 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+10             Karnataka             148.6           157.7          6.12      151.1           158.9          5.16     149.9           158.3  5.60 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+11             Kerala                154.6           164.0          6.08      150.1           160.5          6.93     153.0           162.8  6.41 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+12             Madhya Pradesh        140.6           152.6          8.53      144.5           155.2          7.40     142.2           153.7  8.09 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+13             Maharashtra           145.5           154.7          6.32      138.9           149.0          7.27     141.1           150.9  6.95 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+14             Odisha                146.0           159.3          9.11      142.2           151.2          6.33     144.9           157.0  8.35 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+15             Punjab                143.4           151.7          5.79      136.7           144.8          5.93     140.4           148.6  5.84 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+16             Rajasthan             145.5           152.6          4.88      145.1           152.7          5.24     145.4           152.6  4.95 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+17             Tamil Nadu            149.1           159.9          7.24      148.0           158.3          6.96     148.5           159.0  7.07 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+18             Telangana             144.1           157.4          9.23      144.7           156.4          8.09     144.4           156.9  8.66 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+19             Uttar Pradesh         141.8           152.3          7.40      144.1           153.3          6.38     142.6           152.7  7.08 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+20             Uttarakhand           141.2           153.5          8.71      138.6           149.2          7.65     140.2           151.9  8.35 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+21             West Bengal           145.5           157.8          8.45      142.5           158.2          11.02    144.1           158.0  9.65 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
+22             Jammu & Kashmir*      151.7           158.9          4.75      147.2           158.4          7.61     150.1           158.7  5.73 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                           
+All India      144.9                 155.1           7.04           143.3     153.1           6.84           144.2    154.2           6.93 
+                                                                                                                                           
+                                                                                                                                           
+
+    Notes:
+
+     1. Prov. : Provisional.
+     2. * : Figures of this row pertain to the prices and weights of the combined Union Territories of Jammu & Kashmir and Ladakh (erstwhile State of Jammu & Kashmir).
+
+    *******
+
+
+    VRRK/VJ
+
+    
+    
+    (Release ID: 1645525) Visitor Counter : 627
+    
+    
+      Read this release in: Manipuri , Hindi , Tamil
+    
+    
+    
+
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+                                  
+2.

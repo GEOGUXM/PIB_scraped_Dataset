@@ -1,0 +1,32 @@
+      Ministry of Education
+
+      New Re-purposed Drugs & Methodology Identified by IIT Kharagpur Researchers to Treat Beta Thalassemia
+      Posted On: 14 FEB 2020 3:31PM by PIB Kolkata
+
+
+    Kolkata, February 14, 2020.
+
+
+    Researchers from the School of Medical Science & Technology (SMST) of IIT Kharagpur have identified new drug repurposing candidates for induction of fetal hemoglobin to treat B eta T halassemia patients
+
+
+    Blood disorders or hemoglobinopathies such as beta thalassemia and sickle cell anemia affect millions. Drug-induced increase in fetal hemoglobin has been shown to improve the condition of those affected with these blood disorders. But these drugs have side-effects. Scientists are exploring if ‘repurposed’ or existing drugs can be used to treat these disorders. To find out which drugs could be used for possible repurposing the researchers at the Regenerative Medicine Lab at School of Medical Science and Technology of IIT Kharagpur studied the working of microRNAs which regulate the pathways along which the production of fetal hemoglobin is stimulated.
+
+
+    The researchers observed Curcumin, found in turmeric, and Ginsenoside, found in the roots of Ginseng, both known for their medicinal properties, could go a long way in treating blood disorders like T halassemia and S ickle C ell A nemia. These two plant ingredients, together with approved drugs such as Valproate and Vorinostat were found to be ‘most suitable for future clinical trials’.
+
+
+    The researchers also studied how miRNAs work, how they regulate gene expressions and also which chemical molecules affect their expression pattern. The team at SMST used several bioinformatics tools to match differentially expressed miRNAs with differentially expressed genes (as found in publicly available datasets) and identify their pathways. The team has also devised a database called “miRwayDB” to provide comprehensive information of experimentally validated microRNA-pathway associations in various diseases. As many as 19 miRNAs were found to be differentially expressed in those who had high fetal hemoglobin levels in their blood. The team also identified some unique small molecules that strongly affected the expression of those 19 miRNAs.
+
+
+    Of the five molecules identified by the research, three – 5’-aza 2’-deoxycytidine, Valproate and Vorinostat – are commonly used to treat other diseases. For example, Valproate is used to treat seizure disorders in childhood and Vorinstat is an anticancer agent.
+
+
+    The study was conducted by Prof. Nishant Chakravorty, Head, Regenerative Medicine Lab, his student at SMST, Mr. Sankha Subhra Das, and Dr. Rashmi Sinha of IIT Kharagpur’s in-house medical facility B.C. Roy Technology Hospital and published in the “Gene” journal.
+
+
+    SSS
+
+    
+    
+    (Release ID: 1603194) Visitor Counter : 4

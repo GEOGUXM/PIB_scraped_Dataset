@@ -1,0 +1,29 @@
+      Ministry of Finance
+
+      Import data in GSTR-2A
+      Posted On: 29 AUG 2020 5:12PM by PIB Delhi
+
+
+    Two new tables have been inserted in GSTR-2A for displaying details of import of goods from overseas and inward supplies made from SEZ units / SEZ developers. Taxpayers can now view their bill of entries data which is received by the GST System (GSTN) from ICEGATE System (Customs). The present data upload has been done on a trial basis to give a feel of the functionality and to get feedback from the taxpayers on the same.
+
+
+    Currently, the system is displaying data up to 6 th August, 2020. Further, taxpayers may note that system is currently does not contain import information for bill of entries filed at non-computerized ports (non-EDI ports) and imports made through courier services/post office. This will be made available shortly.
+
+
+    It may also be noted that amendment information made in the details of bill of entries will also be provided soon.
+
+
+    Taxpayers are requested that they share their feedback through raising a ticket on the self-service portal ( https://selfservice.gstsystem.in/ )
+
+
+    ****
+
+
+    RM/KMN
+
+    
+    
+    (Release ID: 1649521) Visitor Counter : 887
+    
+    
+      Read this release in: Hindi , Tamil , Urdu , Marathi , Manipuri , Punjabi , Telugu

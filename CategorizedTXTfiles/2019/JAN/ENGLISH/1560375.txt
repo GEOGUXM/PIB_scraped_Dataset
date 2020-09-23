@@ -1,0 +1,202 @@
+      Vice President's Secretariat
+
+      If we wish to educate and empower our citizens, we have to remove the barriers which they face in accessing information: VP;
+      
+      Our languages which are a crucial part of who we are, our history and our evolution as a society, have to be protected and conserved: VP;
+      
+      Many of our ancient languages were on the verge of decay; when a language dies, it takes with it the history of an entire culture: VP;
+      
+      Machine translation holds great promise for the future and should be taken up as a National Mission: VP;
+      
+      Applauds the good work done by the team of ‘Saara’ on Natural Language Engineering and Machine Translation
+
+      Posted On: 17 JAN 2019 6:04PM by PIB Delhi
+
+    ‘Making information and knowledge available to people in their own languages and dialects becomes extremely important in a country that is as diverse, as complex and as multi lingual as India’, the Vice President of India Shri. M Venkaiah Naidu said today. He was addressing the gathering at the demonstration of the machine language translation software ‘Saara’ in Hyderabad today.
+
+
+    Shri. Naidu said that it is mandatory that we remove the barriers which people face to access information and technology if we wish to educate and empower our citizens. In this context, he highlighted the importance of translation initiatives likes ‘Saara’, reasoning that translation facilitates communication, exchange of ideas and information. ‘It enriches languages and literature and brings the world together’, he said.
+
+
+    In this context he lauded the central university of Hyderabad for coming out with SAARA and said it was a good beginning.
+
+
+    Talking about the importance of native languages, Shri Naidu opined that Promotion of mother tongue was vital for cultural advancement. He said softwares like SAARA help people aquire the best of translated versions.
+
+
+    Dwelling upon the efficiency and cost effectiveness of machine translation systems, the Vice President observed that machines were not static, that they were capable of adapting, evolving, learning new things, making their predictions and decision making much more accurate. ‘Machine translation holds great promise for the future’, he added.
+
+
+    Acknowledging the fact that developing high performance machine translation systems remains a big challenge to this date, the Vice President said that moving from laboratory models to practically usable and deployable systems has not been easy.
+
+
+    He appreciated the good work done by the team of ‘Saara’ on Natural Language Engineering in general and Machine Translation in particular in the University of Hyderabad. He also lauded the new approach to Machine Translation developed by the team which promised fast development of high performance translation systems.
+
+
+    Terming Artificial Intelligence, as the technology of the future, Shri Naidu congratulated the Saara team for the adoption of this cutting edge technology. He expressed hope that high quality translation systems will be developed for many language pairs over the next few years.
+
+
+    Speaking of the great linguistic diversity that existed in India in the form of more than 19,500 raw mother tongues, Shri. Naidu emphasized upon the importance of protecting and conserving India’s linguistic heritage. ‘Our languages are a crucial part of who we are, our history and our evolution as a society’, he added.
+
+
+    Lamenting that many of our ancient languages were on the verge of decay because of decades’ worth of stagnation, lack of innovation and failure to adapt and adopt new ideas and new vocabulary, Shri. Naidu said that when a language died, it took with it the history of an entire culture.
+
+
+    He suggested that instruction in schools could mandatorily be done in mother tongues. He also opined that Machine Translation should be taken up as a National Mission so that information can be made available to our people in their own languages and scripts on a priority basis.
+
+
+    ************
+
+
+    AKT/BK/MS/RK
+
+
+    The Following is the full text of the speech:
+
+
+    I am very happy to be here at the demonstration of the machine language translation software ‘Saara’ .
+
+
+    It is said that here are some 7000 living languages in the world today.
+
+
+    Census 2011 says that there are a total of 121 languages spoken by more than 10,000 people each, in India.
+
+
+    Linguistic diversity is thus very much part of our lives.
+
+
+    It is true that Internet is a truly an unlimited source of interesting, important and useful information that can be accessed free of cost.
+
+
+    But it is also true that all this information is not available for consumption to people in a language of their choice.
+
+
+    I understand that making information and knowledge available to people in their own languages and scripts is the noble vision and mission that inspired the creation of ‘Saara’ .
+
+
+    Making information available in all Indian languages and dialects becomes extremely important in a country that is as diverse, as complex and as multi lingual as India.
+
+
+    According to one estimate the number of English speakers in India at 10 percent of the population, nearly 125 Million.
+
+
+    Most of the Information available online is in English. If we wish to educate and empower our citizens, it is mandatory that we remove the barriers which they face to access information and technology.
+
+
+    It is not easy to learn a new language, nor is it possible to create all the required information in all languages from scratch.
+
+
+    At this point in time, translation is the most efficient and perhaps the only practical way of making information available to people in the language of their choice.
+
+
+    Translation facilitates communication, exchange of ideas and information. It enriches languages and literature and brings the world together.
+
+
+    Good translation is not an easy task. Expert translators are not always readily available. Translation requires time, effort and money.
+
+
+    Machine Translation, involving the translation of texts with the help of computers, I am told, can save time, effort and hence money.
+
+
+    Also, copies of the translation software can be easily made and deployed on many machines, thereby multiplying the translation capabilities. Computers are becoming faster by the day and costs keep coming down too.
+
+
+    Machines are not static, they adapt and evolve. They keep learning new things and adding to their repository of knowledge. Robust modern machine learning systems have made predictions and decision making by machines much more accurate.
+
+
+    Recently, Google unveiled a new ‘Interpreter Mode’ in ‘Google Assistant’, its Artificial intelligence based virtual Assistant capable of voice recognition. Google Assistant is now capable of real time language translation between two people who are having a conversation. The feature is said to support 27 languages including Hindi.
+
+
+    Thus, machine translation holds great promise for the future.
+
+
+    Translation requires proper understanding of the meaning of words and sentences. Words can have multiple meanings and one has to choose the right meaning for proper translation.
+
+
+    For example, the word 'capital', may mean capital city, financial capital, capital punishment, capital letter etc. depending upon the context.
+
+
+    Unfortunately computers do not have capabilities of commonsense and discernment like humans and machine translation is therefore a challenging task.
+
+
+    If the translations produced by the machine can be understood easily and correctly, then it is possible to do some amount of manual post-editing, fixing the errors and improving the style.
+
+
+    However, I have learnt that the quality of translations produced by many machine translation systems is often poor and that post-editing is not always practical.
+
+
+    I understand that many techniques have been developed over the decades in India, including Rule Based or Linguistic Approaches and Data Driven Approaches such as Statistical Machine Translation and Neural Machine Translation.
+
+
+    Nonetheless, developing high performance machine translation systems remains a big challenge.
+
+
+    In India, several major projects have been taken up over the last three decades to develop Machine Translation systems between various pairs of languages.
+
+
+    However, moving from laboratory models to practically usable and deployable systems has not been easy.
+
+
+    It is heartening to note that a team of ‘Saara’ has been working at University of Hyderabad on Natural Language Engineering in general and Machine Translation in particular, for nearly three decades.
+
+
+    I am told that they have developed a new approach to Machine Translation, named 'saara', meaning ‘essence’, ‘saar’ in Hindi, ‘saaramu’ in Telugu, which promises fast development of high performance translation systems.
+
+
+    I am told that the Saara translation systems are not fully automatic - a small amount of human effort is required. However, we can get high quality translations quickly in a cost effective manner.
+
+
+    I understand that overall, the time and effort required is much lesser than complete manual translation.
+
+
+    I am happy to know that a technology demonstrator, a system for translating from Kannada to Telugu has been developed and that a full length book has been translated, post-edited and published.
+
+
+    Artificial Intelligence, AI as it is popularly called is said to be the technology of the future. I applaud the inclusion of this cutting edge technology in Saara.
+
+
+    I understand that the systems are web based and users can use them from anywhere, anytime.
+
+
+    Hopefully, high quality translation systems will be developed for many language pairs over the next few years. Linguistic expertise is not essential; anybody who knows two languages well can contribute and also benefit from these systems.
+
+
+    More than 19,500 languages or dialects are spoken in India as raw mother tongues; according to the latest analysis of the census.
+
+
+    However, 96.71 per cent population in the country have one of the 22 scheduled languages as their mother tongue.
+
+
+    I have always emphasized upon the importance of protecting and conserving our linguistic heritage. Our languages are a crucial part of who we are, our history, our culture and our evolution as a society.
+
+
+    I understand that many of our ancient languages are on the verge of decay because of decade’s worth of stagnation, lack of innovation and failure to adapt and adopt new ideas and new vocabulary.
+
+
+    Studies by experts estimate that almost 600 languages are on the verge of death and that more than 250 languages have died in the past 60 years.
+
+
+    When a language dies, it takes with it an entire culture system. We simply cannot let that happen. Protecting our cultural heritage, including languages is our constitutionally mandated duty.
+
+
+    I have always felt that instruction in schools must happen in mother tongues. A child should learn its mother tongue well even while picking up other languages.
+
+
+    Translation initiatives like Saara will also help to enrich languages and literature and bring a new life to fading languages.
+
+
+    Machine Translation should be taken up as a National Mission so that information can be made available to our people in their own languages and scripts on a priority basis.
+
+
+    I wish the team behind the development and deployment of ‘Saara’ all the very best.
+
+
+    May your hard work lend a new life to the beloved languages of India.
+
+
+    Jai Hind!
+
+    
+    
+    (Release ID: 1560375) Visitor Counter : 897

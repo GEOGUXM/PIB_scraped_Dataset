@@ -1,0 +1,62 @@
+      Ministry of Home Affairs
+
+      Strengthening Disaster Management
+      Posted On: 14 MAR 2017 5:47PM by PIB Delhi
+
+
+      National Disaster Management Plan (NDMP) defines the roles and responsibilities of various stake holders including Central Ministries/ Departments, State Governments, UT Administrations, District Authorities and local self Governments. NDMP enjoins all stakeholders to develop detailed plans in accordance with roles and responsibilities. Implementation of the plan is a continuous process.
+
+      
+      As a matter of policy, the Government of India does not issue any appeal for foreign assistance in the wake of a disaster. However, if the national Government of another country voluntarily offers assistance as a goodwill gesture in solidarity with the disaster victims, the Central Government may accept the offer. In the case of an offer of assistance from UN Agencies, India will accept the offer only if the Government considers it necessary, based on various factors.
+      
+      Primary responsibility of disaster management rests with the States. The Central Government conducts regular mock drill, community training and awareness programme to prepare the civilian populations for disasters. About 4.5 lakh and 7.7 lakh civilian were trained by National Disaster Response Force during 2015 and 2016 respectively.
+      
+      The details of leveraging various technologies to enhance the efficiency of the disaster risk management efforts by the NDMA are as under:
+      
+      (a) National Disaster Management Services (NDMS) :
+      
+      National Disaster Management Services (NDMS) was conceived by NDMA during the Financial Year 2015-16 for setting up of Very Small Aperture Terminal (VSAT) Network connecting MHA, NDMA, NDRF, 36 State/ UT HQrs and 81 vulnerable districts (total 120 locations). The estimated cost of the project is Rs.19.54 Crore. The project is under implementation through BSNL. The scope of the Pilot Project is to provide the failsafe communication infrastructure and technical support for Emergency Operation Centre (EOC) operations across the country, as stated above. The NDMS Pilot Project envisages holding of workshops & imparting of training for the Capacity Building of disaster managers on usage of Communication equipments covered in the project.
+      
+      (b) Earthquake Disaster Risk Indexing (EDRI) :
+      
+      (i) NDMA has taken an initiative on Earthquake Disaster Risk Indexing (EDRI) for 50 important cities and 1 District in Seismic Zone IV & V areas. As part of this, after due consultation with various experts and stakeholders, the work has been awarded to International Institute of Information Technology (IIIT), Hyderabad, at a cost of Rs. 45.87 lakh with completion period of 18 months. This kind of indexing will be helpful for the administrative bodies in comparing the overall risk across large number of cities or region and also in prioritization of cities to implement appropriate disaster mitigation measures.
+      
+      (ii) NDMA through Building Materials & Technology Promotion Council (BMTPC) has prepared Upgraded Earthquake Hazard Maps and Atlases for the country upto district level with sub-district boundary showing major faults, earthquake zones, epicenter of past earthquakes of magnitude of 5 and above indicating State boundary, district boundary, and district names. The BMTPC has executed the project in close collaboration with the inputs from various institutions/organizations and NDMA.
+      
+      Uses of these Maps and Atlases:
+      
+
+      • Land Use Zoning and better habitat planning
+
+
+      • Useful for leaders and policy makers, engineers, architects, disaster management professionals etc.
+
+
+      • Formulation of Public & Financial Policies dealing with DM and Emergency Planning
+
+
+      • An aid for setting up techno-legal framework.
+
+
+      • Useful for Insurance Agencies
+
+
+      • At the sub-district level shall be useful in preparing DPRs to be taken up under the Smart Cities Projects and various projects under the Housing for All (Urban) Mission of Pradhan Mantri Awas Yojana etc.
+
+
+      • The concerned authorities may identify the districts requiring priority action in future planning, formulating integrated mitigating policies covering awareness, education and training, preventive and preparedness measures, improvement in warning systems.
+
+      (c) Geographical Information System (GIS) :
+      
+      Leveraging the technology of GIS, NDMA have taken up a project for disaster risk management by establishing GIS Server and creation of database. The Project has been sanctioned on 1.1.2016. Duration of the Project is 24 months. Objective of the project is to integrate data obtained from various stakeholders on GIS platform to increase disaster preparedness, mitigation, damage assessment, response and relief management efforts. The Project envisages procurement of software and hardware, engagement of manpower, creation of data Inventory related to disaster management, integration of various other database system, development of Android Application for the responders, creation of applications and customization tools for better assessment of disaster scenario and creation of Decision Support System for the responders and decision makers etc.
+      
+      NDMA has undertaken 550 Mock Exercises across the Country to build the local capacity and sensitize people. Further, under the “National School Safety Programme (NSSP), 8600 schools (with 200 schools in 43 districts in 22 States/UTs falling seismic zones IV and V) have been selected for providing training on school safety and disaster preparedness. The Aapdamitra scheme of NDMA has provision for training 6000 community volunteers in disaster response in 30 most flood prone districts (200 volunteers per district) in 25 States. The project on sustainable reduction in disaster risk of NDMA will help to strengthen community and local self Governments preparedness and response to disasters in 10 most multi-hazard vulnerable districts in Assam, Bihar, Himachal Pradesh, Jammu & Kashmir and Uttarakhand.
+      
+      This was stated by the Minister of State for Home Affairs, Shri Kiren Rijiju in a written reply to question by Dr. Virendra Kumar, Shri E.T. Mohammed Basheer, Shri M.K. Raghavan and Shri Maheish Girri in the Lok Sabha today.
+      
+      *****
+      
+      KSD/NK/PK/RS-2002
+    
+    
+    (Release ID: 1484315) Visitor Counter : 30

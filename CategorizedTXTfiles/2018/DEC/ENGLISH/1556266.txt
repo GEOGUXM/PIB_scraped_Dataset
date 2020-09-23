@@ -1,0 +1,23 @@
+      Ministry of Railways
+
+      Payment Gateways of IRCTC Mobile App
+      Posted On: 17 DEC 2018 6:08PM by PIB Delhi
+
+
+    Booking of Railway reserved tickets through Indian Railway Catering and Tourism Corporation (IRCTC) mobile app can be made using various payment modes enabled by Government or private banks through Multiple Payment Providers. Presently, there are five Multiple Payment Providers integrated on IRCTC mobile app.
+
+
+    The Government payment gateways that are enabled for booking tickets through IRCTC mobile app are netbanking, debit cards, credit cards and Unified Payments Interface (UPI)/ Bharat Interface for Money (BHIM). All these payment gateways are provided by five Multiple Payment Providers integrated on IRCTC Mobile App. IRCTC has issued guidelines for integration of the payment providers who are authorized to provide payment gateways as per the extant instructions issued by Reserve Bank of India (RBI)/ and other competent authorities from time to time. Any Government or private bank or payment gateway facilitator following the terms and conditions of the IRCTC guidelines can be integrated on IRCTC mobile app.
+
+
+    This information was given in a written reply to a question in Rajya Sabha.
+
+
+    ****
+
+
+    SVS/MKV/ENS
+
+    
+    
+    (Release ID: 1556266) Visitor Counter : 473

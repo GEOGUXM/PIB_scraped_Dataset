@@ -1,0 +1,33 @@
+      Ministry of Finance
+
+      Exporters advised to file Table 6A and GSTR 3B for processing of IGST Refund and for Refund of the unutilized Input Tax Credit;
+      
+      Errors by exporters while filing their returns are the sole reason for delay in grant of refunds or rejection thereof;
+      
+      The Government of India has taken various measures to alleviate difficulty and is fully committed to provide Speedy disbursal of Refunds due to exporters.
+
+      Posted On: 29 NOV 2017 12:07PM by PIB Delhi
+
+    The Government of India is seized of the issue of Exporters complaining about delay in grant of refunds pertaining to Integrated Goods and Services Tax (IGST) paid on goods exported out of India and similarly Input Tax credit (ITC) on exports. Media reports with incorrect estimations of refund amounts held-up for the period July to October 2017 have been noticed. It is clarified that the quantum of IGST refund claims as filed through Shipping Bills during the period July to October 2017, is approximately Rs. 6,500 crore and the quantum of refund of unutilized credit on inputs or input services, as per the RFD 01A applications filed on GSTN portal, is to the tune of Rs. 30 crore.
+
+
+    With regard to IGST paid on goods exported out of India, majority of refund claims for exports made in July, 2017, wherever due, have been sanctioned. Refund claims of IGST paid for exports made in August, September and October 2017 are being sanctioned seamlessly wherever returns have been accurately filed. The prerequisites for sanction of refund of IGST paid are filing of GSTR 3 B and table 6A of GSTR 1 on the GSTN portal and Shipping Bill(s) on Customs EDI System by the exporter. It is essential that exporters should ensure that there is no discrepancy in the information furnished in Table 6A of GSTR 1 and the Shipping Bill. It has been observed that certain common errors such as incorrect Shipping Bill number in GSTR1, mis-match of invoice number and IGST amount paid, wrong bank account etc. are being committed by exporters while filing their returns. These errors are the sole reason for delay in grant of refunds, or rejection thereof. While information has been made available to Exporters on the ICEGATE portal if they are registered, they may also contact jurisdictional Customs authorities to check the errors they have committed in furnishing information in GST returns and Shipping Bill, and rectify them at the earliest.
+
+
+    As the Customs System is designed to automatically grant refunds without involvement of any officer by matching information that is furnished on GSTN portal and Customs system, the onus is on the exporters to fill in all the details accurately. Exporters may,therefore, take due precaution to ensure that no errors creep in while filing Table 6A of GSTR 1 of August 2017 and onwards. The facility for filing GSTR 1 for August 2017 would also be ready by 4th December 2017. In case of wrong entries made in July, Table 9 of GSTR 1 of August month would allow amendments to GSTR 1 of July 2017.
+
+
+    As far as refund of the unutilized Input Tax Credit on inputs or input services used in making exports is concerned, exporters shall file an application in FORM GST RFD- 01A on the Common Portal where the amount claimed as refund shall get debited from the Electronic Credit Ledger of the exporter to the extent of the claim. Thereafter, a proof of debit (ARN- Acknowledgement Receipt Number) shall be generated on the GSTN portal, which is to be mentioned on the print-out of the FORM GST RFD-01A and to be submitted manually to the jurisdictional officer. The exporters may ensure that all the necessary documentary evidences are submitted along with the Form GST RFD 01A for timely sanction of refund.
+
+
+    Exporters are, therefore, advised to immediately file (a) Table 6A and GSTR 3B, if not already done, for processing of IGST refund (b) RFD 01A on GSTN portal for refund of the unutilized input tax credit on inputs or input services used in making exports and (c) GSTR 1 for August 2017 for amending details provided in July GSTR1 wherever required. The Government has taken various measures to alleviate the difficulty and is fully committed to provide speedy disbursal of refunds due to exporters.
+
+
+    *****
+
+
+    DSM/SBS/KA
+
+    
+    
+    (Release ID: 1511186) Visitor Counter : 246

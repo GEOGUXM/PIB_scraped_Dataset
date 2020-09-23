@@ -1,0 +1,144 @@
+      Ministry of Railways
+
+      Modernization of Ticketing System in Railways
+      Posted On: 14 MAR 2018 5:25PM by PIB Delhi
+
+
+    Indian Railways provide computerized PRS (Passenger Reservation System) and UTS (Unreserved Ticketing System) counters at various locations. In addition to ticket counters, reserved tickets can be booked online and through Mobile App. Similarly, unreserved tickets can be booked through Automatic Ticket Vending Machines, Mobile phone as well as ticket booking counters. Indian Railways have also authorized following ticketing agents to issue Railway tickets:
+
+
+    i. Jan Sadharan Ticket Booking Sewaks (JTBS) to issue unreserved tickets in various parts of important cities.
+
+
+    ii. Yatri Ticket Suvidha Kendra (YTSK) licencee to issue reserved as well as unreserved tickets through computerised Passenger Reservation System (PRS)-cum- Unreserved Ticketing System (UTS) terminals provided in their premises.
+
+
+    iii. Station Ticket Booking Agents (STBA) to issue unreserved tickets from station premises of certain ‘E’ category stations.
+
+
+    iv. Rail Travellers’ Service Agents (RTSAs) to book tickets online (both i and e-tickets) through website of Indian Railway Catering & Tourism Corporation (IRCTC).
+
+
+    v. E-ticketing agents authorised by IRCTC to book e-tickets through website of IRCTC.
+
+
+    vi. Facilitators, who are retired Railway personnel, to issue unreserved tickets to the general public through Automatic Ticket Vending Machines (ATVMs).
+
+
+    Aforesaid steps have been taken for improving the ticketing system further and to facilitating hassle-free issuing of tickets to passengers. During the checks, instances of attempt to misuse reservation system do come to notice particularly during peak rush periods. With a view to keeping a check on the activities of unscrupulous elements including touts and unauthorised ticketing agents and to making general public aware of the implication of purchasing tickets from unscrupulous elements various steps have been taken which include streamlining of reservation system, making it more transparent, imparting information relating to availability of current status of reservation, increased digitization, conducting checks etc., the details of which are as follows:
+
+
+    i. Restriction on agents on booking of tickets during first thirty minutes of opening of Advance Reservation Period (ARP) booking and Tatkal booking.
+
+
+    ii. Condition of carrying one of the prescribed proofs of identity in original during journey by any one of the passengers booked on the ticket.
+
+
+    iii. Automatic preparation of reservation charts at least 4 hours before scheduled departure of train and thereafter booking of available accommodation through internet as well as through computerized Passenger Reservation System (PRS) counters.
+
+
+    iv. Making provision in the PRS system to transfer vacant available accommodation after preparation of second reservation chart to next remote location.
+
+
+    v. Introduction of Alternate Train Accommodation Scheme (ATAS) known as ‘VIKALP’ for providing confirmed accommodation to waitlisted passengers and also to ensure optimal utilization of available accommodation.
+
+
+    vi. Modification of Railway Passengers (Cancellation of Ticket and Refund of Fare) Rules to discourage speculative booking of tickets.
+
+
+    vii. Provision of CCTVs at important PRS locations.
+
+
+    viii. Only one booking in one user login session except for return/ onward journey between 0800 and 1200 hours.
+
+
+    ix. Provision of CAPTCHA in the booking page of e-ticket/i-ticket on the IRCTC website to check use of scripting tools by unscrupulous elements for cornering of tickets.
+
+
+    x. Introduction of a time check of 35 seconds for completion of online booking of tickets to avoid misuse through use of scripting software.
+
+
+    xi. Making One Time Password (OTP) mandatory for payment of tickets booked online.
+
+
+    xii. Conducting joint as well as independent checks by Commercial, Vigilance & Security Departments to curb the activities of touts.
+
+
+    xiii. Touts so apprehended taken up as per provisions of Law.
+
+
+    xiv. Intensification of checks during peak rush and festival periods. Touts and unauthorized vendors apprehended and prosecuted as per provision of section 143 & 144 of the Railways Act, 1989.
+
+
+    xv. Supplementing checks conducted at Reservation Offices by checks on the train to detect the cases of transferred reserved tickets i.e. persons found travelling fraudulently against accommodation actually reserved in the name of another passenger.
+
+
+    xvi. Conducting checks in booking offices, reservation offices, trains etc. to curb malpractices by Railway staff in connivance with touts. Stringent action taken against the railway staff under Disciplinary and Appeal Rules, if found indulging in malpractices.
+
+
+    xvii. Deployment of RPF staff at important Passenger Reservation System (PRS) Centers to prevent touting activities.
+
+
+    xviii. Surveillance is kept on the possible activities of touts and unauthorised vendors through Close Circuit Television Cameras installed at important Railway Stations.
+
+
+    xix. Taking action against illegal users of online e-ticketing under provision of section 143 of Railways Act, 1989.
+
+
+    xx. Educating general public through Public Address System and media, not to buy tickets from touts/unscrupulous elements and consequences of buying tickets from these sources.
+
+
+    xxi. Installation of Point of Sale (POS) machines in association with State Bank of India at various locations of Indian Railways i.e. PRS locations, UTS locations, Parcel/Goods locations.
+
+
+    xxii. Withdrawal of service charges applicable on transactions against credit/debit cards for purchasing journey tickets at Unreserved Ticketing System (UTS)/ Passenger Reservation System (PRS) counters.
+
+
+    xxiii. Acceptance of international Credit/ Debit cards issued outside India for booking of e-tickets through IRCTC website.
+
+
+    xxiv. Informing passengers about change in their reservation status in the case of Waiting list/RAC to confirmed, cancellation of trains, delayed running of train for more than one hour through SMS.
+
+
+    xxv. Granting of refund automatically to e-ticket holders in the case of cancellation of trains.
+
+
+    xxvi. Provision of facility of cancellation of confirmed/RAC/ waitlisted PRS counter tickets through IRCTC website (www.irctc.co.in) or through 139.
+
+
+    Whenever any case of irregularity committed by authorized ticketing agent comes to notice, suitable action as per provision of the agreement/rule is taken. Such instances generally occur during peak rush period when demand exceeds supply.
+
+
+    Indian Railways have taken various steps with a view to modernising the ticketing process like launching of Next Generation e-ticketing system with increased server capacity, implementation of multi layer security comprising Frontend and Backend Firewall, Web Application Firewall etc. Further, for promoting booking of e-ticket various steps have been taken viz. acceptance of various cashless modes of payment such as net banking, credit debit cards, cash cards and e-wallets; withdrawal of service charge on online booking of tickets from 23.11.2016 (till 31.03.2018), acceptance of Short Message Service sent by IRCTC and screen shot of e-ticket displayed through laptops/palmtops/mobile phones in lieu of Electronic Reservation Slip for travel on trains.
+
+
+    Further, following works have been sanctioned for modernization of ticketing system:
+
+
+      * Modernization of Passenger Reservation System has been sanctioned at a cost of ₹ 109.44 crores in 2017-18. It will facilitate capability to handle higher number of transactions per second.
+
+      * Modernisation of Unreserved Ticketing System has been sanctioned at a cost of ₹ 180.94 crores in 2017-18. It will cater to the growth in future in terms of number of transactions, terminals and locations. The existing hardware which has reached end of life will be replaced with latest technology equipments.
+
+    However, upgradation/modernisation of ticketing system is a continuous and ongoing process.
+
+
+    This information was given by the Minister of State of Railways Shri Rajen Gohain in a written reply to a question in Lok Sabha today.
+
+
+    .****
+
+
+    SBS/MKV/DK
+
+
+    
+
+    
+    (Release ID: 1524357) Visitor Counter : 344
+    
+    
+    
+    
+    
+
+*

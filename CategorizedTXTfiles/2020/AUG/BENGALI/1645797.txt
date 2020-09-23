@@ -1,0 +1,32 @@
+      Ministry of Education
+
+      IIT Kharagpur Develops e-Classroom software for India academia – DEEKSHAK
+      Posted On: 14 AUG 2020 5:01PM by PIB Kolkata
+
+
+    Kolkata, 14 August, 2020
+
+
+    Researchers at IIT Kharagpur have pioneered in developing e-classroom software, DEEKSHAK for helping online classes. In the midst of COVID-19 lockdown and social distancing, the educational institutions across the world have shifted to electronic or online mode. Meeting software is now popularly used for online classes. But the users are frequently experiencing challenges with regard to the security issues and more importantly, operational requirements of an electronic classroom which is significantly different from a corporate meeting.
+
+
+    A team of researchers from IIT Kharagpur have developed a solution, an online synchronous e-teaching platform that primarily uses one way communication for bandwidth efficiency. The focus, hence instead of being, all students participating in a class as in meeting software, is on the teacher and the learning materials. Prof. Raja Datta of Electronics and Electrical Communication Department with his postgraduate students developed the software, the current version of which can be used within a campus LAN. Talking about DEEKSHAK , he said, “It is now a single session platform where the teacher would concentrate on the screen with the teaching materials while being able to view the queries on a live chat box where each student can send in their queries. Students also have access to a doubt box where they can click to “raise their hand” and wait for the teacher to address it, as is done in a physical classroom. Teachers can also share the documents with the students through the platform and even update notes on the documents in real-time.”
+
+
+    Deekshak is low bandwidth web-based software and can be accessed using any computer or even a cell phone. Teachers can also record attendance of the students on the platform. The software has been tested at IIT Kharagpur during the initial phase of social distancing with about 40 hours of classes being conducted with a total of approximately 300 students.
+
+
+    Director, IIT Kharagpur, Prof. Virendra K Tewari said, “We need platforms addressing challenges faced by India and Deekshak is designed to cater to the Indian academia, be it the bandwidth issue, or user interface or storage. We are the leaders in ICT and should find affordable solutions with social and commercial value. This is one clear goal I have set for IIT Kharagpur. DEEKSHAK is one step towards that goal through which the teachers would be able to offer more personalised interaction while focusing better on the act of teaching.”
+
+
+    IIT Kharagpur has applied for the copyright registration of DEEKSHAK and is in search of a start-up company for its maintainability. Further, the development of DEEKSHAK is also underway to improve its features and make it secure so that it can be made available for use in academia, confirmed Prof. Datta.
+
+
+    SSS
+
+    
+    
+    (Release ID: 1645797) Visitor Counter : 1
+    
+    
+      Read this release in: Bengali

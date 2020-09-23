@@ -1,0 +1,229 @@
+      Ministry of Railways
+
+      Ministry of Railways is fully geared for the roll out of GST w.e.f. 1st July, 2017.
+      Exemptions granted from the levy of GST in respect of Passengers travelling in Second class, Metro, Sleeper Class.
+      Exemption granted from the levy of GST in respect of Standard Meal Items in Mail/Express trains & at static units on stations w.e.f 1st July,2017
+      Exemption from levy of GST granted in respect of Transportation by Rail of Agricultural Produce, relief materials, milk, salt, food grain including flours, pulses and rice, railway equipment and materials, defence and military equipments,
+      Catering charges of Standard Meal Items in Mail/Express trains & at static units on stations will not change even after 1st July,2017
+      Catering charges of Rail Neer will also remain unchanged w.e.f 1st July,2017
+
+      Posted On: 30 JUN 2017 9:17PM by PIB Delhi
+
+    Ministry of Railways is fully geared for the roll out of GST w.e.f. 1st July, 2017.The Indian Railway is the national carrier and undertakes billions of transactions annually for transportation of passengers and goods. A mammoth exercise has been undertaken to modify the ERP system of IR for issue of Passenger Tickets and Freight Invoices to capture GST related details. Similar exercise has been undertaken for non computerised services like way leave charges, parcels etc. Thus on 1st July 2017, all Railway tickets and invoices issued will be GST compliant.
+
+
+    Railways are conscious of the need to minimize burden on our passengers. GST is restricted to 5% (in place of service tax of 4.5% levied earlier i.e. an increase of only 0.5%) for passengers travelling by rail only in First class and air-conditioned coaches. Similarly, GST on Transport of goods by rail will be 5% (in place of service tax of 4.5% levied earlier i.e. an increase of only 0.5%) with exemption for essential goods like Milk and agriculture produce.
+
+
+    Given the public utility service rendered by Ministry of Railways, some exemptions and relief in the transportation of passenger, catering & Goods services have been given which are mentioned briefly below:
+
+
+    a) Exemptions have been granted from the levy of GST in respect of Passengers travelling in Second class, Metro, Sleeper Class, Transportation by Rail of Agricultural Produce, relief materials, milk, salt, food grain including flours, pulses and rice, railway equipment and materials, defence and military equipments, etc.
+
+
+    b) Exemptions have been granted in respect of
+
+
+    · Services of leasing of assets (rolling stock assets including wagons, coaches, locos) by Indian Railways Finance Corporation to Indian Railways ;
+
+
+    · Inter-state movement of trains between stations/ workshops/ sheds/ depots, etc., for the purpose of :
+
+
+    (1) Carrying goods or passengers or both; or
+
+
+    (2) For repairs and maintenance;
+
+
+    Ministry of Railway has initiated process of Registration in each State/UT. Provisional GSTIN numbers of Ministry of Railways in each State/UT are already notified. In each State/UT, General Manager of a Zonal Railway has been nominated as the Principal Officer for taking care of GST compliance;
+
+
+    A series of detailed instructions have been issued to all Zonal Railways and Production Units to ensure full compliance with GST, and several workshops were organized for dissemination of rules, procedures and training of officers and staff. The entire instruction chain has been made available at website of MoR at
+
+
+    http://www.indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,304,366,498,1856
+
+
+    For off-line transaction, an utility has been created by Railways ERP manager, Centre for Rail Information System, to capture the transaction and facilitate submission of periodical returns in the GSTN portal.
+
+
+    The Railways engaged consultants to guide the railways for transitional strategy and impact analysis.
+
+
+    A GST Suvidha Provider is also being engaged to enable transmission of data of millions of Railway Transactions on to the GSTN and for submission of GST Returns thereof.
+
+
+    CRIS, the IT arm of Indian Railways has been geared up to make suitable software modifications in respect of transportation of freight & passengers. Other softwares relating to accounts and stores are also being modified.
+
+
+    The impact of GST on different segments is detailed below:
+
+
+    Passenger segment
+
+
+    ● It has been decided to levy Goods & Services Tax (GST) in place of service tax including cess on transportation of passengers by rail.
+
+
+    ● GST will be levied on the fare of passenger services in place of service tax (including cess) on the following classes:-
+
+
+    (i) AC first class (ii) Executive class (iii) AC-2 tier class (iv) AC-3 tier (v) AC chair car class (vi) AC economy class (vii) First class (viii) AC and first classes coaches of special trains/coaches on FTR (ix) All other type of first class and AC class coaches if any:-
+
+
+    ● The rate of GST shall be 5% on total fares. (in place of 4.5% service tax levied earlier i.e. an increase of 0.5% only)
+
+
+    ● On concessional tickets GST shall be levied at the prescribed rate on total actual fare collected after concession/rebate.
+
+
+    (i) In case of combined return journey tickets for AC & first class tickets, separate tickets for onward journey and return journey ticket may be issued in all cases whether for UTS tickets or for PRS tickets. However, for suburban UTS tickets for which journey originating/ terminating station is within the same state/same UTs issue of combined return journey ticket over suburban section shall continue.
+
+
+    (ii) Circular journey tickets for AC & first class tickets shall be discontinued w.e.f. 01.07.2017.
+
+
+    (iii) Issue of AC Class tickets from UTS counter shall be discontinued w.e.f. 01.07.2017.
+
+
+    (iv) Issue of cluster tickets from PRS for AC & first class tickets shall be discontinued w.e.f. 01.07.2017. However, issue of cluster ticket in UTS shall continue.
+
+
+    (v) In any other case if combined ticket are issued except season ticket the same will be discontinued and only point to point tickets will be issued in AC classes and First classes as proposed above.
+
+
+    ● In case tickets were booked in advance along with service tax for journeys to commence on or after date of implementation of GST, the Goods & Service Tax difference of fare shall not be collected on the tickets booked in advance. The new GST shall be applicable on tickets issued on or after 01.07.2017.
+
+
+    ---------------------------------------------------------------------------------------------------------
+
+
+    Catering Segment
+
+
+    ● The chargeable GST on catering services on railways is as under:-
+
+
+    (i) For static units not having facility of air conditioning or central heating at any time during the year- 12% with full Input Tax Credit (ITC)
+
+
+    (ii) For Static units having facility of air conditioning or central heating at any time during the year- 18% with full Input Tax Credit (ITC)
+
+
+    (iii) For Rajdhani/Shatabdi/Duronto and other Mail/Express trains-18% with full Input Tax Credit (ITC)
+
+
+    (iv) GST on catering services of other premium trains like Tejas, Gatiman, Shivalik etc. shall be levied @ 18%.
+
+
+    ● The above GST on catering charges is applicable w.e.f. 01.07.2017.
+
+
+    ● The impact of new GST regime on catering will be as given below:
+
+
+    a) In case of, Mail/Express Trains, the charges of onboard catering of Standard Meal Items will not change even after 1st July,2017 i.e. they will continue to be available on existing rates even after 1st July 2017 onwards- a big relief to passengers.
+
+
+    b) In case of Rail Neer, the charges will remain unchanged even after 1st July,2017- a big relief to passengers.
+
+
+    c) In case of static catering units on stations, the charges of Standard Meal Items will not changeeven after 1st July,2017 i.e. they will continue to be available on existing rates even after 1st July 2017 onwards- a big relief to passengers..
+
+
+    d) In case of Rajdhani, Shatabdi, Duronto,Tejas etc trains where catering charges are included in the fare, the charges of catering component will change/ get modified as per the new GST w.e.f 01st July,2017.
+
+
+    ---------------------------------------------------------------------------------------------------------------------
+
+
+    Parcel Segment
+
+
+    ● It has been decided to levy Goods & Services Tax (GST) in place of service tax including Cess on transportation of Parcel traffic (leased or non-leased) by rail.
+
+
+    ● The detailed procedure for levy of GST on transportation of parcel traffic by rail shall be as under:-
+
+
+    ● Goods and Service tax (GST) will be levied for transportation of all description of parcel traffic (leased or non-leased parcel traffic) and merchandise items (for commercial use) booked as luggage.
+
+
+    ● Luggage traffic i.e. personal baggage belonging to the travelling passengers, (Excluding merchandise items for commercial use), shall be exempted from GST. The details of other commodities exempted from GST shall be as under:-
+
+
+    (i) Relief materials meant for victims of natural or man-made disasters, calamities, accidents or mishap
+
+
+    (ii) Defence of military equipments
+
+
+    (iii) Newspaper or magazines registered with the Registrar of Newspapers
+
+
+    (iv) Railway equipments or materials
+
+
+    (v) Agricultural produce
+
+
+    (vi) Milk, salt and food grain including flours, pulses and rice
+
+
+    (vii) Organic manure
+
+
+    ● The rate of GST shall be 5% on total freight. (in place of 4.5% service tax levied earlier- an increase of 0.5% only)
+
+
+    ● Goods & Services Tax will be levied on the total freight as reflected in the Parcel Way Bill and /or Luggage ticket and /or Money receipt (in case of leased traffic) issued on or after 01.07.2017 and it will be collected at the time of booking and preparation of Parcel Way Bill/Luggage ticket/Money receipt.
+
+
+    --------------------------------------------------------------------------------------------------------------------
+
+
+    Freight segment
+
+
+    ● It has been decided to impose 5% GST rates on Goods & Service for transportation of Goods by rail.( It is in place of 4.5% service tax levied earlier i.e. an increase of only 0.5%)
+
+
+    ● It will be levied on total freight charges.
+
+
+    ● This rate will also be applicable to all ancillary charges levied on transportation of Goods Traffic.
+
+
+    ● Some essential commodities which have been exempted from levy of GST as given below:
+
+
+    a) Relief material for victims of natural or manmade disasters, calamities, accidents or mishaps.
+
+
+    b) Defence or military equipments
+
+
+    c) Newspapers or magazine registered with the registrar of newspapers.
+
+
+    d) Railway Equipments or materials
+
+
+    e) Agriculture produce
+
+
+    f) Milk, salt and foodgrain including flours, pulses & rice
+
+
+    g) Organic manure
+
+
+    …………………..
+
+
+    AKS/ENS
+
+    
+    
+    (Release ID: 1494265) Visitor Counter : 130

@@ -1,0 +1,47 @@
+      Ministry of Science & Technology
+
+      New test with quantum coins & computers for quantum sensing
+      Posted On: 04 MAR 2020 3:42PM by PIB Delhi
+
+
+    Researchers from Raman Research Institute (RRI), an autonomous institution under the Department of Science & Technology, have devised a new test for fairness of quantum coin or ‘qubit’ (the basic unit of information in a quantum computer) using entanglement theory.
+
+
+    This is a significant contribution to quantum state discrimination, an essential aspect of quantum information science which is expected to influence quantum sensing. The new test uses entanglement to test the fairness of the quantum coin.
+
+
+    Entanglement is a special type of correlation that exists in the quantum world with no classical counterpart. The researchers from RRI made use of this quantum resource to arrive at a test for fairness of a quantum coin (a qubit). Their strategy, which makes use of entanglement, enables better discrimination between quantum states. Such advantage is valuable in quantum sensors.
+
+
+    The work is appearing in Pramana, the Journal Of Physics and a related paper has appeared in the International Journal of Quantum Information.
+
+
+    This work is a significant contribution to the domain of quantum state discrimination, which is an essential aspect of quantum information science. It brings out the crucial role of entanglement in improving our ability to discriminate quantum states. In this work the researchers concretely implemented the theoretical idea on the simulation facility of the IBM quantum computer. They also carried out experiments on the IBM quantum computer which have brought out the shortcomings of the experimental hardware and their work is expected to pave the way towards improving the experimental devices (by reducing gate errors and noise due to decoherence) used in the IBM quantum computer facility.
+
+
+    By repeated trials, one can determine the fairness of a classical coin with a confidence which grows with the number of trials. A quantum coin can be in a superposition of heads and tails. Given a string of qubits representing a series of trials, one can measure them individually and determine the state with a certain confidence. The team has shown that there is an improved strategy which measures the qubits after entangling them, which leads to a greater confidence.
+
+
+    This strategy is demonstrated on the simulation facility of IBM quantum computers. Exploration of the issue of graininess of the quantum measurement process stemming from the inherent limitation of the resolution of a detector naturally led to the question of state estimation and discrimination of quantum states. The team pursued this question and arrived at the interesting result of how entanglement can be used as a valuable resource for state discrimination in the quantum domain.
+
+
+    In their exploration the researchers used a variety of tools: analytical techniques, numerics and computer simulation and experiments on the IBM quantum computing facility. All these tools were used collectively to arrive at an understanding of the role of entanglement in quantum state discrimination.
+
+
+    The domain of Quantum Information and Quantum Computing Technology is a growing area of research which is expected to influence Data Processing, which in turn, plays a central role in our lives in this Information Age. For instance, bank transactions, online shopping and so on crucially depend on the efficiency of information transfer. Thus the recent work on quantum state discrimination is expected to be valuable in people’s lives in the current era.
+
+
+    The figure represents the geometry of the qubit state space, based on theoretical analysis. The ellipse on the right shows a black ellipse inside a white ellipse with a blue boundary. The white region represents the quantum advantage one gets from making use of entanglement as a resource.
+
+
+    *****
+
+
+    SNC/KGS (DST)
+
+    
+    
+    (Release ID: 1605129) Visitor Counter : 711
+    
+    
+      Read this release in: Hindi

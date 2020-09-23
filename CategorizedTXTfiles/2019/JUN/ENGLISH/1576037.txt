@@ -1,0 +1,23 @@
+      Ministry of Defence
+
+      Software Defined Radios
+      Posted On: 26 JUN 2019 6:30PM by PIB Delhi
+
+
+    A major milestone in the indigenous series production of advanced technology Software Defined Radios (SDRs) has been achieved by signing the Contract with M/s BEL for induction of Software Defined Radios for Indian Navy at the cost of Rs 488 crore on June 18, 2019 by Ministry of Defence.
+
+
+    The SDRs have been designed and developed by Defence Research and Development Organisation (DRDO) in association with various agencies like Centre for Development of Advanced Computing (CDAC), Centre for Artificial Intelligence & Robotics (CAIR) and Weapon and Electronics System Engineering Establishment (WESEE) of the Indian Navy. The SDRs will be manufactured by M/s Bharat Electronics Limited (BEL).
+
+
+    As part of the contract, present hardware based legacy communication sets will be replaced by software based multi-band, multi-functional and multi-role/mission radios to improve information sharing and situational awareness through secure communication means. Being indigenous, the SDRs are associated with indigenous waveforms designed to provide wide range of frequency usage and a major capability enhancement.
+
+
+    **********
+
+
+    Nampi/DK/HS
+
+    
+    
+    (Release ID: 1576037) Visitor Counter : 264

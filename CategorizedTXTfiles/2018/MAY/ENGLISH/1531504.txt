@@ -1,0 +1,57 @@
+      NITI Aayog
+
+      NITI Aayog and Google sign SoI to help grow AI ecosystem in India
+      Posted On: 07 MAY 2018 5:24PM by PIB Delhi
+
+
+    To focus on training, hackathons, mentoring startups, and providing research grants
+
+
+    Aiming to foster growth for India’s nascent artificial intelligence (AI) and machine learning (ML) ecosystem, NITI Aayog and Google have come together to work on a range of initiatives to help build the AI ecosystem across the country.
+
+
+    A Statement of Intent (SoI) was signed to this effect by Ms. Anna Roy, Advisor, NITI Aayog and Shri Rajan Anandan, Vice President, India and South East Asia, Google in the presence of the Shri Amitabh Kant, CEO, NITI Aayog.
+
+
+    The NITI Aayog has been entrusted to setup a national programme to conduct research and development in frontier technologies such as AI. In furtherance of this mandate, NITI Aayog has been developing India’s national strategy on AI along with the National Data and Analytics Portal to enable the wide deployment and use of AI.
+
+
+    Highlighting the importance of this partnership, Shri Amitabh Kant said, "Artificial Intelligence is going to disrupt the way business is done and India, in particular, is uniquely poised in utilising AI to innovate for social and inclusive good. India is embracing future technologies such as machine learning and AI to augment its capacity in healthcare, improve outcomes in education, develop innovative governance systems for our citizens and improve overall economic productivity of the nation. NITI's partnership with Google will unlock massive training initiatives, support startups and encourage AI research through PhD scholarships, all of which contributes to the larger idea of a technologically-empowered New India."
+
+
+    Under the aegis of this program, Google will train and incubate Indian AI startups in an accelerator program. These startups will be mentored and coached by Google and its affiliates to enable them to better leverage AI in their respective business models.
+
+
+    To help bolster the research ecosystem, one of the initiatives includes funding Indian researchers, scholars and university faculty for conducting AI-based research. Further, Google will also bring its online training courses on AI to students, graduates and engineers to numerous cities across India, in the form of study groups and developer-run courses.
+
+
+    NITI Aayog and Google will organize a AI/ML hackathon that will be focused on solving key challenges within agriculture, education, healthcare, financial inclusion, transportation/mobility and more. This hackathon may use Kaggle, a global platform, to help facilitate international participation into these planned hackathon challenges.
+
+
+    Google through the NITI Aayog, will conduct hands-on training programs that aim to sensitise policymakers and technical experts in governments about relevant AI tools, and how they can be used to streamline governance.
+
+
+    Google and NITI Aayog will work on the following initiatives:
+
+      * Organise trainings for relevant government functionaries to introduce them to open source AI tools with the goal of enabling more effective governance.
+      * Awarding grants and scholarships to researchers, scholars and university faculty conducting cutting edge research in the field of AI/ML in India.
+      * Organising AI/ML study jams for students and developers based on Google’s Machine Learning Crash Course (MLCC) on the fundamentals of machine learning
+      * Incubating Indian AI/ML startups in a program where they will be mentored by Google to better leverage AI in their respective business models.
+      * Organise a Hackathon focused on using AI/ML and open data sets to solve key challenges within agriculture, education, healthcare, etc. in India
+
+    ***
+
+
+    AKT/RC/SK
+
+    
+    
+    (Release ID: 1531504) Visitor Counter : 1047
+    
+    
+      Read this release in: Marathi
+    
+    
+    
+
+*

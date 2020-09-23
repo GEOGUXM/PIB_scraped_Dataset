@@ -1,0 +1,75 @@
+      Ministry of Railways
+
+      Misinformation Being Spread About Level-1 Results of Railway Recruitment Board
+      
+      For Level 1 results, no new method of result preparation was introduced
+      
+      As per Centralised Employment Notification, marks secured by candidates are subjected to normalization
+      
+      On normalisation, marks secured by a candidate can become more than the total marks of the exam paper
+      
+      This method of normalisation is being followed for nearly 19 years now, since 2000
+
+      Posted On: 06 MAR 2019 3:20PM by PIB Delhi
+
+    RRBs had invited online applications against Centralized Employment Notification (CEN) No. 02/2018, published by RRBs on 10.02.2018, for a total 62,907 vacancies . Record number of 1,89,78,913 online applications were received. World’s largest Computer Based Test was successfully conducted on 51days from 17.09.2018 to 17.12.2018 in 152 shifts.The result of the above Computer Based Test was announced on 04.03.2019.
+
+
+    Para-7 under the Head “Important Instructions” of the Centralized Employment Notification(CEN) 02/2018, it has been stated that marks secured by the candidates would be subjected to normalization.
+
+
+    Now large number of candidates have represented on the result declared by RRBs and the method adopted for the same. For the above Computer Based Test no new method of preparation of result has been introduced. The short listing of candidates has been done purely on candidate’s merit and by the following time tested method of normalization:-
+
+
+    Normalized Score for a candidate (Xn)
+
+
+    Xn=(S2/S1)*(X-Xav)+Yav, where
+
+                                                                                                        
+S2   Standard Deviation (SD) of the shift with the Highest Average Score taken as base for normalization
+                                                                                                        
+                                                                                                        
+                                                                                                        
+S1   Standard Deviation for the shift whose marks are to be normalized (to be scaled to S2)             
+                                                                                                        
+                                                                                                        
+                                                                                                        
+X    Raw score of the candidate                                                                         
+                                                                                                        
+                                                                                                        
+                                                                                                        
+Xav  Simple average of the Shift                                                                        
+                                                                                                        
+                                                                                                        
+                                                                                                        
+Yav  Average corresponding to shift with highest Average (taken as base for normalization)              
+                                                                                                        
+                                                                                                        
+
+    All RRB examinations/Computer Based Test held since 2000 have followed this normalization method.
+
+
+    It is not uncommon that on normalization, marks secured by a candidate would go more than the total marks of the exam paper. In the previous examinations of RRBs, there have been instances where normalized marks of candidates were more than the total marks. In CEN-02/2018 results there is nothing unusual because raw marks secured by the candidates are crucial indetermining their normalized marks.
+
+
+    The maximum normalized marks of any candidate in Level-1 (CEN-02/2018) Computer Based Test(CBT) is 126.13. Any other marks higher than this, is pure concoction.
+
+
+    Before publication of results, all candidates were made privy to the Question Papers, Master Answer Key and their own evaluated answer sheet. The ‘Objection tracker’ was accessible to candidates from 14 th January 2019 to 20 th January 2019. During this 1.58 lakh candidates submitted their objections which were considered and reviewed.
+
+
+    It may be noted that in addition to 1.5 lakh jobs, Railways will also be recruiting 2.3 lakh more people over next two years. Taken together with the ongoing process, the total number will be a 4 lakh jobs by Indian Railways.
+
+
+    *****
+
+
+    SVS/MKV/AP
+
+    
+    
+    (Release ID: 1567621) Visitor Counter : 10551
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Malayalam

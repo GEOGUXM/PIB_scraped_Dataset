@@ -1,0 +1,76 @@
+      Ministry of Finance
+
+      Guidelines on insurance e-commerce
+      Posted On: 07 APR 2017 5:28PM by PIB Delhi
+
+
+    Insurance Regulatory and Development Authority of India (IRDAI) has issued guidelines on insurance e-commerce dated 9th March, 2017. The salient features of the guidelines are given below.
+    
+    IRDAI has informed that the guidelines issued by the Authority enable insurers and insurance intermediaries to set-up Insurance Self-Network Platforms (ISNP) to sell and service insurance policies. The said guidelines lay down the manner and procedures of grant of permission for establishing an ISNP for undertaking insurance e-commerce activities in India.
+    
+    Further, e-commerce is seen as an effective medium to increase insurance penetration and enhance financial inclusion in a cost-efficient manner. As part of its developmental mandate, IRDAI has issued these guidelines to promote e-commerce in insurance space which is expected to lower the cost of transacting insurance business and bring higher efficiencies and greater reach.
+    
+    Salient Features of Guidelines on insurance e-commerce
+    
+    • Objective of guidelines - to increase insurance penetration and bring financial inclusion in a cost-efficient manner through Insurance Self Network Platform (ISNP)
+    
+    I. Permission and Renewal of Permission for setting up Insurance Self-Network Platform
+    
+    • Applicant defined to include insurers and insurance intermediaries who can set up the ISNP
+    • Platform used by an insurance agent would be treated as that of an Insurer & insurer shall be responsible for compliance of the regulations
+    • Procedure for grant of permission for establishing an Insurance Self-Network Platform stipulated. This includes filing of application, furnishing of information, grant of permission and conditions thereof
+    • Permission to be co-terminus with the expiry of the certificate of registration in case of insurance intermediaries and indefinite until revoked in case of insurers
+    • Procedure for renewal of permission is also specified.
+    • Guidelines stipulate Internal monitoring, review and evaluation of systems & controls
+    • An external certified information system auditor (CISA) or CERT-IN expert to review controls, systems, procedures and safeguards of the Insurance Self-Network platform, atleast once a year
+    • Applicant to ensure compliance to information security management system standard of the International Organization for Standardization (ISO) or the International Electro-technical Commission (ICE) or its equivalent at all times by having an annual review of the systems
+    • Applicant to place the report of the CISA auditor or CERT-IN expert and the information security management system before the Board or its sub-committee for their observations.
+    
+    II. Operational Matters
+    
+    • Insurance Self-Network Platform to be available as regular internet web-site (desktop and mobile) or as a mobile app or both
+    • Insurance Self-Network Platform to enroll only those market participants that are granted certificate of registration by the Authority
+    • Disclosure – Applicant can display only those products that are approved by the Authority and to the extent permitted by the regulations
+    • All products shall be sold in electronic form in accordance with IRDAI (Issuance of e-insurance policies) Regulations, 2016 as amended from time to time.
+    • The ISNP of a registered insurer is permitted to offer all products that are approved under the Product Approval terms.
+    • The ISNP of a registered insurance intermediary is permitted to offer products that are permitted under the applicable regulations.
+    
+    • Pricing –
+    
+    • The pricing of every product shall be decided by the insurer and it shall be the responsibility of the insurer that product pricing is in compliance to product approved by the Authority.
+    • Insurers may offer discounted pricing on the product when sold through its ISNP as specified by the Authority.
+    • The differential price for products offered on ISNP of any of the applicants shall be the same.
+    
+    • Commission –
+    
+    • Product sold through ISNP is entitled to commission, remuneration or reward as per the Commission Regulations
+    • No fees, charges or payments by whatever name called other than commission, remuneration or reward as per regulations shall be paid or shared between the market participants for utilising the applicants ISNP
+    
+    • Proposal Form – proposal form shall be in accordance with Reg 3 of Issuance of e-insurance policies Regulations (OTP)
+    • Compliance of KYC/ AML norms - e-KYC, e-PAN and valid KYC documents permitted by Authority
+    
+    • Creation of e-insurance account –
+    
+    • Creation of an e-insurance account shall be undertaken within 15 days post selling of insurance policies on the applicant’s ISNP.
+    • It shall be necessary for a customer to have either an email id or a registered mobile phone number while transacting insurance business on the applicant’s ISNP.
+    • Payment of premium –
+    • The market participants shall ensure that provisions of Section 64VB(1) of the Act are complied with at all times.
+    • The manner of payment of premiums for online sale shall be by way of credit card/ debit card/ net banking/ e-wallet or any other electronic mode as permitted by the Reserve Bank of India from time to time through a payment gateway normally used by the insurer for online sale of insurance policies.
+    • In addition, the applicant’s ISNP may facilitate payment of premiums through cheque/ demand draft.
+    • The ISNP may accept cash payments only on the condition that the insurers system gives an immediate acknowledgement on either the policyholder’s email address or his mobile phone number of having received the premium.
+    • Issuance of e-insurance policies –
+    • On completion of online transaction, for payment of premium and sale of the policy, the insurer shall generate the e-premium receipt and send the same to the prospect through email immediately and the Policy document/ bond along-with copy of the proposal form and other underwriting documents within the timelines prescribed under the IRDA’s (Protection of Policyholders Interest) Regulations, 2017 and amendments thereto.
+    
+    This was stated by Shri Santosh Kumar Gangwar, Minister of State in the Ministry of Finance in written reply to a question in Lok Sabha today.
+
+
+    
+    *****
+
+
+    
+    DSM/KA
+
+    
+    
+    (Release ID: 1487242) Visitor Counter : 33

@@ -1,0 +1,61 @@
+      Ministry of Statistics & Programme Implementation
+
+      Official Statistics - A Clarification
+      Posted On: 11 JUN 2018 3:12PM by PIB Delhi
+
+
+    The Ministry of Statistics and Programme Implementation (MoSPI) has been regularly bringing out macro-economic aggregates and indicators. The statistical processes involved in producing such estimates are open, transparent and in line with the best international practices and standards. The processes and estimates are evolved after detailed deliberations in various technical committees and the recommendations placed in the public domain. Efforts have also been made to increase the sample size and use of high frequency data released by various agencies. These measures have been largely appreciated by different sections of society including research analysts, experts, international organisations etc. However, recently certain sections of the media have reported on the revision in base years of various statistical products and estimates brought out by the Government of India. The Government would like to present a proper perspective on these issues so that the end users and public at large become aware of the processes involved in generation of these estimates and in the base revision exercise.
+
+
+    2. Macro-economic indicators and estimates released from time to time are essential to provide decision makers with reliable informationon the current level of economic activity and how the current level compares with the activity in previous time periods.Change of base year to calculate these indicators area normal activity which is periodically undertaken. This is in line with the global effort in the G20 and other fora to capture economic information accurately and to analyse the changing structure of the economy. While undertaking revisions, it is also a global statistical practice to continuously identify and tap new data sources in the economy which have wider coverage and where data is available regularly.
+
+
+    3. The Ministry of Statistics and Programme Implementation (MoSPI) has revised the base years of the Gross Domestic Product (GDP) and the Index of Industrial Production (IIP) to 2011-12 and for the Consumer Price Index (CPI) to 2012.For the IIP and CPI, the item baskets were revised to remove items that were no longer relevant and include those that had become relevant since the last base revision. For the National Account estimates, the new seriesis a structural breakaway from the old series, as it includes information sources which have newly become available or are more regular than the earlier ones. Some examples of these are the new information which is now available for the corporate sector, the estimates of the unorganised sector from the 2010-11 National Sample Survey on unincorporated enterprises and the data on sales and service taxes. All these have been used in the new series.
+
+
+    4. Normally, when a new series of National Account Statistics (NAS) is introduced with an updated base period, it is customary for the Central Statistical Office (CSO)to undertake a research exercise to link the old series with the new series. For the compilation of a linked series, the standard methodology used by CSO is the splicing method and reworking the estimates as per the current series methodology at the component or detailed item level. CSO in the past has adopted the following guidelines for the compilation of linked series.
+
+
+     1. For the years from the last base (2004-05) to the current base (2011-12), the components are re-estimated by following the same procedure as for the new series of NAS. Thus new data sources and additional coverage of activities introduced in the new series also need to be accounted forin all the previous years in which these activities were in existence in the economy and the datasets were available and reliable for use.
+
+
+     1. For the years prior to previous base year (2004-05), the estimates are prepared by using the splicing technique. Consequently, it implies that there would be no change in the growth rates of aggregates for the same years between the old series and new series. However, additivity of detailed estimates with the aggregates will not be maintained. This is an accepted practice adopted globally as well as in India.
+
+
+    5. The 2011-12 GDP series incorporates data emanating from the Ministry of Corporate Affairs (MCA) and this data source has been evolving over the years. For back casting the series till 2004-05, various alternatives are being worked out under the guidance of the Advisory Committee on National Accounts and the back series will be finalized and released after due consultations with this expert committee.
+
+
+    6.The Index of Industrial Production (IIP) was also revised and the weighting diagram and item basket now includes new items that are relevant to the present context. In addition, a mechanism for a regular review of the item basket and data sources has also been put in place. Similarly for the Consumer Price Index (CPI), in addition to a revision of the item basket, several methodological improvements have also taken place in line with international practices. For instance, the geometric mean is now being used in place of the arithmetic mean for computing item level indices so that there is less volatility on account of extreme values. The number of dwellings covered under Repeat House Rent Survey has been doubled for better representation of each category of dwelling. Further, the basket of items and their weighting diagram have been prepared using Modified Mixed Reference Period in place of Uniform Reference Period, which are methodological improvements.
+
+
+    7. Information on employment and unemployment was being estimated from the Employment and Unemployment Survey of households conducted by the National Sample Survey Office (NSSO) every five years. With the need to have more frequent data on employment and unemployment, several initiatives were launched including the Annual Employment and Unemployment Surveys of Labour Bureau using the household approach; the Quarterly Employment of Labour Bureau using the establishment approach; the Periodic Labour Force Survey being conducted by NSSO and more recently the use of high frequency data like the new subscribers/members enrolling in the EPF, ESIC and NPS. These matters were deliberated on in the meetings of the Task Force on Improving Employment Data constituted by the Ministry of Labour & Employment under the Chairpersonship of Vice Chairman, NITI Aayog. One of the key recommendations of the Committee was to bring about a gradual convergence of these various initiatives so that a more holistic view on the levels of employment and unemployment could emerge for policy interventions and for evolving targeted schemes.
+
+
+    8. Recently, the Government has started bringing out estimates of new subscribers/members enrolling in large social security schemes like the Employee’s Provident Fund (EPF), Employee’s State Insurance Scheme (ESI) and the National Pension Scheme (NPS). The new members enrolling in these schemes are a good measure about the numbers in the workforce moving towards formality. The Pradhan Mantri Rojgar Protsahan Yojana is another scheme which encourages employers to recruit/hire newcomers in the formal sector.
+
+
+    9. It needs to be appreciated that the data collection, processing and releasing of estimates is a resource and time intensive exercise. The National Statistical Commission gives overall guidance to the Ministry of Statistics & PI in undertaking all statistical activities based on priorities and resource availability. Similarly, the Labour Bureau also undertakes surveys based on the needs of Government and policy makers. The Task Force on Improving Employment Data has given several recommendations which are gradually being implemented to improve the availability and frequency of information on employment. In addition, a Committee under Dr. T.C.A. Anant, former Chief Statistician of India, is also examining various approaches with a view to reducing redundancy and avoiding duplication of efforts in estimation of employment through the establishment approach. With the availability of results of the Periodic Labour Force Survey, India should be meeting the IMF’s Special Data Dissemination Standards (SDDS) for releasing quarterly data on macro-economic indicators which we haves subscribed to. The PLFS will also replace the Annual Employment and Unemployment Survey undertaken by the Labour Bureau.
+
+
+    10. The MoSPIis also planning to launch new surveys for better measurement of the economy in sectors that are growing and contribute to measurement of the economy. Some of these surveys include the Annual Survey of Service Sector Enterprises, the Annual Survey of Unincorporated Sector Enterprises (ASUSE), the Time Use Survey (TUS) and the Economic Census.
+
+
+    11.The MoSPI has also decided to revise the base year of the macroeconomic indicators and aggregates to 2017-18 and is working with other Ministries and State Governments towards aligning the data systems to achieve this. The Ministry remains committed to improving the availability, reliability and quality of information of its various products for measuring various aspects of the economy to meet the requirements of policy making, informed debate and academic research. More details on these aspects are available on the Ministry’s website at www.mospi.gov.in .
+
+
+    *******
+
+
+    AKT/RKC/SBP
+
+    
+    
+    (Release ID: 1535026) Visitor Counter : 1288
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+1.

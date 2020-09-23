@@ -1,0 +1,50 @@
+      Ministry of Electronics & IT
+
+      Ministry of Electronics & Information Technology press release on Cambridge Analytica
+      Posted On: 23 MAR 2018 8:08PM by PIB Delhi
+
+
+    There have been reports in the media regarding misuse of data about individuals obtained from social media platform Facebook and utilizing it for unauthorized activities without the consent of the users.
+
+
+    The Government is deeply concerned about such developments and is committed to ensure the protection of the fundamental right of privacy and safety and security of data for every citizen of India. There have also been imputations that such data could also have been used to influence the behavior of individuals. While the Government is cognizant of the positive role played by social media in promoting awareness and acting as a tool for social cohesion and empowerment; breach of privacy cannot be tolerated. In this regard it is pertinent to observe that the CEO of Facebook, Mr. Mark Zuckerberg has apologized for the mistakes his company had made in handling data belonging to its users, and has promised tougher steps to restrict access to such information. There are other downstream players such as Cambridge Analytica and its alleged associates who have been reported to be involved in the data breach.
+
+
+    The Ministry of Electronics & Information Technology, Government of India has issued a notice,in the first instance, to Cambridge Analytica, wherein the serious breach of propriety and misuse of data intended to profile and influence voting behaviorhas been highlighted. Reference has also been made to several accounts in the media reporting incidents of gross abuse of social media platform to influence the sanctity of polling process. Note has also been taken of alleged claims whereby elections in India were sought to be influenced through questionable means.
+
+
+    The fairness of Indian democracy and electoral process is a matter of pride and any attempt to influence the sanctity of the electoral franchise through dubious and questionable means is unacceptable. In particular, all intermediaries and their associates have the legal obligation to maintain security, confidentiality and sanctity of data and any unauthorized use of data can entail legal action.
+
+
+    Emphasizing these issues, the notice addressed to Cambridge Analytica seeks immediate response to the following questions;
+
+
+    i) Whether they have been engaged in any assignment to utilize data of Indians from the above cited breach?
+
+
+    ii) Who are the entities that have engaged them for the above?
+
+
+    iii) How did they come to be in possession of such data?
+
+
+    iv) Was consent taken from the individuals?
+
+
+    v) How such data collected was used?
+
+
+    vi) Was there any profiling done on the basis of such data?
+
+
+    The intermediaries cited above have been given time till 31 st March 2018 to submit their responseson the above issues.
+
+
+    CERT-IN has issued Advisory Note CIAD-2018-0012 which lays down security best practices to be followed by social media users in order to safeguard personally identifiable information on social network sites.
+
+
+    NNK/GK
+
+    
+    
+    (Release ID: 1526264) Visitor Counter : 1078

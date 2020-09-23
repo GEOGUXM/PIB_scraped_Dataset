@@ -1,0 +1,41 @@
+      Ministry of Coal
+
+      Shri Piyush Goyal launches the Coal Mine Surveillance & Management System (CMSMS) and ‘Khan Prahari’ App today
+      Posted On: 04 JUL 2018 7:38PM by PIB Delhi
+
+
+    Union Minister of Coal, Railways, Finance & Corporate Affairs, Shri Piyush Goyal launched the Coal Mine Surveillance & Management System (CMSMS) and Mobile Application ‘Khan Prahari’ developed by CMPDI, Ranchi a Subsidiary of CIL and Bhaskarcharya Institute of Space Application and Geo-informatics (BISAG) at a ceremony at, New Delhi.
+
+
+    Speaking on the occasion, Shri Piyush Goyal said that illegal mining is a serious problem in the country today, particularly in the areas where coal mining is carried out. Illegal coal mining not only causes a loss to the nation’s resources but is also harmful to the environment. He said that Ministry of Coal is committed to take suitable actions to try to reduce and stop such activities to the extent possible. It is understood that coal is a main source of livelihood for many poor families residing in coal belts, but their sustenance should not be totally dependent on illegal coal mining. It is not only about saving national resources but also about improving the quality of life of those people, he added.
+
+
+    The Minister said that Ministry of Coal has taken a major initiative in this direction by developing a Web GIS application called ‘Coal Mine Surveillance & Management System (CMSMS) and a mobile app called ‘Khan Prahari’. The Minister also said that this was a step towards utilizing space science as envisioned by Hon’ble Prime Minister, Shri Narendra Modi for peaceful activities. The Minister further stated that the launch of the Coal Mine Surveillance Management System and “Khan Prahari” on Swami Vivekananda’s death anniversary today is a fitting tribute to him because Swamiji stood for highest levels of integrity.
+
+
+    Speaking on the occasion, the Minister also lauded the collective efforts made by the all concerned to make a difference in the working of Coal sector. Highlighting the achievements of the sector, the Minister said that in the first quarter for the current financial year, Coal India has produced 136.87 MT of Coal, which is a growth of 15.2% over the corresponding quarter of last year. He also said Coal Indian has dispatched 122.84 MT of the coal to the Power Sector alone compared to the same period last year which was 106.46 MT.
+
+
+    Secretary, Ministry of Coal, Dr. Inder Jit Singh, Chairman, Coal India Limited, Shri Anil Kumar Jha, Additional Director General of CISF, Shri Alok Pateriya, Joint Secretary, Ministry of Coal, Shri Ashish Upadhyaya were present in the function. Besides, Officials of Ministry of Coal, Senior Officials from CIL’s subsidiaries and other Senior Officers from concerned 42 districts having coal bearing area participated in the function via video conferencing.
+
+
+    The basic objective of CMSMS is reporting, monitoring and taking suitable action on unauthorised coal mining activities. The CMSMS is a web based GIS application through which location of sites for unauthorised mining can be detected. The basic platform used in the system is of Ministry of Electronics & Information Technology’s (MeiTY) map which provides village level information. The leasehold boundary of all the coal mines are displayed on this map. The system will use satellite data to detect changes by which unauthorised mining activity extending beyond the allotted lease area can be detected and suitable action can be taken on it. It is the working of the concept of ‘cooperative federalism’ in action. The complaint originating from coal mines allotted to Coal India will go to Coal India Offices and those originating from coal blocks not allotted to Coal India will go straight to the State Government Officers and for each complaint the alert will also go to the District Magistrate and SP of the district.
+
+
+    The system also uses information provided by responsible citizens using smartphones using the mobile application “Khan Prahari’. Khan Prahari is a tool for reporting any activity taking place related to illegal coal mining like rat hole mining, pilferage etc. One can upload geo-tagged photographs of the incident along with textual information directly to the system. Hence, both satellite data and human information will be used to capture information on the unauthorised mining activities. Once reported, the information will be automatically directed to the nodal officers to take suitable action on those activities. The complainant can also track his complaint through the system. The identity of the complainant shall not be revealed. This app can easily be downloaded in Android and IOS.
+
+
+    The uniqueness of the system is that it uses satellite data as well as public input to capture information on unauthorised coal mining activities and also take appropriate action on them with due transparency.
+
+
+    The CMSMS will also provide other important information like reclamation work being done by Coal India Limited which is being monitored every year by CMPDI using satellite data. Status of Environmental Clearances /Forest Clearances etc. are also linked for information in this system.
+
+
+    *****
+
+
+    SVS/SK
+
+    
+    
+    (Release ID: 1537749) Visitor Counter : 1990

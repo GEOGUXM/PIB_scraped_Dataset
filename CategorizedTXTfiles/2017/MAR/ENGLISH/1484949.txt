@@ -1,0 +1,23 @@
+      Ministry of Power
+
+      Four Sectoral Computer Emergency Response Teams to mitigate Cyber Security Threats in Power Systems
+      Posted On: 20 MAR 2017 4:00PM by PIB Delhi
+
+
+    Government of India, in line with National Cyber Security Policy 2013, has created sectoral Computer Emergency Response Teams (CERTs) to mitigate cyber security threats in power systems. This was stated by Union Minister of State (IC) for Power, Coal, New & Renewable Energy and Mines, Shri PiyushGoyal, in a written reply to a question on steps taken for reducing vulnerability of Smart Power Grid Technology, in Rajya Sabha today.
+
+
+    Shri Goyal informed that Government of India through Ministry of Electronics & Information Technology(MeitY) and National Critical Information Infrastructure Protection Centre(NCIIPC) has taken several steps to make power utilities and key stakeholders aware to take precautions against cyber threats.
+
+
+    The Minister added that for cyber security in power systems, four Sectoral CERTs, CERT (Transmission), CERT (Thermal), CERT (Hydro) and CERT (Distribution) have also been formed to coordinate with power utilities. The relevant stakeholders of Smart Grid have been advised to identify critical infrastructure and use end to end encryption for data security.
+
+
+    All utilities have been asked to identify a nodal senior executive as its Chief Information Security Officer (CISO) to lead the process of strengthening organizational systems with respect to cyber security and implement an Information Security Management System as recommended by rules framed under the Information Technology (IT) Act 2008, Shri Goyal informed.
+
+    *****
+    RM/VM/RU-2002
+
+    
+    
+    (Release ID: 1484949) Visitor Counter : 292

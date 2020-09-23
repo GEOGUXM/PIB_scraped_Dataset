@@ -1,0 +1,67 @@
+      Ministry of Finance
+
+      GDP Estimation – A clarification
+      Posted On: 10 MAY 2019 5:34PM by PIB Delhi
+
+
+    1. The Technical Report of Services Sector Enterprises in India, which was finalized under the 74 th Round of National Sample Survey, was released recently by the National Sample Survey Office (NSSO). The survey utilized a sample of 35456 enterprises taken from the database of Ministry of Corporate Affairs (MCA). The Report has stated that 38.7 percent of the sample of 35456 enterprises comprised out-of-survey units. Some sections of the media have misinterpreted these out-of-survey enterprises (as classified for the purposes of surveying the services sector) to be enterprises that do not exist in the economy. On the basis of this interpretation, the suggestion has emerged that by not removing out-of-survey enterprises from the MCA database, Central Statistics Office (CSO) over-estimates the Gross Domestic Product of the country. This Press Release is intended to clarify the aforesaid misconceptions.
+
+
+    2. Of the 38.7 percent out-of-survey enterprises in the NSSO report, out-of-coverage enterprises comprise 21.4 percent. The out-of-coverage enterprises are simply those enterprises that are not engaged in activities intended for inclusion in the service sector survey. However, these enterprises are engaged in some economic activity, possibly in the manufacturing sector for instance. As a result, they cannot be classified as out-of-coverage enterprises for the purposes of estimating the GDP of the country. In other words, the GDP estimates based on the aforesaid out-of-coverage enterprises are very much a part of overall GDP of the country.
+
+
+    3. Of the remaining 17.3 percent out-of-survey enterprises, establishments that are not considered in the MCA database for GDP estimation comprise 0.9 percent. The balance 16.4 percent are either closed or non-traceable enterprises. However, with continuous evolution of the MCA database, the proportion of closed and non-traceable enterprises has been falling. Thus the extent of overestimation of GDP in all likelihood is marginal.
+
+
+    4. Crucially, we must note that the share of total paid up capital of the private corporate sector that is accounted by non-responsive enterprises affects GDP estimates using the MCA database; not the number of non-responsive enterprises in the private corporate sector. The following table shows from 2012-13 to 2016-17 the number of active firms and the firms whose information was directly used for GVA estimation.
+
+
+    Table 1: Blow up factor based on Paid-up capital of included and excluded firms
+
+                                                                                                
+Year                                                 2012-13  2013-14  2014-15  2015-16  2016-17
+                                                                                                
+                                                                                                
+                                                                                                
+Number of firms that filed for the year (lakhs)      5.6      6.1      6.0      6.3      7.1    
+                                                                                                
+                                                                                                
+                                                                                                
+Active Companies(lakhs)                              8.8      9.5      10.1     10.8     11.6   
+                                                                                                
+                                                                                                
+                                                                                                
+Multiplier (Based on Paid Up Capital)                1.15     1.14     1.17     1.13     1.17   
+                                                                                                
+                                                                                                
+                                                                                                
+Share of Paid Up Capital of Reporting Companies      87%      88%      85%      88%      85%    
+                                                                                                
+                                                                                                
+                                                                                                
+Share of Paid Up Capital of Non-reporting Companies  13%      12%      15%      12%      15%    
+                                                                                                
+                                                                                                
+
+    From 2012-13 to 2016-17, the number of enterprises whose annual returns were not available for GDP estimation accounted for only 12-15 percent of paid-up capital of all the enterprises in the MCA database. As such the GVA estimated for the responsive enterprises was increased by a blow-up factor of only 1.13-1.17 to estimate the GVA of the entire private corporate sector. Most of the non-responsive enterprises did not provide data because they exercised their discretion of filing returns in subsequent years while continuing to engage in activities reflected in their previously filed return. Accordingly, their inclusion in the overall GVA estimation was legitimate.
+
+
+    5. Finally, even when there is a small over- or under-estimation, the blowing up affects the level of GDP and not the year-to-year annual growth rates materially. As seen in Table 1 above, the proportion of firms in the MCA data base that have ceased their operations varies minimally from year to year from 2012-13 to 2016-17. This feature ensures that although GVA levels could be slightly more or less than what they actually are, the growth rate of GVA from year to year will not be affected.
+
+
+    6. The MCA data base on the private corporate sector is a valuable addition to the data sources available for estimation of GDP and its use provides a more correct measure of economic activity in the country.
+
+
+    ***
+
+
+    DSM/RM/PD
+
+
+    
+
+    
+    (Release ID: 1571860) Visitor Counter : 1447
+    
+    
+      Read this release in: Hindi

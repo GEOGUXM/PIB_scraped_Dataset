@@ -1,0 +1,204 @@
+      रेल मंत्रालय
+
+      रेल मंत्रालय की वेबसाइट/पोर्टल
+      Posted On: 29 DEC 2017 6:18PM by PIB Delhi
+
+
+    भारतीय रेल मंत्रालय के भारतीय रेल वेबपोर्टल में अभी 42 वेबसाइटों को होस्ट किया जा रहा है।
+
+
+    एक अलग वेबसाइट www.coms.indianrailways.gov.in है जो यात्री शिकायत फीडबैक देखता है और शिकायत दर्ज करने में यात्रियों की मदद करता है। इसके प्रारंभ होने के बाद से प्राप्त शिकायतों की कुल संख्या 3,70,974 है।
+
+
+    वेबसाइट नाम, वेबसाइट हीट्स (दैनिक औसत) यूआरएल के साथ इस प्रकार हैः
+
+                                                                                                                                              
+क्रम सं.  वेबसाइट का नाम                                                      वेबसाइट का यूआरएल                      वेबसाइट हीट्स (दैनिक औसत)
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+1         रेल मंत्रालय की वेबसाइट                                             www.indianrailways.gov.in              1431472                  
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+2         मध्य रेलवे                                                          www.cr.indianrailways.gov.in           35374                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+3         पूर्व मध्य रेलवे                                                    www.ecr.indianrailways.gov.in          23295                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+4         पूर्व तट रेलवे                                                      www.eastcoasrailways.gov.in            17556                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+5         पूर्व रेलवे                                                         www.er.indianrailways.gov.in           37967                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+6         उत्तर मध्य रेलवे                                                    www.ncr.indianrailways.gov.in          32097                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+7         उत्तर पूर्व रेलवे                                                   www.ner.indianrailways.gov.in          31350                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+8         उत्तर फ्रंटीयर रेलवे                                                www.nfr.indianrailways.gov.in          15035                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+9         उत्तर पश्चिम रेलवे                                                  www.nwr.indianrailways.gov.in          52059                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+10        उत्तर रेलवे                                                         www.nr.indianrailways.gov.in           37730                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+11        दक्षिण मध्य रेलवे                                                   www.scr.indianrailways.gov.in          61540                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+12        दक्षिण पूर्व मध्य रेलवे                                             www.secr.indianrailways.gov.in         13198                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+13        दक्षिण पूर्व रेलवे                                                  www.ser.indianrailways.gov.in          26351                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+14        दक्षिण पश्चिम रेलवे                                                 www.swr.indianrailways.gov.in          22157                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+15        पश्चिम मध्य रेलवे                                                   www.wcr.indianrailways.gov.in          18093                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+16        दक्षिण रेलवे                                                        www.sr.indianrailways.gov.in           58747                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+17        पश्चिम रेलवे                                                        www.wr.indianrailways.gov.in           40818                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+18        कोलकाता मेट्रो                                                      www.mtp.indianrailways.gov.in          7883                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+19        चितरंजन लोको वर्क्स                                                 www.clw.indianrailways.gov.in          10369                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+20        डीजल लोकोमोटिव वर्क्स                                               www.dlw.indianrailways.gov.in          11569                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+21        डीजल लोको आधुनिकीकरण कार्य                                          www.dmw.indianrailways.gov.in          5366                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+22        एकीकृत कोच फैक्ट्री                                                 www.icf.indianrailways.gov.in          16717                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+23        रेल कोच फैक्ट्री                                                    www.rcf.indianrailways.gov.in          28667                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+24        रेल व्हील फैक्ट्री                                                  www.rwf.indianrailways.gov.in          10974                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+25        रेल बिजलीकरण के लिए केन्द्रीय संगठन                                 www.core.indianrailways.gov.in         6326                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+26        आधुनिक कोच फैक्ट्री, रायबरेली                                       www.mcf.indianrailways.gov.in          4571                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+27        रेल व्हील प्लांट, बेला                                              www.rwp.indianrailways.gov.in          3167                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+28        मुंबई विकास निगम                                                    www.mrvc.indianrailways.gov.in         3985                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+29        रेल भूमि विकास प्राधिकरण                                            www.rlda.indianrailways.gov.in         3211                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+30        वैकल्पिक ईंधनों के लिए भारतीय रेल संगठन                             www.iroaf.indianrailways.gov.in        1521                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+31        रिसर्च डिजाइन और मानक संगठन                                         www.rdso.indianrailways.gov.in         45614                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+32        रेलवे रेट्स ट्राब्यूनल ऑफ इंडिया                                    www.rrt.indianrailways.gov.in          1206                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+33        इंडियन रेलवे इंस्टीट्यूट ऑफ इलेक्ट्रीकल इंजीनियरिंग                 www.irieen.indianrailways.gov.in       3430                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+34        इंडियन रेलवे इंस्टीट्यूट ऑफ मैकेनिकल एंड इलेक्ट्रीकल इंजीनियरिंग    www.irimee.indianrailways.gov.in       5288                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+35        इंडियन रेलवे इंस्टीट्यूट ऑफ सिविल इंजीनियरिंग                       www.iricen.indianrailways.gov.in       1519                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+36        इंडियन रेलवे इंस्टीट्यूट ऑफ ट्रांसपोर्ट मेनेजमेंट                   www.iritm.indianrailways.gov.in        3536                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+37        इंडियन रेलवे इंस्टीट्यूट ऑफ सिग्नल इंजीनियरिंग एंड टेलीकम्यूनिकेशन  www.iriset.indianrailways.gov.in       3889                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+38        भारतीय रेल का राष्ट्रीय अकादमी                                      www.nair.indianrailways.gov.in         5461                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+39        रेल परिवहन संस्थान                                                  www.irt.indianrailways.gov.in          1561                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+40        नेशनल रेल म्यूजियम                                                  www.nrm.indianrailways.gov.in          1345                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+41        दार्जिलिंग हिमालयन रेलवे                                            www.dhr.indianrailways.gov.in          1205                     
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
+42        कार्यशाला परियोजना संगठन, पटना                                      http://www.wpo.indianrailways.gov.in/  3379                     
+                                                                                                                                              
+                                                                                                                                              
+
+    सफाई, लिनन तथा ट्रेन में यात्रियों के अन्य संबंधित अनुरोधों के लिए क्षेत्रीय रेल द्वारा प्रबंधित साइट “cleanmycoach.com” है वेबसाइट या एसएमएस के जरिए अनुरोध प्राप्त करने पर मोबाइल नंबर को सर्वर द्वारा एक संदेश भेजा जाता है। एसएमएस के जरिए ऑनबोर्ड हाउसिंग सर्विस (ओबीएचएस) भी उपलब्ध है। ओबीएचएस कर्मी यात्री से संपर्क करता है और मांग के अनुसार कार्य करता है। अब तक इस वेबसाइट तथा एसएमएस से 1,49,000 अनुरोध प्राप्त किए गए है।
+
+
+    यात्रियों/रेल उपयोगकर्ताओं से शिकायत सहायता प्राप्त करने के लिए रेल बोर्ड में उपभोक्ता शिकायत प्रबंधन प्रकोष्ठ बनाया गया है। लोग मंत्रालय के ट्विटर हैंडल @RailMinIndia, @PiyushGoyal, @PiyushGoyalOffc तथा भारत सरकार के रेल मंत्रालय के फेसबुक पेज “Ministry of Railways, Government of India @RailMinIndia” पर शिकायत/सहायता संदेश दे सकते है। ऐसे ट्विट के विश्लेषण के बाद क्षेत्रीय/मंडलीय रेल को उनके ट्विटर हैंडलों के जरिए शीघ्र समाधान के लिए भेज दिया जाता है।
+
+
+    यह प्रेस विज्ञप्ति 29.12.2017 (शुक्रवार) को राज्यसभा में रेल राज्य मंत्री श्री राजेन गोहेन द्वारा एक प्रश्न के लिखित उत्तर में दी गई सूचना पर आधारित है।
+
+
+    * **
+
+
+    वीके/एएम/एजी/डीके – 6141
+
+    
+    
+    (Release ID: 1514691) Visitor Counter : 664

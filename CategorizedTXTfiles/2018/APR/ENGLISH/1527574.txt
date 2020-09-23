@@ -1,0 +1,33 @@
+      Ministry of Earth Science
+
+      High Performance Computing (HPC) Systems Pratyush and Mihir
+      Posted On: 04 APR 2018 12:38PM by PIB Delhi
+
+
+    Ministry of Earth Sciences has augmented the High-Performance Computing (HPC) System at a total cost of Rs.438.9 Cr. The systems are installed at two sites Indian Institute of Tropical Meteorology (IITM), Pune and National Center for Medium Range Weather Forecast (NCMRWF), Noida with computing capacities of 4 peta flops and 2.8 peta flops, respectively.
+
+
+    
+    The Two High Performance Computing (HPC) Systems Pratyush and Mihir installed at IITM, Pune and NCMRWF, Noida respectively have a total computing capacity of 6.8 peta flops. After the current augmentation, the total HPC capacity of the ministry has gone up to 8.0 Peta Flops.
+    
+    The Ministry HPC system with a combined capacity of 8.0 Peta Flops is now placed at the 4th position after Japan, UK and USA for dedicated HPC resources for weather/climate community.
+    
+    Indian Monsoon is one of the most complex coupled climate systems of the world. The geographic location of India, surrounded with tall mountains and oceans make the system more difficult to simulate and predict. The HPC system is being used for the advanced dynamical prediction systems which are now being used for Seasonal prediction (mainly for SW monsoon season of June to September); Extended range prediction (for next 20 days) and Short range prediction (up to 8 days). The HPC system is also being used for generating probabilistic forecasts for extreme weather.
+    
+    The global weather prediction model has a horizontal resolution of 10 to 12 km and the regional models have much finer horizontal resolution of 3 km and less over the Indian domain. These high resolution models will be used for prediction of cyclones and other severe weather events with more accuracy and lead time.
+
+
+    This Information was given by Minister for Science & Technology and Earth Sciences Dr Harsh Vardhan in a written reply to a question in Lok Sabha today.
+
+
+    ***
+
+
+    SRD
+
+    
+    
+    (Release ID: 1527574) Visitor Counter : 1521
+    
+    
+      Read this release in: Tamil

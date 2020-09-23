@@ -1,0 +1,29 @@
+      Department of Space
+
+      Indigenous GPS
+      Posted On: 20 DEC 2017 1:56PM by PIB Delhi
+
+
+    India has deployed its own regional navigational system, namely NavIC comprising of a constellation of seven navigational satellites and associated ground segment for providing position, navigation and timing services to Indian region.
+
+
+    The IRNSS (NavIC) enables providing position, navigation and timing information that could be utilised for a large range of civil and strategic applications and services that include terrestrial, aerial and marine navigation; precise timing; disaster management and alert messages; mapping and Geodetic data capture; vehicle tracking and fleet management; visual & voice navigation for drivers, etc.
+
+
+    Seven satellites of NavIC constellation are currently in orbit, the realization of IRNSS-1I, by DOS/ISRO is under progress using a contract to a consortium of private companies for carrying out assembly, integration and testing of this satellite. The satellite is planned for launch during first quarter of 2018.
+
+
+    NavIC provides signals in a space covering India and its surroundings, this could be utilised by using receivers on ground to determine position and time accurately. Signal in space is provided globally by GPS of USA, GLONASS of Russia, Galileo of Europe and Beiden of China. Current global trend is to make use of ground receivers which utilise as many signals as available for providing timing and position solutions.
+
+
+    This information was provided by the Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, Dr Jitendra Singh in written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    NK/SB/PK
+
+    
+    
+    (Release ID: 1513289) Visitor Counter : 1316

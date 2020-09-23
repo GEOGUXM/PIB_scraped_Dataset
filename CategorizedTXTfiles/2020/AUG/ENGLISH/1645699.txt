@@ -1,0 +1,38 @@
+      Ministry of Science & Technology
+
+      Indigenous Air Unique-quality Monitoring (AUM) Photonic System developed for Real-Time Remote Monitoring of Air Quality
+      Posted On: 14 AUG 2020 11:34AM by PIB Delhi
+
+
+    World Health Organisation (WHO)’s reports show that the worsening state of poor air quality is responsible for more than 7.5 million fatalities worldwide annually. This highlights the necessity for accurate, yet cost-effective monitoring of air quality parameters as monitoring is critical to solution. The current systems and technologies used for air quality monitoring are prohibitively expensive for wider deployment. This underlines the need for development of systems for real-time remote monitoring of relevant air quality parameters.
+
+
+    With the support from Department of Science and Technology’s Clean Air Research Initiative, Prof. Rao Tatavarti, Director of Gayatri Vidya Parishad -Scientific and Industrial Research Centre ( GVP-SIRC) & GVP College of Engineering, Visakhapatnam, has developed an indigenous photonic system for real-time remote monitoring of air quality parameters. Prof Tatavarti was supported by Prof. P. Arulmozhivarman from the School of Electrical Engineering, VIT University, Vellore, and other team members. The system titled AUM (Air Unique-quality Monitoring) had CATS Eco-Systems, Nashik as the technology transfer partner for commercialization.
+
+
+    The AUM system (patent pending) is an innovative application of the principles of laser backscattering, statistical mechanics, optoelectronics, artificial intelligence, machine/deep learning, and Internet of Things. It can identify, classify, and quantify various pollutants simultaneously (of orders of less than one part per billion) and meteorological parameters, with very high precision, sensitivity and accuracy.
+
+
+    AUM was successfully evaluated during laboratory trials with gold standards (in collaboration with EffecTech, UK), and also compared in the field with imported systems from France, and Australia and operated by Karnataka State Pollution Control Board under the aegis of the Central Pollution Control Board of India.
+
+
+    It has been found to be highly sensitive and accurate and capable of simultaneous detection and quantification of all air quality parameters and offers a number of merits over any of the currently available conventional systems. It is portable, compact, low powered and economical, works on plug and play system, requires no setting uptime, and no additional civil infrastructure for housing. It provides information on all gases and meteorological parameters simultaneously. It is a non-intrusive remote, real-time monitoring system with very high sensitivities and accuracies and is capable of monitoring in both spatial and temporal domains, with very high sampling frequencies. Also, the data from spatially separated sensors can be seamlessly streamed to a cloud server, from where digestible real-time encrypted information on dashboard is made available to user at any part of the world.
+
+
+    This system can boost the nation’s efforts towards self-reliance in high-end technologies and can additionally be instrumental in supporting the endeavours in improving the nation’s health and economy.
+
+
+    [For more details contact Prof. Rao Tatavarti (rtatavarti@gmail.com ; +91 9490760658)]
+
+
+    *****
+
+
+    NB/KGS
+
+    
+    
+    (Release ID: 1645699) Visitor Counter : 679
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Bengali , Assamese , Tamil

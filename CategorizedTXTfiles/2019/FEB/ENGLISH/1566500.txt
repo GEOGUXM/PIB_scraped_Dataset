@@ -1,0 +1,95 @@
+      Ministry of Railways
+
+      Shri Piyush Goyal launches a New Facility for Public Viewing of Train Charts and Vacant Berths
+      
+      
+      The Facility will provide Information of the Vacant Berths available in the Train after Chart preparation
+      
+      
+      The Customer can use the Information for Online Booking of Vacant Berths or through TTE as per Business Rules
+      
+      
+      This Facility will also display Coach Layout of 9 Classes used in the Reserved Trains of Indian Railways and more than 120 different Coach Layouts
+
+      Posted On: 27 FEB 2019 4:46PM by PIB Delhi
+
+    To enhance travel experience and bring greater transparency for Indian Railway passengers, Minister of Railways & Coal, Shri Piyush Goyal launched a new facility for Public Viewing of Train Charts and Vacant Berths. Chairman, Railway Board, Shri V.K. Yadav, Member Traffic, Railway Board, Shri Girish Pillai, other Railway Board Members and Sr. Officials from Railways were also present on the occasion.
+
+
+    The information about occupancy in trains as per Passenger Reservation Charts will now be available for public view on the internet through IRCTC website ( www.irctc.co.in ). This will facilitate the prospective passengers in getting the information of the vacant berths available in the train after chart preparation. Complete information of vacant berths from train source as well as intermediate locations will be available to the user. Prospective customer can use the information for online booking of vacant berths or through TTE as per business rules. This feature is available in web as well as mobile version.
+
+
+    Speaking on the occasion, Shri Piyush Goyal said that it is another step to introduce transparency in the system and to add comfort to the travel experience of the passengers. He added that by introducing this new online platform for public viewing of train charts will put the practice of searching a Ticket collector in the moving train to an end. This new feature in ticketing system is a dynamic system which will keep upgrading itself as the train proceeds for the destination and make it more transparent as passengers can see the real time availability of berths.
+
+
+    The Minister also announced that IRCTC shall soon add 30 kitchen base and all kitchen bases will equipped with cameras for public viewing. Biodegradable packing of food prepared in these kitchen bases is also being planned so the quality of food is not lost during the transit. He announced that PoS machines will be made available to all TTEs and Catering staff onboard.
+
+
+    The Minister added that transparency and accountability are the guiding principles of this Government. He expressed the hope that we will keep taking further steps to ensure Minimum Government, Maximum Governance in the country.
+
+
+    Speaking on the occasion, Shri Girish Pillai, Member Traffic, Railway Board said, “Entire effort is to make reservation process as transparent as possible and comfortable to the public. The biggest advantage is passenger can see which berth is available even after second charts are made”. He also added in 20 days all Rajdhani & Shatabdi trains tickets can be booked even after second charts which are released 30 minutes before the departure of the train.
+
+
+    Backgrounder:
+
+
+    The user-friendly interface will give a graphical representation of the train coaches and berth-wise accommodation status on www.irctc.co.in website. The system displays coach layout of 9 classes used in the reserved trains of Indian Railways and more than 120 different coach layouts have been incorporated.
+
+
+    This feature displays class wise and coach wise full vacant berth availability information as per the ‘First Chart’ of the train. ‘First Chart’ is prepared four hours in advance to train departure. If the ‘Second Chart’ is also prepared, then the option to view the details of vacant berth available at the time of ‘Second Chart’ will also be displayed. The ‘Second Chart’ is prepared about 30 minutes prior to the departure of the train, to accommodate the information of current reservations and cancellations done after ‘First Chart’. Both the charts will get updated for every charting location as the train heads towards its destination.
+
+
+    How to access:
+
+
+    · On the home page of www.irctc.co.in a new option to view “CHARTS / VACANCY” will be available.
+
+
+    · On click of this option, journey details such as train number, journey date and boarding station will be taken from the user and on entering the same the user will be able to see class-wise and coach-wise number of vacant berths.
+
+
+    · The user can further click on a specific coach to see the coach layout along with berth-wise accommodation status like occupied for full journey, occupied for part journey and vacant for full journey.
+
+
+    Salient features:
+
+
+    Customer friendly flow:
+
+
+    · Availability of complete data on single click of button
+
+
+    · Simple flow
+
+
+    Enhanced Visual Experience
+
+
+    · Visual representation of coaches
+
+
+    · Coach layout view
+
+
+    · Data also presented in tabular form with filters on each column.
+
+
+    State of art technology
+
+
+    · Use of “React JS” Javascript library and HTML canvas for creating interactive User Interface.
+
+
+    *****
+
+
+    SVS/MKV/AP/ENS
+
+    
+    
+    (Release ID: 1566500) Visitor Counter : 2087
+    
+    
+      Read this release in: Hindi , Urdu , Marathi

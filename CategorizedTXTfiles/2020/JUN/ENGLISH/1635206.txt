@@ -1,0 +1,78 @@
+      Ministry of Electronics & IT
+
+      Government Bans 59 mobile apps which are prejudicial to sovereignty and integrity of India, defence of India, security of state and public order
+      Posted On: 29 JUN 2020 8:47PM by PIB Delhi
+
+
+    The Ministry of Information Technology, invoking it’s power under section 69A of the Information Technology Act read with the relevant provisions of the Information Technology (Procedure and Safeguards for Blocking of Access of Information by Public) Rules 2009 and in view of the emergent nature of threats has decided to block 59 apps ( see Appendix) since in view of information available they are engaged in activities which is prejudicial to sovereignty and integrity of India, defence of India, security of state and public order.
+
+
+    Over the last few years, India has emerged as a leading innovator when it comes to technological advancements and a primary market in the digital space.
+
+
+    At the same time, there have been raging concerns on aspects relating to data security and safeguarding the privacy of 130 crore Indians. It has been noted recently that such concerns also pose a threat to sovereignty and security of our country. The Ministry of Information Technology has received many complaints from various sources including several reports about misuse of some mobile apps available on Android and iOS platforms for stealing and surreptitiously transmitting users’ data in an unauthorized manner to servers which have locations outside India. The compilation of these data, its mining and profiling by elements hostile to national security and defence of India, which ultimately impinges upon the sovereignty and integrity of India, is a matter of very deep and immediate concern which requires emergency measures.
+
+
+    The Indian Cyber Crime Coordination Centre, Ministry of Home Affairs has also sent an exhaustive recommendation for blocking these malicious apps. This Ministry has also received many representations raising concerns from citizens regarding security of data and risk to privacy relating to operation of certain apps. The Computer Emergency Response Team (CERT-IN) has also received many representations from citizens regarding security of data and breach of privacy impacting upon public order issues. Likewise, there have been similar bipartisan concerns, flagged by various public representatives, both outside and inside the Parliament of India. There has been a strong chorus in the public space to take strict action against Apps that harm India’s sovereignty as well as the privacy of our citizens.
+
+
+    On the basis of these and upon receiving of recent credible inputs that such Apps pose threat to sovereignty and integrity of India, the Government of India has decided to disallow the usage of certain Apps, used in both mobile and non-mobile Internet enabled devices. These apps are listed in the attached appendix.
+
+
+    This move will safeguard the interests of crores of Indian mobile and internet users. This decision is a targeted move to ensure safety and sovereignty of Indian cyberspace.
+
+
+    Appendix
+
+ 1. TikTok             1. Mi Video Call – Xiaomi       
+ 2. Shareit            2. WeSync                       
+ 3. Kwai               3. ES File Explorer             
+ 4. UC Browser         4. Viva Video – QU Video Inc    
+ 5. Baidu map          5. Meitu                        
+ 6. Shein              6. Vigo Video                   
+ 7. Clash of Kings     7. New Video Status             
+ 8. DU battery saver   8. DU Recorder                  
+ 9. Helo               9. Vault- Hide                  
+10. Likee             10. Cache Cleaner DU App studio  
+11. YouCam makeup     11. DU Cleaner                   
+12. Mi Community      12. DU Browser                   
+13. CM Browers        13. Hago Play With New Friends   
+14. Virus Cleaner     14. Cam Scanner                  
+15. APUS Browser      15. Clean Master – Cheetah Mobile
+16. ROMWE             16. Wonder Camera                
+17. Club Factory      17. Photo Wonder                 
+18. Newsdog           18. QQ Player                    
+19. Beutry Plus       19. We Meet                      
+20. WeChat            20. Sweet Selfie                 
+21. UC News           21. Baidu Translate              
+22. QQ Mail           22. Vmate                        
+23. Weibo             23. QQ International             
+24. Xender            24. QQ Security Center           
+25. QQ Music          25. QQ Launcher                  
+26. QQ Newsfeed       26. U Video                      
+27. Bigo Live         27. V fly Status Video           
+28. SelfieCity        28. Mobile Legends               
+29. Mail Master       29. DU Privacy                   
+30. Parallel Space                                     
+                                                       
+                                                       
+                                                       
+
+    ***
+
+
+    RJ/M
+
+
+    
+
+    
+    (Release ID: 1635206) Visitor Counter : 30575
+    
+    
+      Read this release in: Urdu , Marathi , Hindi , Bengali , Manipuri , Punjabi , Tamil , Telugu
+    
+    
+    
+
+30.   29.

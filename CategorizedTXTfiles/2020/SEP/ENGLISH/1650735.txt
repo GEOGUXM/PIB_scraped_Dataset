@@ -1,0 +1,41 @@
+      Ministry of Finance
+
+      CBDT provides ITR Filing Compliance Check Functionality for Scheduled Commercial Banks
+      Posted On: 02 SEP 2020 7:06PM by PIB Delhi
+
+
+    Central Board of Direct Taxes in exercise of powers conferred under section 138(1)(a) of Income Tax Act, 1961, has issued Order inF.No. 225/136/2020/ITA.II dated 31.08.2020, for furnishing information about IT Return Filing Status to Scheduled Commercial Banks, notified vide notification No. 71/2020 dated 31.08.2020 under sub-clause (ii) of clause (a) of sub-section (1) of section 138 of the Act.
+
+
+    The data on cash withdrawal indicated that huge amount of cash is being withdrawn by the persons who have never filed income-tax returns. To ensure filing of return by these persons and to keep track on cash withdrawals by the non-filers, and to curb black money, the Finance Act, 2020 w.e.f. 1st July, 2020 further amended Income-tax Act, 1961 to lower the threshold of cash withdrawal to Rs. 20 lakh for the applicability of TDS for the non-filers and also mandated TDS at the higher rate of 5% on cash withdrawal exceeding Rs. 1 crore by the non-filers.
+
+
+    Income Tax Department has already provided a functionality “Verification of applicability u/s 194N” on www.incometaxindiaefiling.gov.in for Banks and Post offices since 1st July, 2020. Through this functionality, Bank/Post Office can get the applicable rate of TDS under section 194N of the Income-tax Act, 1961 by entering the PAN of the person who is withdrawing cash.
+
+
+    The Department has now released a new functionality “ITR Filing Compliance Check” which will be available to Scheduled Commercial Banks (SCBs) to check the IT Return filing status of PANs in bulk mode. The Principal Director General of Income-tax (Systems) has notified the procedure and format for providing notified information to the Scheduled Commercial Banks. The salient features of the using functionality are as under:
+
+     1. Accessing “ITR Filing Compliance Check”: The Principal Officer & Designated Director of SCBs, which are registered with the Reporting Portal of Income-tax Department ( https://report.insight.gov.in ) shall be able to use the functionality after logging into the Reporting Portal using their credentials. After successfully logging in, link to the functionality “ITR Filing Compliance Check” will appear on the home page of the Reporting Portal.
+     2. Preparing request (input) file containing PANs: The CSV Template to enter PAN details can be downloaded by clicking on “Download CSV template” button on the “ITR Filing Compliance Check” page. PANs, for which IT Return filing status is required, are required to be entered in the downloaded CSV template. The current limit of PANs in one file is 10,000.
+     3. Uploading the input CSV file: Input CSV file may be uploaded by clicking on Upload CSV button. While uploading, “Reference Financial Year” is required to be selected. Reference Financial Year is the year for which results are required. If selected Reference Financial Year is 2020-21 then results will be available for Assessment years 2017-18, 2018-19 and 2019-20. Uploaded file will start reflecting with Uploaded status.
+     4. Downloading the output CSV file: After processing, CSV file containing IT Return Filing Status of the entered PANs will be available for download and “Status” will change to Available. Output CSV file will have PAN, Name of the PAN holder (masked), IT Return Filing Status for last three Assessment Years. After downloading of the file, the status will change to Downloaded and after 24 hours of availability of the file, download link will expire and status will change to Expired.
+
+    Scheduled Commercial Banks can also use API based exchange to automate and integrate the process with the Bank’s core banking solution. Scheduled Commercial Banks are required to document and implement appropriate information security policies and procedures with clearly defined roles and responsibilities to ensure security of information.
+
+
+    ****
+
+
+    RM/KMN
+
+    
+    
+    (Release ID: 1650735) Visitor Counter : 442
+    
+    
+      Read this release in: Urdu , Hindi , Assamese , Tamil , Kannada
+    
+    
+    
+
+4.

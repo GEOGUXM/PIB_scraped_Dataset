@@ -1,0 +1,35 @@
+      Ministry of Railways
+
+      Minister of Railways Inaugurates Round Table Conference on Data Analytics for Indian Railways
+      Posted On: 16 MAY 2017 5:17PM by PIB Mumbai
+
+
+    Minister of Railways, Shri Suresh Prabhakar Prabhu inaugurated Round Table Conference on “Data Analytics for Indian Railways”. Chairman Railway Board, Shri AK Mital, other Railway Board Members, representatives and dignitaries from industry and senior officials from Railway Board were also present on the occasion.
+
+
+    Speaking on the occasion Shri Suresh Prabhu said that a series of Round Table Conferences are being conducted to ideate on various issues concerning Indian Railways. This Round Table Conference is to ideate on Data Analytics on Indian Railways. He also said that Data creation is phenomenal in Indian Railways to carry out commercial and operational opportunity. Data Analytics must be studied, analysed and monitored to improve Indian Railways’ program. Technology is ever evolving, need of the hour is to progress with Data Analytics. Indian Railways shall be the growth engine. Data Analytics can help to create a system that may benefit Railways immensely. Indian Railways is one of the largest Data creators in the world, it has to handle large volume of Data. Data Analytics is a way forward. Data needs to be used wisely. Privacy shall be protected and one of the largest ERP is created in Indian Railways.
+
+
+    Background:
+
+
+    Indian Railways has been using information technology extensively for the past three decades. As a result, large amount of data are available in different aspects of the Railways working such as Passenger Ticketing, Freight Operations, Crew Management, Track Maintenance, Rolling Stock Maintenance(Locomotive), Rolling Stock Maintenance(Wagon and Coaches), Expenditure Accounting etc.
+
+
+    In order to assist the management in taking effective strategic and tactical decisions, Railways have decided to use Data Analytics for Analysis of Data using various statistical and software tools. Data Analytics can help Railways in determining pricing of services, planning train operations on various routes, proactive safety measures and disaster management, predictive maintenance of assets to avoid failures etc.
+
+
+    PRS has data of trains, passengers, earnings, utilization of trains, class wise occupancy, waiting lists and passenger profile is also available in e-ticketing system. This huge data can be analysed to help in Providing innovative products to passengers so that occupancy is improved and passenger is able to get confirmed accommodation.
+
+
+    Freight Operations Information System has data of traffic carried on various routes, the time taken in transportation, the commodities transported, customers, price sensitivity of various streams of traffic etc.
+
+
+    Data Analytics can help in improving throughput and average speed of freight trains. Track Management System has data about condition of track, maintenance of track from time to time, inspection conducted, track renewal, deep screening, rail fractures etc. Data Analytics can help in Predicting vulnerable spots and preventive maintenance.
+
+
+    *****
+
+    
+    
+    (Release ID: 1489963) Visitor Counter : 334

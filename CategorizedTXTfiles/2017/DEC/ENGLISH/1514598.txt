@@ -1,0 +1,141 @@
+      Ministry of Electronics & IT
+
+      Key Achievements: 2017
+      Posted On: 29 DEC 2017 3:02PM by PIB Delhi
+
+        * Investment in Electronic Manufacturing grew by 27% in 2017
+        * Registered over 300% growth in digital transaction in last one year
+        * Aadhaar, the unique identity, covers over 99 percent adult residents of India
+        * Over 197 cr. documents placed in DigiLocker
+
+      Digital India, the flagship project of the Government of India, has made rapid progress in the year 2017. The Ministry of Electronics & Information Technology (MeitY), as a key ministry under the Government of India and the enabler of Digital India programme, has undertaken numerous revolutionary initiatives in the area of IT/ ITeS and electronic manufacturing that have put India on the global map and went on to become case studies for the reputed Universities across the globe. Having covered over 99% of the adult population of the country through the unique identity Aadhaar, the country is now looking at embracing the second phase of Digital India.
+
+
+      The year saw a 27% jump in the investment on electronic manufacturing where the total volume of investment reached 1.57 lakh crore in 2017 vis-à-vis 1.43 lakh crore in 2016; this was only 11,000 crore in 2014. There has been almost 60% rise on the production of mobile phones to reach 17.5 crore units vis-s-vis 11 crore units last year, adding 4 lakh direct and indirect jobs in the sector; this was only 6 crore units in 2014-15. Digital transactions witnessed a growth of over 300% during this year.
+
+
+      In 2017, the Government of India has introduced many pro-people IT initiatives that have transformed the governance system for good. Some of the key initiatives that were pushed forward included India BPO Promotion Scheme, Software Procurement Policy for faster delivery and effective monitoring of services, Tele-Law through CSCs to Mainstream Legal Aid in Rural India, amongst others. The CSCs (Common Services Centers) have been effectively used to reach out to the last miles and bridge the gaps between urban and rural sector, between digital haves and have-nots.
+
+
+      Enlisted below are some of the data points that substantiate the country’s march towards a robust digital economy:
+
+        * The Mobile Phone Revolution: Today India is home to 121 Crore Mobile Phone users, compared to 103 crore in 2016.
+            + Smartphone Users: The number of smart-phone users have grown from 30 crore in 2016 to 40 crore in 2017
+            + Internet Users : The number of internet users have grown from 40 crore in 2016 to 50 crore in 2017
+
+        * Growth in Mobile Phone Manufacturing:
+
+                o Jump of 60% in terms of units made. Manufacturing of mobile phones has reached 17.5 Crore units in 2016-17 from 11 crore in 2015-16.
+                o 105 mobile/ ancillary manufacturing units
+                o Created 4 lakh direct and indirect jobs since 2014 of which 2.4 lakh added in 2017
+
+        * Investment in Electronic Manufacturing:
+
+                                                                                  
+Investment in Electronic Manufacturing  2016             2017             % Growth
+                                                                                  
+                                                                                  
+                                                                                  
+MSIPS: Number of proposals              217              242              11.5%   
+                                                                                  
+                                                                                  
+                                                                                  
+MSIPS: Investment involved              1.23 lakh crore  1.57 Lakh crore  27%     
+                                                                                  
+                                                                                  
+
+        * Growth in Digital Payments: There has been a significant growth in various forms of digital payment due to initiatives taken by the Government in the aftermath of demonetization. The trend can be explained through the following table:
+
+                                                     
+Sl No.  Mode            8th Nov 2016  18th Oct, 2017 
+                                                     
+                                                     
+                                                     
+1       BHIM/ UPI       4000/ day     25.6 lakh/ day 
+                                                     
+                                                     
+                                                     
+2       Mobile Wallets  22 lakh/ day  88.43 lakh/ day
+                                                     
+                                                     
+                                                     
+3       Debit Cards     40 lakh/ day  82 lakh/ day   
+                                                     
+                                                     
+
+        * Aadhaar: With an objective to empower residents of India with a unique identity and a digital platform to authenticate anytime, anywhere, Aadhaar today is the world’s largest biometrics based digital identity system. Total number of Aadhaar account holders reached 119 Crore in 2017 compared to 104 Crore in 2016. Aadhaar is being used as a digital platform to enhance governance.
+
+
+      Progress of Aadhaar :
+
+                                                                                                           
+Sl. No.  Items                                        Status as per 2016                 Status as per 2017
+                                                                                                           
+                                                                                                           
+                                                                                                           
+1.       Total Number of Aadhaar Generated            104 crore                          119 Crore         
+                                                                                                           
+                                                                                                           
+                                                                                                           
+2.       Percentage of Adult Population on Aadhaar    86.6%                              99.9%             
+                                                                                                           
+                                                                                                           
+                                                                                                           
+3.       Total Mobile SIMs issued using Aadhaar eKYC  Implemented from September, 2016.  32 Crore          
+                                                                                                           
+                                                                                                           
+
+        * Jeevan Pramaan: It is an Aadhaar based platform for biometric authentication of the pensioners and senior citizens. Since its launch on 10 November 2014, over 150.15 lakh pensioners have registered on the portal till date, which was 16.54 lakh in 2016.
+
+        * Digital Locker System (DigiLocker): DigiLocker, launched in July 2016, serves as a platform to enable citizens to securely store and share their documents with service providers electronically after giving due permission. So far, over 197 crore document have been placed in DigiLocker enabling access to over 88 lakh users. For the first time both CBSE 10th Class results and NEET Results were also sent digitally into Digital Locker.
+        * Direct Benefit Transfers (DBT) through Aadhaar Payment Bridge (APB): A total of Rs. 2.43 Lakh Crore have been disbursed through Aadhaar based DBT to beneficiaries of 394 government schemes which have led to saving of Rs . 57,000 Crore in the last 3 years by removing fictitious claimants. Through this process a total of 2.33 Cr. bogus ration cards and 3 crore fake LPG connections were identified
+        * e-Taal (Electronic Transaction Aggregation & Analysis Layer): There has been a stupendous growth in e -Transactions in various e-Governance services. Today, e-Taal registers 4.5 crores transactions per day which grew from 2.07 crore in 2016 thereby integrating over 3506 e-Services .
+        * Common Services Centres (CSCs): CSCs are the world’s largest digital service delivery network. These information and communication technology enabled kiosks with broadband connectivity has been providing various governments, private and social services at the doorsteps of citizen.
+            + Today, around 2.7 lakh CSCs are active and offering digital services like Aadhaar enrolment, Ticket booking, of utilities and other eGovernance services to citizens from 1.68 Lakh Gram Panchayets, which was only 2.29 Lakh 2016.
+        * MyGov: This is a citizen-centric digital collaboration platform that empowers people to connect with the Government & contribute towards good governance. Started on July 26th 2014 and with a modest 8.74 lakh users in the first year, today MyGov has over 50 lakh active users under 64 groups who contribute their ideas through 756 discussion groups and participate through 701 earmarked tasks, that has grown from 36 lakh active users in 2016.
+
+      Other noteworthy achievements:
+
+        * India BPO Promotion Scheme: 18,160 seats of BPO already allocated. Another 13822 sect allocation nearing finalisation
+        * Jan Dhan Accounts: 30 Crore
+        * Jan Suraksha Schemes Registrations: 15 Crore
+        * MUDRA: 9 lakh people got Rs. 4 lakh Crores of loan
+        * Soil Health Card: 9.5 Crore cards made
+        * eNAM: 50 lakh registered farmers; 455 Agri Markets linked
+        * National Scholarship Portal: 1.4 Crore students registered
+        * GeM: 4600 byers, 14,512 sellers registered
+
+      NNK/MD
+
+    
+    
+    (Release ID: 1514598) Visitor Counter : 7588
+    
+    
+    
+    
+    
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+*

@@ -1,0 +1,43 @@
+      Ministry of Housing & Urban Affairs
+
+      Smart city Kalyan-Dombivli’s COVID-19 dashboard now opens for public
+      Posted On: 29 APR 2020 12:34PM by PIB Delhi
+
+
+      Kalyan Dombivli Municipal Corporation (KDMC) has recently announced that a dash board about COVID-19 situation in KDMC area is now available in public domain. The page has been linked with the website of municipal corporation, and other social media handles of city government (such as Facebook, Twitter, Instagram), and is open for viewing by public.
+
+
+      Dashboard can be accessed at https://kdmc-coronavirus-response-skdcl.hub.arcgis.com/
+
+
+      Main feature of the ‘dashboard’, is that, using the drop menu, citizens can get to know the status of COVID situation in any of the electoral ward and related graphs. Citizens can also get the status by clicking on the respective wards on spatial map of the city. The dashboard also provides multiple options to view the maps by changing the background base map from the options such as satellite view, road map etc.
+
+
+      KDMC City-level details of COVID cases
+
+
+      KDMC COVID cases at city-level along with ward-wise break-up
+
+
+      KDMC COVID cases for identified Ward
+
+
+      KDMC Date-wise status of COVID cases
+
+
+      KDMC Ward-wise status of COVID cases
+
+
+      ****
+
+
+      RJ/NG
+
+
+    
+
+    
+    (Release ID: 1619174) Visitor Counter : 18695
+    
+    
+      Read this release in: Urdu , Marathi , Hindi , Bengali , Manipuri , Assamese , Punjabi , Gujarati , Tamil , Telugu

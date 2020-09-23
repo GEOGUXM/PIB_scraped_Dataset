@@ -1,0 +1,125 @@
+      Ministry of Finance
+
+      43rd Civil Accounts Day on March 1, 2019; On the occasion, the Finance Minister, Shri Arun Jaitley to make a Statement on the implementation of PM -KISAN Yojana through PFMS and to release the Compendium on GST Refunds compiled by the Office of Pr. CCA (CBIC) among others
+      Posted On: 28 FEB 2019 3:55PM by PIB Delhi
+
+
+    The Indian Civil Accounts Service (ICAS) is celebrating March 1 every year as the “Civil Accounts Day”. Since its inception, the ICAS has steadily grown in stature and now plays an important role in the management of public finances of the Union Government. A function is being organized on March 1, 2019 at Mavalankar Auditorium, Constitution Club of India, Rafi Marg, New Delhi to mark the 43 rd Civil Accounts Day.
+
+
+    The 43 rd Civil Accounts Day will essentially show case the progress of the flagship project of the Indian Civil Accounts Organization viz the Public Financial Management System (PFMS). Apart from this, the role of PFMS in processing IGST refunds under the GST regime through its integration with the ARPIT application of the office of Pr. CCA, CBIC will also be show cased.
+
+
+    On the occasion, Shri Anthony Lianzuala, Controller General of Accounts (CGA) will launch two functionalities of PFMS aimed at strengthening, monitoring and user interface. These are:
+
+
+    1. The Mobile App for monitoring Banks performance
+
+
+    2. PFMS –Dashboard
+
+
+    The leveraging of Information Technology(IT) for strengthening efficiency in conduct of Risk Based Internal Audit will also be show cased through the GRIP (Gramin Internal Audit Portal of the Ministry of Rural Development) application. The Operational Manual for Risk Based Internal Audit will also be released during the function.
+
+
+    The function will also feature a Panel Discussion of Domain Experts on the topic of “Security Risks in Digitized Environment” .
+
+
+    On the occasion of 43rd Civil Accounts Day, the Finance Minister, Shri Arun Jaitley will be briefed by the Controller General of Accounts (CGA) on the following
+
+
+    1 -Implementation of PM -KISAN Yojana through PFMS
+
+
+    2 -Processing of GST refunds through the ARPIT application integrated with PFMS
+
+
+    The Finance Minister, Shri Jaitley will subsequently make a Statement on the implementation of PM -KISAN Yojana and will release the Compendium on GST refunds compiled by the Office of Pr. CCA (CBIC).
+
+
+    PFMS will now also be implementing the Government ambitious PM –KISAN Yojana which would involve an estimated additional 12 -13 crore beneficiaries. This involves a massive exercise of coordination with multiple stakeholders including the Ministry of Agriculture and the Banks for achieving the objective. It is indeed a proud moment for the Indian Civil Accounts Organization that the First Tranche of Rs. 2000 was successfully credited to the Banks Accounts of the first lot of 1.01 crore beneficiaries on 24 th February 2019 with the formal launch of the scheme by the Prime Minister.
+
+
+    The ICAS has been committed to the leveraging of IT for enhancing the efficiency of the payment, accounting, internal auditing and financial reporting systems of the Government of India. The Public Financial Management System (PFMS), launched in 2009, is the flexi project of the ICAS show casing this aspect.
+
+
+    The Government has positioned the PFMS as a key decision support system not only for tracking of flow of funds to the last beneficiary or implementation level but also to ensure just –in –time release of funds through an effective management of fund float. The Government is looking at PFMS for facilitating effective monitoring and control of unspent balances or parking of funds to check blockade of Government money.
+
+
+    The journey of PFMS (2009 -18)
+
+
+    · Total number of transactions – PFMS has successfully handled 186 crore payment transactions during this entire period. Out of this, 60 crore (approximately 30%) were effected during the calendar year 2018 alone.
+
+
+    · E –payments – PFMS has successfully effected total e –payments of R 46.66 lakh crore during this entire period out of which R 23.05 lakh crore (approximately 50%) were successfully processed during the calendar year 2018 alone.
+
+
+    · Bank Integration – PFMS today is integrated with a total of 249 banks under all categories. 67 of these banks were integrated during the calendar Year 2018 alone.
+
+
+    DBT transactions –
+
+
+    · PFMS has successfully processed in excess of 179 crore DBT transactions involving total DBT payments of R 3.94 lakh crore during this entire period. Almost 40% -45% of these transactions were successfully effected in the calendar year 2018 alone. Currently the total number of DBT beneficiaries being serviced by PFMS is in excess of 18 crores.
+
+
+    · Agencies registered for DBT – As on date 25.36 lakh agencies are registered with PFMS for DBT payments.
+
+
+    The highlights of the 43 rd Civil Accounts Day function shall be the following:
+
+
+    i. On the occasion of the 43 rd Civil Accounts Day, the Finance Minister shall be briefed by the Controller General of Accounts in the presence of Secretary (Expenditure) at 2:30 PM in his Chambers, North Block on the following:
+
+
+    · I mplementation of PM -KISAN Yojana through PFMS
+
+
+    · Processing of GST refunds through the ARPIT application integrated with PFMS
+
+
+    The Finance Minister will subsequently make a statement on the implementation of PM -KISAN Yojana and will release the Compendium on GST refunds compiled by the Office of Pr.CCA (CBIC).
+
+
+    ii. Launch of the following two functionalities of PFMS by Shri Anthony Lianzuala, Controller General of Accounts - The Controller General of Accounts has developed a (i) Dashboard for monitoring Scheme-wise Budget and Expenditure for all the Civil Ministries, and a (ii) Bank Monitoring Mobile Application to monitor performance of Banks in handling public monies.
+
+
+    With the Dashboard , the Department of Expenditure and the Senior Officers of all Civil Ministries can monitor expenditure on a near real-time basis with the expenditure data made available from PFMS (Public Financial management System) up to the previous day. The Dashboard also incorporates data from the treasury systems of the 29 States and 2 UTs with legislature, i.e. releases made by the Government of India to the State Governments under the various Centrally Sponsored Schemes. The data for Non-Tax Receipts (through www.bharatkosh.gov.in ) is also available for monitoring.
+
+
+    The Dashboard also has a unique feature of monitoring Bank Balance of all the Agencies involved in the implementation of schemes of Government of India. This is envisaged to reduce idle/parked/unutilised funds with the Agencies and to facilitate just-in-time releases, thereby reducing the cost to the Government of India.
+
+
+    The Bank Monitoring Mobile Application is a facility for Bank Performance Monitoring developed to keep track of various Key Performance Indicators for the over 250 Banks integrated with PFMS’s Account Validation and Payment system. Indicators like time taken to credit funds into the Beneficiary’s account are used to rank the Banks’ performance over time. This data is also made available through an application developed for mobile phones and is downloadable from Google PlayStore. The app is intended for use by the banks themselves, Scheme Managers and other monitoring agencies.
+
+
+    iii. The following applications shall also be show cased during the event:
+
+
+    · ARPIT Application of Office of Principal Chief Controller General of Accounts (CBIC) & its integration with PFMS - ARPIT (Accounting and Reconciliation Portal of Indirect Taxes) is the accounting and reconciliation Portal for Central Government in respect of Goods & Services Tax which was introduced in the country w.e.f.1.7.2017. The Portal has been designed and developed by the Office of the Principal Chief Controller of Accounts, CBIC under Department of Revenue. Till date ARPIT has successfully processed more than 18 crore transactions amounting to Rs. 8.5 lakh crore with 99.99% accuracy in respect of CGST, IGST, Compensation Cess and UTGST-others. This is a multi-user Portal and provides Dashboard facility and various MIS, Accounting and other Reports. ARPIT owing to its design and system capabilities can also be adopted by all the 29 states and 7 UTs for accounting of State GST/UTGST.
+
+
+    · GRameen Internal Audit Portal (GRIP) - GRameen Internal Audit Portal is an end to end software solution for document management of Risk Based Internal Audit and process related to analysis of the findings. This portal has been developed and piloted in Ministry of Rural Development where Risk Based Internal Audit of MGNREGA and PMAY schemes are done through this portal. Under MGNREGA, more than Rs.60,000 crore and more than 19,000 crore under PMAY has been allocated during current financial year. Office of CGA is responsible for conducting Internal Audit of the expenses incurred out of the funds released by Government of India. Hence efforts are made to make Internal Audit automated as well as comprehensive. This attempt of automation of Internal Audit through GRIP in Ministry of Rural Development has resulted in Audit analysis of MGNREGA and PMAY expenditure and also pointed out deficiencies in the implementation so that timely action is taken by the Government.
+
+
+    iv. The following Manual will be released during the function:
+
+
+    · Release of the Operational Manual of Risk Based Internal Audit- One of the events of the 42 nd Civil Accounts Day function was the release of the Internal Audit Hand Book which has been prepared by the Institute of Internal Auditors (IIA)- India as part of the Memorandum of Understanding (MoU) which was signed between O/o Controller General of Accounts and Institute of Internal Auditors- India in presence of theUnion Finance Minister on 14 th September, 2016. This Hand Book aims at giving in one place, the entire conceptual frame work of Risk Based Internal Audit (RBIA) approach. During the 43 rd Civil Accounts Day function it is proposed to release the operational Internal Audit Manual which will contain the checklist questionnaire for use/ reference of Internal Auditors of line Ministries/ Departments.
+
+
+    A proposal for creation of 475 posts (Group ‘A’ & Group ‘B’) for Internal Audit Wings of line Ministries/Departments is under the consideration of Department of Expenditure in order to meet the shortage in sanctioned man power.
+
+
+    *****
+
+
+    DSM/RM/KA
+
+    
+    
+    (Release ID: 1566626) Visitor Counter : 20657
+    
+    
+      Read this release in: Urdu

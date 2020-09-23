@@ -1,0 +1,45 @@
+      Ministry of Communications
+
+      Ministry of Electronics and Information Technology (MeitY) launches Cyber Swachhta Kendra - Botnet Cleaning and Malware Analysis Centre
+      Posted On: 22 FEB 2017 1:29PM by PIB Delhi
+
+      
+
+      Extending the 'Swachh Bharat' campaign to the cyber world, the Minister of Electronics and Information Technology, Shri. Ravi Shankar Prasad, today launched the Cyber Swachhta Kendra –Botnet Cleaning and Malware Analysis Centre for analysis of malware and botnets that affect networks and systems. This is a part of MeitY’s Digital India initiative aimed at creating a secure cyber space by detecting botnet infections in India and to notify, enable cleaning and securing systems of end-users to prevent further infections. The centre is operated by the Indian Computer Emergency Response Team (CERT-In).The Centre aims to enhance coordination between the Government and industry in order to encourage cyber hygiene among all end-users and to create a secure and safe internet ecosystem in India.
+
+      Speaking on the occasion, Mr. Ravi Shankar Prasad, Hon’ble Minister of Electronics and Information Technology said , “India is going to take a lead in the digitization process of the world. India today joined the distinguished club of countries that have malware cleaning systems for the use of its citizens. As of now, we have 13 Banks & internet service providers using this facility. With the expanding digital footprint in the country, I see a surge in start-ups in the area of cyber security by the end of the year”
+
+      “With the expanding role of Information and Communication technology across sectors and growth in volume of transactions and data exchange via internet, Cyber Security as reiterated by Hon’ble Prime Minister, has emerged as the most critical factor when we move towards Digital India. Combating cyber threats is not something that can be done just by the government or an organisation or an individual alone. It requires a partnership approach. This centre being launched today will work in coordination with the Internet Service Providers and Industry. This Kendra will also enhance awareness among citizens regarding botnet and malware infection along with measures to be taken to secure their devices”, added Shri Ravi Shankar Prasad.
+
+      The Hon’ble Minister made the following announcement at the launch of Cyber Swachhta Kendra :
+
+      · The National Cyber Coordination Centre to be operational by June 2017
+
+      · Sectoral CERTs to be created, that would operate under CERT-In
+
+      · CERTs are to be set up in the state level as well
+
+      · 10 more STQC (Standardisation Testing and Quality Certification) Testing Facilities to be set up
+
+      · Testing fee for any star-up that comes up with a digital technology in the quest of cyber security, to be reduced by 50%
+
+      · Empower designated Forensic Labs to work as the certified authority to establish cyber crime
+
+      The Centre will operate in close co-ordination and collaboration with Internet Service Providers (ISP) and Anti-Virus companies. Whenever an infection is detected, the Centre will send alerts on the infected IP addresses to the Internet Service Providers, who in turn will inform the end-user about the malware and botnet infections on their system. The Centre will also work in close collaboration with the Banks to detect malware infections in their banking network and enable remedial actions. The launch of the Centre will help the Internet service providers and the banks to keep their networks clean and prevent cases of cyber fraud and theft.
+
+      Ms. Aruna Sundararajan, Secretary, Ministry of Electronics and Information Technology said , “With the increased penetration of ICT infrastructure in our country, the threat of cyber security has become more serious and visible. Today, the common man is confronted with hacking, spamming, malware and loss of data, yet public awareness about these issues and how to protect themselves is extremely low. There is a need to collaborate and come forth with solutions like the Cyber Swachhta Kendra in order to ensure a safe and secure cyber world for the citizens of India.”
+
+      With the growth in digitalization and proliferation of broadband and mobile internet, security of end users’ systems is vital for enhancing their trust in ICT and online transactions. User information from the computer and the mobile devices can be compromised if systems get affected with Bots. Users therefore need to practice a rigid cyber hygiene regimen to prevent malware infections on their systems and to ensure security of their systems through suitable anti-malware tools. The Cyber Swachhta Kendra will provide free tools for detection and removal of malicious programmes. More than 3500 users have currently downloaded and tried the free bot removal tools till date. The end-user can log on to the Cyber Swachhta Kendra Portal ( www.cyberswachhtakendra.gov.in ) and clean their systems using the free cleaning tools. Users can also educate themselves about the various cyber threats and get information on the security tips in order to secure their computers, mobiles and prevent infections in their systems.
+
+      Given below are details of some of the tools released for citizens:
+
+      · USB Pratirodh -A desktop security solution, which protects from USB mass storage device threats.
+      · AppSamvid - A desktop solution which protects systems by allowing installation of genuine applications through white listing. This helps in preventing threats from malicious applications.
+      · M-Kavach – An indigenously developed solution to address the security threats in mobiles.
+
+      For downloading the free bot & malware removal tools, please visit: ( www.cyberswachhtakendra.gov.in )
+
+      NNK/MD
+    
+    
+    (Release ID: 1483179) Visitor Counter : 49

@@ -1,0 +1,67 @@
+      Ministry of Communications
+
+      Mobile Phone Security should be a National Priority: Shri Ravi Shankar Prasad
+      
+      5G Spectrum will be given for trial to all operators;
+      
+      
+      We need to make UPI payment interface a global beacon;
+      
+      
+      Launches Central Equipment Identity Register for tracing Stolen/Lost Mobiles in Delhi
+
+      Posted On: 30 DEC 2019 6:28PM by PIB Delhi
+
+    The Union Minister for Communications, Law & Justice and Electronics & Information Technology, Shri Ravi Shankar Prasad has said that the Mobile Security should be our National Priority because the mobile handset became an important tool for all online activities. He was addressing the gathering, here today, after launching a Web Portal called ‘Central Equipment Identity Register (CEIR)’ for the customers of Delhi to facilitate blocking and tracing of Stolen/Lost Mobile Phones in Delhi. The Lt. Governor of NCT of Delhi, Shri Anil Baijal, the Secretary, Telecom and the Chairman, Digital Communications Commission, Shri Anshu Prakash, the Commissioner of Delhi Police, Shri Amulya Patnaik, the Member (Technology), Digital Communications Commission, Shri S.K. Gupta were also present on the occasion.
+
+
+    Shri Ravi Shankar Prasad said that Government has decided to give 5G Spectrum for trial to all operators in the country. This may take few years to launch it fully all over the country, he added. UPI Payments interface has become primary means for all online money transactions in the country and we need to make it a Global beacon for making Indian rupee much stronger.
+
+
+    The Minister for Communications said that this is the age of communication and communication is power, and this is the age of technology and the technology is power. He further said that while we exploit use and make optimum involvement of technology for development the equally smart criminals induce technology for their own end. Therefore, we need a technology that safeguards our interests, he added.
+
+
+    Shri Ravi Shankar Prasad said that Aadhar is a digital identity to confirm our physical identity and the digital India is for digital inclusion. Digital India is empowering ordinary Indian to the power of technology which is leading to digital inclusion, he said. Industry should be more innovative and Indian players should imbibe new innovations in IT, he added.
+
+
+    The Lt. Governor of NCT of Delhi, Shri Anil Baijal while addressing said that in the NCR Delhi itself the mobile theft cases are increasing to the tune of 40,000 cases per year and there should be a mechanism to address this problem. He requested the Minister for Communication to consider the integration of Zonal Integrated Police Network (ZIPNET) with the CEIR for better functioning.
+
+
+    The Secretary, Telecom and the Chairman, Digital Communications Commission, Shri Anshu Prakash said that the Tele-density in the country has increased to 242 mobiles for 100 populations and the mobile handset became a means to fulfil all day-to-day requirements. Therefore, securing mobile with a system is the need of the hour.
+
+
+    International Mobile Equipment Identity (IMEI) is supposed to be a unique identity of a mobile phone device. A phone with one/two slots of SIM Card is programmed with one/two IMEI number as the case may be. IMEI number being programmable, some miscreants do reprogram the IMEI number, which results in cloning of IMEI causing multiple devices with same IMEI number. As on date, there are many cases of clones/duplicated IMEI handsets in the network.
+
+
+    If such IMEI is blocked, a large number of mobile phones will get blocked being handsets with same IMEI causing inconvenience to many genuine customers. Thus, there is a need to eliminate duplicate/fake IMEI mobile phones from the network.
+
+
+    Accordingly, this project called Central Equipment Identity Register (CEIR) system has been undertaken by the DoT for addressing security, theft and other concerns including reprogramming of mobile handsets.
+
+
+    The launch of Project in Delhi will facilitate as follows:
+
+
+     1. Request for blocking of stolen or lost mobile phone by customers.
+
+     2. Blocking of such mobile phones across mobile networks.
+     3. Allowing services to other existing customers have mobile phones with same IMEI number.
+     4. Sharing of traceability date with Police Authorities.
+     5. Unblocking of recovered/found stolen or lost mobile phones.
+
+    ***
+
+
+    BN/BK
+
+    
+    
+    (Release ID: 1598008) Visitor Counter : 728
+    
+    
+      Read this release in: Urdu , Hindi
+    
+    
+    
+
+5.

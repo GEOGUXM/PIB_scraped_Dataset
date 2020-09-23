@@ -1,0 +1,34 @@
+      Ministry of Railways
+
+      Railways introduces innovative analytical approach to locomotive scheduling to enhance productivity
+      Posted On: 16 MAR 2018 12:17PM by PIB Delhi
+
+
+    Indian Railways has introduced an innovative analytical approach to optimize the deployment of electric and diesel locomotivesrun passenger trains. This involves use of a software based mathematical decision support system to increase the productivity of locomotives.
+
+
+    Indian Railways has a fleet of about 3300 electric and diesel locomotive running passenger trains across the country. Locomotives are deployed to run passenger trains through cyclic schedules called locomotive links. Hitherto, locomotive links were being manually prepared by the respective sixteen zones to operate the trains allocated to the zones.
+
+
+    Ministry of Railways, with the help of experts, has evolved and implemented the software based decision support system to optimize the deployment of locomotives to run passenger trains at an all India level. The decision support system utilizes a mathematical model to work out the minimum number of locomotives required to run all the passenger trains as per time table while meeting the maintenance and operations requirements.
+
+
+    A pilot optimization exercise has been conducted by Transformation Cell of Railway Board, with active participation of all the sixteen zonal railways. This has resulted in reorganizing of locomotive links, which will save 30 diesel and 42 electric locomotives (costing about Rs.720 crores) being currently run in passenger services. The revised links are under implementation. These 72 locomotives released from passenger operations will be utilized to run additional freight trains and earn additional revenues.
+
+
+    Since timetabling of passenger trains is a dynamic process in view of periodic changes in train schedules, introduction of new trains and also the change in traction due to ongoing electrification, Ministry of Railways in Budget 2018-19 have sanctioned a project to be implemented by CRIS to institutionalize this process of locomotive link optimization using decision support system software across Indian Railways.
+
+
+    *****
+
+
+    SBS/MKV
+
+
+    
+
+    
+    (Release ID: 1524759) Visitor Counter : 1444
+    
+    
+      Read this release in: Urdu , Hindi , Tamil

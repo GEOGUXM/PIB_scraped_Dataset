@@ -1,0 +1,26 @@
+      Ministry of Finance
+
+      Corrigendum to Circular No. 45/19/2018-GST dated 30th May, 2018
+      Posted On: 22 JUL 2019 1:18PM by PIB Delhi
+
+
+    Certain registered persons, while filing the return in FORM GSTR-3B for a given tax period, committed errors in declaring the export of services on payment of IGST or zero rated supplies made to a SEZ unit/developer on payment of IGST. They showed such supplies in the Table under column 3.1(a) (outward taxable supplies) instead of showing them in column 3.1(b) (zero rated supplies) of FORM GSTR-3B . Such registered persons were unable to file the refund application in FORM GST RFD-01A . This was because of an in-built validation check on the common portal which restricted the refund amount claimed to the amount mentioned under column 3.1(b) of FORM GSTR-3B filed for the corresponding tax period.
+
+
+    In order to give relief to such registered persons, it was decided that for the tax periods from 01.07.2017 to 31.03.2018 , they shall be allowed to file the refund application in FORM GST RFD-01A on the common portal subject to the condition that the amount of refund claimed shall not be more than the aggregate amount mentioned in the Table under columns 3.1(a), 3.1(b) and 3.1(c) of FORM GSTR-3B filed for the corresponding tax period. This was clarified vide Circular No. 45/19/2018-GST dated 30.05.2018 .
+
+
+    Certain registered persons have committed the errors, as detailed in para 1 above, even for tax periods after March, 2018 and are unable to claim refund of the taxes paid on export of services or supplies made to SEZ unit/developer for these periods. To help these persons, it has now been decided to extend the period of the relief, by way of the relaxed validation as detailed in para 2 above, till 30.06.2019 . To this effect, a corrigendum to Circular No. 45/19/2018-GST has been issued on 18.07.2019. Exporters are encouraged to avail the benefit of this extension.
+
+
+    ****
+
+
+    DSM/RM/HP
+
+    
+    
+    (Release ID: 1579707) Visitor Counter : 3162
+    
+    
+      Read this release in: Urdu , Hindi , Marathi

@@ -1,0 +1,75 @@
+      Ministry of Electronics & IT
+
+      National Meet on Grassroot Informatics
+      
+      VIVID 2018: Weaving a Digital India
+
+      Posted On: 07 FEB 2018 1:26PM by PIB Delhi
+
+    National security, economic prosperity, innovation and social well-being are critically dependent upon the availability, integrity and confidentiality of a range of Information and Communications Technologies (ICT). Nearly every aspect of citizen’s daily life has been considerably transformed by the information revolution, and modern life depends upon the timely, adequate and confidential performance of cyberspace.In the last DIO meet (VIVID 2017), Hon’ble Minister applauded NIC as the technological bridge of India which is best placed to lead the way for a Digital India that the Prime Minister envisaged and urged the DIOs to be innovative and proactive by adopting a transformative approach to make a difference at the grassroots level.
+
+
+    With this as background, encouragement, recognition, commitment and with the thrust in Digital India that aims at transforming the country into a digitally empowered society and knowledge economy , National Informatics Centre (NIC) is organizing a three-day National Meet on Grassroot Informatics- VIVID 2018 from Thursday, 08 th February to Saturday, 10 th February, 2018 at the India Habitat Centre, New Delhi.
+
+
+    The three-day event will be inaugurated by Shri Ravi Shankar Prasad, Hon’ble Union Minister of Electronics & Information Technology and Law & Justice, GoI in the presence of ShriK.J. Alphons, Hon’ble MoS for Electronics & Information Technology, Tourism, GoI, Shri Ajay Sawhney, Secretary, Ministry of Electronics & Information Technology and other esteemed dignitaries.
+
+
+    About Us
+
+
+    National Informatics Centre (NIC) was established in 1976, and has since emerged as a "prime builder" of e-Government / e-Governance applications up to the grassroots level as well as a promoter of digital opportunities for sustainable development. NIC, through its ICT Network, "NICNET", has institutional linkages with all the Ministries /Departments of the Central Government, 36 State Governments/ Union Territories, and about 708 District administrations of India. NIC has been instrumental in steering e-Government/e-Governance applications in government ministries/departments at the Centre, States, Districts and Blocks, facilitating improvement in government services, wider transparency, promoting decentralized planning and management, resulting in better efficiency and accountability to the people of India.
+
+
+    VIVID 2018
+
+
+    VIVID this year would be an extensive platform for knowledge sharing which would empower 240 NIC District officials from across the country to interact and leverage on each other’s experience and best practices. During the three days, DIOs would give presentations on their portals, showcase their applications, their District initiatives and their immense contribution towards implementation of the Digital India initiative of the Government.
+
+
+    The Theme for VIVID 2018 is “ Cyber Security and Innovation ”.
+
+
+    The National Meet will also cover a wide range of relevant topics including Emerging Technologies (Internet of Things, Artificial Intelligence, Machine Learning & Big Data Analytics), Cyber Threats & Counter Measures (Changing Digitisation Paradigm & its impact on Security, Cyber Security Threats & Cyber Crimes), Critical Information Infrastructure protection (NIC-CERT), Enterprise Level Applications, and many more topics for DIOs.
+
+
+    Themes:
+
+
+    Cyber Security
+
+
+    The National Meet with special focus on ‘Cyber Security’ this year; is aimed at showcasing the various initiatives of NIC in creating and enhancing the security of Digital Infrastructure in the country. This is very significant in view of the fact that the attacks are increasing, both in prevalence and disruptive potential, and the cybercriminals have an exponentially increasing number of potential targets, because the use of cloud services continues to accelerate and the Internet of Things (IoT) is expected to increase the attack surface.
+
+
+    NIC provides multi-layered security framework for the protection of applications hosted in the Data Centres and related mobile apps as well as NIC infrastructure. NIC-CERT, a setup of NIC which will upscale the existing security infrastructure to prevent the rising number of cyber-attacks. The main objective is to create a comprehensive framework that integrates world class security components and inbuilt threat intelligence for detection, prevention and incident response.
+
+
+    Innovation
+
+
+    Innovation is also a theme for the DIO meet this year and was one of the important suggestions and directives by the Hon’ble Minister. In order to encourage innovative ideas, "NIC Innovation Challenge– 2018” for NIC District officials was announced on 15th November’ 2017. From 398 submissions, 13 teams of the following five categories have been selected for awards:
+
+
+      * Concept Note for Application of Emerging Technologies
+
+      * Concept Note for Innovation in Service Delivery
+      * Innovation in Data Visualization
+      * Mobile App Innovation
+      * Web App Innovation
+
+    In addition, NIC has developed an innovative service and shall launch S3WaaS i.e.‘Secure, Scalable and Sugamya Website as a Service’ during the event. S3WaaS servicewas meticulously designed and developed, which is a website generating framework to generate, configure, deploy and manage secure, scalable and accessible websites without much effort and technical knowhow.
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1519436) Visitor Counter : 662
+    
+    
+    
+    
+    
+
+*

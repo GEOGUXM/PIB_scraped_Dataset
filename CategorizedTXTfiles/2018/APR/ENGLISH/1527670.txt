@@ -1,0 +1,86 @@
+      Ministry of Railways
+
+      Measures to Strengthen the Reserved Ticketing System
+      Posted On: 04 APR 2018 5:56PM by PIB Delhi
+
+
+    In order to strengthen the reserved ticketing system, several checks and procedures as under have been implemented:
+
+
+    1. Standard Form Filling time of passenger details in Passenger Detail Form is set at 25 seconds irrespective of number of passengers.
+
+
+    2. Minimum time check of 10 seconds for users to carry out payments.
+
+
+    3. Minimum input time for CAPTCHA on Passenger Details Page and Payment Page is set to 5 seconds.
+
+
+    4. CAPTCHA is provided at Login page, Passenger detail page and Payment page.
+
+
+    5. Only two Tatkal tickets can be booked for single user ID in Opening Tatkal from 10:00-12:00 hrs.
+
+
+    6. Maximum six tickets in a month can be booked by a user from one user ID, however, 12 tickets can be booked by a user in a month if the user ID is Aadhaar verified and one of the passengers is Aadhaar verified.
+
+
+    7. Only one Tatkal ticket in single session is allowed (except return journey).
+
+
+    8. Only two Tatkal tickets per IP Address between 10:00-12:00 hrs. are allowed
+
+
+    9. One user can have only one login session active at one point of time.
+
+
+    10. Quick book functionality (single page for booking tickets) is not allowed between 08:00-12:00 hrs.
+
+
+    11. Only two tickets of Opening Advance Reservation Period can be booked by a user between 08:00-10:00 hrs.
+
+
+    12. One user can do only one login at one point of time either from multiple windows of same browser or different browsers.
+
+
+    13. Implementation of Dynamic Field name on Passenger page.
+
+
+    14. One Time Password is mandatory for all Banks for Net Banking.
+
+
+    15. QR Barcodes are being printed on Electronic Reservation Slip.
+
+
+    16. Additional security question is asked from user randomly after passenger input page related to user personal information, e.g. user name, email, mobile number, check box etc.
+
+
+    17. Agents are not allowed to book tickets between 08:00 AM to 08:30 AM, 10:00 AM to 10:30 AM and 11:00 AM to 11:30 AM to prevent cornering of tickets at the time of opening of Tatkal and Advance Reservation Period bookings.
+
+
+    18. Aadhaar Card is mandatory for Agents registration.
+
+
+    19. Exception Reports are generated for suspicious IDs and time check violation attempts and for bookings done in first second of opening of ARP and tatkal bookings. Such user IDs are deactivated manually after analysis.
+
+
+    20. Multilayer security with Deep Defence is implemented in the e-ticketing system. It comprises of Frontend and Backend Firewall, Network Intrusion Prevention System, Web Application Firewall, Security Information Event management, Host Intrusion Prevention System, Operating System Hardening on all servers, Web/Application server Hardening, Database Server Hardening and Spring Security Framework in the Application Software.
+
+
+    This information was given by the Minister of State of Railways Shri Rajen Gohain in
+
+
+    a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    SBS/MKV/PM
+
+    
+    
+    (Release ID: 1527670) Visitor Counter : 216
+    
+    
+      Read this release in: Tamil

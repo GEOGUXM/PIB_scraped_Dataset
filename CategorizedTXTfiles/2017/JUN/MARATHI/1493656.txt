@@ -1,0 +1,24 @@
+      Department of Space
+
+      PSLV-C38 Successfully Launches 31 Satellites in a Single Flight
+      Posted On: 23 JUN 2017 2:52PM by PIB Mumbai
+
+
+    ISRO’s Polar Satellite Launch Vehicle PSLV-C38 successfully launched the 712 kg Cartosat-2 Series Satellite along with 30 co-passenger satellites today from Satish Dhawan Space Centre SHAR, Sriharikota. This is the thirty ninth consecutively successful mission of PSLV.
+    
+    PSLV-C38 lifted off at 0929 hrs (9:29 am) IST, as planned, from the First Launch Pad. After a flight of about 16 minutes, the satellites achieved a polar Sun Synchronous Orbit of 505 km inclined at an angle of 97.44 degree to the equator (very close to the intended orbit) and in the succeeding seven and a half minutes, all the 31 satellites successfully separated from the PSLV in a predetermined sequence beginning with Cartosat-2 series satellite, followed by NIUSAT and 29 customer satellites. The total number of Indian satellites launched by PSLV now stands at 48.
+    
+    After separation, the two solar arrays of Cartosat-2 series satellite were deployed automatically and ISRO's Telemetry, Tracking and Command Network (ISTRAC) at Bangalore took over the control of the satellite. In the coming days, the satellite will be brought to its final operational configuration following which it will begin to provide various remote sensing services using its panchromatic (black and white) and multispectral (colour) cameras.
+    
+    One of the 30 co-passenger satellites carried by PSLV-C38 was the 15 kg NIUSAT, a University/Academic Institute satellite from Nurul Islam University, Tamil Nadu, India. The remaining 29 co-passenger satellites carried were international customer satellites from USA (10), United Kingdom (3), Belgium (3), Italy (3), Austria (1), Chile (1), Czech Republic (1), Finland (1), France (1), Germany (1), Japan (1), Latvia (1), Lithuania (1) and Slovakia (1).
+    
+    With today’s successful launch, the total number of customer satellites from abroad placed in orbit by India’s workhorse launch vehicle PSLV has reached 209.
+
+    ****
+
+
+    APS/SB
+
+    
+    
+    (Release ID: 1493656) Visitor Counter : 360

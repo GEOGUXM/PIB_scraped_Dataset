@@ -1,0 +1,111 @@
+      Ministry of Science & Technology
+
+      Secretary, DST Prof. Ashutosh Sharma inaugurates Digital Gandhi Gyan Vigyan Exhibition Phase-II
+      Posted On: 30 JAN 2020 7:42PM by PIB Delhi
+
+
+    The Secretary, Department of Science & Technology (DST), Prof. Ashutosh Sharma inaugurated the Phase-II of the Digital Gandhi Gyan Vigyan Exhibition here today on the occasion of Martyr's Day. The Exhibition showcasing Augmented Reality (AR) and Virtual Reality (VR) based exhibits on the events related to life of Mahtma Gandhi has been launched by the DST, in collaboration with M/s Vizara Technologies Pvt. Ltd, Delhi, a technology start-up under incubation of IIT Delhi.
+
+
+    The Exhibition
+
+
+    The following five Exhibits are being showcased in the “ Digital Gandhi Gyan-Vigyan Exhibition- Phase II ” in the DST Office at Technology Bhavan are:
+
+     1. ViRaasat Sabarmati Ashram – A Mixed reality installation with a 3D fabricated physical model of the Ashram with an interactive Virtual walk-through and a Guided Tour.
+     2. Models of Gandhiji’s Utensils with an AR experience showcasing his experiments with food, his changing food habits over time and the science behind his food choices.
+     3. Gandhiji’s letters mounted on a wall, augmented by an AR App to show related text, images, videos, etc.
+     4. A Physical Map of India with an Augmented Reality (AR) Experience showcasing Gandhiji’s travels over India using a Smart-phone / Tablet.
+     5. 3D Printed Gandhi Mementos (Statue and Signatures) augmented with an AR App.
+
+     1. ViRaasat Sabarmati Ashram
+
+
+    This is a Mixed - reality installation with a 3D fabricated physical model and an interactive Virtual walk-through of the Gandhi Sabarmati Ashram at Ahmedabad. The Ashram is situated next to the Sabarmati river, and has many iconic, historic buildings. The installation called a ViRaasat installation is housed in a kiosk of size 8 ft X 4 ft X 9 ft and is composed of the following:
+
+      * A Table to place the 3D fabricated model. In “ViRaasat Sabarmati Ashram”, the model placed on the table is of Hriday Kunj, Gandhiji’s home and office at the Sabarmati Ashram. It shows the different rooms and even some of Gandhiji’s possessions.
+      * A Screen behind the table to project the Virtual Walk-through of the Sabarmati Ashram, interactively controlled through a Game Controller and a Tablet.
+      * Projectors for projection on the model and the screen.
+      * A Graphics workstation to render the Models and run the computer graphics software.
+
+    Users can interactively and virtually explore the Sabarmati Ashram using the game controller. They can also watch a guided virtual tour of the Ashram.
+
+     1. Gandhiji’s Utensils AR Experience
+
+    Fig. Digital Images of Gandhiji’s meals augmented over 3D printed models of his utensils.
+
+
+    3D printed models of Gandhiji’s Utensils with an AR experience showcasing his experiments with food, his changing food habits over time and the science behind his food choices.Gandhiji conducted many experiments with food - these were scientific and well researched. He kept a food diary in which he carefully recorded everything he ate and everything he felt. He never permanently gave up cooked food, but grew more inclined towards uncooked and organic food over time. Through an augmentation over 3D printed models of his utensils, the AR experience here tells the story of how his meals changed over time.
+
+
+    Users can download and install the app “ Digital Gandhi Gyan Vigyan ” from the Google Play store on their Android Smartphones to experience the AR over the Utensils.
+
+
+     1. Gandhiji’s Letters AR experience
+
+
+    Fig. Digital Images of Gandhiji’s letters seen through augmentation.
+
+
+    Gandhiji was a prolific writer. He believed in the importance of communicating through letters. Throughout his life, he wrote letters to his family, friends, associates, national and international leaders; wrote in many languages that he knew; and wrote about topics close to his heart, expressing his deepest thoughts. Three of his letters are shown in this exhibit augmented by an AR experience through the mobile AR app “ Digital Gandhi Gyan Vigyan ”, to be downloaded from the Google play store.
+
+     1. Gandhiji’s Travels AR Experience
+
+    Mahatma Gandhi travelled across the length and breadth of India, inspiring people everywhere. This AR experience shows some locations and their connection with Mahatma Gandhi. A Physical map of India is shown in this exhibit augmented byan AR experience through the mobile AR app “ Digital Gandhi Gyan Vigyan ”, to be downloaded from the Google play store.
+
+     1. 3D Printed Gandhi Mementos (Statue and Signatures) augmented with an AR App.
+
+    One of the mementos is a 3D printed statue of Mahatma Gandhi in a walking posture with a 3D printed model of his signature in English. The replica is made by using a 3D scan model of the Statue of Mahatma Gandhi located at the entrance of the Canadian Museum for Human Rights in Winnipeg, Manitoba. The original sculpture was created by renowned Indian sculptor Ram Vanji Sutar. This sculpture exemplifies Mahatma Gandhi’s ideals of peace, justice, simplicity, minimalism and relentless action-oriented determination to achieve his goals – one of them being the independence of India. The replica is 3D printed in PLA, a bio-degradable plastic material, using additive manufacturing.
+
+
+    The smaller memento is a 3D printed replica of the English signatures of Mahatma Gandhi along with a line drawing of him in a walking posture.
+
+
+    Both these mementos comewith an Augmented Reality app called Digital GandhiAkar PrakaAR , which can be downloaded from Google Play Store and used by starting the app and pointing the camera of an android device (phone or tablet) at the Gandhi statue/signature. The Hindi phrase Akar Prakar means “Dimensions”, and this app provides an insight into the different dimensions of Mahatma Gandhi’s life and teachings.
+
+
+    The Exhibits of Digital Gandhi Gyan Vigyan Exhibition Phase-I
+
+
+    The following two Exhibits which were showcased in the “Digital Gandhi Gyan-Vigryan Exhibition” inaugurated on the 2 nd October 2019 are also being exhibited:
+
+     1. Sabarmati Ashram - Treasure Hunt in VR
+     2. Augmented, Physical Charkha with an AR App
+
+     1. Sabarmati Ashram- Treasure Hunt in VR:
+
+
+    This is an Immersive VR experience based on the life of Gandhi ji, specially focussing on the Sabarmati Ashram.
+
+      * This is a room-scale VR setup where the visitor wears a VR Headset wired to a Computer.
+      * Visitor feels that s/he is walking around in different buildings and space of the Sabarmati ashramby moving physically in the real world. Some of these are the Hriday Kunj, the Magan Niwas, the Sangrahalaya, the Vinoba Kutir, and so on.
+      * The interaction is built as a Treasure hunt, and the Visitor also gets to view important objects related to Gandhiji and collect them. Some of these are Gandhi ji’s personal cutlery, Gandhi ji’s eye-glasses, and a Charkha.
+      * This experience is for one Visitor at a time, but a TV screen shows the VR experience being enjoyed by the Visitor to other viewers.
+
+    Some screenshots of the VR experience are:
+
+
+     1. Charkha with an AR App
+
+
+    A Physical model of a Charkha similar to the one owned and used by Gandhi ji, isplaced at on a table top. It gets animated when seen through an AR app on a hand-held device such as a smart-phone or tablet. User can know more about its history, mechanics and linkage to Gandhi ji from the AR App.User can also interact with the Charkha model, place a cotton into it, and spin it with his fingers to produce a thread.
+
+
+    APP Screenshots:
+
+
+    *****
+
+
+    RCJ/PK
+
+    
+    
+    (Release ID: 1601188) Visitor Counter : 512
+    
+    
+    
+    
+    
+
+1.

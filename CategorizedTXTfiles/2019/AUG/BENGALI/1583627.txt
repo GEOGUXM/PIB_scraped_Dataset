@@ -1,0 +1,35 @@
+      Ministry of Education
+
+      IIT Kharagpur collaborates with AWS to develop a National AI Resource Platform (NAIRP)
+      Posted On: 30 AUG 2019 4:08PM by PIB Kolkata
+
+
+    Kolkata, August 30, 2019.
+
+
+    IIT Kharagpur today announced that it will collaborate with Amazon Web Services, Inc. (AWS), an Amazon.com company, to develop a National Artificial Intelligence Resource Portal (NAIRP) platform powered by Amazon SageMaker to promote learning and development in Artificial Intelligence (AI) for all AI learners, practitioners, and researchers in India, and to make the search for AI learning resources simpler and more accessible.
+
+
+    IIT Kharagpur will use AWS Promotional Credits and Amazon SageMaker services to facilitate AI learning.
+
+
+    NAIRP will provide access to compute facilities to users for AI learning and experimentation. Novice machine learning practitioners will be able to quickly search and get access to myriads of learning resources, and prototype the learned concepts into hands-on running modules without being held back by the lack of resources. In addition to this, the opportunity for joint research will facilitate participation of students and researchers in contributing to open source educational resources and workbook development for AI-related tasks.
+
+
+    NAIRP was launched with initial funding from Ministry of Human Resources Development, as part of the National Digital Library of India (NDLI) platform. NAIRP builds upon and expands NDLI to AI by indexing a wide variety of AI-specific resources such as learning materials, courses, workbooks, datasets, codes, tools and platforms.
+
+
+    The National Artificial Intelligence Resource Portal will provide search, browse, learning and computation services.
+
+
+    *********
+
+
+    SSS
+
+    
+    
+    (Release ID: 1583627) Visitor Counter : 9
+    
+    
+      Read this release in: Bengali

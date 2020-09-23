@@ -1,0 +1,17 @@
+      PIB Headquarters
+
+      MIXED LINEAGE LEUKEMIA (MLL) PROTEIN CONTRIBUTES TO CANCER: A NEW KID IN THE BLOCK
+      Posted On: 20 JUN 2017 8:17PM by PIB Hyderabad
+
+
+    Mixed Lineage leukemia (MLL) protein is closely associated with leukemia (blood cancer) in children and adults. A team lead by Dr. Shweta Tyagi at Centre for DNA Fingerprinting and Diagnostics, Hyderabad recently provide insight into how this protein plays a crucial role in cell division by regulating chromosome segregation. These findings will be published in Developmental Cell in Vol. 41 Issue. 6 on June 19, 2017. C hromosomal translocations in the mll gene occur frequently in acute myeloid and lymphoid leukemia. Such translocations give rise to new chimeric fusion proteins. Most researchers focus on how these fusion proteins may be causing cancer. Meanwhile little effort is made to discover the essential cellular functions of MLL. Dr. Tyagi’s group has been looking into how MLL regulates cell cycle, a process intimately linked with cancer.
+
+
+    While undergoing cell division, all chromosomes align themselves in a straight line so that they can be divided equally into two daughter cells. To segregate, the chromosomes attach to spindle microtubules, which acts like ropes to pull the chromosomes to each end. They observe that when they knockdown MLL by RNAi, chromosomes keep trying to align but do not succeed. A process which takes less than forty minutes in normal cell, goes on for several hours in the absence of MLL. As a result, both daughter cells do not receive equal number of chromosomes and such cells are highly likely to become cancerous. Their findings show that MLL acts by recruiting key kinesin ‘motor’ protein Kif2A to mitotic spindles. Kif2A is responsible for organizing the spindles and in absence of MLL it is unable to reach the spindles on its own. (Interestingly, Kif2A is associated with several kinds of cancers too.) Their work highlights that absence of MLL itself gives rise to genomic instability and makes the cell prone to cancer. This study comes at a time when lot of effort is being put to find drug targets for leukemia. However, without first understanding the underlying cause, such efforts are likely to fail. This study at CDFD provide insight into this novel function of MLL and Dr. Tyagi is optimistic that future work from her group will help in understanding how MLL regulates chromosome division and will provide a better drug target for blood cancer then being tested now.
+
+
+    ***
+
+    
+    
+    (Release ID: 1493402) Visitor Counter : 23

@@ -1,0 +1,268 @@
+      Ministry of Electronics & IT
+
+      MyGov Announces Winners of ‘AatmaNirbhar Bharat App Innovation Challenge’; Encourages the Spirit of Self-Reliance & Innovation
+      Posted On: 07 AUG 2020 8:59PM by PIB Delhi
+
+
+    On 7th August, all the Apps shortlisted under AatmaNirbhar Bharat App Innovation Challenge’were presented to people of India through a Webcast that was broadcasted live and at the end of the Webcast, the results of the App Innovation challenge was announced ( list attached at end of release).
+
+
+    Prime Minister Narendra Modi had launched the ‘AatmaNirbhar Bharat App Innovation Challenge’, on the 4th of July 2020, when he shared the following on Twitter:
+
+
+    Today there is immense enthusiasm among the tech & start-up community to create world class Made in India Apps. To facilitate their ideas and products @GoI_MeitY and @AIMtoInnovate are launching the Aatmanirbhar Bharat App Innovation Challenge.
+
+
+    Prime Minister also exhorted the tech entrepreneurs in a LinkediN post asking them to ‘Lets Code for An Aatmanirbhar Bharat’
+
+
+    The App Challenge was launched on the Innovate platform of MyGov, the citizen engagement platform of Government of India, and received as many as 6,940 entries from tech entrepreneurs and start-ups across the country, by 26th July, the last date for receipt of entries. The first of its kind, App Innovation challenge sought entries for 9 different categories namely Business, eLearning, Entertainment, Games, Health, News, Office and Work from Home, Others and Social. Atal Innovation Mission, Niti Aayog actively collaborated and supported MyGov in conduct of the Challenge along with Meity Startup Hub and National e Governance Division, under Digital India Corporation of Ministry of Electronics and Information technology.
+
+
+    The entries received were screened by teams and the top entries in each category were shortlisted for evaluation by an eminent Jury comprising of the best of the technical minds and experts from Industry, Startups, Academia and Government.
+
+
+    Over a period of 5 days from July 31st to August 4th, extensive presentations were made by the Jury members who assessed the Apps on the parameters of robustness, scalability, security and ease of use. Interesting and Innovative Apps were received in all categories and the Jury after the presentations identified 24 Apps to be rewarded with prizes. Another 20 Apps were identified for Special Mention which have a great potential in being Apps for the future. Jury also made a mention that there are many other Apps who are at various stages of development and they will also compete with the award winning Apps in the near future. Accordingly, it was suggested to have a policy to have such challenges on a regular basis to constantly update the Leader boards as also to provide institutional support through mentoring and tying up with Incubation centers of Atal Innovation Mission as also other Government institutions to kick-start the App Building Ecosystem in India. India is one of the largest App publishers in the world and the Developer community in India have the potential of making Apps that can be the best in the World. It was interesting to note that many of the Apps developers were women and represented almost the entire country. This challenge has proved that India has the talent base to build Apps for the future.
+
+
+    The following is the list of winners in various categories under‘AatmaNirbhar Bharat App Innovation Challenge’:
+
+
+    Winners
+
+                                                                                
+Category       Category Rank  App Name                                          
+                                                                                
+                                                                                
+                                                                                
+Entertainment  1              CaptionPlus                                       
+                                                                                
+                                                                                
+                                                                                
+Entertainment  2              Meme Chat                                         
+                                                                                
+                                                                                
+                                                                                
+Entertainment  3              FTC Talent                                        
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+News           1              Logically - Check Fake News and Verify Facts      
+                                                                                
+                                                                                
+                                                                                
+News           2              IsEqualTo - Daily News, Quiz and GK for Students  
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Games          1              Hitwicket™ Superstars - 3D Cricket Strategy Game  
+                                                                                
+                                                                                
+                                                                                
+Games          2              ScarFall : The Royale Combat                      
+                                                                                
+                                                                                
+                                                                                
+Games          3              World Cricket Championship 2 - WCC2               
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Office         1              Zoho Workplace & Cliq                             
+                                                                                
+                                                                                
+                                                                                
+Office         2              SureMDM                                           
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Health         1              StepSetGo (SSG) - Step Earn Redeem                
+                                                                                
+                                                                                
+                                                                                
+Health         2              iMumz - Week by week Pregnancy Program            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+eLearning      1              Disprz                                            
+                                                                                
+                                                                                
+                                                                                
+eLearning      2              Kutuki Kids Learning App - Your Preschool at Home 
+                                                                                
+                                                                                
+                                                                                
+eLearning      3              Hello English: Learn English                      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Business       1              Zoho Invoice, Books & Expense                     
+                                                                                
+                                                                                
+                                                                                
+Business       2              Mall91 - Earn by refer, Save by Shopping in Groups
+                                                                                
+                                                                                
+                                                                                
+Business       3              GimBooks- Easy Invoice Manager                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Social         1              Chingari - Original Indian Short Video App        
+                                                                                
+                                                                                
+                                                                                
+Social         2              YourQuote — India's Largest Writing App           
+                                                                                
+                                                                                
+                                                                                
+Social         2              Koo: Follow Top Indians & News in Indian Languages
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Others         1              MapmyIndia Move: Maps, Navigation & Tracking      
+                                                                                
+                                                                                
+                                                                                
+Others         2              AskSarkar                                         
+                                                                                
+                                                                                
+                                                                                
+Others         3              Myitreturn                                        
+                                                                                
+                                                                                
+
+    The winners will be given the following prize money:
+
+
+    First Prize 20 Lakhs
+
+
+    Second Prize 15 Lakhs
+
+
+    Third Prize 10 Lakhs
+
+
+    Special Mention
+
+
+    In addition the Jury has recognised the following Apps for Special mention which have potential to be winners in future and accordingly these Apps will be part of the Leader boards in various categories:
+
+                                                                 
+Category       App Name                                          
+                                                                 
+                                                                 
+                                                                 
+Entertainment  Boom                                              
+                                                                 
+                                                                 
+                                                                 
+Entertainment  DocuBay                                           
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+News           LetsUp: Local Breaking Marathi News, Live Updates 
+                                                                 
+                                                                 
+                                                                 
+News           Paperboy: Newspapers,Magazines                    
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+Games          Math Games, Learn Add, Subtract, Multiply & Divide
+                                                                 
+                                                                 
+                                                                 
+Games          Donkey Master: Donkey Card Game                   
+                                                                 
+                                                                 
+                                                                 
+Games          Kite Fly                                          
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+Office         Spark.Live - Video Connect With Experts Everywhere
+                                                                 
+                                                                 
+                                                                 
+Office         IamHere                                           
+                                                                 
+                                                                 
+                                                                 
+Office         Kaagaz Scanner                                    
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+Health         SastaSundar-Genuine Medicine, Pathology,Doctor App
+                                                                 
+                                                                 
+                                                                 
+Health         Aurum - best therapy, counselling, anxiety, stress
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+eLearning      ChalkLit                                          
+                                                                 
+                                                                 
+                                                                 
+eLearning      eMedicoz                                          
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+Business       Boomer- Build a Website; Website Builder          
+                                                                 
+                                                                 
+                                                                 
+Business       Linq My Business                                  
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+Social         Hidoc Dr. - Medical Learning App for Doctors      
+                                                                 
+                                                                 
+                                                                 
+Social         Mitron                                            
+                                                                 
+                                                                 
+                                                                 
+                                                                 
+Others         Xploree AI Keyboard – GIFs, Stickers, Smart Themes
+                                                                 
+                                                                 
+                                                                 
+Others         Life Hacks                                        
+                                                                 
+                                                                 
+
+    For the award winning Apps, MyGov has also launched a Poll on MyGov for citizens to vote for their favorite Apps.
+
+
+    MyGov congratulated all the App Winners, App Special Mentions and all participants in the App Innovation Challenge.
+
+
+    ***
+
+
+    RCJ/M
+
+    
+    
+    (Release ID: 1644229) Visitor Counter : 1383
+    
+    
+      Read this release in: Hindi , Manipuri , Tamil

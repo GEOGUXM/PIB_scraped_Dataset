@@ -1,0 +1,64 @@
+      Ministry of Culture
+
+      Carelessness and Ignorance are the main factors leading to Cyber Attacks, notes Nehru Science Centre Lockdown Lecture on Cyber Security
+      
+      Home Ministry’s National Cyber Crime Reporting Portal is a dedicated mechanism to resolve cybercrimes
+
+      Posted On: 09 JUL 2020 5:20PM by PIB Mumbai
+
+    Mumbai, 9 July 2020
+
+
+    In its “Lockdown Lecture Series” on various issues of social importance, Nehru Science Centre, Mumbai today organized an online Lecture on Cyber Security. The lecture titled “Understanding Cyber Security” was delivered by Col. Pradeep Bhat (Retd.), Consultant, National Critical Information Infrastructure Protection Centre (NCIIPC).
+
+
+    ‘The more you sweat in peace, the less you bleed in war’, Col. Pradeep Bhat (Retd) began his lecture mentioning how prepared we should be in the war against cybercrime.
+
+
+    He said “The subject of Cyber Security should not create fear and awe in us. Like physical security, cyber security too is based on simple principles and practices which we can understand and imbibe in our daily life”.
+
+
+    He also explained how the same computers, mobile phones or smart devices which help us in executing our day to day activities can become a threat and may pave way to cyber frauds. Smart devices and machines are those that can be programmed to carry out different functions.
+
+
+    He spoke about the communication system existing between smart devices, various components involved in the networking system, how the data is collected, processed, stored and used by these devices.
+    “It is very important to know the components and various networks through which smart devices communicate with each other, since these can be used for cybercrimes”, he stressed.
+
+
+    He also mentioned how significant it is to protect our personal data from sharing on various platforms. “The first step to protect a ‘valuable’ is to identify it. However unlike physical valuables like gold chain, cash or debit cards, it is very tough to recognise your 'digital valuables'. Digital valuables are nothing but a collection of 0s and 1s stored as binary data which are saved as files or transmitted as streams”, he added
+
+
+    There are persons and organisations which have legitimate access to an individual’s digital valuables viz. self, trusted people, organisations which are service providers who give legitimate service and the government that provides IT service to its citizens through e-governance and Digital India programmes.
+
+    Inappropriate access of such valuables to threat actors, like a stalker, blackmailer, competitor, anti-government groups who have mala fide intent may cause serious damage.
+
+
+    “Home Ministry has launched 'National Cyber Crime Reporting Portal’, https://cybercrime.gov.in., where one can report cybercrime complaints online. It is a dedicated mechanism to resolve cybercrimes”, he said. At the national level, Computer Emergency Response Team is the nodal agency to advise and respond to cybercrimes that is reported all over the country.
+
+
+    He also said that of all the factors that lies behind a cybercrime it is ultimately one’s carelessness and ignorance that leads to such attacks. A cyber thief or a threat actor basically tries to exploit the user’s vulnerability to obtain access to digital valuables by studying sensitive passwords or by sending malicious links which the user is asked to click. This eventually leads to malware installation in one’s smart device and thereby a stalker gets access to the valuables.
+
+
+    He also insisted about the do's and don'ts in order to protect oneself and others from cybercrimes. One should invest in good software utilities, ensure operating system being used is reliable and in good condition, should never leave open the laptops/mobiles which have all personal data. Downloading apps from authentic sites and using different passwords for accessing different platforms and changing it periodically can also help in keeping the digital valuables safe and secure. He also cautioned about being aware of all social engineering attempts made by people through social media or emails or chats. “These could be from malicious actors trying to gain access to digital valuables,” he said.
+
+
+    The key elements of any protection framework, be it physical valuables or digital valuables are the same, secure, observe and act.
+
+
+    * * *
+
+
+    DL/DR
+
+
+    ***
+
+
+    Follow us on social media: @PIBMumbai / PIBMumbai /pibmumbai pibmumbai@gmail.com
+
+    
+    
+    (Release ID: 1637565) Visitor Counter : 183
+    
+    
+      Read this release in: Marathi

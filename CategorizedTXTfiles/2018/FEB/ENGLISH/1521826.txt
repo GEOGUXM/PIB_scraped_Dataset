@@ -1,0 +1,35 @@
+      Ministry of Labour & Employment
+
+      New Facilities for UAN- Aadhar Linking Introduces By EPFO
+      Posted On: 27 FEB 2018 10:54AM by PIB Delhi
+
+
+    Employees’ Provident Fund Organisation (EPFO) has introduced UAN-Aadhaar linking facility for the convenience of members using EPFO Link in UMANG Mobile App. This is in addition to the existing web facility already available at EPFO’s website www.epfindia.gov.in >> Online Services >> e-KYC Portal>> LINK UAN AADHAAR.
+
+
+    The facility on e-KYC Portal has further added a new feature to link UAN with Aadhaar online using biometric credentials . Using the aforesaid facilities, EPFO members can link their UAN with Aadhaar as under:
+
+
+    For using this facility with UMANG APP, Member will have to provide his/her UAN. An OTP will be sent to the UAN registered Mobile Number. After OTP Verification, member will have to provide Aadhaar details and gender information (where gender information is not available against UAN). Another OTP will be sent on Aadhaar Registered Mobile Number and/or email. After OTP verification, Aadhaar will be linked with UAN where UAN and Aadhaar details are matched.
+
+
+    For using this facility through E-KYC Portal, Member will have to provide his/her UAN. An OTP will be sent to the UAN registered Mobile Number. After OTP Verification, member will have to provide Aadhaar details, gender information (where gender information is not available against UAN) and select Aadhaar verification method (Using Mobile/email based OTP /using Biometrics). Another OTP will be sent on Aadhaar Registered Mobile Number and/or email or Biometric will be captured using Registered Biometric Device. After verification, Aadhaar will be linked with UAN where UAN and Aadhaar details are matched.
+
+
+    Moving towards Digital India, EPFO has also launched e-Nomination facility for filing nomination form by the member. This functionality is available at Member Interface of EPFO Unified Portal ( https://unifiedportal-mem.epfindia.gov.in/memberinterface/ ) . Any member having activated and Aadhaar seeded UAN, can avail this facility.
+
+
+    This functionality is independent from employer. After giving nomination details online, member has to digitally sign the nomination. Aadhaar based eSign is being used for digital signing of nomination form. Aadhaar based eSign is being provided to members free of cost by EPFO. Only member’s mobile number should be linked with Aadhaar. This functionality will also be made available on UMANG mobile app soon.
+
+
+    *****
+
+
+    JN/IA
+
+    
+    
+    (Release ID: 1521826) Visitor Counter : 4673
+    
+    
+      Read this release in: Urdu , Hindi , Gujarati , Tamil

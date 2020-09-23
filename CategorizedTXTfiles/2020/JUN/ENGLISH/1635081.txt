@@ -1,0 +1,45 @@
+      Ministry of Science & Technology
+
+      INST synthesises inorganic-organic hybrid compound that can inhibit breast, lung & liver cancer cells
+      
+      Polyoxometalates (POMs) have evolved as a promising candidate for future metallodrugs for combating cancer
+      
+      The compound synthesized by the INST team could open new avenues for antitumor applications
+      Posted On: 29 JUN 2020 12:52PM by PIB Delhi
+
+
+    Scientists from the Institute of Nano Science & Technology (INST), Mohali, an autonomous institute of the Department of Science and Technology Government of India, have synthesized a novel inorganic-organic hybrid compound that can inhibit breast, lung, and liver cancer cells, opening up new possibilities for metallodrugs.
+
+
+    The solid compound based on phosphomolybdate cluster, an inorganic salt of phosphomolybdic acid, belongs to the Polyoxometalates (POMs) family, which had earlier been identified to have antitumor potential. The team of scientists led by Dr. Monika Singh and Dr. Deepika Sharma has chalked out the mechanism by which the compound kills the cancer cells. The research has been published in the journal Dalton Transactions.
+
+
+    POMs are an evolving class of inorganic metal oxides, which over the last decades, established promising biological activities by the virtue of their great diversity in structures and properties.
+
+
+    In order to probe into the mechanism of how the cancer cells are attacked by the compound, the team synthesised it by hydrothermal method. The aqueous mixture of sodium molybdate, phosphorus acid, and bipyridine was heated in an acetate buffer solution of pH 4 at 160 °C for 72 hours. In vitro cytotoxicity of the compound was determined on breast cancer (MCF-7), lung cancer (A549) and liver cancer (HepG2) cells by the conventional MTT assay (used for assessing cell metabolic activity) . The cytotoxic effect observed for the compound on the various cancer cell lines was further compared with that of a routinely used chemotherapeutic agent, Methotrexate (TCI), by the MTT assay.
+
+
+    The mechanism of cell death occurring in breast cancer (MCF-7), lung cancer (A549) and liver cancer (HepG2) cells was evaluated using an Alexa Fluor 488 annexin V/dead cell apoptosis kit (Invitrogen). To determine the effect of the synthesized materials on the cell division, cell cycle analysis for the MCF-7, A549, and HepG2 cell lines was done by using flow cytometry. The in vitro results showed that this hybrid solid is less toxic towards normal cells, and its antitumor activity was also found to be comparable with that of a routinely used chemotherapeutic agent, Methotrexate (MTX).
+
+
+    In the past few decades, POMs have evolved as a promising candidate for future metallodrugs for combating cancer. The compound synthesized by the INST team could open new avenues for antitumor applications.
+
+
+    [Publication: Joshi, A.; Gupta, R.; Singh, B.; Sharma, D.; & Singh, M., Effective inhibitory activity against MCF-7, A549 and HepG2 cancer cells by phosphomolybdate based hybrid solid. Dalton Trans., 2020 DOI: 10.1039/D0DT01042A.
+
+
+    For more details, Dr. Monika Singh ( monika@inst.ac.in , 0172-2210075 (ext. 322) ) can be contacted.]
+
+
+    *****
+
+
+    NB/KGS/(DST)
+
+    
+    
+    (Release ID: 1635081) Visitor Counter : 1117
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Manipuri , Bengali , Assamese , Tamil

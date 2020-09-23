@@ -1,0 +1,38 @@
+      Ministry of Finance
+
+      Income Tax (IT) Department simplifies linking PAN with Aadhaar for taxpayers using Income Tax India website
+      No need to login or be registered on the E-filing website for linking
+      Posted On: 11 MAY 2017 4:55PM by PIB Delhi
+
+
+      The Income Tax (IT) Department has made it easy for taxpayers to link their PAN with Aadhaar . Responding to grievances of taxpayers regarding difficulties in linking PAN with Aadhaar as their names did not match in both systems (e.g., names with initials in one and expanded initials in another), the IT Department has come out with a simple solution now.
+
+
+      Taxpayers can go to http://www.incometaxindiaefiling.gov.in and click on the link on the Left Pane à Link Aadhaar , provide PAN, Aadhaar number and ENTER NAME EXACTLY AS GIVEN IN AADHAAR CARD (avoid spelling mistakes) and Submit. After verification from UIDAI, the linking will be confirmed.
+
+
+      Figure 2: Linking Aadhar with PAN simplified
+
+
+      In case of any minor mismatch in Aadhaar name provided by taxpayer when compared to the actual data in Aadhaar , a One Time Password ( Aadhaar OTP) will be sent to the mobile registered with Aadhaar . Taxpayers should ensure that the date of birth and gender in PAN and Aadhaar are exactly same. In a rare case where Aadhaar name is completely different from name in PAN, then the linking will fail and taxpayer will be prompted to change the name in either Aadhaar or in PAN database.
+
+
+      There is no need to login or be registered on E-filing website. This facility can be used by anyone to link their Aadhaar with PAN.
+
+
+      This facility is also available after login on the e-filing website under Profile settings and choose Aadhaar linking. The details as per PAN will be pre-populated. Enter Aadhaar number and ENTER NAME EXACTLY AS GIVEN IN AADHAAR CARD (avoid spelling mistakes) and Submit.
+
+
+      Taxpayers are requested to use the simplified process to complete the linking of Aadhaar with PAN immediately. This will be useful for E-Verification of Income Tax returns using OTP sent to their mobile registered with Aadhaar.
+
+
+      *****
+
+
+      DSM/VKS/KA
+
+
+    
+
+    
+    (Release ID: 1489625) Visitor Counter : 116

@@ -1,0 +1,286 @@
+      Ministry of Petroleum & Natural Gas
+
+      Production Performance of Oil & Natural Gas Sector for August, 2017
+      Posted On: 22 SEP 2017 4:41PM by PIB Delhi
+
+
+    Crude Oil
+
+
+    1. Crude oil production [1] during August, 2017 was 3019.94 TMT which is 4.93% lower than target and 1.56 % lower when compared with August 2016. Cumulative crude oil production during April-August, 2017 was 15104.60 TMT which is 3.11% lower than target for the period and 0.27% lower than production during corresponding period of last year. Unit-wise and state-wise crude oil production is given at Annexure-I. Unit-wise crude oil production for the month of August, 2017 and cumulatively for the period April-August, 2017 vis-à-vis same period of last year has been shown in Table-1 and month-wise in Figure-1.
+
+
+    Table-1: Crude Oil Production (in TMT)
+
+                                                                      
+Oil Company        Target    August (Month)  April-August (Cumulative)
+                                                                      
+                                                                      
+                                                                                                          
+2017-18 (Apr-Mar)  2017-18   2016-17         % over last year           2017-18  2016-17  % over last year
+                                                                                                          
+                                                                                                          
+                                                                                        
+Target             Prod.*    Prod.           Target                     Prod.*   Prod.  
+                                                                                        
+                                                                                        
+                                                                                                                                      
+ONGC               23071.00  1956.69         1898.47                    1865.31  101.78   9569.08           9457.74   9225.22   102.52
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+OIL                3734.00   316.98          288.48                     272.08   106.03   1564.87           1416.81   1342.94   105.50
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+PSC Fields         10562.00  903.03          832.98                     930.42   89.53    4455.49           4230.06   4578.05   92.40 
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+Total              37367.00  3176.70         3019.94                    3067.80  98.44    15589.44          15104.60  15146.22  99.73 
+                                                                                                                                      
+                                                                                                                                      
+
+    Note: Totals may not tally due to rounding off. *: Provisional
+
+
+    Figure-1: Monthly Crude Oil Production
+
+
+    Unit-wise production details with reasons for shortfall are as under:
+
+
+    1.1 Crude oil production by ONGC during August, 2017 was 1898.47 TMT which is 2.98% lower than the monthly target but 1.78% higher when compared with August, 2016. Cumulative crude oil production by ONGC during April-August, 2017 was 9457.74 TMT which is 1.16% lower than target for the period but 2.52% higher than production during corresponding period of last year. Reasons for shortfall in production are as under:
+
+
+    Ø Offshore: Natural decline and increase in water cut from matured fields of Western Offshore. Due to severe monsoon and harsh weather conditions, wells at unmanned platforms could not be attended / monitored which affected regular operations like Gas Lift De-optimization, ESP failure & minimum well monitoring / stimulation etc.
+
+
+    Ø Onshore: Power shut down in Mehsana (heavy rain) and Assam Assets.
+
+
+    1.2 Crude oil production by OIL during August, 2017 was 288.48 TMT which is 8.99% lower than monthly target but 6.03% higher than production in August, 2016. Cumulative crude oil production by OIL during April-August, 2017 was 1416.81 TMT which is 9.46% lower than target for the period but 5.50% higher than production during corresponding period of last year. Reasons for shortfall in production are as under:
+
+
+    Ø Less than planned achievement due to higher decline in production potential of wells mainly in Greater Hapjan and Greater Chandmari areas.
+
+
+    Ø Less than planned contribution from work over wells.
+
+
+    1.3 Crude oil production by Pvt/JVs during August, 2017 was 832.98 TMT which is 7.76% lower than the monthly target and 10.47% lower than August, 2016. Cumulative crude oil production by Pvt/JVs during April-August, 2017 was 4230.06 TMT which is 5.06% lower than target for the period and 7.60% lower than the production during corresponding period of last year. Reasons for shortfall in production are as under:
+
+
+    Ø RJ-ON-90/1 (CIL): Around 120 wells are closed either due to high water cut or require WOJ. Poor reservoir performance of Bhagyam. Production stopped from Guda, Kaameshwari West, Raageshwari and Saraswati due to non-availability of tanker since July’17.
+
+
+    Ø Panna-Mukta (Shell): Certain wells closed due to integrity issues in Aug’17. Also, natural decline in Panna-Mukta.
+
+
+    Ø CY-ONN-2002/2 (ONGC): Test production from 5 oil wells. PML not yet granted.
+
+
+    Ø CB-ONN-2004/2 (ONGC): Underperformance of wells.
+
+
+    Natural Gas
+
+
+    2. Natural gas production during August, 2017 was 2772.94 MMSCM which is 5.38% lower than the target for the month but 3.69% higher when compared with August, 2016. Cumulative natural gas production during April-August, 2017 was 13689.67 MMSCM which is 5.39% lower than target for the period but 4.31% higher than the production during corresponding period of last year. Unit-wise and state-wise natural gas production is given at Annexure-II. Unit-wise natural gas production for the month of August, 2017 and cumulatively for the period April-August, 2017 vis-à-vis same period of last year has been shown in Table-2 and month-wise in Figure-2.
+
+
+    Table-2: Natural Gas Production (MMSCM)
+
+                                                                      
+Oil Company        Target    August (Month)  April-August (Cumulative)
+                                                                      
+                                                                      
+                                                                                                          
+2017-18 (Apr-Mar)  2017-18   2016-17         % over last year           2017-18  2016-17  % over last year
+                                                                                                          
+                                                                                                          
+                                                                                        
+Target             Prod.*    Prod.           Target                     Prod.*   Prod.  
+                                                                                        
+                                                                                        
+                                                                                                                                      
+ONGC               24208.00  1992.35         1953.25                    1845.50  105.84   9884.16           9737.62   8841.62   110.13
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+OIL                3000.00   264.97          261.47                     244.05   107.14   1273.19           1235.22   1230.88   100.35
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+PSC Fields         8034.00   673.18          558.22                     584.59   95.49    3312.04           2716.83   3050.93   89.05 
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+Total              35242.00  2930.51         2772.94                    2674.15  103.69   14469.39          13689.67  13123.43  104.31
+                                                                                                                                      
+                                                                                                                                      
+
+    Note: Totals may not tally due to rounding off. *: Provisional
+
+
+    Figure-2: Monthly Natural Gas Production
+
+
+    2.1 Natural gas production by ONGC during August, 2017 was 1953.25 MMSCM which is 1.96% lower than the monthly target and 5.84% higher when compared with August, 2016. Cumulative natural gas production by ONGC during April-August, 2017 was 9737.62 MMSCM which is 1.48% lower than the cumulative target but 10.13% higher than the production during the corresponding period of the last year Reasons for shortfall in production are as under:
+
+
+    Ø Offshore: Bassein field gas production from BPB installation affected (13 th -29 th Aug’17) for rectifying pipeline gas leakage from 24 inch discharge line.
+
+
+    Ø Onshore: OTPC, Tripura plant shut down for 20 days since 19.08.2017.
+
+
+    2.2 Natural gas production by OIL during August, 2017 was 261.47 MMSCM which is 1.32% lower than the monthly target but 7.14% higher than August, 2016. Cumulative natural gas production by OIL during April-August, 2017 was 1235.22 MMSCM which is 2.98% lower than the cumulative target but 0.35% higher than the production during the corresponding period of last year Reasons for shortfall in production are as under:
+
+
+    Ø Low production potential availability of old wells due to water ingress, sand ingress and unexpected down hole problems.
+
+
+    Ø Unplanned shut down of gas turbines of RRVUNL.
+
+
+    2.3 Natural gas production by Pvt/JVs during August, 2017 was 558.22 MMSCM which is 17.08% lower than the monthly target and 4.51% lower when compared with August, 2016. Cumulative natural gas production by Pvt/JVs during April-August, 2017 was 2716.83 MMSCM which is 17.97% lower than the cumulative target and 10.95% lower than the production during the corresponding period of last year. Reasons for shortfall in production are as under:
+
+
+    Ø Underperformance of wells in KG- OSN-2001/3 (GSPC)
+
+
+    Ø Sohagpur West (RIL): Underperformance of CBM wells.
+
+
+    Ø Raniganj East (Essar): Few wells closed for planned maintenance and refrac jobs
+
+
+    Ø AAP-ON-94/1 (HOEC): Production deferred due to delay in grant of PML. Production commenced from 26 th Aug’17
+
+
+    Ø RJ-ON-90/1 (CIL): Around 120 wells are closed either due to high water cut or require WOJ.
+
+
+    Ø Closure of 2 wells in D1D3 field and 1 well in MA field in KG-DWN-98/3 (RIL).
+
+
+    3. Refinery Production (in terms of crude oil processed)
+
+
+    Refinery production during August, 2017 was 20451.48 TMT which is 4.36% higher than the target for the month and 0.79% higher when compared with August, 2016. Cumulative production during April-August, 2017 was 101881.81 TMT which is 4.02% higher than the target for the period and 0.10% higher than the production during corresponding period of last year. Unit-wise production is given at Annexure-III. Company-wise production for the month of August, 2017 and cumulatively for the period April-August, 2017 vis-à-vis same period of last year has been shown in Table-3 and month-wise in Figure-3.
+
+
+    Table 3: Refinery Production (TMT)
+
+                                                                     
+Oil Company        Target   August (Month)  April-August (Cumulative)
+                                                                     
+                                                                     
+                                                                                                          
+2017-18 (Apr-Mar)  2017-18  2016-17         % over last year           2017-18   2016-17  % over last year
+                                                                                                          
+                                                                                                          
+                                                                                        
+Target             Prod.*   Prod.           Target                     Prod.*    Prod.  
+                                                                                        
+                                                                                        
+                                                                                                                                        
+CPSE               139090   10552.05        11197.45                   10985.15  101.93   55071.56          58851.85   56599.51   103.98
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+IOCL               65750    4814.00         5293.07                    4953.45   106.86   25503.00          28191.72   26736.96   105.44
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+BPCL               27000    2150.00         2128.41                    2150.36   98.98    10500.00          10866.36   10485.93   103.63
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+HPCL               17309    1323.53         1575.77                    1253.23   125.74   7060.63           7630.03    7152.95    106.67
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+CPCL               10300    932.47          944.76                     1006.67   93.85    4439.59           4507.82    4645.52    97.04 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+NRL                2670     226.65          233.25                     239.04    97.58    1119.01           1176.76    1163.62    101.13
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+MRPL               16000    1100.00         1017.27                    1376.01   73.93    6425.00           6448.29    6380.23    101.07
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+ONGC               62       5.40            4.93                       6.40      77.02    24.32             30.87      34.29      90.02 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+JVs                15201    1345.00         1507.39                    1521.67   99.06    5376.00           4864.70    7358.17    66.11 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+BORL               6000     525.00          620.35                     587.60    105.57   2625.00           3004.83    2771.82    108.41
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+HMEL               9201     820.00          887.04                     934.07    94.97    2751.00           1859.87    4586.34    40.55 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+Private            90480    7699.47         7746.64                    7783.51   99.53    37495.57          38165.26   37826.87   100.89
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+RIL                70174    6002.57         5967.65                    6002.57   99.42    29068.16          29489.23   29068.16   101.45
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+EOL                20306    1696.90         1778.99                    1780.94   99.89    8427.41           8676.04    8758.71    99.06 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+TOTAL              244771   19596.52        20451.48                   20290.32  100.79   97943.12          101881.81  101784.55  100.10
+                                                                                                                                        
+                                                                                                                                        
+
+    Note: Totals may not tally due to rounding off. *: Provisional
+
+
+    Figure 3: Monthly Refinery Production
+
+
+    3.1 CPSE Refineries’ production during August, 2017 was 11197.45 TMT which is 6.12% higher than the target for the month and 1.93% higher than the production achieved in the corresponding month of last year. Cumulative production by CPSE refineries during April-August, 2017 was 58851.85 TMT which is 6.86% higher than the target for the period and 3.98% higher than the production during corresponding period of last year. Reasons for shortfall of refinery production in some CPSE refineries are as under:
+
+
+    Ø IOCL, Panipat: Throughput lower due to deferment of M&I shutdown from Jul’17 to Jul-Aug’17.
+
+
+    Ø IOCL, Bongaigaon: High product stock due to restriction in rake movement on account of floods in Assam/Bihar/Bengal.
+
+
+    Ø BPCL, Mumbai: Lower due to planned outage of CDU3/Hydrogen / Hydrocracker units’ turnaround for revamp.
+
+
+    Ø MRPL, Mangalore: Advancement of planned shutdown by 3 days for turnaround of DCU and CDU-1.
+
+
+    3.2 Production in JV refineries during August, 2017 was 1507.39 TMT which is 12.07% higher than the target for the month but 0.94% lower than the production achieved in the corresponding month of last year. Cumulative production by JVs refineries during April-August, 2017 was 4864.70 TMT which is 9.51% lower than the target for the period and 33.89% lower than the production during corresponding period of last year.
+
+
+    3.3 Production in private refineries during August, 2017 was 7746.64 TMT which is 0.61% higher than the target for the month but 0.47% lower when compared with August, 2016. Cumulative production by private refineries during April-August, 2017 was 38165.26 TMT which is 1.79% higher than the target for the period and 0.89% higher than the production during corresponding period of last year.
+
+
+    3.4 Refinery-wise details of the capacity utilization and production of petroleum products during the month of August, 2017 and cumulatively for the period April-August, 2017 vis-à-vis April-August, 2016 are given at Annexures - IV and V respectively.
+
+
+    Click Here to See Annexures:
+
+
+    RG/SA
+
+    
+    
+    (Release ID: 1503753) Visitor Counter : 50

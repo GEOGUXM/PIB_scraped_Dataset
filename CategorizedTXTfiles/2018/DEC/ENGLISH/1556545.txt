@@ -1,0 +1,41 @@
+      Ministry of Finance
+
+      Development of new return filing system by GSTN
+      Posted On: 18 DEC 2018 7:20PM by PIB Delhi
+
+
+    GSTN will focus on the development of new return filing, further improving the user interface, and Business Intelligence and Analytics. While the new return is yet to be notified, GSTN has started development of the components in which major changes are not expected. Improvement in User Interface on the basis of feedback is a continuous process. Few important initiatives/improvements made for better User experience are: -
+
+      * Questionnaire for filing GSTR-3B to avoid errors by taxpayers.
+      * Option to generate pre-populated Challan by the system to avoid depositing Cash in wrong Head by the taxpayers.
+      * Introduction of one click Nil return filing.
+      * Suggested utilisation of ITC informed to the taxpayer for discharging tax liability.
+      * Contextual help for GST transactions like Registration, Returns, Payment, etc.
+
+    GSTN has started work on BI & Analytics. Different scenarios of BI have been identified on which work is going on such as Persona based Analysis, Predictive Analysis, Fraud/Anomaly Detection, Statistical Scoring, 360 degree view taxpayers, Circular Trading & Network Analysis etc. Further, GSTN has started sharing data with tax authorities on the following:
+
+     1. Mis-match between figures reported in GSTR-1 & GSTR-3B.
+     2. Mis-match between figures reported GSTR-3B and that computed by the system in GSTR-2A.
+     3. Taxpayers who have generated e-way bill but not filed tax returns.
+
+    Comparison of GSTR-1 & GSTR-3B for liability analysis, GSTR-2A & GSTR-3B for comparison of ITC being claimed by taxpayers, and analysis regarding taxpayers who have generated e-way bill but not filed tax returns is being done and the reports generated are shared with tax authorities for taking appropriate action.
+
+
+    This was stated by Shri Shiv Pratap Shukla, Minister of State for Finance in written reply to a question in Rajya Sabha.
+
+
+    ****
+
+
+    DSM/RM/KA
+
+    
+    
+    (Release ID: 1556545) Visitor Counter : 907
+    
+    
+    
+    
+    
+
+3.

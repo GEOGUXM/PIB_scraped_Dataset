@@ -1,0 +1,91 @@
+      Ministry of Railways
+
+      Real Time Train Information System
+      Posted On: 18 MAR 2020 5:55PM by PIB Delhi
+
+
+    A Real-Time Information System (RTIS), developed in collaboration with Indian Space Research Organisation (ISRO), is being installed on the locomotives for automatic acquisition of train movement timings at the stations, including that of arrival & departure or run-through. They get automatically plotted on the control chart of those trains in the Control Office Application (COA) system.
+
+
+    RTIS gives mid-section updates with a periodicity of 30 seconds. The Train Controllers can now track the location and speed of RTIS enabled locomotives/train more closely, without any manual intervention, which helps in improving the efficiency of train control.
+
+
+    This real time data of RTIS is also linked with the National Train Enquiry System (NTES). Now more accurate train running information is being passed to the passengers, which helps them to conveniently plan their arrival at the stations.
+
+
+    Further, it is extremely handy for emergency messaging from locomotive to control centre, helping in faster response in case of any breakdown or disaster.
+
+
+    Originally, RTIS was planned to be installed in 2700 locomotives which has been completed till December, 2019. The zone-wise details of the same, are as under:
+
+                                                    
+ZONAL RAILWAY               TOTAL NO. OF LOCOMOTIVES
+                                                    
+                                                    
+                                                    
+Central Railway             321                     
+                                                    
+                                                    
+                                                    
+East Coast Railway          193                     
+                                                    
+                                                    
+                                                    
+East Central Railway        165                     
+                                                    
+                                                    
+                                                    
+Eastern Railway             158                     
+                                                    
+                                                    
+                                                    
+North Central Railway       115                     
+                                                    
+                                                    
+                                                    
+Northern Railway            330                     
+                                                    
+                                                    
+                                                    
+South Central Railway       277                     
+                                                    
+                                                    
+                                                    
+South East Central Railway  97                      
+                                                    
+                                                    
+                                                    
+South Eastern Railway       278                     
+                                                    
+                                                    
+                                                    
+Southern Railway            281                     
+                                                    
+                                                    
+                                                    
+West Central Railway        300                     
+                                                    
+                                                    
+                                                    
+Western Railway             185                     
+                                                    
+                                                    
+                                                    
+Total                       2700                    
+                                                    
+                                                    
+
+    To proliferate it further, installation of RTIS in 6000 more locomotives has been approved.
+
+
+    This press release is based on information given by the Minister of Railways and Commerce & Industry, Shri Piyush Goyal in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    DJN/SG/MKV
+
+    
+    
+    (Release ID: 1606967) Visitor Counter : 435

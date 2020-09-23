@@ -1,0 +1,32 @@
+      Ministry of Power
+
+      Shri R.K. Singh launches the National Power Portal(NPP) – a Centralized Platform for Collation and Dissemination of Indian Power Sector Information
+      NPP to be a single point interface for all Power Sector Apps launched previously by the Ministry
+      Posted On: 14 NOV 2017 3:58PM by PIB Delhi
+
+
+      Shri R . K . Singh, Minister of State ( IC ) for Power and New & Renewable Energy, launched the National Power Portal ( NPP ) here today . The portal may be accessed at http :// npp . gov . in .
+
+
+        NPP is a centralised system for Indian Power Sector which facilitates online data capture / input ( daily, monthly, annually ) from generation, transmission and distribution utilities in the country and disseminate Power Sector Information ( operational, capacity, demand, supply, consumption etc .) through various analysed reports, graphs, statistics for generation, transmission and distribution at all India, region, state level for central, state and private sector .
+
+
+        The NPP Dashboard has been designed and developed to disseminate analyzed information about the sector through GIS enabled navigation and visualization chart windows on capacity, generation, transmission, distribution at national, state, DISCOM, town, feeder level and scheme based funding to states . The system also facilitates various types of statutory reports required to be published regularly . The Dashboard would also act as the single point interface for all Power Sector Apps launched previously by the Ministry, like TARANG, UJALA, VIDYUT PRAVAH, GARV, URJA, MERIT.
+
+
+        NPP is integrated with associated systems of Central Electricity Authority ( CEA ) , Power Finance Corporation ( PFC) , Rural Electrification Corporation ( REC) and other major utilities and would serve as single authentic source of power sector information to apex bodies, utilities for the purpose of analysis, planning, monitoring as well as for public users . The system is available 24x7 and ensures effective and timely collection of data . It standardized data parameters and formats for seamless exchange of data between NPP and respective systems at utilities .
+
+
+        The stakeholders of NPP are Ministry of Power ( MoP ) , CEA, PFC for Integrated Power Development Scheme ( IPDS ) , REC for Deen Dayal Upadhyaya Gram Jyoti Yojana ( DDUGJY) , other power sector utilities in government as well as private sector, Apex Bodies, other government organizations and public users . The Nodal Agency for implementation of NPP and its operational control is CEA . The system has been conceptualized, designed and developed by National Informatics Centre ( NIC ).
+
+
+        *****
+
+
+        RM / VM
+
+
+    
+
+    
+    (Release ID: 1509438) Visitor Counter : 215

@@ -1,0 +1,37 @@
+      Ministry of Health and Family Welfare
+
+      Healthcare Data
+      Posted On: 03 FEB 2017 1:22PM by PIB Delhi
+
+
+    In a recent study ‘Health Information System in India Challenges and way forward’ the National Institute of Public Finance and Policy stated to understand data quality issues and Health Information System at a systemic level, both at a national and sub-national level with Andhra Pradesh as a case study and explored possible solutions for India from International experience. Quoting various Study/Reports and comparing data of various sources the above study highlighted the issues of lack of private sector data, limited disaggregation of data, lack of training on probing skills, shortage of staff, errors in data entry, data aggregation, duplication of data, methodological issues, inconsistent data definitions and data triangulation issues etc. It is observed the study compared survey data (NFHS) and service statistics (HMIS data) which are not strictly comparable.
+
+
+    Difference may arise due to differences in definition of data elements, reference point, periodicity, change in the program, response bias, investigators bias, etc. The steps taken by the Government to strengthen quality of data in terms of completeness, timeliness and accuracy include the following:
+
+    Ministry of Health and Family Welfare (MoHFW) had launched a web based monitoring system i.e., Health Management Information System (HMIS) in 2008 to monitor its health programmes and provide key inputs for policy formulation and interventions. Currently, around 200,000 health facilities across all districts of the country are uploading facility wise data on monthly basis directly on HMIS web portal. For ensuring quality of data on HMIS portal, system for doing verifications, comparison, validation, scrutiny, feedback exercise and inspection drills is in place and is also available for all States/UTs.
+
+
+    MoHFW has taken a decision to carry out an integrated survey replacing all health surveys of similar nature being carried out earlier with varying periodicities, covering all districts in the country to provide estimates of health indicators i.e. data on reproductive, child health, nutrition, gender violence, HIV/AIDS etc., at the District, State, and National level with a periodicity of three years. Accordingly, the Ministry had launched National Family Health Survey (NFHS) -4 (2015-16) as an integrated survey. The field work of the survey has been completed and key results for 26 States/UTs are published.
+
+
+    MoHFW has introduced web based name based tracking system called Mother & Child Tracking System (MCTS) across all the States & UTs to facilitate timely delivery of antenatal and postnatal care services to all the pregnant women and immunization to all the children.
+
+
+    RCH portal (upgraded version of MCTS) has been designed for early identification and tracking of the individual beneficiary throughout the reproductive lifecycle. RCH portal has also been designed to promote and support the reproductive, maternal, new-born and child health (RMNCH) schemes / programme delivery and reporting. This portal will facilitate all the stakeholders with readily available information at one place.
+
+
+    To improve the data quality, MoHFW has introduced a tablet based application, called ANMOL (which stands for ANM On Line), for RCH application. ANMOL enables ANMs to enter and update data for beneficiaries of their jurisdiction. This ensures more prompt entry and updation of data as well as improves the data quality since the data is entered “at source” (by providers of health services themselves).
+
+
+    An online data entry portal ( www.cbhi.nic.in) is used for reporting of certain Communicable and Non-Communicable Diseases from District and/or State/UT level in co-ordination with Directorate of Health Services (DHS)/State Bureau of Health Intelligence (SBHI) of respective State/UTs. The data reported in this portal is crosschecked and analysed before being published in Annual Publication “National Health Profile (NHP)”. Revised National Tuberculosis Control Programme (RNTCP) is using web based reporting system called Nikshay and is periodically validated.
+
+
+    The Minister of State (Health and Family Welfare), Sh Faggan Singh Kulaste stated this in a written reply in the Lok Sabha here today.
+
+    *****
+
+    MV/LK
+    
+    
+    (Release ID: 1481695) Visitor Counter : 30

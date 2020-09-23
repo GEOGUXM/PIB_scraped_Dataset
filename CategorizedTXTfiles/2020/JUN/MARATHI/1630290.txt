@@ -1,0 +1,51 @@
+      अर्थ मंत्रालय
+
+      एसएमएसद्वारे शून्य जीएसटी विवरणपत्र भरण्याची सुविधा सरकारने सुरु केली
+      Posted On: 08 JUN 2020 7:55PM by PIB Mumbai
+
+
+    नवी दिल्ली , 8 जून 2020
+
+
+    करदात्यांच्या सोयीसाठी महत्त्वपूर्ण पाऊल उचलताना सरकारने आजपासून एसएमएसद्वारे फॉर्म जीएसटीआर -3 बी मध्ये शून्य वस्तू आणि सेवा कर (जीएसटी) मासिक विवरणपत्र भरायला परवानगी दिली आहे. यामुळे 22 लाखांहून अधिक नोंदणीकृत करदात्यांसाठी जीएसटी अनुपालन सुलभ होईल. आतापर्यन्त सामायिक पोर्टलवर त्यांना त्यांच्या खात्यात लॉग इन करावे लागत होते आणि दरमहा विवरणपत्र भरावे लागत होते. आता , शून्य दायित्व असलेल्या करदात्यांना जीएसटी पोर्टलवर लॉग इन करण्याची आवश्यकता नाही , एसएमएसद्वारे ते त्यांचे शून्य विवरणपत्र दाखल करू शकतात.
+
+
+    2. यासाठी , एसएमएसद्वारे Nil FORM GSTR- 3 B दाखल करण्याची कार्यक्षमता जीएसटीएन पोर्टलवर तत्काळ प्रभावाने उपलब्ध करुन देण्यात आली आहे. जीएसटी पोर्टलवर जीएसटीआयएन खात्यात लॉग इन करून सर्व्हिसेस > रिटर्न्स > ट्रॅक रिटर्न स्टेटस नेव्हिगेशन करून विवरणपत्रांची सद्यस्थिती जाणून घेता येते. एसएमएसद्वारे शून्य रिटर्न भरण्याची प्रक्रिया खालीलप्रमाणे आहेः
+
+                                                                                                                                                                                                                                       
+Step                   SMS to 14409                               Receive from VD-GSTIND                                                                                                                                               
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+Initiate Nil Filing    NIL<space>3B<space>GSTIN<space>Tax period  123456 is the CODE for Nil filing of GSTR3B for 09XXXXXXXXXXXZC for period 052020 . Code validity 30 min.                                                            
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+                       Ex. NIL 3B 09XXXXXXXXXXXZC 052020                                                                                                                                                                               
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+Confirming Nil Filing  CNF <space>3B<space>Code                   Your, 09XXXXXXXXXXXZC , GSTR3B for 052020 is filed successfully and acknowledged vide ARN is AA070219000384 . Please use this ARN to track the status of your return.
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+                       Ex. CNF 3B 123456                                                                                                                                                                                               
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+For Help, anytime      HELP<Space>3B                              To file NIL return of GSTIN for Mar 2020: NIL 3B 07CQZCD1111I4Z7 032020 To confirm Nil filing: CNF 3B CODE More details www.gst.gov.in                               
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+                       Ex. Help 3B                                                                                                                                                                                                     
+                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                       
+
+    M.Jaitly /S.Kane/P.Malandkar
+
+
+    सोशल मिडियावर आम्हाला फॉलो करा @PIBMumbai / PIBMumbai /pibmumbai pibmumbai@gmail.com
+
+    
+    
+    (Release ID: 1630290) Visitor Counter : 39
+    
+    
+      Read this release in: English , Malayalam , Urdu , Hindi , Manipuri , Punjabi , Odia , Tamil , Telugu

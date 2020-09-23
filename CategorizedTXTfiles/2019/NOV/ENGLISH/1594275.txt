@@ -1,0 +1,26 @@
+      Ministry of Railways
+
+      Linking of Locomotives via ISRO Satellites for Tracking Trains
+      Posted On: 29 NOV 2019 5:39PM by PIB Delhi
+
+
+    A Real-time Train Information System (RTIS) is being installed on the locomotives for automatic acquisition of train movement data, including that of arrival, departure and run-through timings at the stations en route.
+
+
+    The control chart of trains hauled by RTIS enabled locomotives gets plotted automatically in the Control Office Application (COA) system already implemented in the control offices. RTIS also gives mid-section location updates, including the current speed of the train, with a periodicity of 30 seconds. The Train Controllers can now track the location and speed of RTIS enabled locomotives/trains more closely, without any manual intervention, facilitating the train control functions.
+
+
+    The RTIS project is being executed by Centre for Railway Information System (CRIS), which is an Information Technology arm of Ministry of Railways, in collaboration with Indian Space Research Organisation (ISRO). The installation of RTIS device in 2649 passenger and goods train locomotives has been completed till 20.11.2019.
+
+
+    This information was given by the Minister of Railways and Commerce & Industry, Shri Piyush Goyal in a written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    SG/MKV
+
+    
+    
+    (Release ID: 1594275) Visitor Counter : 385

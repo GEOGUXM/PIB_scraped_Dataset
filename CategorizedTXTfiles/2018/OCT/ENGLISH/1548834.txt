@@ -1,0 +1,34 @@
+      Election Commission
+
+      Allocation of requisite EVMs and VVPATs across all Polling Stations Underway
+      
+      New EVM Management Software to manage Inventory
+
+      Posted On: 07 OCT 2018 9:30AM by PIB Delhi
+
+    The Election Commission of India is making all preparatory arrangements to ensure EVM VVPAT allocation well in time for General Elections across States. The mandatory First Level Checks and training to District Officers are also being ensured to meet the requirement of 100% VVPATs across approximately 10.6 lakh polling stations for the upcoming Lok Sabha Election in 2019.
+
+
+    The Commission has been consistently reviewing the status of production and supply of EVMs and VVPATs with the CMDs of PSUs. Around22.3 lakh Ballot Units, 16.3lakh Control Units and nearly 17.3 lakh VVPATs will be used for the forthcoming elections in 2019. This number of machines includes the buffer stock for training as well as replacements.
+
+
+    The EVM VVPAT inventory is securely managed through a robust tracking system to track all operations on machine movement, First Level Checks, randomization, poll day defects. A more user friendly EVM management Software will be pilot tested in the forthcoming Assembly elections in select Districts namely Ajmer, Indore, Durg, Aizawl and Mehboobnagar.
+
+
+    Till date,Electronic Voting Machines have been used in 113 General Elections of State Assemblies and 3 LokSabha Elections since 2000.Use of EVMs has ended the days of booth capturing and the delays and errors in counting of ballot papers. Also during the ballot paper era, large number of votes in each Assembly constituency ended up being invalid. There have been instances of invalid votes being higher than even the winning margin in several elections.
+
+
+    Addition of Voter Verifiable Paper Audit Trail (VVPAT) to the EVM has helped strengthen the voters’ trust and transparency of the voting process. A VVPAT is an independent printer system attached with the Electronic Voting Machines (EVM) that allows the voters to verify that their votes are cast as intended. VVPAT slips will be visible to the voter for seven seconds behind the transparent screen of VVPAT, before falling into the sealed compartment at the base of the machine. The specially designed thermal paper to be used in the VVPAT is capable of retaining the printout for more than five years so that the printout is available for manual verification by the Court,if required in need of a dispute for cross checking the counting of votes cast.So far, VVPATs have been used in 933 State Assembly Constituencies and 18 Parliamentary Constituencies. Till date, VVPATs have been used in all ACs at 100% polling stations during the General Assembly Elections in 7 States,namely, Goa, Himachal Pradesh, Gujarat, Meghalaya, Nagaland, Tripura and Karnataka, held in 2017-18.Since December 2017 Commission has been suomoto doing a verification of VVPAT count from one randomly selected Polling Station selected per Assembly Constituency. VVPAT slips of 873 VVPATs machines have been counted till now and each of these has exactly matched the count taken from EVMs.
+
+
+    The EVMs and VVPATS being used in the ECI election process are manufactured only at the two premium PSUs - Electronics Corporation of India Limited (ECIL) and Bharat Electronics Limited (BEL) under the technical expertise of an independent Technical Expert Committee and supervision of the Election Commission making them absolutely tamper proof.
+
+
+    *****
+
+
+    SBS
+
+    
+    
+    (Release ID: 1548834) Visitor Counter : 855

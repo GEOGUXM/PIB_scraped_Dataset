@@ -1,0 +1,29 @@
+      Ministry of Shipping
+
+      National Cyber Security Coordinator visits JNPT to assess the impact of cyber attack that disrupted the operations at one of its terminals
+      Restoration of operations at the affected terminal linked to restoration of Global IT system
+      
+      Steps being taken to avoid congestion of cargo at the port
+      Posted On: 29 JUN 2017 2:30PM by PIB Delhi
+
+
+    The National Cyber Security Coordinator Dr Gulshan Rai visited Jawaharlal Nehru Port Trust to assess the impact of the global cyber attack that has disrupted the operations of one of the container terminals at the port. He, together with Chief Commissioner Customs and Excise, Chairman-JNPT and Inspector General-Cyber Maharashtra held discussions with the officials of GTI Terminal, DP World and officials of JNPT.
+
+
+    JNPT handles container traffic through four terminals. One of the Terminal(GTI) is operated by APM Moller Maersk, a Danish company with headquarter at Copenhagen. Two other terminals - NSICT and NSIGT, are operated by DP World and the fourth terminal JNPCT is operated directly by JNPT. The central IT infrastructure of AP Moller Maersk installed at Hague has been affected by a cyber attack on 27th/28th June 2017. As a consequence, the IT infrastructure of the GTI terminal at JNPT which is installed, managed and operated by AP Moller Maersk, also got affected and the APM management had to shut down their IT infrastructure at JNPT. The other three container terminals at JNPT are working with full efficiency and performance. The IT infrastructure of Customs and Excise authority handling operations at JNPT is also working normally with full capacity. The authorities of JNPT as well as Customs and Excise have taken all necessary steps to enhance the resilience and security of their IT infrastructure with respect to Cyber security.
+
+
+    The Pipavav terminal, ICD Dadri and CFS Nhava Sheva managed by the APM group have also been affected by the cyber attack on the infrastructure. The IT Team of AP Moller Maersk together with the IT companies in the country are working to restore the IT infrastructure at the earliest and resume cargo operations, however restoration of their infrastructure is linked with restoration of their global IT systems.
+
+
+    The Govt. authorities at JNPT are working closely with AP Moller Maersk team to extend all possible assistance in restoration of their operations. Additional parking space has been made available to avoid congestion and clogging of cargos. JNPT authorities and DP World operating the other terminals have extended berthing facility to APMT bound vessels during the period of contingency.
+
+
+    *****
+
+
+    UM/NP/MS
+
+    
+    
+    (Release ID: 1494047) Visitor Counter : 60

@@ -1,0 +1,198 @@
+      Ministry of Earth Science
+
+      Long Range Forecast For 2018 Southwest Monsoon Seasonal (June-September) Rainfall
+      Posted On: 16 APR 2018 5:30PM by PIB Delhi
+
+
+    Summary of the Forecast for the 2018 southwest monsoon Rainfall
+
+
+     1. Quantitatively, the monsoon seasonal rainfall is likely to be 97% of the Long Period Average (LPA) with a model error of ± 5%. The LPA of the season rainfall over the country as a whole for the period 1951-2000 is 89 cm.
+
+
+     1. Forecast also suggests maximum probability for normal monsoon rainfall (96-104% of LPA) and low probability for deficient rainfall during the season.
+
+
+    IMD will issue the update in early June, 2018 as a part of the second stage forecast. Along with the updated forecast, separate forecasts for the monthly (July and August) rainfall over the country as a whole and seasonal (June-September) rainfall over the four geographical regions of India will also be issued.
+
+
+     1. Background
+
+
+    India Meteorological Department (IMD) issues operational forecast for the southwest monsoon seasonal (June to September) rainfall for the country as a whole in two stages. The first stage forecast is issued in April and the second stage forecast is issued in June. These forecasts are prepared using state-of-the-art Statistical Ensemble Forecasting system (SEFS) that is critically reviewed and improved regularly through in-house research activities. Since 2012, IMD is also using the dynamical global climate forecasting system (CFS) model developed under the Monsoon Mission to generate forecasts. For this purpose, the latest version of the high resolution (horizontal resolution of approximately 38km (T382) Monsoon Mission CFS (MMCFS) was implemented in January 2017 at the Office of Climate Research and Services, IMD, Pune.
+
+
+    IMD’s SEFS model for the April forecast uses the following 5 predictors that require data upto March.
+
+                                                                                                             
+S. No                                     Predictor                                      Period              
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+1                                         Sea Surface Temperature (SST) Gradient         December + January  
+                                                                                                             
+                                                                                                             
+                                        
+between North Atlantic and North Pacific
+                                        
+                                        
+                                                                                                           
+                                                                                                           
+                                                                                                           
+                                                                                                             
+2                                         Equatorial South Indian Ocean SST              February            
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+3                                         East Asia Mean Sea Level Pressure              February + March    
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+4                                         Northwest Europe Land Surface Air Temperature  January             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+5                                         Equatorial Pacific Warm Water Volume           February + March    
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+                                                                                                             
+
+     1. Forecast for the 2018 Southwest monsoon Season (June–September) rainfall over the Country as a whole
+
+
+    2a. Forecast based on the Monsoon Mission Coupled Forecasting System (MMCFS)
+
+
+    For generating the forecast for the 2018 southwest Monsoon season rainfall, atmospheric and Oceanic initial conditions of April 2018 were used. The forecast was computed as the average of the ensemble member forecasts.
+
+
+    The forecast based on the MMCFS suggests that the monsoon rainfall during the 2018 monsoon season (June to September) averaged over the country as a whole is likely to be 99% ± 5% of the Long Period Average (LPA).
+
+
+    2b. Forecast Based on the Operational Statistical Ensemble Forecasting System (SEFS)
+
+
+      * Quantitatively, the monsoon seasonal rainfall is likely to be 97% of the Long Period Average (LPA) with a model error of ± 5% .
+
+
+      * The 5 category probability forecasts for the Seasonal (June to September) rainfall over the country as a whole is given below:
+
+                                                                
+Category      Rainfall Range   Forecast         Climatological  
+                                                                
+                                                                
+                                                              
+(% of LPA)    Probability (%)  Probability (%)                
+                                                              
+                                                              
+            
+            
+            
+                                                                
+Deficient     < 90             14               16              
+                                                                
+                                                                
+                                                                
+Below Normal  90 - 96          30               17              
+                                                                
+                                                                
+                                                                
+Normal        96 -104          42               33              
+                                                                
+                                                                
+                                                                
+Above Normal  104 -110         12               16              
+                                                                
+                                                                
+                                                                
+Excess        > 110            02               17              
+                                                                
+                                                                
+
+    Forecast suggests maximum probability for normal rainfall and a low probability for deficient rainfall during the season.
+
+
+     1. Sea Surface Temperature (SST) Conditions in the equatorial Pacific & Indian Oceans
+
+
+    The moderate La Nina conditions developed in the equatorial Pacific during last year started weakening in the early part of this year and currently have turned to weak La Nina conditions. The latest forecasts from MMCFS & other global models indicate conditions over the Pacific to turn to neutral ENSO conditions before the beginning of the monsoon season.
+
+
+    At present, neutral Indian Ocean Dipole (IOD) conditions are prevailing over the Indian Ocean. The latest forecasts from the MMCFS and global models indicate weak negative IOD conditions may develop during the middle of the monsoon season.
+
+
+    As the extreme sea surface temperature conditions over the Pacific and Indian Oceans particularly ENSO conditions over the Pacific (El Nino or La Nina) are known to have strong influence on the Indian summer monsoon, IMD is carefully monitoring the sea surface conditions over the Pacific and Indian oceans.
+
+
+    ***
+
+
+    SRD
+
+    
+    
+    (Release ID: 1529243) Visitor Counter : 757
+    
+    
+      Read this release in: Tamil , Malayalam
+    
+    
+    
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+1.

@@ -1,0 +1,34 @@
+      Ministry of Electronics & IT
+
+      Sh. Ravi Shankar Prasad launches first NIC CERT
+      
+      CERT to prevent & predict cyber attacks on government utilities
+      Posted On: 11 DEC 2017 4:01PM by PIB Delhi
+
+
+    Shri Ravi Shankar Prasad, Hon’ble Minister of Law & Justice and Electronics & Information Technology inaugurated the “NIC-CERT”, a setup of National Informatics Centre, Ministry of Electronics and Information Technology on 11thDecember 2017.
+
+
+    During the inauguration, Hon’ble Minister said that as part of its Digital India initiatives, the Government has introduced a lot of its services online. Although this has made services very accessible to the citizens, it has also exposed them to the threats and vulnerabilities which are an inherent part of cyberspace.
+
+
+    He mentioned that in the recent past there has been an exponential growth in cyber attacks leading to concerns of data theft which led to the Government drafting the Data protection Act. As Internet with its ever expanding canvas of opportunities is touching the life’s of people, it necessitates the requirement to upscale the existing security infrastructure.
+
+
+    He stated that NIC has been doing remarkable job of securing the Government cyberspace for a long time and by setting up this centre they have taken their experience and expertise to the next level.
+
+
+    He emphasised that for responding to the cyber attacks of today, the Government needs an agile and responsive eco-system. NIC-CERT has been setup with the objective of creating a comprehensive framework that integrates world class security components and inbuilt threat intelligence for detection, prevention and incident response. Using the tools the team will correlate events that would help in generating a canvas of the attack surface and identify the vulnerabilities and possible exploits. The gathered intelligence assimilated with the knowledge of the open web would give the CERT the ability prevent and predict attacks.
+
+
+    NIC’s PAN-India connectivity and reach is one of its key strengths and this coupled with its enhanced ability to detect and prevent attacks would collectively upscale the Government’s ability to protect its data.
+
+
+    Setting up NIC-CERT, as per Hon’ble Minister, is MeitY’s initiative under Digital India aimed at enhancing the security posture of NIC and the Government which will in turn lead to enhanced trust of the citizens as the services offered to them would be configured in a framework that is secure by design. NIC-CERT will operate in close coordination and collaboration with sectoral CERT’s and more so with Cert-in.
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1512186) Visitor Counter : 988

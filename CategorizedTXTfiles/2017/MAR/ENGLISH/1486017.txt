@@ -1,0 +1,34 @@
+      Ministry of Railways
+
+      Computerized Rail Booking System
+      Posted On: 29 MAR 2017 5:26PM by PIB Delhi
+
+
+        On Indian Railways, reserved tickets are issued through Computerized Passenger Reservation System (PRS)/through internet on first come first served basis. Berths/seats of choice are allotted subject to availability at the time of booking. Coach number and berth/seat number is allotted till the confirmed accommodation is not exhausted. When confirmed accommodation has already been booked, Reservation Against Cancellation (RAC)/waiting list tickets are issued. In case the status of RAC/waiting list tickets changes to confirm against cancellation of confirmed berths booked prior to that, coach number/berth number is not indicated and only confirmed status is mentioned. In these cases coach number and berth/seat number is allotted at the time of preparation of first reservation charts with a view to ensuring compaction of the party. The only exception is first AC in which even when confirmed accommodation is available, the status is shown as “Confirmed” and coach number and cabin / coupe number is allotted at the time of preparation of first reservation charts. This is done to ensure provision of accommodation to High Official Requisition (HOR) holders and other high dignitaries as per their entitlement, not to allot single lady passenger accommodation in coupe along with male passenger, compact accommodation to the family, lower berth to senior citizen to the extent feasible etc.
+
+
+        Since reserved accommodation is booked on first come first served basis, it possible that if a female passenger/senior citizen approaches for booking late, they may or may not get the berth of their choice. However, with a view to facilitating journey by female passengers and senior citizens in train, following provisions have already been made in the Computerized PRS of Indian Railways:-
+
+
+        (i) There is already a provision in Computerized PRS to provide lower berths automatically to male passengers of 60 years and above and female passengers of 45 years and above subject to the availability of lower berths at the time of booking of tickets.
+
+
+        (ii) Instructions also exist for allotment of lower berths falling vacant in the train due to non-turning up of passengers, by train conductor/TTE on first come-first served basis, to Senior Citizens or a Physically Handicapped booked on the authority of handicapped concessional ticket or a pregnant woman who has been allotted upper/middle berths and approaches for allotment of such vacant lower berth(s).
+
+
+        (iii) In all trains having reserved accommodation, a combined quota of 6 (six) lower berths per coach in sleeper class and 3 (three) lower berths per coach each in AC 3 tier and AC 2 tier classes has been earmarked for Senior Citizens, female passengers of 45 years of age and above and pregnant women. In case of Rajdhani, Duronto and fully Air Conditioned/Express trains, the number of berths to be earmarked under this quota in 3AC is 4 lower berths per coach as against 3 lower berths per coach in normal Mail/Express trains.
+
+
+        This Press Release is based on the information given by the Minister of State for Railways Shri Rajen Gohain in a written reply to a question in Lok Sabha on 29.03.2017 (Wednesday).
+
+
+        ****
+
+
+        AKS/MKV/AK/SM
+
+
+    
+
+    
+    (Release ID: 1486017) Visitor Counter : 40

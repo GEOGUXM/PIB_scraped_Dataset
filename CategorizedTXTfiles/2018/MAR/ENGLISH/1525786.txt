@@ -1,0 +1,29 @@
+      Ministry of Railways
+
+      Indian Railways plans to use GIS portal to monitor, maintain and manage its assets
+      
+      MOU between Ministry of Railways and ISRO signed for mutual cooperation
+      
+      Railway will use satellite imagery to identify new encroachment all around station
+      
+      GPS based mapping of Indian Railways assets on GIS platform likely to be completed by December, 2018
+
+      Posted On: 22 MAR 2018 11:44AM by PIB Delhi
+
+    Indian Railways have large number of assets including land assets that need to be effectively monitored, managed and maintained. As railway operations have wide spatial coverage, GIS mapping of assets on Indian Railways can be used for better management.
+
+
+    All Indian Railways assets are to be mapped and these will be subsequently used to develop Indian Railways’ GIS portal. Work is in progress for GPS based mapping of Indian Railways assets including land assets on GIS platform likely to be completed by December, 2018. MOU has been signed with Centre for Railway Information System (CRIS) to this effect and CRIS is developing this Application. In this Application land plans of Indian Railways will be available for viewing overlaid on Satellite Imagery. Satellite imagery is being taken from Bhuvan Platform of ISRO. MOU between Ministry of Railways and ISRO has been signed for mutual cooperation in various phases. After development of GIS portal, it may be possible to identify new encroachment all around station by comparing the images of Satellite Imagery which are updated by ISRO after a regular interval.
+
+
+    *****
+
+
+    SBS/MKV/ENS
+
+    
+    
+    (Release ID: 1525786) Visitor Counter : 567
+    
+    
+      Read this release in: Hindi , Tamil

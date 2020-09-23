@@ -1,0 +1,72 @@
+      Ministry of Communications
+
+      MoC Sh. Ravi Shankar Prasad launches Maritime Communication Services in India
+      
+      Shri Prasad also launched a web portal for reporting of stolen mobiles
+      
+      Posted On: 13 SEP 2019 7:46PM by PIB Delhi
+
+
+    Union Minister for Communications, Electronics & Information Technology and Law & Justice Shri Ravi Shankar Prasad has launched the maritime communication services at Mumbai today. He said that Maritime Connectivity will enable high-end support to those in sea by providing access to Voice, Data and Video services while traveling on sailing vessels, cruise liners, ships in India, using satellite technology.
+
+
+    Nelco, India's leading VSAT solutions provider is the first Indian company that will now provide quality broadband services to the maritime sector. Nelco through global partnerships, infrastructure including transponder capacity on satellite of ISRO Indian Space Research Organization) and a comprehensive service portfolio will help Energy, Cargo and Cruise vessels by enhancing operational efficiency, improving crew welfare and enabling customer services. The IFMC licence has not only enabled connectivity for on-board users on ships but also brings operational efficiencies for shipping companies which were less evolved until now.
+
+
+    In December 2018, the Government of India announced the licenses for In-flight and Maritime Communications (IFMC) that allows voice and internet services while flying over the Indian skies and sailing in Indian waters, both for international and Indian aircrafts and vessels. The IFMC license is a key initiative of the Telecom Ministry, a move to liberalise satellite communication services in India.
+
+
+    Speaking on this occasion, Mr. P J Nath, MD and CEO of NELCO said that they will also be offering a bouquet of digital services to cater to the needs of the various types of maritime vessels.
+
+
+    Shri Prasad also launched a web portal for reporting of stolen mobiles for tracing purposes.
+
+
+    International Mobile Equipment Identity ( IMEI) is supposed to be an unique identity of a mobile phone device. Generally, a phone with one/two slots of SIM card is programmed with one/two IMEI number as the case may be. IMEI number being programmable, some miscreants do reprogram the IMEI number, which results in cloning of IMEI causing multiple phone devices with same IMEI number. As on date, there are many cases of cloned/duplicated IMEI handsets in the network.
+
+
+    If such IMEI is blocked, a large number of mobile phones will get blocked being handsets with same IMEI causing inconvenience to many genuine customers. Thus, there is a need to eliminate duplicate/fake IMEI mobile phones from the network.
+
+
+    Accordingly, a project called Central Equipment Identity Register (CEIR) system has been undertaken by the DoT for addressing security, theft and other concerns including reprogramming of mobile handsets.
+
+
+     1. The major objectives of the project include following:
+
+
+      * Blocking of lost/stolen mobile phones across mobile networks thus discouraging theft of mobile phones
+
+      * Facilitate in tracing of such reported lost/stolen mobile phones
+      * Prevention of mobile devices with duplicate and fake IMEIs in the network
+      * Curtail the use of counterfeit mobile devices
+      * Reduced health risks to the users with the control of use of counterfeit mobile phones
+      * Improved QoS and reduced call drops with reduction in use of counterfeit mobile devices
+
+    Inflight and Maritime Telecom Connectivity
+
+
+    In a major policy decision, Department of Telecommunications, Ministry of Communications had notified the Flight and Maritime Connectivity (FMC) Rules, 2018 on 14 th December, 2018 permitting voice and data service provisioning in flights and ships. The policy intent of the Government is to open the airspace and territorial waters for telecommunication services for general public which was not possible earlier due to lack of enabling rules. Rules envisage creation of satellite gateway within India for providing telecom services in aircraft and ships through Indian licensed service providers. Further, Indian satellite bandwidth has to be utilised. If a foreign satellite is used, it has to be approved by ISRO.
+
+
+    Only the authorized IFMC service provider, can provide wireless voice or data or both type of services on ships within Indian territorial waters and on aircraft within or above India or Indian territorial waters. Territorial waters are 12 nautical miles from baseline of the coast and beyond that is the Exclusive Economic Zone upto 200 nautical miles (1 nautical mile is 1.852 Kms.). 7 Companies viz. (i) M/s Hughes Communications India Ltd., (ii) M/s Tatanet Services Ltd., (iii) M/s Indo Teleports Ltd., (iv) M/s BSNL, (v) M/s Reliance Jio Infocomm Ltd., (vi) M/s Cloudcast Digital Ltd. & (vii) M/s Bharti Airtel Ltd. have taken the authorisation to provide Inflight and Maritime Connectivity (IFMC) services till date.
+
+
+    Satellite bandwidth has been provided on Indian Satellites by ISRO for providing IFMC service.
+
+
+    <><><><><><>
+
+
+    SNC
+
+    
+    
+    (Release ID: 1585036) Visitor Counter : 920
+    
+    
+      Read this release in: Hindi
+    
+    
+    
+
+*

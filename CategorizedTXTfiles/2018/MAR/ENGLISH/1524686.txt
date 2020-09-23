@@ -1,0 +1,129 @@
+      Ministry of Home Affairs
+
+      MoS (Home) Shri Kiren Rijiju addresses Valedictory Session of the Asia-Pacific Regional Conference of the International Association of Chiefs of Police
+      
+      Shri Kiren Rijiju says law enforcement agencies worldwide must collaborate to tackle the threat posed by Cyber Crimes
+
+      Posted On: 15 MAR 2018 6:53PM by PIB Delhi
+
+    The Minister of State for Home Affairs, Shri Kiren Rijiju has advocated that law enforcement and security agencies worldwide must collaborate to tackle the threat posed by Cyber Crimes. Addressing the Valedictory Session of the Asia-Pacific Regional Conference of the International Association of Chiefs of Police (IACP) here today, he observed that the existing frameworks, programmes and tools are often too slow and bureaucratic to allow for a timely and effective response. Rather than multiple partners investing in and developing the same highly specialised skill-sets and expertise, perhaps a more effective, high-level model would be for law enforcement and relevant partners to focus on distinct core competencies and to make them available to others 'as a service', he added.
+
+
+    Following is the text of the address delivered by Shri Kiren Rijiju on the occasion:
+
+
+    “The 2-day deliberations on the subject "Challenges to Policing in 2020-How is Cyber Space shaping our approach to Cyber-Crime & Terrorism, how do we perform within it and take advantage of it", have covered a wide range of topics that are extremely relevant today.
+
+
+    Law Enforcement Agencies that seek to keep communities safe are faced with increasing challenges of rapidly evolving technologies, cyber space being the most important.
+
+
+    Commission of cyber-crime is getting easier as the extent to which cyber technology provides it easy to commit crime at a faraway place, in total anonymity, and with global reach. Tools and techniques to conduct cybercrime — hacking software, malware — can be downloaded freely. There are even step-by-step video instructions online that explain how to use them. In fact, crime-as-a-service is also being offered in dark web, we can see from looking at standard consumer technology that it only takes a few iterations of a product for it to become straightforward to use. So the barrier to entry for cybercrime is very minimal i.e. just needs to access internet. In the past systems would have only been available only to technology-savvy cybercriminals. Now such criminal services can be bought and used by anyone, regardless of their technical skills. What this evolution has revealed is the extent to which other criminal activities, beyond economic crime, are now being supported by these infrastructures.
+
+
+    As per our own National Crime Record Bureau (NCRB), a total of 33,531 cyber-crime cases were registered during 2014-2016. During 2016, 48.6% of cyber-crime cases reported were for illegal gain (5,987 out of 12,317 cases), followed by revenge with 8.6% (1,056 cases) and insult to modesty of women with 5.6% (686 cases). During 2016, cyber-crime (7.7%) was recorded as the fourth largest crime (first Cheating-68.4%,- second criminal breach of trust-11.7%, third forgery-8.6%) in India.
+
+
+    Among the more rampant cyber-crimes under Indian IT Act (various sections) are:
+
+
+    • tampering computer source documents
+
+
+    • publications / transmission of obscene/ sexually explicit contents
+
+
+    • breach of confidentiality / privacy
+
+
+    • data theft
+
+
+    • cyber terrorism
+
+
+    Among the cyber-crime motives are:
+
+
+    • illegal gain
+
+
+    • revenge
+
+
+    • insult to modesty of women
+
+
+    • extortion / blackmailing
+
+
+    • sexual exploitation
+
+
+    • causing disrepute
+
+
+    • inciting hate crime against community
+
+
+    • developing own business / interest
+
+
+    • political motives
+
+
+    • disrupt public services
+
+
+    • piracy
+
+
+    • steal information for espionage
+
+
+    • serious psychiatric illness viz. perversion, etc.
+
+
+    Recently we also noticed rise in sophisticated to naïve cyber-crimes in financial sector.
+
+
+    Sophisticated Cyber Crime: The Society for Worldwide Interbank Financial Telecommunication (SWIFT) based malware attack witnessed in two Indian Banks (Union Bank of India — 171 million USD, almost all them are recovered and City Union Bank — 2 million USD only part could be recovered till Feb 28, 2018). In the first Bank case, an employee of the Bank opened an email attachment, which looked like it had come from India's Central Bank, Reserve Bank of India (RBI). The attachment initiated the malware that hackers used to steal the Bank's access code for the SWIFT, a system that lenders use for international transactions; the codes were used to send transfer instructions for about 170 million USD to Bank's account at CitiGroup Inc in New York. However, bank could recover all the money back. In the other case, money was transferred in accounts in Dubai, Turkey and China. But in this case, a partial amount is yet to be recovered.
+
+
+    Naïve cyber-crime: A district (Jamtara) in eastern part of our country is getting notoriety for financial frauds. Here the youngsters (all 8 th or 10 th graders & dropouts) are using simple phishing techniques to obtain sensitive financial data (like PIN number, card CVV, etc.) and transfer the money to e-wallets and subsequently to bank accounts. They cleverly entice the victims to reveal OTP just through smart conversation. To obtain the SIMs they use "surrogate SIM" [being very poor and with lack of education, elderly people are lured to provide their biometric authentication through Aadhaar to obtain SIM. Fraudsters obtain 7 to 9 SIMs and pay small amount to the elderly] and transfer the money to "surrogate bank accounts" [Government has opened bank accounts for poor for facilitating government's direct cash benefit transfer. Such bank accounts are hired by fraudsters to get their debit card on monthly rentals. The poor and elderly are not aware of their cards being misused for withdrawing money]. The fraudsters are also using techniques to evade detection by changing the mobile tower location while making phishing calls to the victims. This they do just by driving their motorbike/car around different mobile towers.
+
+
+    New age technologies for crimes: To further complicate the traditional cyber-crime challenges to policing, new technologies like Internet of Things, Virtual Currencies, Advanced Malware, Artificial Intelligence, etc. have taken the challenges to a new level. Coping with such rapid changing technologies by Police has become a huge task for effective Policing. Across many countries many cyber criminals use technologies like darknet, proxy servers, The Onion Router (TOR) services to hide their identity. Extensive use of VoIP, caller ID spoofing, use of crypto currencies, encrypted channel for communication, use of social media have virtually created a syndicates of criminals irrespective of their nationality.
+
+
+    The business of supporting online criminality has become a truly global enterprise, with help desks, regular software updates and platform development roadmaps created to service the needs of their users. In fact having imitated the very best enterprise approaches and unbound by legislative requirements, they have become innovative and agile businesses. This creates a two-tiered, organised criminal enterprise: those committing crimes that directly victimise and those that are automating and supporting the businesses of crime. The question becomes where should law enforcement's limited resources be allocated: the criminals that carry out the crime, or those that provide the infrastructure that make it possible?
+
+
+    Law enforcement, policy makers, legislators, academia and training providers need to become even more adaptive and agile in addressing the phenomenon. Existing frameworks, programmes and tools are often too slow and bureaucratic to allow for a timely and effective response. Rather than multiple partners investing in and developing the same highly specialised skill-sets and expertise, perhaps a more effective, high-level model would be for law enforcement and relevant partners to focus on distinct core competencies and to make them available to others 'as a service'.
+
+
+    It is important to consider law enforcement as one of the key partners in ensuring cyber security globally. Prevention campaigns should not focus solely on preventing citizens and businesses from becoming victims of cybercrime, but also on preventing potential cybercriminals becoming involved in such activity. Such campaigns must highlight the consequences of cybercrime for both the victim and perpetrator.
+
+
+    Besides technology, challenges in cyber-crime investigation stems from tack of adequate capacity as also legal challenges. Law enforcement should continue to focus on attribution and intelligence development in order to identify, locate and prosecute key criminal individuals to achieve more permanent impact on the criminal community. Law enforcement must continue to develop and invest in the appropriate specialised training required to effectively investigate highly technical cyber-attacks. A foundation level understanding of cyber-facilitated and cyber-enabled crime, including the basics of digital forensics (e.g. how to secure/seize digital evidence) should be required by all law enforcement officers, especially first responders.
+
+
+    Government of India has sought to empower stakeholders and public through various policy initiatives which had positive outcomes at the operational level, - active partnerships with private sector both for R&D initiatives and also tangible deliverables. Police across the countries also needs to evolve a better coordination, information sharing mechanism and develop mutual trust by respecting the local Laws and Regulations. Without such international cooperation, it would be extremely difficult for a country to address the new age policing single handedly. Steps should be taken to facilitate intensified cooperation across government (law enforcement), to allow information sharing and a coordinated approach to response to cybercrimes and attacks.
+
+
+    Cyber diplomacy is an evolving subject at both bilateral and multilateral levels. India has sought to play a responsible role on both these fronts. Concerns of like-minded multiple stakeholders (the model that India supports) were articulated in the ICANN conference held in Hyderabad, It was further emphasized during the Global Conference for Cyber Security 2017 held in New Delhi last November (the theme of which was "Cyber4all: An Inclusive, Sustainable, Developmental, Safe and Secure Cyberspace"). We need to continue to take up concerns of Governments, particularly when it involves issues such as tackling cyber-crimes and terrorism.”
+
+
+    ******
+
+
+    BB/NK/PK/SS
+
+
+    
+
+    
+    (Release ID: 1524686) Visitor Counter : 406
+    
+    
+      Read this release in: Tamil

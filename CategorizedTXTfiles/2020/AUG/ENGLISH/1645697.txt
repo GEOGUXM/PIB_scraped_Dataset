@@ -1,0 +1,46 @@
+      Ministry of Science & Technology
+
+      IIA scientists discover He-enhanced cool bright stars among the metal-rich parts of Omega Centauri globular cluster
+      
+      This is the first-ever spectroscopic determination of He-abundance in Omega Centauri
+
+      Posted On: 14 AUG 2020 11:30AM by PIB Delhi
+
+    Globular clusters are the stellar systems with millions of stars formed from the same gaseous cloud. Hence, usually, the stars formed will be homogeneous in their chemical composition of elemental abundances. But, there are clusters which deviate from this norm. One is being Omega Centauri, the brightest and the largest globular cluster in our Galaxy, the Milky Way.
+
+
+    The different stars of Omega Centauri do not show the same metal content, a parameter that indicates its age, but a large range in it. Due to the anomalous elemental abundances, the formation scenario may be different from normal. Normally, the abundances are derived using the assumption that He is one-tenth of the H-abundance.
+
+
+    A team of scientists from the Indian Institute of Astrophysics (IIA), an autonomous institute under the Department of Science & Technology (DST), Government of India studied numerous stars of this cluster and discovered He-enhanced cool bright stars among the metal-rich sample of Omega Centauri. This work, a result of the spectroscopic survey conducted of this cluster, determines the He-abundance of these stars for the first time and has been published in ‘ The Astrophysical Journal’.
+
+
+    Though there are estimations of He-enhancement in the H-core burning main-sequence stars (like Sun) of Omega Cen, this is the first-ever spectroscopic determination of He-abundance in Omega Centauri. The study provides a very important clue for the origin of the He-enhanced population establishing that these are the second generation of stars formed from the metal-rich and He-enhanced material from the first generation of stars. And, also that the He-enhanced main-sequence stars evolve to the metal-rich He-enhanced cool bright stars as our program starts.
+
+
+    While in most stars, H is the most abundant element, if the abundance of H is reduced, correspondingly He abundance increases because the sum of H and He is a constant, and the other heavier elements are in traces. IIA team started their studies by using the low-resolution spectra obtained from the Optometric Medium Resolution Spectrograph (OMRS) installed with the Vainu Bappu Telescope, Vainu Bappu Observatory, Kavalur, India for identifying the mildly H-poor/He-enhanced stars.
+
+
+    However, they found that the H-atomic spectral lines are very strong in the spectra of stars, and the reliable measurement of abundance was not possible from such lines. Hence, IIA team used a novel technique that adopts model atmospheres with differing He/H ratio and the predicted light from these models was matched with observed light in neutral magnesium (Mg) atomic line and that in MgH molecular band in the observed high-resolution spectra to derive the star's actual H/He ratio which measures the amount of He. In all the previous studies, the analyses were carried out assuming the normal H-abundance like for Sun (He/H=0.1).
+
+
+    To measure the amount of He in these cool bright stars of Omega Centauri, using the high-resolution spectra obtained from the Southern African Large Telescope (SALT), Dr. Hema B. P. and Prof. Gajendra Pandey of Indian Institute of Astrophysics, Bangalore have worked in association with Prof. Robert L. Kurucz, Harvard-Smithsonian Center for Astrophysics, Cambridge, USA, and Prof. Carlos Allende Prieto, Instituto de Astrofısica de Canarias and Departamento deAstrofisica, Universidad de La Laguna, Tenerife.
+
+
+    Figure 2. Observed and the synthesized MgH bands for LEID 34225 are shown. The spectra synthesized for the Mg abundance derived from the Mg I lines and the best-fit value of He/H ratio are shown by the red dashed-dotted line. The synthesis for the two value of the He/H are also shown.
+
+
+    [Publication link: https://doi.org/10.3847/1538-4357/ab93bd ]
+
+
+    *****
+
+
+    NB/KGS
+
+    
+    
+    (Release ID: 1645697) Visitor Counter : 401
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Bengali , Tamil

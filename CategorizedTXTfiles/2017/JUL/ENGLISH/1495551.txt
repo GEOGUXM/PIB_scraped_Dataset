@@ -1,0 +1,30 @@
+      Ministry of Finance
+
+      Further clarification on tax in reverse charge on gold ornaments; Sale of old jewellery by an individual to a jeweller will not make the jeweller liable to pay tax under reverse charge mechanism on such purchases; However, if an unregistered supplier of gold ornaments sells it to registered supplier, the tax under RCM will apply.
+      Posted On: 13 JUL 2017 6:57PM by PIB Delhi
+
+
+    
+
+    In the GST Ki Master Class held yesterday, in one of the replies given to an on-the-spot-question, it was informed that purchase of old gold jewellery by a jeweller from a consumer will be subject to GST @ 3% under reverse charge mechanism in terms of the provisions contained in Section 9(4) of the CGST Act, 2017.
+
+    
+    On further examination, it is felt that the issue needs to be clarified.
+    
+    Section 9(4) of the said Act mandates that tax on supply of taxable goods (gold in this case) by an unregistered supplier (an individual in this case) to a registered person (the jeweller in this case) will be paid by the registered person (the jeweller in this case) under reverse charge mechanism. This provision, however, has to be read in conjunction with section 2(105) read with section 7 of the said Act. Section 2 (105) defines supplier as a person supplying the goods or services. Section 7 provides that a supply is a transaction for a consideration by a person in the course or furtherance of business.
+    
+    Even though the sale of old gold by an individual is for a consideration, it cannot be said to be in the course or furtherance of his business (as selling old gold jewellery is not the business of the said individual), and hence does not qualify to be a supply per se. Accordingly, the sale of old jewellery by an individual to a jeweller will not attract the provisions of Section 9(4) and jeweller will not be liable to pay tax under reverse charge mechanism on such purchases. However, if an unregistered supplier of gold ornaments sells it to registered supplier, the tax under RCM will apply.
+
+    *********************
+
+
+    
+    
+    DSM/SS/KA
+
+    
+    
+    (Release ID: 1495551) Visitor Counter : 174
+    
+    
+      Read this release in: Tamil

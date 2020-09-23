@@ -1,0 +1,28 @@
+      Department of Space
+
+      GSLV Successfully Launches South Asia Satellite
+      Posted On: 05 MAY 2017 8:26PM by PIB Delhi
+
+
+    India's Geosynchronous Satellite Launch Vehicle (GSLV-F09) successfully launched the 2230 kg South |Asia Satellite (GSAT-9) into its planned Geosynchronous Transfer Orbit (GTO) today (May 05, 2017). Today’s launch of GSLV was its eleventh and took place from the Second Launch Pad at the Satish Dhawan Space Centre SHAR (SDSC SHAR), Sriharikota, the spaceport of India. This is the fourth consecutive success achieved by GSLV carrying indigenously developed Cryogenic Upper Stage. In its oval shaped GTO, the South Asia Satellite is now orbiting the Earth with a perigee (nearest point to Earth) of 169 km and an apogee (farthest point to Earth) of 36,105 km with an orbital inclination of 20.65 deg with respect to the equator.
+    
+    Few seconds before the launch countdown reached zero, the four liquid propellant strap-on motors of GSLV-F09, each carrying 42 tons of liquid propellants, were ignited. At count zero and after confirming the normal performance of all the four strap-on motors, the 139 ton solid propellant first stage core motor was ignited and GSLV lifted off at 16:57 IST. The major phases of the flight occurred as scheduled. About seventeen minutes after lift-off, South Asia Satellite was successfully placed in GTO.
+    
+    . Soon after separation from GSLV, the two solar arrays of the satellite were automatically deployed in quick succession and the Master Control Facility (MCF) at Hassan in Karnataka assumed control of the satellite.
+    
+    South Asia Satellite is a communication satellite built by ISRO to provide a variety of communication services over the South Asian region. For this, it is equipped with Ku-band transponders.
+    
+    Following the successful launch, the Honorable Prime Minister of India, Mr. Narendra Modi addressed along with the South Asian leaders. He congratulated ISRO and remarked that today was a historic day for South Asia and a day without precedence. The Prime Minister recalled that two years ago India made a promise to extend the advanced space technology for the cause of growth and prosperity of the people of South Asia and felt that the successful launch of South Asia Satellite today marks a fulfillment of that.
+    
+    In the coming days, the satellite orbit will be raised from its present GTO to the final circular Geostationary Orbit (GSO) by firing the satellite's Liquid Apogee Motor (LAM) in stages. The South Asia Satellite will be commissioned into service after the completion of orbit raising operations and the satellite’s positioning in its designated slot in the GSO following in-orbit testing of its payloads.
+
+    *****
+
+
+    
+    
+    KSD/NK
+
+    
+    
+    (Release ID: 1489354) Visitor Counter : 324

@@ -1,0 +1,32 @@
+      Ministry of Electronics & IT
+
+      Government of India launches ArogyaSetu App to track Covid 19 infection
+      Posted On: 02 APR 2020 4:58PM by PIB Mumbai
+
+
+    T he Government of India today launched a mobile app ArogyaSetu developed in public-private partnership to bring the people of India together in a resolute fight against COVID-19.
+
+
+    The App, called ‘AarogyaSetu’ joins Digital India for the health and well-being of every Indian. It will enable people to assess themselves the risk of their catching the Corona Virus infection. It will calculate this based on their interaction with others, using cutting edge Bluetooth technology, algorithms and artificial intelligence.
+
+
+    Once installed in a smart phone through an easy and user-friendly process, the app detects other devices with AarogyaSetu installed that come in the proximity of that phone. The app can then calculate the risk of infection based on sophisticated parameters if any of these contacts has tested positive.
+
+
+    The personal data collected by the App is encrypted using state-of-the-art technology and stays secure on the phone till it is needed for facilitating medical intervention.
+
+
+    Available in 11 languages, the App is ready for pan-India use from day-1 and has highly scalable architecture.
+
+
+    *** *****
+
+
+    RJ / RP
+
+    
+    
+    (Release ID: 1610326) Visitor Counter : 6821
+    
+    
+      Read this release in: Marathi

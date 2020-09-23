@@ -1,0 +1,75 @@
+      Ministry of Railways
+
+      Indian Railways adopting Automation and Instrumentation for Predictive Maintenance of Rolling Assets
+      
+      OMRS & Smart Yards being implemented for machine assisted automatic identification of defects in Rolling Stock
+      
+      Installation of 25 OMRS systems at 20 locations in progress over Indian Railways’ network; 40 yards will be converted into Smart Yards in phase-I
+
+      Posted On: 22 JAN 2020 3:40PM by PIB Delhi
+
+    (IR) is moving towards the adoption of automation and instrumentation in its maintenance practices for detecting defects/deficiencies in rolling assets. The objective is to achieve machine assisted automatic identification of defects in the Rolling Stock, well before any catastrophic failure. This will lead to a paradigm shift in maintenance practices of Rolling Stock of Indian Railways from “Time Based Maintenance” to “Condition Based Predictive Maintenance” with a view to enhance reliability and availability along with improved safety of Rolling Stock during run.
+
+
+    For this, to begin with, On-line Monitoring of Rolling stock System ( OMRS) is being adopted in Indian Railways. OMRS is a way-side inspection system consisting of Acoustic Bearing Detector (ABD) or Rail Bearing Acoustic Monitor (RailBAM) and Wheel Impact Load Detector (WILD)/Wheel Condition Monitor (WCM) to detect the faults in the bearings and wheels of rolling asset. This is an automated system for detecting defective wheels and bearings, and catching the same before it fails, thus resulting in efficient utilization of the coaches, wagons & locomotives. OMRS monitors the health of each Rolling Stock of the train in order to identify defective bearings & wheels. Defect report generation and alert communications takes place in real time for taking corrective action, accordingly.
+
+
+    The current practice of inspection of Rolling stock over Indian Railways is largely based on manual inspection, which is either track side Rolling-in-Examination or pit examination of Rolling Stock in stationary or slow moving condition. The visual inspections are done by trained manpower either in a pit or track side location but this relies on the individual judgment. Therefore, an automated defect detection system viz. OMRS is being adopted by Indian Railways which consists of following sub-systems:
+
+      * Acoustic Bearing Detector (ABD)/ Bearing Acoustic Monitor (RailBAM) gives an early warning on possible defects in the bearing box, before reaching the stage of hot box.
+      * Wheel Impact Load Detector (WILD)/Wheel Condition Monitor (WCM) system measures the wheel impacts on tracks to identify the flat surface on wheels in Rolling Stock. This system is based on Accelerometer device to measure the wheel impacts.
+      * PhotoTAG system is used for vehicle identification using Visual (photographic) identification technique.
+
+    Status of implementation of OMRS:
+
+      * Installation of 25 OMRS systems at 20 locations is in progress over entire Indian Railways’ network in phase-I on the sections identified by a high-level multi-disciplinary committee of Railway Board.
+      * 1 st OMRS system has been installed at Panipat in Ambala-Delhi section of Northern Railway in November 2017 and a Central Control Room termed as “National Command Centre (NCC)” for monitoring of all OMRS sites has been set-up at Delhi Kishanganj in March 2018.
+      * After successful performance of 1 st OMRS system at Panipat in March 2018, progressive installation of the remaining systems is being done.
+      * As on date, 6 OMRS systems have been installed and 10 systems are expected to be installed in current financial year 2019-20. The project of installation of remaining OMRS systems over Indian Railways is likely to be completed in the current calendar year 2020.
+
+    Panipat OMRS site
+
+
+    Benefits from OMRS:
+
+
+    Summary of defects detected by OMRS in rolling stock upto June 2019 –
+
+      * Number of faults identified in Bearings by RailBAM : Wagons- 33, Coaches – 6, Locomotives -1
+      * Number of faults identified in Wheels by WCM : Coaches – 7
+
+    Encouraged by the results of deployment of OMRS, including some critical detection which could have potentially been cause of an accident, not otherwise detectable by normal maintenance procedure, Indian Railways is now going ahead with greater adoption of track side based maintenance systems with an aim towards predictive maintenance.
+
+
+    Further, moving towards predictive maintenance practices in yards, Indian Railways is envisaging to convert its “freight examination yards” into technology driven “ Smart Yards” for automatic detection of faults/defects/deficiencies in freight wagons. These Smart Yards will predict anomalies like Hot Wheel Hot Axle, defective bearings, defective wheels, hanging/loose/missing parts etc. long before any failure actually happens. Smart Yards will be equipped with various automated technology driven systems including OMRS, Hot Box Detector, Wheel Profile Recorder and Machine Vision Equipments etc.
+
+
+    The concept of smart yard is to use modern repair facilities, infrastructure, tools, automatic defect detection equipments and digital technology to enhance safety, reliability and productivity in freight trains operation.
+
+
+    The automatic defect detection equipments of Smart Yard shall provide advance data about hot axles and wheels, wheel flats, wheel profile & diameter, load imbalance, spring breakage, loose and hanging parts, wear condition of brake blocks etc. even before the rake arrives at the maintenance yard. It will then use this information for objective fault assessment and proactive staffing, thereby, reducing turn-around time while boosting safety and improving productivity.
+
+
+    Status of implementation of Smart Yard:
+
+      * Initially in 1 st phase, 40 identified yards will be converted into Smart Yards.
+      * COFMOW (a unit of Indian Railways) has been nominated for carrying out the overall work of Smart Yards.
+
+    The implementation of afore mentioned technology driven automatic predictive maintenance practices for up-keep of Rolling Stock not only will benefit Indian Railways on account of efficient/safe operation of trains but will also benefit on economic ground.
+
+
+    *****
+
+
+    SG/MKV
+
+    
+    
+    (Release ID: 1600106) Visitor Counter : 895
+    
+    
+    
+    
+    
+
+*

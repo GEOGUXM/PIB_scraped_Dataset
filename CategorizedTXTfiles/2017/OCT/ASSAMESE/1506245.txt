@@ -1,0 +1,59 @@
+      Special Service and Features
+
+      CCTNS Digital Police Portal launched to fast-track Criminal Justice System in the Country
+      Posted On: 06 OCT 2017 10:55PM by PIB Guwahati
+
+
+    *Deepak Razdan
+
+
+    As crime continues to grow, and criminals turn tech-savvy, police investigators across States face a tough challenge to bring the law-breakers to justice.The situation is,however, undergoing a revolutionary change. The Digital Police Portal launched by the Government of India as part of the Crime and Criminal Tracking Network and Systems (CCTNS), in August this year, will not only help police sleuths track the criminals fast, but also help the victims seek redress online.
+
+
+    The total IPC crimes in the country increased from 28.51 lakh in 2014 to 29.49 lakh 2015. According to the Union Home Ministry’s latest annual report (2016-17), the share of IPC crimes to total cognizable crimes in percentage terms was 37.2 per cent in 2011, and it increased to 40.3 per cent in 2015. The crime rate, which shows the number of crimes per one lakh population, too increased from 497.9 in 2012 to 581.8 in 2015.
+
+
+    In such a complex scenario, the Digital Police Portal, with its various features, is expected to be a game-changer. The CCTNS portal will provide investigators the complete record history of any criminal from anywhere across the country. Equipped with a Google-type Advance Search engine and ability to give analytical reports, the portal is expected to become the backbone of the country’s criminal justice system. For the State Police organisations and investigating agencies like the CBI, IB, ED and NIA, the Digital Police Portal provides a National Database of crime and criminals with facility for 11 searches and 44 reports. This will improve national security and revolutionise the way police works in the country.
+
+
+    To citizens, the Digital Police Portal offers online facility to register FIRs. There will be initially seven Public Delivery Services in 34 States & UTs, like Person and Address Verification of employees, tenants, nurses etc; permission for hosting Public Events, Lost & Found Articles and Vehicle theft. The portal will turn criminal investigationa completely citizen-friendly affair. The citizens’ reports and requests are forwarded to State and Union Territory Police without loss of time for follow-up action.
+
+
+    In 2004, the Ministry of Home Affairs (MHA)initiated a project named- Common Integrated Police Application (CIPA) as a component of the “Modernization of State Police Forces (MPF)” project, aiming at computerization of crime records in police stations on a stand-alone basis. The need for setting up of a national database of crime records was realized later, and the MHA introduced a Central sector project of Crime and Criminal Tracking Network and Systems (CCTNS) in 2009, with the objective of inter-linking all police Stations under a common application software for the purpose of investigation, policy making, data analytics, research and providing Citizen Services.
+
+
+    The project provided the State Police officials with a platform to enter Crime & Criminal data onto a CCTNS application, which could be accessed any time through State database at State Data Centre as well as at National Database at National Data Centre (NDC). The total approved outlay of the CCTNS project is Rs. 2000 Crore. The Central government provides funds to States and Union Territories towards hardware, CCTNS software, connectivity, system integration, data entry of legacy data, project management manpower and training. The Centre has released to States Rs 1450 crores out of which Rs 1086 crores have been spent by the States and UTs.
+
+
+    At present, the CCTNS software is deployed at 14284 Police Stations out of the 15398 Police Stations covered under the scheme. A total of 13775 Police Stations out of 14284 Police Stations are using this software to enter FIRs 100 per cent. As many as 13439 Police Stations out of the 15398 Police Stations covered by the scheme are already connected and linked with State & National database of Crime and Criminal records. The total number of FIRs registered using CCTNS leapt from less than 1.5 lakhs in March 2014 to about 1.25 crores before June, 2017, registering a jump of almost 100 times. Thirty-four States and UTs have launched their State Citizen Service portals with key services such as reporting a crime, request for verification, permission for events etc. Thirty-five out of 36 States and UTs are sharing data with National Crime and Criminal database. The system has seven crore records for crime and criminal data including 2.5 cr FIR records and legacy data.
+
+
+    The scope of the CCTNS project has been enhanced to integrate the Police data with other pillars of the criminal justice system namely -- Courts, Prisons, Prosecution, Forensics and Fingerprints and juvenile homes, and accordingly a new system -- “Inter-operable Criminal Justice System (ICJS)” has been developed. The ICJS system has been developed as a dashboard approach with an advance search facility for the purpose of retrieving the desired data from the system. The ICJS project is being monitored by a Working Group chaired by a Supreme Court judge, Mr Justice Madan B. Lokur.
+
+
+    State police organisations and all investigating agencies have been greatly empowered by the Digital Police Portal. The portal provides 11 searches and 44 reports based on CCTNS National database. The advanced search is equipped with high performing search and analytics engine. The advanced search can be carried out in two ways. In the first way of search, the search engine will look for full names entered (for eg. Name and Relative Name) but will get all the records where one or both of these names exist. In the second way of searching, it also fetches records with partial matches and returns all the results.
+
+
+    There are various kinds of filters available on the portal through which data can be sorted and narrowed down. Search can be carried out through Person Name, Person and Relative Name, Person and Act/Section, free text search and exact search on FIR Regd. Number/ Mobile Number/Email. The CCTNS portal will provide investigators the complete record history of any criminal from anywhere across the country.
+
+
+    The software offers Google-type Advance Search engine and analytical reports. Recently, the software was used to trace few mentally challenged women from Tamil Nadu in Uttarakhand and reunited with their families. The CCTNS database will be later linked with the Ministry of Road Transport and Highways (MORTH) database on vehicle registrations.
+
+
+    The “Advanced Search” allows the user to find crime correlations, crime trends, outliers (anomalies) and crime patterns by having access to CCTNS dashboard.
+
+
+    Since the launch of the Digital Police Portal, citizens have begun registering complaints on the portal, and requests have been made for antecedent verification of persons. The Digital Police Portal is helping the Government in the efficient delivery of citizen-centric services in a friendly manner, which is an important responsibility of a modern welfare state today.
+
+
+    ******
+
+
+    *Deepak Razdan, is a senior journalist and at present Editorial Consultant, The Statesman, New Delhi.
+
+
+    Views expressed in the article are author’s personal.
+
+    
+    
+    (Release ID: 1506245) Visitor Counter : 19

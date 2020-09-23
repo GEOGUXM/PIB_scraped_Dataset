@@ -1,0 +1,47 @@
+      Election Commission
+
+      Election Commission of India launches Mobile App “cVIGIL” to enable citizens to report on violation of election code of conduct
+      Posted On: 03 JUL 2018 5:41PM by PIB Delhi
+
+
+      The Chief Election Commissioner Shri. O.P. Rawat, along with the Election Commissioners Shri Sunil Arora and Shri Ashok Lavasa launched a mobile app, called ‘ Cvigil, ’ on July 3, 2018, for citizens to report any violation of the model code of conduct during elections.
+
+
+      Chief Election Commissioner Sh. O.P. Rawat along with Election Commissioners Shri Sunil Arora and Shri Ashok Lavasa launched the cVIGIL App. Senior Deputy Election Commissioner Shri Umesh Sinha and Deputy Election Commissioner Shri Sandeep Saxena were also present.
+
+
+      “cVIGIL" is a user-friendly and easy to operate Android application. It will be operational only where elections are announced. However, the beta version of the app will be made available for the public and election staff to download so that they can acquaint themselves with its features and also try sending dummy data. Upon successful completion of the trial that is underway, the application will be made available for general use by all, right from the forthcoming Assembly elections in the States of Chhattisgarh, Madhya Pradesh, Mizoram and Rajasthan. The practical use of the app during the four-state Assembly polls will also serve as a pilot initiative before it is put to extensive use during the next Lok Sabha General Elections.
+
+
+      The app requires an Android smartphone equipped with a camera, good internet connection and GPS access. The operating system should be Android Jellybean and above. The application supports all the latest Android smartphones.
+
+
+      “cVIGIL” will allow anyone in the election-bound state to report violations of Model Code of Conduct (MCC) that comes into effect from the date of announcement of elections and goes on till a day after the polls. By using this app, citizens can immediately report on incidents of misconduct within minutes of having witnessed them and without having to rush to the office of the returning officer to lodge a complaint.
+
+
+      The vigilant citizen has to click a picture or record a video of upto two minutes’ duration of the scene of violations of the model code. The photo or video is to be uploaded on the app. The automated location mapping will be done by the app using the Geographic Information System. After its successful submission through the app, the vigilant citizen gets a Unique ID to track and receive the follow up updates on her or his mobile. A citizen can report many incidents in this manner and will get a unique id for each report for follow up updates. The identity of the complainant will be kept confidential.
+
+
+      Once the complaint is lodged, the information beeps in the District Control Room from where it is assigned to a Field Unit. A field unit consists of Flying Squads, Static Surveillance Teams, Reserve teams etc. Each Field Unit will have a GIS-based mobile application called ‘cVIGIL Dispatcher’, which allows the unit to directly reach the location through navigation technology and take action.
+
+
+      After a Field Unit has taken action, it messages and uploads the relevant document as ‘action taken report’ via the ‘cVIGIL Dispatcher’ to the returning officer concerned for his decision and disposal. If the incident is found correct, the information is sent to the National Grievance Portal of the Election Commission of India for further action and the vigilant citizen is informed about the action taken within a hundred minutes.
+
+
+      The app has inbuilt features to prevent its misuse. It will receive complaints only about Model Code of Conduct violations. The user will get 5 minutes to report an incident after having clicked a picture or a video. To prevent any misuse, the app will not allow uploading of the pre-recorded or old images and videos. The app will not facilitate saving of the photos or videos recorded using the ‘cVIGIL' app into the phone gallery either. Further, the application will be active only in States where elections have been announced. The moment a citizen exits an election-bound State, the app will become inactive.
+
+
+      So far, the complaints about violations of Model Code of Conduct often could not be followed instantly, leading to the violators escaping detection from the action squads. Also, the lack of any documented evidence in the form of pictures or videos was seen as a hurdle in verifying a complaint. Further, the absence of a robust response system to quickly and accurately identify the scene of occurrence of violations with the help of geographical location details hampered election officers’ ability to apprehend the violators. The new app is expected to fill in all these gaps and create a fast-track complaint reception and redressal system.
+
+
+      ******
+
+
+      MJS/AC
+
+    
+    
+    (Release ID: 1537492) Visitor Counter : 2278
+    
+    
+      Read this release in: Marathi , Bengali , Tamil

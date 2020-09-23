@@ -1,0 +1,40 @@
+      Ministry of Finance
+
+      Recommendations regarding E-way Bill made during meeting of the GST Council
+      Posted On: 10 MAR 2018 4:47PM by PIB Delhi
+
+
+    In the 26th meeting held here today , the GST Council has recommended the introduction of e-way bill for inter-State movement of goods across the country from 01 st April 2018. For intra-State movement of goods, e-way bill system will be introduced w.e.f. a date to be announced in a phased manner but not later than 01 st June, 2018.
+
+
+    Major improvements over the last set of rules, as approved by the Council now, are as follows:
+
+      * E-way bill is required to be generated only where the value of the consignment exceeds Rs. 50000/-. For smaller value consignments, no e-way bill is required.
+      * The provisions of sub-rule (7) of Rule 138 will be notified from a later date. Therefore, at present there is no requirement to generate e-way bill where an individual consignment value is less than Rs. 50,000/-, even if the transporter is carrying goods of more than Rs. 50,000/- in a single conveyance.
+      * Value of exempted goods has been excluded from value of the consignment, for the purpose of e-way bill generation.
+      * Public conveyance has also been included as a mode of transport and the responsibility of generating e-way bill in case of movement of goods by public transport would be that of the consignor or consignee.
+      * Railways has been exempted from generation and carrying of e-way bill with the condition that without the production of e-way bill, railways will not deliver the goods to the recipient. But railways are required to carry invoice or delivery challan etc.
+      * Time period for the recipient to communicate his acceptance or rejection of the consignment would be the validity period of the concerned e-way bill or 72 hours, whichever is earlier .
+      * In case of movement of goods on account of job-work, the registered job worker can also generate e-way bill.
+      * Consignor can authorize the transporter, courier agency and e-commerce operator to fill PART-A of e-way bill on his behalf.
+      * Movement of goods from the place of consignor to the place of transporter up to a distance of 50 Km [increased from 10 km] does not require filling of PART-B of e-way bill.They have to generate PART-A of e-way bill.
+      * Extra validity period has been provided for Over Dimensional Cargo (ODC).
+      * If the goods cannot be transported within the validity period of the e-way bill, the transporter may extend the validity period in case of transhipment or in case of circumstances of an exceptional nature.
+      * Validity of one day will expire at midnight of the day immediately following the date of generation of e-way bill.
+      * Once verified by any tax officer, the same conveyance will not be subject to a second check in any State or Union territory, unless and until, specific information for the same is received.
+      * In case of movement of goods by railways, airways and waterways, the e-way bill can be generated even after commencement of movement of goods.
+      * Movement of goods on account of Bill-To-Ship-To supply will be handled through the capturing of place of despatch in PART-A of e-way bill.
+
+    DSM/RM/SS
+
+    
+    
+    (Release ID: 1523713) Visitor Counter : 2939
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+*

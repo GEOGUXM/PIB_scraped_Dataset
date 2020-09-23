@@ -1,0 +1,81 @@
+      Ministry of Power
+
+      Shri Piyush Goyal launches POSOCO-IMD Weather Portal for Power Sector & Web Portal ‘MERIT’ (Merit Order Despatch of Electricity for Rejuvenation of Income and Transparency)
+      Posted On: 23 JUN 2017 6:10PM by PIB Delhi
+
+      
+
+        Shri Piyush Goyal Union Minister of State (IC) for Power, Coal , New & Renewable Energy and Mines launched Weather Portal for Power Sector in association with POSOCO and IMD at the meeting of the Forum of Regulators here today .
+
+
+        Day to day weather variations have an impact on load demand and energy production, transport and distribution management, as well as energy prices. Extreme events such as heat waves or cold waves, wind storms or floods can of course have dramatic consequences on the production means or the electrical grid of a country including physical damage to the infrastructure. The information available in the Portal regarding weather forecast shall help State Discoms to take pro-active steps regarding short term and medium term management processes and supply planning requirements and also for better planning for infrastructure availability to ensure cost effective and reliable supply.
+
+
+        The Portal provides the following information :
+
+
+        · Regional Weather Summary : This provides Weather Outlook for the Region for the current day and upto next 7 days. Weather stations of Meteorological department have been mapped to the nearest important Electrical Station/ Power Stations in each State.
+
+
+        o Nowcast: It is used to forecast weather for a short period ahead, updated every 3 hours
+
+
+        o Weather Forecast : It is provided for the current day and next 6 days
+
+
+        o Weather Warning : Special Nowcast warning is issued for the next 3 hours.
+
+
+        · Radar : The Doppler Weather Radar generates different displays and derived products of practical utility based on standard algorithms. These displays are updated every 10 minutes.
+
+
+        · Satellite Images : INSAT 3D is being used to monitor the Weather of Indian Origin. The image is updated every 30 minutes.
+
+
+        · Meteogram - The Meteogram at Web-Portal provides plots for Meteorological variables such as Rainfall, Cloud Cover, Temperature, Humidity, Wind, Speed, Sea Level Pressure, Indices for Thunderstorm etc. for 10 days with a resolution time of three hours. Each Meteogram provides information for the 10 km radius.
+
+
+        · Region Specific Forecast - Fog Forecast, Metar, Bay Bulletin, Coastal Area Bulletin, Cyclone, Port Warning etc.
+
+
+        During the meeting Shri Goyal launched another portal ‘MERIT’ (Merit Order Despatch of Electricity for Rejuvenation of Income and Transparency). This has been developed by Ministry of Power in association with POSOCO and Central Electricity Authority. The MERIT Web portal displays extensive array of information regarding the merit order of Electricity procured by State(s) such as daily state-wise marginal variable costs of all generators, daily source-wise power purchases of respective states/UTs with source-wise fixed and variable costs, energy volumes and purchase prices. The web-portal also give information regarding reasons for deviation from merit order such as must run conditions, transmission constraints etc. The Web Portal can be accessed at “http://vidyutmode.in/”
+
+
+        Information available in the Portal shall help State Discoms to optimize their power procurement in more efficient way leading to lower cost of power to consumers. It will facilitate must run status for hydro and renewables and will promote use of green and clean power more transparently. It will also promote competition for lower costs as information will be available to all Stakeholders including generators and utilities for more efficient procurement. Since the information will be available to all consumers on continuous basis it will create pressure on utilities for continued efficiency.
+
+
+        The advantages of “Merit” Portal are as follows:
+
+
+        Ø Empowerment of the Consumer and participative governance
+
+
+        Ø Transparent information dissemination pertaining to marginal variable cost and source wise purchase of electricity
+
+
+        Ø Promotes economy and efficiency in operations
+
+
+        Ø Demystifies the utility portfolio and its complexity
+
+
+        Ø Optimization of the power procurement costs
+
+
+        Ø Facilitates renewable integration and handling of the variability and uncertainty of renewables
+
+
+        Ø Indication of supply side reliability, adequacy, and cost of power procurement
+
+
+        At the meeting, Shri Goyal also released FOLD-POSOCO Report on Operational Analysis for Optimization of Hydro Resources & facilitating Renewable Integration in India . The report also elaborates on the operational constraints being faced by the hydro stations.
+
+
+        The report concludes that there is scope for additional peaking support of 3000-5000 MW with equivalent amount of backing down in off-peak hours from the existing hydro power stations. The gain from the optimized despatch on annual basis is estimated to be 5 paisa per unit which is equivalent to earning of the order of Rs. 600 crore per year at all India level.
+
+
+        RM /
+
+    
+    
+    (Release ID: 1493717) Visitor Counter : 153

@@ -1,0 +1,133 @@
+      Ministry of Electronics & IT
+
+      Digital India Awards
+      
+      India has the potential to be a hub of Data Analytics
+      
+      MeitY to soon implement public DNS for all citizens
+      
+      Cyber Crisis Management Plan (CCMP) launched to deal with cyber-related incidents
+      Posted On: 22 FEB 2019 4:11PM by PIB Delhi
+
+
+    Rapid stride taken in digitalizing administrationduring last four and a half years havebrought country to a stagewhere outsideworld is keen to learn from Indian experience. Digital journey of India is at a position of no return. National Informatics Centre’s efforts have brought use into the era of digital administration. More than 2300 services are already available on digital platform. Minister for Information Technology and Law and Justice, Mr. Ravi Shankar Prasad said this here today while speaking at the Digital Awards ceremony. He said National Informatics Centre has responsibility to deploy technology for improving governance and make growth more inclusive and sustainable.
+
+
+    Mr. Prasad said Digital India initiative should be seen beyond IT and governance. It is an initiative of Modi Government aimed at empowering ordinary people. He said NIC has the responsibility to make people use digital technology with the objective of bridging rural-urban gaps and also ensuring that the national efforts to bring about transparency in governance are reached.He said India has everything to be the hub centre of data analytics and NIC has the pivotal position to take India to a position of dominance in this sector. Another issue of immediate concern is development of low cost cyber security solutions. He said the Government’s technology custodian should not hesitate in extending supporting Hand to private sector.
+
+
+    He also said NIC should work towards use of technology for improving Indian agriculture scene, standardize primary education by equipping Government schools with technological tools, health care with low cost technology.
+
+
+    The Digital India Awards have played a pivotal role in promoting the use of World Wide Web platform as an effective tool for e-Governance. At the same time, numerous departments have been able to take inspiration and emulate the successful innovations which have been recognized and rewarded on the Digital India Awards platform.
+
+
+    Since its inception the Digital India Awards have seen four editions, beginning from 2010, and biennially being conferred in 2012, 2014, & 2016. Continuing with the tradition of recognizing & rewarding excellence, NIC is all set to organize the fifth edition of Digital India Awards on February 22, 2019, where Hon’ble Minister for Electronics & Information Technology, Shri Ravi Shankar Prasad will grace the occasion and give away the awards.
+
+
+    The Digital India Awards over the years have honored various government departments which have done exemplary work. Over the years the categories have also been aligned with the latest trends in the field of technology. In the fifth edition we have the following categories: Emerging Technology, Best Mobile App, Exemplary Online Service, Open Data Champion, Web Ratna – Ministry/Department, Web Ratna – State/UT, Web Ratna – District, Outstanding Digital Initiative by a Local Body.
+
+
+    In the fifth edition also, various Government entities have been evaluated in the above mentioned categories by a high level jury consisting of senior government officials, academia and industry experts. A new addition to the awards this year is the introduction of a new category known as ‘Emerging Technologies’. This category seeks to identify and reward those digital initiatives that have made exemplary use of emerging technologies such as Artificial Intelligence, Machine Learning, Natural Language Processing, Virtual Reality, BlockChain, Internet of Things (IoT), Voice User Interface, Big Data and Analytics.
+
+
+    Besides conferring the Digital India Awards, 14 releases were also made:
+
+      * Digital India Coffee Table Book
+      * Digital India Awards Compendium
+      * STQC Accessibility Certification Scheme
+      * Unified Messaging Platform
+      * Public DNS Service
+      * Cyber Crisis Management Plan 2019 (CCMP) and Guidance Framework for the CCMP
+      * Digital India Compendium
+      * DigidhanMitraChatbot
+      * Technology incubation and development of entrepreneurs 2.0 scheme
+      * Centre of Excellence on:
+          + IOT Open lab, STPI Bengaluru
+          + ESDM Incubation, STPI Bhubaneswar
+          + Emerging Technologies, NASSCOM, Gandhinagar
+          + Emerging Technologies, NASSCOM, Vishakapatnam
+
+    Digital India Coffee Table Book - “Towards a New India, Transforming Digital Dream to Reality"
+
+
+    The Coffee Table Book is prepared with an objective to create awareness about the success of Digital India across the country for the betterment of the common man.
+
+
+    Digital India Awards Compendium
+
+
+    Digital India Awards Compendium is a compilation of the exemplary digital initiatives that have been awarded in each of the eight categories for the platinum, gold and silver awards. The compendium also carries a mention of Jury Choice and Special Mention awards.
+
+
+    STQC Accessibility Certification Scheme
+
+
+    S3WaaS framework empowers Government entities to build secure, scalable &sugamya websites that are hosted on the NIC cloud in a very short time. SWaaS framework was launched last year, with a goal to cover all the districts of the country within a short span of time.
+
+
+    Unified Messaging Platform
+
+      * MeitY is releasing its Unified Messaging Platform for secure and efficient Government communications, as part of the mandate
+      * NIC is the implementing agency for this large deployment. Email and messaging are the backbone of e-governance.
+      * eMail service has a grown from a user base of 0.45 million in 2014 to over 2 million in 2018 and handles a traffic of over 2 crore emails daily.
+      * The Unified Messaging Platform of NIC envisages to provide email service to over 5 million officials of Central and State Government employees with the domain @gov.in/@state.gov.in (for e,g @bih.gov.in) .
+      * The service has been built through an open source solution in accordance with the “Policy on adoption of Open source software for Government of India” by MeitY, thus, ensuring strategic control of Government over the solution.
+      * The service provide a multilingual platform comprising of 11 local languages with a go-live in English and Hindi initially, followed by other languages.
+      * The service ensures security, performance, redundancy and service continuity in addition to a rich feature set.
+
+    Public DNS
+
+      * MeitY will soon be implementing the Public Domain Name Server for India.
+      * NIC would be configuring the setup which would be offered to all citizens DNS stands for Domain Name System.
+      * India’s Public DNS, as an inherent feature, would ensure fast access, enhanced availability, secure access, maintain data privacy and data localization within India and will be one of the key components to ensure Internet Resilience.
+
+    Cyber Crisis Management Plan (CCMP)
+
+      * The Cyber Crisis Management Plan (CCMP) for Countering Cyber Attacks and Cyber Terrorism is a framework document for dealing with cyber-related incidents.
+      * CERT-In is leading the implementation of CCMP across Central Government Ministries/Departments / states and critical organizations operating in Indian cyberspace. Along with the CCMP-2019, CERT-In has developed Guidance framework for CCMP which will enable various entities including Central Government Ministries/Departments/ entities under their administrative control to prepare & implement their own CCMP.
+
+    Centres of Excellence
+
+      * Centre of Excellence on IOT Open Lab at Bangalore: It intends to support 100 start-ups per year with an overall target to support 500 start-ups over a period of 5 years.
+      * Electronics System Design and Manufacturing (ESDM) Incubator at Bhubaneswar with state-of-art facilities to promote ESDM innovation, R&D and create Indian intellectual property is the first of its kind in the Eastern Region of the country. The incubator will be implemented by STPI in collaboration with Government of Odisha, IIIT Bhubaneswar and IESA. It aims to leverage 40 start-ups over period of 5 years.
+      * Centre of Excellence for IoT at Gandhinagar: Center of Excellence for IoT and AI at IIT Gandhinagar will add momentum to the deep tech innovation ecosystem and has the major focus areas of manufacturing (Industry 4.0), Biotech, Pharma and healthcare.
+      * NASSCOM Centre of Excellence for IoT, Vizag: CoE for IoT at Vizag in partnership with NASSCOM and Government of Andhra Pradesh will focus on technology intervention for bringing positive change in Agriculture, Healthcare and Industry 4.0.
+
+    DigidhanMitraChatbot
+
+
+    Designed and developed by NIC, the AI based DigidhanMitra enables a text & voice based conversation with the user, mining the Digidhan Portal, to give customized information in graphical, tabular and textual format. It provides bank wise transactions details as well as growth pattern of various modes of transactions like BHIM, IMPS, Cards etc. in tabular as well as graphical form."
+
+
+    Technology Incubation and Development of Entrepreneurs (TIDE 2.0) Scheme
+
+
+    The Scheme has been devised to promote the momentum into the tech entrepreneurship landscape. The Scheme provides financial and technical support to incubators engaged in supporting ICT start-ups using emerging technologies such as IoT, AI, Block-chain, Robotics etc. in seven pre-identified areas of societal relevance.
+
+
+    NIC TechGov Awards
+
+
+    NIC TechGov is a competitive platform that presents a unique opportunity to the NIC officers posted in states and districts offices across the nation to accelerate their knowledge and learn emerging technologies. Total 203 teams cumulatively consisting of 514 members registered for the event under two different tracks called Innovation and Collab:DEV. Across different sub-tracks of TechGov 2019, 7 teams comprising 13 members and 8 teams with 19 members in total were declared winners in Gold and Silver categories respectively.
+
+
+    Swachhata Awards
+
+
+    The Swachh Bharat Mission inspired by the Hon’ble Prime Minister's vision to engage all Union Ministries/ Departments in Swachhata related activities is of pivotal importance. NIC has participated in Swachhata activities since the launch of the Swachh Bharat mission. An audit was undertaken by NIC for ranking/ awards to the field offices at the State level for their achievements and on its basis ranking of NIC State Centres was finalized.
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1565959) Visitor Counter : 1225
+    
+    
+      Read this release in: Urdu , Hindi , Marathi
+    
+    
+    
+
+*

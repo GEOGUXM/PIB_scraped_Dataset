@@ -1,0 +1,79 @@
+      Ministry of Earth Science
+
+      Mumbai will soon be able to predict floods before they happen, helping protect property and save lives
+      
+      State-of-the-art Flood Warning System for Mumbai Launched
+
+      Posted On: 12 JUN 2020 2:09PM by PIB Mumbai
+
+    Mumbai / New Delhi, June 12, 2020
+
+      * Floods to be estimated 3 days in advance, at ward-level
+      * Decision Support System will enable smart decision-making and field action based on risk assessment
+      * State-of-the-art flood warning system developed by MoES is a gift to Mumbaikars: Chief Minister Uddhav Thackeray
+      * We are no less than anyone else in the whole world in terms of science: Dr. Harsh Vardhan, congratulating the scientists at Ministry of Earth Sciences
+
+    iFLOWS- Mumbai , a state-of the-art Integrated Flood Warning System for Mumbai has been launched through video conference jointly by Chief Minister of Maharashtra, Shri Uddhav Thackeray and Union Earth Sciences Minister Dr. Harsh Vardhan today.
+
+
+    The system will help make the city become more resilient, by providing early warning for flooding especially during high rainfall events and cyclones. Using this, it will be possible to have an estimate of the flood inundation 3 days in advance, along with 3 hours - 6 hours Nowcast (immediate weather updates). It will be very useful, especially if people need to be evacuated from low-lying areas as we will be able to forecast 12 hours in advance that a particular spot may get flooded. The system will also forecast the rainfall in each pocket.
+
+
+    In his special address through video conference, the Union Minister Dr. Harsh Vardhan congratulated the scientists at Ministry of Earth Sciences (MoES) who developed the flood warning system and said, we are no less to anyone else in the whole world in terms of science. “Mumbai floods, especially that occurred in 2005 and 2017 are etched in everyone’s memory. This highly advanced flood warning system will help the people of Mumbai in a big way. A similar system was already developed by MoES and is in operation at Chennai.”
+
+
+    Dr. Harsh Vardhan further said that MoES scientists have developed the best early warning system for tsunami in the whole world and have never given a false alarm on this issue. This service has also been extended to the countries in Indian Ocean Region who are being highly benefitted.
+
+
+    The Chief Minister of Maharashtra Shri Uddhav Thackeray stated that the state-of-the-art flood warning system developed by MoES is like a gift to the people of Mumbai. In the context of the health disaster as well as the recent Nisarga cyclone, he said that both blood management and flood management are equally important. The Chief Minister congratulated the MoES and IMD scientists for accurate prediction of Cyclone Nisarga and monsoon in the state. Early prediction of Cyclone Nisarga by IMD helped the state government in saving the state from a bigger disaster and loss of lives, he said.
+
+
+    Speaking on the occasion, Dr M Rajeevan, Secretary, MoES informed that more than 160 observatories and 4 more radars (to be used by next monsoon season) which have been ordered for Mumbai will enable us to forecast rainfall with a precision of 500 metres and every 15 minutes. About the flood warning system, he said, “We are happy that we could complete the development of iFlowsMumbai project in time.”
+
+
+    Mumbai Municipal Commissioner Shri Iqbal Singh Chahal said, iFlowsMumbai can be a model for the rest of the country. He expressed gratefulness to MoES and said, it is being launched well before onset of monsoon in Mumbai.
+
+
+    On the occasion, a video of Mumbai Flood Warning System was screened and a digital brochure of the system was also released.
+
+
+    Shri K S Hosalikar, DDGM, IMD Mumbai was also present for the launch event.
+
+
+    How the Prediction System Works
+
+
+    The sophisticated system has been developed by the Ministry of Earth Sciences using its in-house expertise, in close collaboration with the Municipal Corporation of Greater Mumbai (BMC). The system uses rain gauge data and local data such as data on land use, land topography, drainage systems, water bodies in the city, tide levels, infrastructure and population, which has been provided by BMC. Using these as inputs, the prediction system models weather, rainfall, runoff and water movement, tide and storm surge impacts based on which early Flood Warnings for the city will be provided. It will address the flood inundation due to rainfall, river bank breach, storm surge, obstruction of flow due to roads, buildings, rail lines, high tides and sea level rise.
+
+
+    I-FLOWS is built on a modular structure and comprises seven modules. The Data Assimilation Module gathers a variety of dynamic data including IMD weather forecasts and under-water depth of rivers and lakes across Mumbai city. The Inundation Module will use the data to forecast flood inundation 3 days in advance, while the Flood Module will predict how the water will move across areas expected to be flooded. The Vulnerability and Risk Modules, which together comprise the Decision Support System, enables the administration to take smart decisions to manage the situation based on a scientific and holistic assessment of flooding risks. The Dissemination Module makes information available to field officials through various communication channels, enabling them to take prompt and informed field action.
+
+
+    
+
+    How it came about
+
+
+    
+    Mumbai the state capital of Maharashtra, a megapolis and the financial capital of India has been facing floods with increased periodicity which brings the city to a standstill in spite of its natural and storm water drainage systems. In a bid to aid in the mitigation of the flood prone city, Disaster Management Department of Municipal Corporation of Greater Mumbai (MCGM) approached the Ministry of Earth Sciences (MoES) to develop an Integrated Flood Warning System for Mumbai, on the lines of a similar system developed for Chennai earlier. MoES initiated the development of the flood warning system in July 2019 using the expertise of Indian Meteorological Department (IMD), National Centre for Medium Range Weather Forecasting (NCMRWF), Indian Institute of Tropical Meteorology (IITM) and National Centre for Coastal Research (NCCR), in close coordination with Disaster Management Department of MCGM.
+
+
+    ***
+
+
+    DJM/SC
+
+
+    Follow us on social media: @PIBMumbai / PIBMumbai /pibmumbai pibmumbai@gmail.com
+
+    
+    
+    (Release ID: 1631096) Visitor Counter : 1210
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Bengali , Manipuri
+    
+    
+    
+
+*

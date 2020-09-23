@@ -1,0 +1,62 @@
+      Ministry of Education
+
+      IIT KHARAGPUR AND TATA MEDICAL CENTER SET UP COMPREHENSIVE DIGITAL ARCHIVE OF CANCER IMAGING
+      Posted On: 27 JUL 2019 3:13PM by PIB Kolkata
+
+
+    Kolkata, July 27, 2019.
+
+
+    “The CHAVI project is the first of its kind. The objective of the National Digital Library of India is to make accessible material for doing research that normally could not have been done in India. With the CHAVI project, as a beginning, we have chosen cancer imaging database along with Tata Medical Centre because of their tremendous expertise. Cancer is one of the most dreaded diseases in our country. If we are able to create a very well defined, annotated database, it will help researchers as well as doctors to be able to do early, more accurate diagnosis and provide better treatment for our people which is a lot more cost effective.” – Prof. Partha Pratim Chakrabarti, PI, NDLI
+
+
+    IIT Kharagpur and Tata Medical Center have set up an open architecture image biobank to aid cancer research in the country. Named CompreHensive Digital Archive of Cancer Imaging (CHAVI) it will address the emerging field of imaging-related research and will be India’s first step towards harnessing artificial intelligence and deep learning methods to answer medical questions of importance in the field of image banking.
+
+
+    Once the pilot project is successful, it can be scaled up to a larger set of medical images. Medical imagery can then be combined with AI to enable reach of treatment to more people as well as provide targeted therapy based on individual symptoms. This should enable doctors like never before, and revolutionize the way doctors interact with patients and systems. AI for the medical vertical has three pillars. Descriptive analysis that will help education – students anywhere in the country can access the bank to look at the images and learn from there. Predictive Analysis will help doctors diagnose better. And then Prescriptive analysis that will help doctors reduce the scope of treatment based on past use cases.
+
+
+    IIT Kharagpur and Tata Medical Center have been jointly working on several novel educational and research programmes including Masters and Fellowship courses to enable this trans-disciplinary research that marries technology and medicine. IIT Kharagpur through the National Digital Library Initiative (NDLI) of the Ministry of Human Resources and Development (MHRD), Government of India, has joined hands in initiating a pilot project on developing an image data bank for cancer patients, in particular, the present focus is radio oncology.
+
+
+    The overarching aim is to build up a national bank of annotated images with a flexible query interface and link it with a pipeline of radiomic services for furthering radiomic research in large image datasets.
+
+
+    As a pilot, radiation oncology related images are being banked within the NDLICHAVI RO project. It is a prototype system which is under development addressing various such issues. It is also being developed considering multi-institutional participation in building a national image data bank.
+
+
+    While Tata Medical Center has created a large repository of medical data and images of cancer patients including outcomes of treatment in many cases, there are various challenges while building this system. The first and foremost is in preserving anonymity of patients as well as maintaining adequate referential integrity, a necessity for carrying out useful research.
+
+
+    To enhance the CHAVI project, the two institutions organized a workshop titled - "Structuring a Collaborative National Image Banking Program" on 26th July 2019 at Tata Medical Center, Kolkata, supported by MHRD through the NDLI project.
+
+
+    The workshop which was coordinated by Dr. Sanjoy Chatterjee from Tata Medical Center and Prof. Jayanta Mukhopadhyay from IIT, Kharagpur involved presentations and panel discussions with experts in medical and Computer Science / AI domains. Several expert doctors from India, USA and UK and specialists in the area of Computer Science from India also took part in the daylong proceedings. ‘
+
+
+    “The scope of image banking is to enable cancer research and move it forward, to access data that is more diverse and come from different centres, different patients and different ethnic groups to help doctors make more informed decisions and deliver personalized treatments” – Dr. Emiliano Spezi (Cardiff University, USA)
+
+
+    “For research, we need geographic distribution – which means we need to build national archives, be it central or distributed, and then connect them globally to be truly able to sample the human population” – Dr. Fred Prior, (UAMS, USA)
+
+
+    “We need more affordable solutions in India for cancer treatment, majority of our patients are middle class and lower middle class and cannot afford genomic analysis. Image banking combined with predictive/prescriptive AI can enable us to identify signatures as a much more cost effective alternative” – Dr Sanjoy Chatterjee, (TMC, Kol)
+
+
+    “If you have an image bank where you can collaborate all your images, and then you look at certain features, you can probably come up with information which goes beyond the human eye. Imaging when combined with pathological information can then improve outcomes for our patients”, Dr. Simon Pavamani, (CMC Vellore)
+
+
+    “It is a kind of personalized medicine. Where a set of images of a particular kind is treated in a particular way which helps predict a specific treatment for each individual patient” – Dr. Subhas Gupta (AIIMS, New Delhi)
+
+
+    *********
+
+
+    CG
+
+    
+    
+    (Release ID: 1580546) Visitor Counter : 30
+    
+    
+      Read this release in: Bengali

@@ -1,0 +1,68 @@
+      Ministry of Housing & Urban Affairs
+
+      PM launches One Nation, One Card in Ahmedabad for Mobility Single Card for seamless travel through different metros and other transport systems. National Common Mobility Card, NCMC- India's first indigenously developed payment platform
+      Posted On: 04 MAR 2019 6:01PM by PIB Delhi
+
+
+    Prime Minister Narendra Modi launched today One Nation, One Card for transport mobility at a function in Ahmedabad today. The Indigenous Automatic Fare Collection System based on One Nation One Card Model i.e. National Common Mobility Card (NCMC) is the first of its kind in India.
+
+
+    India’s First Indigenously Developed Payment Eco-system for transport consisting of NCMC Card, SWEEKAR (Swachalit Kiraya: Automatic Fare Collection System) and SWAGAT (Swachalit Gate) is ased on NCMC Standards.
+
+
+    These are bank issued cards on Debit/Credit/Prepaid card product platform. The customer may use this single card for payments across all segments including metro, bus, suburban railways, toll, parking, smart city and retail. The stored value on card supports offline transaction across all travel needs with minimal financial risk to involved stakeholders. The service area feature of this card supports operator specific applications e.g. monthly passes, season tickets etc.
+
+
+    Ministry of Housing & Urban Affairs brought to the fore the National Common Mobility Card (NCMC) to enable seamless travel by different metros and other transport systems across the country besides retail shopping and purchases.
+
+
+    Background:
+
+
+    Public Transport is extensively used across India as the economical and convenient mode of commuting for all classes of society. Cash continues to be the most preferred mode of fare payments across the public transport. However, there are multiple challenges associated with the cash payment e.g. cash handling, revenue leakages, cash reconciliation etc. Various initiatives have been taken by transit operators to automate & digitize the fare collection using Automatic Fare Collection System (AFC). The introduction of closed loop cards issued by these operators helped to digitize the fare collection to a significant extent. However, the restricted usability of these payment instruments limits the digital adoption by customers.
+
+
+    AFC System (gates, readers/validators, backend infrastructure etc.) is the core of any transit operator to automate the fare collection process. The major challenge associated with AFC system implementation in India till now is the lack of indigenous solution provider. Till now, AFC systems deployed at various Metros are from foreign players. In order to avoid the vendor lock-in and create an interoperable system, there was a need to develop indigenous standards and AFC system under Make in India initiative.
+
+
+    In order to ensure a seamless travel across metros and other transport systems in addition to retail shopping and purchases, the Ministry of Housing & Urban Affairs (MoHUA) came out with the National Common Mobility Card (NCMC) Program.
+
+
+    A committee was formed with representatives from National Informatics Centre (NIC), Centre for Development of Advance Computing (C-DAC), Bureau of Indian Standards (BIS), National Payment Corporation of India (NPCI) and the Ministry of Finance with an objective to develop the vendor agnostic interoperable ecosystem for NCMC including indigenous AFC System and banking interface.
+
+
+    NPCI was given the mandate to develop the specifications for card & terminal to support the NCMC ecosystem. Based on the best global practices and dynamics of Indian market, the committee recommended EMV based Open Loop Card with stored value as NCMC
+
+
+    CDAC was entrusted the task of finalization of NCMC specification for AFC system including the interface with Bank server. CDAC worked in collaboration with NPCI to complete this activity. Thereafter, BEL was roped in for making Gates & Reader.
+
+
+    The Gate & Reader prototype has been made by BEL. This is the first gate and the reader which has been manufactured by an Indian company. This is also the first indigenous payment reader which has been certified as per International standards. India joins the very few elite nations who have indigenous capacity on gate and reader production.
+
+
+    NCMC Ecosystem offers the value proposition for customers as they need not to carry multiple cards for different usage. Further, the super quick contactless transactions will improve the seamless experience. For operators, NCMC ecosystem brings common standards for implementation without vendor lock-in.
+
+
+    This will also help in higher digital payments penetration, savings on closed loop card lifecycle management cost and reduced operating cost. The rich data insights may be used by operators for business intelligence leading to efficient operation.
+
+
+    With NCMC Ecosystem, Banks will get an access to segments which are highly driven by cash but stickiness in nature. NCMC Ecosystem will further help government in digitization of low value payments and reduced cost for the entire ecosystem.
+
+
+    In order to showcase the entire NCMC ecosystem for digital fare collection, the complete AFC system has been deployed in Delhi Metro Rail Corporation (DMRC) across few stations for field trial purpose. Under this pilot, NCMC compliant gates have been deployed at various stations of DMRC and cards have been issued by multiple banks to the users.
+
+
+    The pilot at DMRC was inaugurated by MoHUA on Jan 31st, 2019. This pilot will help to improve hardware reliability and fine tuning of the software. This will also facilitate large scale indigenous production and deployment in Indian transit system. The first level trails has been successfully completed in collaboration with CDAC, BEL, NPCI and SBI.
+
+
+    *****
+
+
+    RJ/SH
+
+    
+    
+    (Release ID: 1567345) Visitor Counter : 4336
+    
+    
+      Read this release in: Hindi

@@ -1,0 +1,45 @@
+      Ministry of Finance
+
+      New Return Filing System of GSTN
+      Posted On: 08 FEB 2019 4:57PM by PIB Delhi
+
+
+    GSTN will focus, amongst others, on the development of new return filing, further improving the user interface, and Business Intelligence and Analytics. Improvement in User Interface on the basis of feedback is a continuous process. Few important initiatives/improvements made for better User Experience are:
+
+
+     1. Questionnaire for filing GSTR-3B to avoid errors by taxpayers.
+
+     2. Option to generate pre-populated Challan by the system to avoid depositing Cash in wrong Head by the taxpayers.
+     3. Introduction of one click Nil return filing.
+     4. Suggested utilisation of ITC informed to the taxpayer for discharging tax liability.
+     5. Contextual help for GST transactions like Registration, Returns, Payment, etc.
+
+    GSTN has started work on BI & Analytics. Different scenarios of BI have been identified on which work is going on such as Persona based Analysis, Predictive Analysis, Fraud/Anomaly Detection, Statistical Scoring, 360-degree view of taxpayers, Circular Trading & Network Analysis, etc. Further, GSTN shares data with tax authorities on the following:
+
+
+      * Mis-match between figures reported in GSTR-1 & GSTR-3B.
+
+      * Mis-match between figures reported GSTR-3B and that computed by the system in GSTR-2A.
+      * Taxpayers who have generated e-way bill but not filed tax returns
+
+    Comparison of GSTR-1 & GSTR-3B for liability analysis, GSTR-2A & GSTR-3B for comparison of ITC being claimed by taxpayers, and analysis regarding taxpayers who have generated e-way bill but not filed tax returns is being done and the reports generated are shared with tax authorities for taking appropriate action.
+
+
+    This was stated by Shri Shiv Pratap Shukla, Minister of State for Finance in a Written Reply to a Question in Lok Sabha today.
+
+
+    ****
+
+
+    DSM/RM/KA
+
+    
+    
+    (Release ID: 1563558) Visitor Counter : 1750
+    
+    
+    
+    
+    
+
+*

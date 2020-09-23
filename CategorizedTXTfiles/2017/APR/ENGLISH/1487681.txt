@@ -1,0 +1,22 @@
+      Ministry of Railways
+
+      End to Train Telemetry Device
+      Posted On: 12 APR 2017 4:33PM by PIB Delhi
+
+      
+      The Dedicated Freight Corridor Corporation of India Ltd. (DFCCIL) is an infrastructure provider. End to Train Telemetry (EoTT) device is an alternative of running trains without guard on an exclusive freight corridor.
+      
+      EoTT system consists of two units – one unit called Cab Display Unit (CDU) fitted on the locomotive and the other is Sense and Brake Unit (SBU) fitted on the Last Vehicle of the train. Both the units are fitted with radio transmitter which communicates with each other. In case of a train parting, the system is designed to indicate to the driver the parting of the train and to apply brakes to the rear unit, thus averting the collision of the rear portion with the front portion of the train.
+      
+      Each set of EoTT device is estimated to cost approximately ` 10,00,000/-.
+      
+      This Press Release is based on the information given by the Minister of State for Railways Shri Rajen Gohain in a written reply to a question in Lok Sabha on 12.04.2017 (Wednesday).
+
+      ****
+
+      
+      
+      AKS/MKV/AK/SM
+    
+    
+    (Release ID: 1487681) Visitor Counter : 89

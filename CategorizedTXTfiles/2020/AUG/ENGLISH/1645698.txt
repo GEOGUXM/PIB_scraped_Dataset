@@ -1,0 +1,56 @@
+      Ministry of Science & Technology
+
+      INST efforts to make magnetic hyperthermia-mediated cancer therapy as desired therapy for inoperable tumours
+      
+      “The example from INST Mohali illustrates some of the compelling aspects of how Nanotechnology is providing solutions for the diagnostics and therapy of tumours in several ways" : Prof Ashutosh Sharma
+
+      Posted On: 14 AUG 2020 11:31AM by PIB Delhi
+
+    Magnetic hyperthermia-mediated cancer therapy (MHCT), a non-invasive cancer treatment technique involves the delivery and localisation of magnetic materials within the targeted tumour site followed by subsequent application of an alternating magnetic field (AMF), thereby generating heat at the tumour site. It can efficiently act against deep-seated inaccessible solid tumours like glioblastoma and is highly thermo-sensitive towards normal cells with minimal toxicity against healthy counterparts. Scientists are on the lookout for new materials which can make this treatment more efficient.
+
+
+    Scientists from Institute of Nano Science & Technology an autonomous institute of Department of Science and Technology (DST), Government of India have synthesised different magnetic nano-transducers like Stevioside-coated magnetite nanoparticles; Citric acid-coated Magnetic nanoclusters and Manganese and Zinc doped magnetite nanoparticles for successful application as magnetic hyperthermia agents for cancer therapy.
+
+
+    Dr Deepika Sharma and her team from INST have synthesized magnetic nanomaterials using a hydrothermal approach. They have also developed water-stable nanomaterial with a biomolecule as the surfactant to address two of the main concerns regarding the translation of nanotechnology-based strategies to clinical applications - biocompatibility of the material used and therapeutic response of these nanosystems. The scientists have focused on the design and development of hyperthermia output and understanding the biological phenomena, which include their movement through biological barriers to fight against inoperable tumours.
+
+
+    The synthesized “nano-heaters” when subjected to magnetic hyperthermia either alone or in combination with other adjuvant therapy like photothermal therapy. This was then evaluated in terms of cell viability, oxidative stress production, reduction in mitochondrial membrane potential, cytoskeletal damage by confocal microscopy and morphological alterations by scanning electron microscopy in cancer cells and the results published in the ACS Applied Nanomaterials and Journal of Radiation and Cancer Research. For the various nanosystems generated in their lab, INST team have achieved enhanced hyperthermia output with surface modifications of surfactant moieties and generating nanoclusters instead of conventional spherical nanoparticles. Such enhanced hyperthermia output makes it an efficient system to be used for Cancer therapy
+
+
+    The inherent problem of reduction in efficiency of magnetic hyperthermia as nano-magnets get internalized in the cells, led the INST team to investigate the effect of different sizes, shapes and surfactants to enhance the hyperthermia output and also analyse their passage through the biological barrier to make it a feasible option for clinical studies.
+
+
+    The optimization of various parameters like size, shape and surfactant moieties of nano-heaters by INST team might contribute towards establishing magnetic hyperthermia as the missing notch for successful glioblastoma therapy with minimum side-effects to the normal cells.
+
+
+    “The example from INST Mohali illustrates some of the compelling aspects of how Nanotechnology is providing solutions for the diagnostics and therapy of tumours in several ways from targeted and controlled drug release in chemotherapy and hyperthermia to gene therapy and photodynamic therapy and combinations of them for optimal outcomes," said Prof Ashutosh Sharma, Secretary, DST.
+
+
+    [Publication links:
+
+     1. https://doi.org/10.1088/ 2053-1591/aa5d93
+     2. https://doi.org/10.1080/02656736.2019.1565787
+     3. https://dx.doi.org/10.1021/acschemneuro.8b00652
+     4. https://dx.doi.org/10.1021/acsanm.0c00121
+     5. https://doi.org/10.4103/jrcr.jrcr_19_20
+
+    For more details, Dr Deepika Sharma ( deepika@inst.ac.in ) can be contacted.]
+
+
+    *****
+
+
+    NB/KGS
+
+    
+    
+    (Release ID: 1645698) Visitor Counter : 354
+    
+    
+      Read this release in: Urdu , Hindi , Bengali , Punjabi , Tamil
+    
+    
+    
+
+5.

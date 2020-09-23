@@ -1,0 +1,66 @@
+      Ministry of Health and Family Welfare
+
+      Highlights of Annual Report of PMJAY
+      Posted On: 11 FEB 2020 3:04PM by PIB Delhi
+
+
+    The annual report of National Health Authority (NHA) contained the salient features of the scheme, the institutional structure, important milestones, achievements, financial performance and audited accounts.
+
+
+    A zero tolerance approach has been adopted towards fraudulent activities including claims. For this National Anti-Fraud Unit (NAFU) has been created at NHA for overall monitoring and implementation of anti-fraud framework. NAFU is supported by State Anti-Fraud Units (SAFUs) at State level.
+
+
+    The proactive steps taken for prevention, detection, and deterrence of different kinds of fraud that could occur at different stages of implementation are at the Annexure.
+
+
+    The Minister of State (Health and Family Welfare), Sh Ashwini Kumar Choubey stated this in a written reply in the Rajya Sabha here today.
+
+
+    Annexure
+
+
+    Steps taken for prevention, detection, and deterrence of different kinds of fraud under AB-PMJAY
+
+
+    1. Strong Policy Framework:
+
+     1. All packages prone to fraud are reserved for public hospitals or need mandatory pre-authorization and require detailed documentation before claims are paid.
+     2. National Anti-Fraud Unit (NAFU) has been created supported by State Anti-Fraud Units (SAFUs)
+
+    2. Beneficiary Empowerment:
+
+     1. Beneficiary empowerment is done by system generated messages to each beneficiary at the time of – e-card creation, hospitalization and discharge.
+     2. Feedback is collected through outbound calls and letters after treatment
+
+    3. Regular monitoring of empanelled hospitals:
+
+     1. Utilization data is analyzed on different triggers and results are shared with States for carrying out due diligence
+     2. Capacity building of the states is done on medical audits and Joint medical audits ofhospitals are done to identify any wrong doing.
+
+    4. Fraud Control IT enhancements:
+
+     1. Bio-authorization has been made mandatory at the time of admission and discharge. Pilot of the same is done in 20 states and full implementation is done in 10 states.
+     2. Investigation app has been made functional in 16 states for prompt medical audits
+     3. Standard treatment Guidelines have been created for 30 abuse prone packages.
+
+    5. Use of Artificial Intelligence:
+
+     1. Partnership has been made with analytics companies to develop algorithms that can use big data to identify suspect transactions & entities. This would go through Rule engines, Artificial Intelligence and Machine Learning techniques.
+     2. SAS has been selected as a partner to develop a comprehensive Fraud Analytics and Forensics solution to detect fraud proactively.
+
+    ****
+
+
+    MV
+
+    
+    
+    (Release ID: 1602760) Visitor Counter : 699
+    
+    
+      Read this release in: Urdu , Bengali
+    
+    
+    
+
+2.

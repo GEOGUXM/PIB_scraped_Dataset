@@ -1,0 +1,41 @@
+      Ministry of Science & Technology
+
+      New tool can map nanomechanical properties of materials like multi-phase alloys, composites & multi-layered coatings
+      Posted On: 22 APR 2020 5:35PM by PIB Delhi
+
+
+    Scientists from International Advanced Research Centre for Powder Metallurgy and New Materials (ARCI) an autonomous institute under the Department of Science &Technology,Govt. of India in collaboration with Nanomechanics Inc., Oak Ridge, USA havejointly developed an advanced tool for mapping nano-mechanical properties of materials like multi-phase alloys, composites, and multi-layered coatings.
+
+
+    The tool called NanoBlitz 3D has also been found to yield excellent results on a wide range of material systems, includingglass-fibre-reinforced polymer composites, dual-phase steels, softwood and shale. An important aspect of this technique is its high-throughput, with just a few hours of testing required for generating more than 10,000 data points that can be processed using machine learning (ML) algorithms.
+
+
+    It enables the performance of a large array, typically consisting of 1000s high-speed nano-indentation tests, wherein each indentation tests takes less than one second to measure hardness and elastic modulus of a givenmaterial.In addition, it provides capabilities to carry out advanced data analysis, such as identifying and quantifying the mechanical properties of constituent phases, features or componentsof multi-phase alloys, composites, multi-layered coatings and so on.
+
+
+    The high-speed mapping capabilities of the tool can also be used to quickly establish structure-property linkages at a micrometer length scale or higher, which can help to understand multiscale mechanics and aid in development of hierarchical materials. This, in turn, expedites the development of high-performance novel materials under an Integrated Computational Material Engineering (ICME) approach.
+
+
+    (a)(b) (c)
+
+
+    Figure: (a) SEM micrograph and (b) hardness map of NiCoCrAlY region of a thermal barrier coating subjected to 5 thermal cycles at 1100 o C. (c) The mechanical phase map obtained after algorithmically identifying the different phases
+
+
+    The product was released in San Antonio, USA by Dr. G. Padmanabham, Director, ARCI, on the sidelines of The Minerals, Metals & Materials Society 2019 Annual Meeting and Exhibition.As data science is considered as the new avenue for accelerating materials design and discovery, this technique with high-fidelity and high-throughput can greatly contribute to this new paradigm.
+
+
+    (Dr. Sudharshan Phani, spphani@arci.res.in , can be contacted for further details.)
+
+
+    ****
+
+
+    KGS/( DST)
+
+    
+    
+    (Release ID: 1617174) Visitor Counter : 700
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Tamil

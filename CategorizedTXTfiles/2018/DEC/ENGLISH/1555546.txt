@@ -1,0 +1,47 @@
+      Ministry of Shipping
+
+      Indian Ports Association Launches ‘PCS 1x’ to Increase Ease of Doing Business
+      Posted On: 11 DEC 2018 6:39PM by PIB Delhi
+
+
+    Indian Ports Association (IPA), under the guidance of Ministry of Shipping launched the Port Community System ‘PCS1x’. The url www.indianpcs.gov.in was launched by Shri Sanjay Bhatia, Chairman IPA in the presence of various stakeholders from Mumbai today. It was attended by all Major Port Chairmen through video conference. Shri Bhatia, while launching the portal lauded the effort of all involved for completion of the project in record time of 6 months.
+
+
+    ‘PCS 1x’ is a cloud based new generation technology, with user-friendly interface. This system seamlessly integrates 8 new stakeholders besides the 19 existing stakeholders from the maritime trade on a single platform.
+
+
+    The platform offers value added services such as notification engine, workflow, mobile application, track and trace, better user interface, better security features, improved inclusion by offering dashboard for those with no IT capability. A unique feature of ‘PCS1x’ is that it can latch on to third party software which provides services to the maritime industry thereby enabling the stakeholders to access wide network of services. The system enables single sign on facility to provide one stop interface to all the functionalities across all stakeholders. Another major feature is the deployment of a world class state of the art payment aggregator solution which removes dependency on bank specific payment eco system.
+
+
+    This system will enable trade to have an improved communication with the customs as they have also embarked on an Application Programming Interface (API) based architecture, thereby enabling real time interaction.
+
+
+    This System offers a database that acts as a single data point to all transactions. Itcaptures and stores data on its first occurrence thereby reducing manual intervention, the need to enter transaction data at various points and thereby reducing errors in the process. It is estimated that this feature alone will reduce 11/2 to 2 days in a life of transaction. The application will have a cascading effect in reducing dwell time and overall cost of transaction. The platform has the potential to revolutionize maritime trade in India and bring it at par with global best practices and pave the way to improve the Ease of Doing Business world ranking and Logistics Performance Index (LPI) ranks.
+
+
+    A major training and outreach program is under way to educate the stakeholders about the uses and benefits of ‘PCS 1x’.
+
+
+    This system is also an initiative that supports green initiatives by reducing dependency on paper. The web-based platform has been developed indigenously and is a part of the ‘Make in India’ and ‘Digital India’ initiative of the Hon’ble Prime Minister.
+
+
+    The Ministry of Shipping is separately issuing order to make usage of the PCS platform mandatory.
+
+
+    For more details on the stakeholder registration and integration process log on to www.indianpcs.gov.in or call the helpline no.: 1800115055
+
+
+    Email : support.ipcs@nic.in
+
+
+    ******
+
+
+    NP/ MS
+
+    
+    
+    (Release ID: 1555546) Visitor Counter : 4359
+    
+    
+      Read this release in: Hindi

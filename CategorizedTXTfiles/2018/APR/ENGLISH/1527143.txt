@@ -1,0 +1,51 @@
+      Ministry of Housing & Urban Affairs
+
+      Smart India Hackathon 2018--out-of-the-box Innovative Ideas to build Smart Applications to help address real time problems-- Seven issues found Hackathonable from Housing Ministry: Hardeep Puri
+      36-Hour Smart India Hackathon 2018 Grand Finale held
+
+      Posted On: 01 APR 2018 4:50PM by PIB Delhi
+
+    Smart India Hackathon 2018 - Software Edition Grand Finale was organized here today at the R.M.K. Engineering College at Kavaraipettai, Thiruvallur District near Chennai. 41 teams from different parts of India consisting of 246 students competed in the grand finale for the 14 problem statements posed by MoHUA and the State Governments. Addressing the participants at the event, Sh HardeepPuri, Union Minister of State for Housing and Urban Affairs(I/C) informed that a total of 340 Problem Statements have been proposed across the Ministries/Departments/ States etc. and 1282 teams comprising more than 10,000 young Engineering students and their mentors participated in the event.
+
+
+    Ministry of Housing and Urban Affairs participated as a host of Chennai Nodal Centre which is a combined initiative involving the Ministry of Human Resources Development, All India Council of Technical Education (AICTE), Inter-Institutional Inclusive Innovations(i4c) and Persistent Systems Ltd.
+
+
+    Providing details of the participation of Ministry of Housing and Urban Affairs, the Minister informed that from his Ministry, out of several problem statements sent to the Smart India Hackathon Team, the following seven software problems are found hackathonable:
+
+      * Posting/transfers at the level of JE/AE/EE in CPWD (Works Div/CPWD)
+      * The impact of GST can vary from sector to sector and depends on whether the project is under execution (Economic Division)
+      * Stakeholder Engagement for Urban Planning and Management (Smart City)
+      * Urban Mobility (Smart City)
+      * Common Mobility App (Urban Transport)
+      * Common Platform for Vehicle Registration (Urban Transport)
+      * E-Measurement Book (Delhi Division/DDA)
+
+    The State Governments have also sent problem statements relating to Pradhan Mantri Awas Yojana (PMAY), Urban Local Bodies (ULBs), Swachhata, Real Estate Regulation Act etc.
+
+
+    Smart India Hackathon 2018 is a digital product development competition involving all Technology institutes in India with a reach to approximately 30 lakh students. The initiative challenges the students to come out with out-of-the-box innovative ideas to build smart applications which will help address major real time problems in our country. All India Council for Technical Education (AICTE) under the aegis of Ministry of Human Resource Development (MHRD) and in collaboration with i4c, MyGov, Persistent Systems, and RambhauMhalgiPrabodhiniorganized this event across India.
+
+
+    With 27 Union Ministries and Departments and 17 State Governments having joined this grand initiative this year, the Hackathon is much bigger than its previous edition. It included 2 sub-editions - Software edition, which is a 36-hr software product development competition. The Hardware edition, involving building of hardware solutions will be held later this year in the month of June.
+
+
+    Students from 41 teams have submitted ideas for various problems like traffic management systems, vehicle registration, revolutionizing public transport systems, urban planning and management systems and GST calculators using technologies like Artificial Intelligence, Machine Learning, IoT and Mobility. 23 teams consisting of 138 students of the RMK Group of Institutions competed in the above Hackathon in various nodal centers in India.
+
+
+    ****
+
+
+    RJ
+
+    
+    
+    (Release ID: 1527143) Visitor Counter : 1757
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+*

@@ -1,0 +1,34 @@
+      Ministry of Earth Science
+
+      Air Quality Early Warning System for Delhi launched.
+      
+      Early Warning System can predict extreme air pollution events 72 hours in advance and give necessary alerts
+
+      Posted On: 15 OCT 2018 6:16PM by PIB Delhi
+
+    Air Quality Early Warning System for Delhi was launched in Delhi today by the Union Minister for Earth Sciences and Environment, Dr. Harsh Vardhan .The System is designed to predict extreme air pollution events and give alerts to take necessary steps as per Graded Response Action Plan (GRAP) of the Government of India. The air pollution system has been developed jointly by the scientists at Indian Institute of Tropical Meteorology (IITM), Pune, India Meteorological Department and National Centre for Medium Range Weather Forecasting (NCMRWF).
+
+
+    Speaking at the launch, Dr. Harsh Vardhan said that the early warning system will help in proactively forewarning, 3-4 days in advance, any large scale air pollution events which may occur over the Delhi region. Outlining a series of efforts that the central government has taken the Union Minister said that the Central Pollution Control Board (CPCB) has constituted a 41 member team which will continuously monitor the air pollution levels in Delhi and NCR region and will report to the board. “Badarpur thermal power plant is being closed today, western peripheral expressway is likely to become operational in the first week of November, the Central govt. has released nearly 600 crores to concerned states for in-situ management of crop-residue and a slew of mitigation measures have been taken by the government”, the Minister added.
+
+
+    A new website developed for archiving all the observational and prediction products was also launched at the event. The website will be accessed by the officials of Environmental Pollution Authority (EPA) and the Central Pollution Control Board (CPCB) for taking necessary steps depending upon the requirements. Ministry of Earth Sciences will be making further attempts to assimilate more data of other pollutants and also to improve accuracy of predictions with the technical support from the NCAR, USA and Finnish Meteorological Institute.
+
+
+    The air pollution system has been developed jointly by the scientists at Indian Institute of Tropical Meteorology (IITM), Pune, India Meteorological Department and National Centre for Medium Range Weather Forecasting (NCMRWF). The warning system consists of a) real time observations of air quality over Delhi region and details about natural aerosols like dust (from dust storms) and particulate matter using different satellite data sets b) Predictions of air pollutants from two different air quality prediction systems based on state-of-the-art atmospheric chemistry transport models and c) Warning Messages and Alerts and Bulletins.
+
+
+    The prediction systems were developed by scientists of MoES institutions with the technical support from the National Centre for Atmospheric Research (NCAR),USA and the Finnish Meteorological Institute (FMI). The prediction part of the system consists of two modelling framework, one is based on NCAR atmospheric chemistry transport model and the second one is based on Finnish Meteorological Institute model. The modelling framework typically consists of a high resolution weather prediction model with an atmospheric chemistry transport model. Both the models have data assimilation facility, which can assimilate data from satellites on dust aerosols, particulate matter from stubble burning and other air pollutants like SO 2 and NO 2 . The models will take into account the background aerosols and pollutants, long range transport of dust from dust storms and particulate matter from stubble burning. The predictions are now available up to 72 hours lead time.
+
+
+    Union Minister also released a mega emission inventory of Delhi which was made by scientists at IITM Pune who carried out a mega emission inventory campaign involving around 140 students mapping all possible local sources of air pollution with around 37,500 hours of work . The final product with 400 m x 400m high-resolution emission inventory of Delhi and fringe area of all eight important air pollutants (like PM2.5, PM10, NOx, CO, SO 2 , BC, OC and VOCs) was released. Ground level activity data about emissions from as many as 23 different sources of pollution were also collected. The emission inventory suggests that there is a substantial increase of emissions from transport and industrial sector, while the contributions from residences have shown a substantial decline.
+
+
+    ***
+
+
+    RDS/GK
+
+    
+    
+    (Release ID: 1549759) Visitor Counter : 998

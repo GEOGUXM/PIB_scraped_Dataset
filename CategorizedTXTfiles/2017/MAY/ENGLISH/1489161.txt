@@ -1,0 +1,94 @@
+      Ministry of Corporate Affairs
+
+      The Insolvency and Bankruptcy Board of India (IBBI) constitutes Technical Committee to lay down Technical Standards for the performance of core services and other services under IBBI (Information Utilities) Regulations, 2017
+      Posted On: 04 MAY 2017 1:24PM by PIB Delhi
+
+
+      The Insolvency and Bankruptcy Board of India (IBBI) has constituted a Technical Committee in accordance with Regulation 14 of the IBBI (Information Utilities) Regulations, 2017. The Technical Committee (Committee) shall consist of the following:
+
+                                                                                                            
+Sl. No.  Name and Position                                                             Position in Committee
+                                                                                                            
+                                                                                                            
+                                                                                                            
+1        Dr. R. B. Barman (Chairman, National Statistical Commission)                  Chairperson          
+                                                                                                            
+                                                                                                            
+                                                                                                            
+2        Dr. Nand Lal Sarda (Emeritus Fellow, Indian Institute of Technology, Bombay)  Member               
+                                                                                                            
+                                                                                                            
+                                                                                                            
+3        Dr. Pulak Ghosh (Professor, Indian Institute of Management, Bangalore)        Member               
+                                                                                                            
+                                                                                                            
+                                                                                                            
+4        Sh. V. G. Kannan (Chief Executive, Indian Banks Association)                  Member               
+                                                                                                            
+                                                                                                            
+
+      The Committee shall give its recommendation for laying down Technical Standards for the performance of core services and other services under Insolvency and Bankruptcy Board of India (Information Utilities) Regulations, 2017 and specifically on the following matters, namely:
+
+
+      (a) the Application Programming Interface;
+
+
+      (b) standard terms of service;
+
+
+      (c) registration of users;
+
+
+      (d) unique identifier for each record and each user;
+
+
+      (e) submission of information;
+
+
+      (f) identification and verification of persons;
+
+
+      (g) authentication of information;
+
+
+      (h) verification of information;
+
+
+      (i) data integrity;
+
+
+      (j) consent framework for providing access to information to third parties;
+
+
+      (k) security of the system;
+
+
+      (l) security of information;
+
+
+      (m) risk management framework;
+
+
+      (n) porting of information;
+
+
+      (o) exchange or transfer of information between information utilities;
+
+
+      (p) inter-operability among information utilities;
+
+
+      (q) preservation of information; and
+
+
+      (r) purging of information.
+
+
+      *****
+
+
+      DSM/VKS
+
+    
+    
+    (Release ID: 1489161) Visitor Counter : 203

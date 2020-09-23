@@ -1,0 +1,105 @@
+      Ministry of Electronics & IT
+
+      GCCS 2017
+      Day 2 of the Curtain Raiser Focused on Cyber Capcity Building, Esdm, Blockchain Technology and Need for a Reboot in the Fintech Sector
+      Posted On: 22 NOV 2017 10:59AM by PIB Delhi
+
+
+    The momentum set by the first day of the Curtain Raiser to GCCS 2017, was well maintain on the second day as well. Besides the ongoing 36-hour challenge in the Grand Finale of the Global Cyber Challenge - Peace-a-thon , one of the major highlights of the GCCS 2017, the second day began with a session on Cyber Security in the Commonwealth. The session took place in a workshop format with plenary discussion, which was attended by over 100 people including Government officials, business and civil society representatives from Commonwealth countries.
+
+
+    Global Forum on Cyber Expertise: Connecting the dots in cyber capacity building
+
+
+    Over the last year, the GFCE community joined hands in the development of two documents which could form the basis for a coordinated response to cyber challenges. These efforts accumulated into the Global Agenda for Cyber Capacity Building and GFCE Global Good Practices; GFCE wide agreed upon and voluntary recommended good practices on cyber capacities. Both the Global Agenda and the Good Practices drafts were presented during this pre-event followed by a reflection on the next steps. The power-packed session began with a welcome address by Shri Ajay Prakash Sawhney, Secretary, Ministry of Electronics and Information Technology, Govt. of India , followed by a panel discussion. The panel was attended by Mrs. Carmen Gonsalves, Head of Taskforce International Cyber Policies, Ministry of Foreign Affairs, Mr. Silvino Schlickmann Junior, INTERPOL, Mr. William Saito, Special Advisor at Cabinet Office, –Japan, Mr. Tobias Feakin, Ambassador of Cyber Affairs, Australia, Mr. Patryk Pawlak, GFCE Advisory Board, Mr. Kate Getao, ICT Secretary Office of the President & Cabinet, Kenya, and was moderated by Mr. Kerry-Ann Barrett, OAS Cyber Security Specialist. During the plenary session on 24th November 2017 at the GCCS 2017, a Communique on a Global Agenda for Cyber Capacity Building will be presented.
+
+
+    Olympiad for Cyber Wellness - The Conclusion:
+
+
+    Parallely, there have been couple of sessions on Cyber Wellness. The first session was the Olympiad for Cyber Wellness: Conclusion – ‘Creating Cyber Safe Youth Ambassadors’ . It was a panel discussion on Creating Cyber Youth Ambassadors. The discussion primarily focused on:
+
+
+    a) Need of cyber safety and security amongst school students and youth in the ever changing technology environment
+
+
+    b) Expectations from schools, educators and students towards getting children ready for the future keeping current trends and e-Initiatives of Government and Private sector in mind
+
+
+    c) Prevailing laws applicable to cyber crimes
+
+
+    The second session was a round table discussion focusing on ‘ Safety for One Billion’ . The focus areas of the discussion have been:
+
+
+    a) Securing e- Transactions;
+
+
+    b) Ensuring Secure e-Services;
+
+
+    c) Protecting Online Entity of Citizens. The objective of the round table is to work out solutions for the following questions
+
+
+    d) What are the opportunities and challenges faced by Digital Citizens?
+
+
+    e) What are the expectations of citizens with regard to Digital Services?
+
+
+    f) How can governments provide secure delivery of Digital Services?
+
+
+    g) How can industry and platforms ensure citizens’ privacy and security?
+
+
+    The participants across government, industry, online platforms, academia, civil societies deliberated on each of the elements and share their recommendations for developing smart and secure Digital Services and Platforms to meet the needs of today’s digitally engaged citizens. The participants also adopted a declaration for working towards a Safer Cyber Space.
+
+
+    Blockchain: The Biggest Paradigm Shift
+
+
+    Blockchain is Internet 2.0: Reimagining Trust Management - the biggest impact of 21st Century. It has been envisioned to make India one of the front runners in the Global Blockchain Revolution. India as one the largest democracies has taken the initiatives by supporting early adoption of technology transformation and digital inclusion and seeking to spearhead global adoption of BLOCKCHAIN through international cooperation. Through this, India will send a strong message to the world about her ability to identify futuristic technology and her intention for making deliberate contributions to world peace through technology. Blockchain considered as one of the biggest achievements of 21st Century, is a transformational technology tool that could help India and the world in major technological advances. Objective: To cast the vision of how Blockchain [Internet 2.0] is going to extraordinarily impact the world at large, corporates from different sectors and bring change in the lives of common people. Outcome: Global cooperation in accelerating the adoption of BCT globally: Both Government delegates and sector leaders explore how they can contribute individually and jointly in adoption of BCT [innovation and technology activation] in their operations and impact lives of common people. They can discuss, explore and initiate PPP projects and accelerate the adoption of BCT.
+
+
+    Rising ESDM (Electronic System Design & Manufacturing) Sector in India
+
+
+    This curtain raiser event was organized on the sidelines of GCCS to bring in all stake holders from Government as well as from Industry side to discuss Challenges & Government Intervention where panel will discuss about the challenges faced by the ESDM sector in the country and what are the interventions required from the government side in reducing those challenges without creating any bottlenecks and make the process easier. The objective is to derive a beneficial strategy and takeaway for all stakeholders is to ensure a brighter future of electronics in India.
+
+
+    The session focused on:
+
+
+    · Global manufacturers’ experience in developing countries and South-East Asia?
+
+
+    · What India can learn considering the seemingly inevitable strategic shift of Global Value Chain towards India?
+
+
+    · What expectations Global Manufacturers have from a huge market like India? Do they have any specific set of recommendations for India?
+
+
+    · What are the advantages India can leverage to make it a Global Manufacturing Hub?
+
+
+    · What are the gaps or disabilities that hinder India to become a global manufacturing destination? How can these gaps be bridged?
+
+
+    · What can be done for Technology acceleration/ Demand generation from global experience?
+
+
+    Fintech in India Needs a Cybersecurity Reboot
+
+
+    Fintech represents the next phase of the evolution of financial services, wherein technology and technology-focused start-ups are innovating products and services currently provided by the traditional financial services industry. Fintech has disrupted all aspects of the industry - banking and capital markets, asset and wealth management, insurance, funds transfer and payments in India. Fintech has not only led to the growth of start-ups but has also begun disrupting the way traditional banks offer services to customers, as banks look to integrate multiple digital channels into an omnichannel customer experience. India has recorded $1.77 billion in Fintech investments between 2014 and 2015 through a total of 158 deals. While these figures highlight the growth of Fintech in India, there are several factors in play that support phenomenal growth in the near future like high adoption of technology, internet penetration, government policies and thrust on financial inclusion. The Indian Fintech market is expected to reach $2.4 billion by 2020 and the total transaction value of the entire Indian Fintech industry is forecasted to reach $73 Billion in 2020 growing at a CAGR of 22%. While Fintech is growing rapidly and offers several advantages such as substantial reduction in costs, improved customer retention and differentiation of financial institutions from the competition, the need for proper security is paramount. Security and privacy are top threats to the rise of Fintech. The financial services sector handles sensitive information about individuals and enterprises. With the emergence of Fintech, more data is now available in digital format, which makes it easier to analyze and generate insights but also makes the data more susceptible to security breaches. Moving forward, security and data privacy are going to play a key role in winning consumer confidence and catalyzing the adoption of Fintech. The session was attended by Dr. Gulshan Rai, National Cyber Security Coordinator, Prime Minister's Office, Shri G. Padmanabhan, Non-Executive Chairman, Bank of India, Mr. Yashish Dahiya, Co-Founder & CEO, Policybazaar, Mr. V. N. Sastry, Professor, IDBRT, Mr. Sean Duca, VP, Regional Chief Security Officer - Asia Pacific at Palo Alto Networks, Mr. Shariq Plasticwala, Head - Amazon Payments, Amazon India and was moderated by Mr. Bharat Panchal, Head Risk Management, NPCI (Moderator)
+
+
+    The second day of the Curtain Raiser also had a Closed Meeting of the Global Commission on the Stability of Cyberspace . The Curtain Raiser had 14 events where approximately 1400 stakeholders had participated. Besides, there have been multiple side events in the backdrop of GCCS 2017 that presented a unique opportunity for people to engage with delegates present in the conference.
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1510395) Visitor Counter : 379

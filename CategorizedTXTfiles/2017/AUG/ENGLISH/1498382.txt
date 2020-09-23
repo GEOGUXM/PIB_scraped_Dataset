@@ -1,0 +1,31 @@
+      Department of Space
+
+      Desi Global Positioning System
+      Posted On: 03 AUG 2017 6:25PM by PIB Delhi
+
+
+    
+
+    Indian Space Research Organisation (ISRO) has deployed an indigenous regional positioning system named as “Navigation with Indian Constellation” (NavIC). It consists of seven satellites in a constellation to provide Position, Navigation and Timing (PNT) services in Indian mainland and surrounding region up to 1500 Km. It provides two types of services viz. Standard Positioning Service (SPS) and Restricted Service (RS).
+
+
+    A budget of Rs.1420 Crore has been approved by the Government for the realisation of the system including 7 in-orbit satellites, 2 satellites as ground spare and associated ground segment.
+
+
+    ISRO has established the required space segment of the NavIC system for providing signal in space enabling position, navigation and timing information and it can support commercial civil applications. Indian entrepreneurs are being enabled for providing services through NavIC receiver system and requisite information has been made available in public domain. The demonstrations for vessel tracking, vehicle tracking, messaging services for fishermen, timing applications have been conducted. Mobile-Apps for navigational alerts across maritime jurisdictions is developed and tested for the Fishermen community using first generation NavIC receivers. Various types of user receivers are being developed indigenously involving Indian industry and discussions amongst government departments, user-receiver manufacturers, system integrators and service providers are taking place for the usage of NavIC system.
+
+
+    While the space and ground segment of the NavIC system has been established and demonstrations of various applications/ services have been conducted, the time required for it to become fully operational depends on the service providers making the services available in the market. It may take couple of years to become fully operational in the market
+
+
+    This information was provided by the Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, Dr Jitendra Singh in a written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    KSD/NK/PK/KM-2092
+
+    
+    
+    (Release ID: 1498382) Visitor Counter : 437

@@ -1,0 +1,41 @@
+      Ministry of Finance
+
+      Launch of GSTR-2B for the month of July 2020
+      Posted On: 29 AUG 2020 5:11PM by PIB Delhi
+
+
+    The GST Council, in its 39 th meeting held on 14 th March 2020, had recommended to adopt and implement the incremental approach of linking the present system of filing of GSTR-3B and GSTR-1 and other significant changes like enhancements in GSTR-2A and its linking to GSTR-3B . One such enhancement that the Council recommended was introduction of an auto-drafted input tax credit (ITC) statement which would aid in assisting / determining the input tax credit that is available for every taxpayer.
+
+
+    GSTR-2B is going to be such an auto-drafted ITC statement which will be generated for every registered person on the basis of the information furnished by his suppliers in their respective GSTR-1, 5 (non-resident taxable person) and 6 (input service distributor). It is a static statement and will be made available for each month, on the 12 th day of the succeeding month.It is expected that GSTR-2B will help in reduction in time taken for preparing return, minimising errors, assist reconciliation & simplify compliance relating to filing of returns.
+
+
+    Key features in GSTR-2B which would assist taxpayers in return filing are as under:
+
+             1. It contains information on import of goods from the ICEGATE system including inward supplies of goods received from Special Economic Zones Units / Developers. This is not available with the release of GSTR-2B for the month of July and will be made available shortly.
+             2. A summary statement which shows all the ITC available and non-available under each section. The advisory given against each section clarifies the action to be taken by the taxpayers in their respective section of GSTR-3B;
+             3. Document level details of all invoices, credit notes, debit notes etc. is also provided both for viewing and download;
+        * GSTR-2B for the month of July 2020 has been made available on the common portal on trial basis.
+        * Since, this is the first time that the statement is being introduced, taxpayers are advised to refer to GSTR-2B for the month of July, 2020 only for feedback purposes .
+        * All taxpayers are requested to go through their GSTR-2B for July 2020 and after comparing the same with the credit availed by them in July 2020, provide feedback (if any) on any aspect of GSTR-2B by raising a ticket on the self-service portal ( https://selfservice.gstsystem.in/ ) .
+        * All taxpayers are advised to view the detailed advisory relating to GSTR-2B on the common portal before using the statement.
+
+    Taxpayers can access their GSTR-2B through: Login to GST Portal > Returns Dashboard > Select Return period > GSTR-2B .
+
+
+    ****
+
+
+    RM/KMN
+
+    
+    
+    (Release ID: 1649520) Visitor Counter : 1387
+    
+    
+      Read this release in: Tamil , Urdu , Marathi , Hindi , Punjabi
+    
+    
+    
+
+*

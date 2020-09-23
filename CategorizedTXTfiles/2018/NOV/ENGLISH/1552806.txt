@@ -1,0 +1,50 @@
+      Ministry of Water Resources, River Development and Ganga Rejuvenation
+
+      NMCG brainstorms on G-governance of Namami Gange programme through Geospatial technology
+      
+      Develops Bhuvan Ganga geo-portal and Bhuvan Ganga Mobile App in collaboration with ISRO’s National Remote Sensing Centre
+      
+      Survey of India uses drones to capture 360 degree view of Kumbh Mela area to identify pollution sources
+      
+      IIT Kanpur working on project for reconstructing the Ganga of the past using Corona Archival imagery
+
+      Posted On: 15 NOV 2018 12:37PM by PIB Delhi
+
+    National Mission for Clean Ganga (NMCG) organized a brainstorming session on World GIS Day 2018 in New Delhi yesterday, with the theme ‘G-Governance of Namami Gange programme through Geospatial Technology’. The objective of the session was to share the knowledge on use and application of geospatial technology for monitoring and management of various activities being undertaken under Namami Gange Programme, and also provide feedback on the current use of this technology with reference to Ganga Basin. The brainstorming session brought together decision makers, technocrats and implementing agencies for an engaging discussion.
+
+
+    Speaking on the occasion Shri U.P Singh, Secretary, Ministry of Water Resources River Development & Ganga Rejuvenation said that the lack of reliable data is the biggest challenge in the water sector. Geospatial technology can give vital information about the river basin for better monitoring, planning and feedback about programmes for river cleaning and rejuvenation, he said.
+
+
+    Geographical Information System (GIS) technology is widely used in river basin management. The Namami Gange programme has high priority for research and evidence based decision making, and has special place for the use of new technology including Geospatial technology. NMCG is already executing a number of research projects based on Geospatial technology.
+
+
+    In his opening remarks, Shri. Rajiv Ranjan Mishra, DG, NMCG said “The use of GIS technologies has improved our ground level understanding of the Ganga River Basin and we have been able to evolve evidence based policies and develop projects that are bringing about tremendous changes at the ground level. The GIS cell of NMCG has brought about paradigm shift in visualisation of all crucial spatial and non spatial information of Ganga basin as it is a robust, scalable and standards-based dissemination framework. GIS mapping becomes extremely important at NMCG to achieve its objective of effective abatement of pollution in river Ganga because of its limitless potential.”
+
+
+    NMCG has signed an MoU with National Remote Sensing Centre (NRSC) in the use of geospatial technology in June 2015. They have developed Bhuvan Ganga Geoportal and Bhuvan Ganga Mobile Application .
+
+
+    Bhuvan Ganga Geoportal is available for water quality monitoring, hydrological monitoring, geomorphological monitoring, bio-resources monitoring, and comprehensive geospatial database. Speaking on the occasion Shri Santanu Chowdhury,Director, National Remote Sensing Centre said that the Bhuvan Ganga mobile application is a user-friendly application to enable user/public to collect and report information on various pollution sources that affect water quality of River Ganga. The mobile application has provision to collect information regarding urban sewage, semi-urban/rural sewage, natural drains/nallas, industrial waste water, solid waste disposal or any other pollution source. The application is available for download from the Bhuvan Ganga web portal as well as Google Play store.
+
+
+    Speaking on the occasion Surveyor General of India Lt.General Girish Kumar VSM informed that the use of Drones and vehicles with cameras have captured 360 degree panoramic views of the Kumb Mela areas, which have also helped in identifying polluted Nalas joining the river Ganga. Lt.General. Girish Kumar also talked about the Sahyog Mobile App which will improve content with the help of citizens. NMCG has also collaborated with Survey of India to facilitate the Ganga rejuvenation task by using Geographic Information System (GIS) technology for mapping the Ganga basin in high resolution generating Digital Elevation Models (DEM) . These models will provide valuable information for use not only in making urban river plans , but also for identifying the baseline of river flood plains and regulating them for their restoration and preservation. This technology enables identification of entire topography of an area making it easy for policy makers to analyse the available data and improve decision-making process. Critical pollution hotspots are also easily identified through this technology. In addition, the high resolution GIS enabled data will help in regulating the proposed protected and regulatory zones along the banks of river.
+
+
+    IIT Kanpur is executing a project on ‘ Reconstructing the Ganga of the Past from Corona archival imagery’ Deliverables of Corona project would be to make all processed Corona images available for upload on public portal such as Bhuvan, develop an Atlas of the Ganga River showing a comparison between 1960s and the present, establish the reference condition of the Ganga river and quantify the changes in morphological characteristics and land-use/land-cover within the Ganga valley between 1960s and present, propose a policy document on ‘desirable’ land-use within the Ganga valley, capacity building for Corona image processing through training workshops including development of a working manual.
+
+
+    Another project under execution is on ‘Generation of Digital Elevation Model/ Digital Terrain Model using suitable sensors on airborne platform for a corridor along the main stem of River Ganga’ by Survey of India. Deliverables of mapping would be Digital Elevation Model/ Digital Terrain Model (The bare earth model has vertical accuracy better than 50 cm), contour of 1.0 m, ortho-photos (25 cm Ground sampling distance or better), GIS ready dataset, outlet/vent of sewerage and other discharge from all dwelling units, industrial, commercial and all type of other institutions mapping from the sources outlet to the public drainage network, the entire public network integrated with the present project mapping, crematoria, ghats, solid waste disposal sites, STP/ETP/CETP etc for defined project area of interest.
+
+
+    ***
+
+
+    NP/MS/MS
+
+    
+    
+    (Release ID: 1552806) Visitor Counter : 1262
+    
+    
+      Read this release in: Urdu

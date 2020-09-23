@@ -1,0 +1,20 @@
+      Ministry of Environment, Forest and Climate Change
+
+      National Centre for Seismology launches ‘India Quake’ – An App for Earthquake Parameter Dissemination
+      Posted On: 27 JUL 2017 6:04PM by PIB Delhi
+
+
+    Union Minister of Science & Technology, Earth Sciences and Environment, Forests & Climate Change, Dr. Harshvardhan launched an app “India Quake” on the occasion of Foundation Day of Ministry of Earth Sciences in New Delhi today.
+
+    
+    National Centre for Seismology (NCS) operates national seismological network with 84 stations. These stations are connected to NCS headquarter through VSAT for real time data communication. In the event of an earthquake NCS locates them using data from its network and disseminate earthquake parameters to all the concerned government department and other stake holders through SMS, email and fax. However this causes some delay in dissemination and also restricts the number of recipients.
+    
+    To overcome this, a Mobile App has been developed by the NCS for automatic dissemination of earthquake parameter (location, time and magnitude) after the occurrence of earthquakes. The App will make information dissemination faster with no restrictions on the number of recipients. Any citizen can download this App and get the real time earthquake location information on his/her mobile. Other than scientific and administrative benefits of the App, it will help in reducing panic amongst people during an earthquake. For example, if an earthquake occurs in Hindukush region, Afghanistan and is strongly felt in Delhi, then people in Delhi will know in less than 2 minutes that the earthquake has actually occurred in Afghanistan and not in Delhi.
+    
+    There are two categories of events here, scrutinized and unscrutinized. Unscrutinized events are the earthquake whose parameters have been estimated automatically by the software using the incoming waveform data from remote stations. These solutions are scrutinized and confirmed by the NCS, which form the category of scrutinized events.
+    
+    RDS/nb
+
+    
+    
+    (Release ID: 1497458) Visitor Counter : 272

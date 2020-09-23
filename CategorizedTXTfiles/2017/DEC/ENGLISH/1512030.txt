@@ -1,0 +1,38 @@
+      Ministry Of Law & Justice
+
+      National Conference on E-Courts Project E-Filing facility launched
+      Posted On: 08 DEC 2017 1:09PM by PIB Delhi
+
+
+    The eCommittee, of the Supreme Court of India in association with the Department of Justice (DoJ) of the Government of India held a two day National Conference in New Delhi on December 2 and 3 in which all the Central Project Coordinators of various High Courts connected with the ongoing National eCourts Project along with eCommittee Members, senior officers from DoJ, NIC and many other senior Judicial officers participated. The Conference was chaired by the Hon’ble Mr. Justice Madan B. Lokur the Judge-In-Charge of eCommittee and co-Chaired by Dr. Alok Srivastava, Secretary DoJ. The Conference focused on the progress, sharing of best practices, experiences, important issues and emerging challenges under the Project.
+
+
+    The eCourts Mission Mode Project (Phase I 2010-15; Phase II 2015-19) is a national eGovernance project for ICT enablement of district and subordinate courts of the country. It is being implemented by the Government of India with a total outlay of 1670 crores (Phase II). The major objectives of the Project are to make whole judicial system ICT enabled by putting in place adequate and modern hardware and connectivity; automation of workflow management in all courts; electronic movement of records from taluka/trial to appeal courts; installation of video conferencing (VC) facility and recording of witness through Video Conferencing; connecting all courts in the country to the National Judicial Data Grid (NJDG) through WAN and additional redundant connectivity; citizen centric facilities such as electronic filing, e-payment and use of mobile applications in all courts; touch screen based kiosks in each court complex, full computerisation of State and district level judicial and service academies and centres.
+
+
+    Specific targets set under the Project include: computerization of all the courts (around 20400) and DLSA and TLSC; WAN and cloud connectivity in 3500 court complexes; full Installation and use of Video Conferencing facility at 3000 Court Complexes and 1150 prisons; charting out key identified citizen services like electronic filing, daily orders, delivery of decrees, online case status in all the district courts etc.
+
+
+    The best practices of High Courts of Punjab & Haryana, Himachal Pradesh, Karnataka, Rajasthan and Andhra Pradesh were shared by the CPCs of these States during the Conference. The Hon’ble Judge in-Charge while expressing satisfaction on the progress called for continued sincere efforts needed be made to achieve the remaining targets. Secretary (Justice) Dr. Alok Srivastava stressed the importance of definite timelines and better coordination at the High Court Level. The Secretary later launched e-Filing software developed by eCommittee, for district courts and High Courts. e-Filing software has the facility to e-sign uploaded documents. Through e-Filing software, registered advocates and registered parties or persons will be able to file their cases in the district courts. Further, a demonstration was made by NIC Pune of a new version of Case Information System CIS 3.0. In the new improved version, various tools relating to court management, case management and judicial planning and monitoring will also be shown. The new version of CIS will be released and deployed soon.
+
+
+    Use of National Judicial Data Grid (NJDG) for Judicial planning and monitoring, generating various statistical reports for administration and policy decisions, was demonstrated. A need was expressed that management users may be created for principal district judges as well as for portfolio judges.
+
+
+    Success story of recently launched mobile application (eCourts services) was shared with the participants. It was brought to the notice of all the concerns that besides advocates, institution, organizations, common litigants is using the services of mobile app successfully. The mobile app has reached close to the figure of 3 lakhs downloads.
+
+
+    Automated Mailing Service recently launched for the benefit of litigants and lawyers, was well applauded. It was noted that all the developments of all the cases relating to particular litigants and lawyers, are communicated by a single mail with the help of Automated Mailing Service. Apart from this, cause list services, case status services, next dates, filing registration scrutiny and objectives are some important events where automated mails are being sent to the registered mail address to the litigants and lawyers. Within short time, the figures of events sent through mails has reached to 40 Lakhs.
+
+
+    SMS push service has been widely used across the country by the litigants and lawyers. This SMS service is more popular in remote areas where mobile phones without internet facility, are used by the litigants and lawyers. Similarly, SMS pull service is made operational recently. Anybody can send CNR no. to 9766899899 and in response, he would get the case status.
+
+
+    It was well appreciated that as per the data available on eTaal, number of electronic transactions, transacted under eCourts Project are very high and are amongst top 5 performers with number of electronic transactions being more than 40 crores.
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1512030) Visitor Counter : 303

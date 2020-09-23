@@ -1,0 +1,41 @@
+      Ministry of Agriculture & Farmers Welfare
+
+      Use of Artificial Intelligence in Agriculture
+      Posted On: 28 JUN 2019 5:44PM by PIB Delhi
+
+
+    Government has set a target of doubling of farmers’ income by the year 2022. The Government has constituted an Inter-Ministerial Committee to examine issues relating to doubling of farmers’ income and recommend a strategy to achieve doubling of farmers’ income in real terms by the year 2022.
+
+
+    The committee has, inter-alia, appreciated the role of Digital Technology, which can play a transformational role in modernizing and organizing how rural India performs its agricultural activities. The technologies include Artificial Intelligence, Big Data Analytics, Block chain Technology, Internet of Things etc. By use of the modern/advance technologies and Artificial Intelligence (AI) and giving accurate and timely information regarding crops, weather and insects etc. to the farmers may improve the crop productivity, reduce the risk and improve the income of the farmers. Major technology interventions include: -
+
+     1. Development of Kisan Suvidha mobile application to facilitate dissemination of information to farmers on the critical parameters viz., Weather; Market Prices; Plant Protection; input Dealers (Seed, Pesticide, Fertilizer) Farm Machinery; extreme weather alerts; Soil Health Card; Cold Storages & Godowns; Veterinary Centres and Diagnostic Labs. With market information, farmers are better informed about markets to sell produce, prevailing market prices and quantity demanded in the market. Thus, they can make informed decisions to sell produce at the right price and right time.
+     1. Development of ‘Farm Machinery package for Different Agro-Climatic Zones in India’ mobile application, which gives information on farm machinery package available for state-wise, agro-climatic zone wise, district-wise, cropping pattern wise and power source wise.
+     2. Development of ‘My Ciphet’ mobile application to help farmers to get precise information regarding the Indian Council of Agriculture Research (ICAR) developed post-harvest technologies, products and machineries.
+     3. ICAR has also compiled more than 100 mobile apps developed by ICAR, State Agricultural Universities and Krishi Vigyan Kendras and uploaded on its website. These mobile apps developed in the areas of crops, horticulture, veterinary, dairy, poultry, fisheries, natural resources management and integrated subjects, offer valuable information to the farmers, including package of practices, market prices of various commodities, weather related information, advisory services, etc.
+     1. Development of mKisan Portal ( www.mkisan.gov.in ) for sending advisories on various crop related matter to the registered farmers through SMSs .
+     2. Launching of e-National Agriculture Market initiative to provide farmers an electronic online trading platform.
+     3. Introduction of Soil Health Card Scheme to assist State Governments in providing Soil Health Cards to all farmers across the country once in a cycle of 2 years. Soil health card provides information to the farmers on nutrient status of their soil along with recommendations on appropriate dosage of nutrients to be applied for improving crop productivity and soil fertility.
+     4. Using machine learning process along with different computer algorithm for crop classification and area estimation.
+
+    The Government has also set up 713 Krishi Vigyan Kendras and 684 Agricultural Technology Management Agencies at district level for dissemination of technologies among farm community. In addition, farmers are provided information through Focused Publicity Campaigns, Kisan Call Centres, Agri-Clinics and Agri-Business Centres of entrepreneurs, Agri Fairs and exhibitions, Kisan SMS Portal, etc.
+
+
+    This Information was given by the Union Minister for Agriculture & Farmers Welfare Shri Narendra Singh Tomar in Rajya Sabha today.
+
+
+    ******
+
+
+    APS
+
+    
+    
+    (Release ID: 1576231) Visitor Counter : 1779
+    
+    
+    
+    
+    
+
+4.

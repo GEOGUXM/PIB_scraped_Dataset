@@ -1,0 +1,91 @@
+      Ministry of Railways
+
+      Measures to enhance safety of passengers
+      Posted On: 05 FEB 2020 5:34PM by PIB Delhi
+
+
+    Safety is accorded the highest priority by Indian Railways and all possible steps are undertaken on a continuous basis to prevent accidents and to enhance safety of passengers. Following steps/measures have been taken to prevent accidents:-
+
+     1. Rashtriya Rail Sanraksha Kosh (RRSK) has been introduced in 2017-18 for replacement/renewal/upgradation of critical safety assets, with a corpus of ₹1 lakh crore for five years, having annual outlay of ₹20,000 crore.
+     2. Electrical/Electronic Interlocking Systems with centralized operation of points and signals are progressively provided to eliminate accident due to human failure and to replace old mechanical systems. These systems have been provided at 6,010 stations up to 31.12.2019.
+     3. Axle Counter for Automatic clearance of Block Section to ensure complete arrival of train without manual intervention before granting line clear to the next train and to reduce human element have been provided on 5,563 block sections up to 31.12.2019.
+     4. Train Protection and Warning System: Train Protection and Warning System (TPWS) based on European Technology ETCS Level-1 Automatic Train Protection (ATP) System to avoid train accident/collision on account of human error of Signal Passing at Danger (SPAD) or over speeding, has been provided at selected sections.
+     5. Auxiliary Warning System (AWS): Auxiliary Warning System (AWS) is presently functional on 413 RKMs in the Mumbai suburban section of Central Railway (289 Route KMs) and Western Railway (124 Route KMs).
+     6. Vigilance Control Device (VCD): All the diesel and electric locomotives on Indian Railways have now been provided with Vigilance Control Devices.
+     7. A Global Positioning System (GPS) based Fog Pass Device is being provided as required to loco pilots in fog affected areas which enables loco pilots to know the exact distance of the approaching signals, LC Gate and other critical landmarks.
+     8. Simulator based training of loco pilots: Simulator based training is being imparted to loco pilots to improve their driving skills and reaction time.
+     9. Track Renewal: During 2018-19, 4181 kms. track renewal had been carried out. For the current year i.e. 2019-20, 3045 kms. track renewal has been carried out upto November, 2019.
+    10. In order to improve safety, modern track structure consisting of Prestressed Concrete Sleeper (PSC), 60kg, 90 or higher Ultimate Tensile Strength (UTS) rails, fanshaped layout turnout on PSC sleepers, Steel Channel Sleepers on girder bridges is used while carrying out primary track renewals.
+    11. Provision of Thick Web Switches (TWS) is planned for all important routes of Indian Railways. To expedite provision of TWS, procurement of Thick Web Switches has been decentralized to Zonal Railways.
+    12. Long rail panels of 260 M/130M length are manufactured at the steel plant to minimize number of Alumino Thermit joints in the track.
+    13. Cold weather patrolling of the railway tracks is done during the coldest part of the night in cold months of the year to look out for weld/rail fractures for ensuring safety.
+    14. Ultrasonic Flaw Detection (USFD) testing of rails to detect flaws and timely removal of defective rails. USFD Vehicular testing system has been introduced and implemented successfully on Northern Railway.
+    15. Global Positioning System (GPS) trackers are being progressively provided to keyman & patrolmen to monitor their movement & to report any unsafe condition noticed by them instantaneously.
+    16. Mechanization of Track Maintenance is being progressively carried out to reduce human errors.
+    17. Safety drives and inspections at regular intervals are carried out to monitor and educate staff for observance of safe practices.
+    18. Linke Hofmann Busch (LHB) Type Coaches: LHB coaches are of a superior design that reduces the chances of derailment and reduces the possibility of grievous injury or death in case of accidents. Indian Railways has completely switched over to the manufacture of LHB coaches from 2018-19 onwards.
+    19. Prevention of accidents by providing Online Monitoring of Rolling Stock(OMRS) and Wheel Impact Load Detector(WILD). Total 07 Online Monitoring of Rolling Stocks (OMRS) equipment have been installed on Indian Railway network between 2017-2019 and 02 are under installation. 17 Wheel Impact Load Detectors (WILD) have been installed on Indian Railways, between 2006–2018.
+    20. Elimination of Unmanned Level Crossing Gates: 3,479 Unmanned Level Crossings (UMLCs) were eliminated during the year 2018-19. All UMLCs on Broad Gauge have already been eliminated through closure/merger/provision of Subway for safety measures.
+    21. Interlocking of Level Crossing Gates with signals to avoid accidents has been done at 11,552 Level Crossing Gates up to 31.12.2019.
+    22. Provision of Fire Extinguishers: Dry chemical powder type fire extinguishers are being provided in all mainline coaches. These are portable fire extinguishers and are easy to use by on board staff or passengers in case of emergency.
+    23. Use of improved materials for electrical fittings and fixtures such as Miniature Circuit Breakers (MCBs), light fittings, terminal boards and connectors.
+    24. Publicity Campaigns: Intensive publicity campaigns to prevent the travelling public from carrying inflammable goods are regularly undertaken.
+
+    The following measures are being taken to combat low visibility during winter months:-
+
+     1. Retro-reflective sigma (Σ) boards are being provided on the mast which is located two OHE masts prior to the signals in electrified territories to warn the crew about signal ahead.
+     2. A GPS bases Fog PASS Device is being provided to loco pilots in fog affected areas which enables loco pilots to know the exact distance of the approaching landmarks like signals, level crossing gates etc. It serves as an aid for the crew during foggy weather though audio visual alarm, whenever any landmark comes within the Geo-fence range. Location of stations, warning boards, signals, level crossing gates and Whistle for Level crossing (W/L) boards in the section is fed in the equipment. It displays speed of the locomotive, distance and time to reach landmarks.
+     3. Provision of Automatic Train Protection (ATP) System and Cab Signalling.
+     4. A work of modernization of Signalling System on complete Indian Railway network has been included in the work programme 2018-19. The work includes provision of Automatic Train Protection System. As a prelude to modernization works of signalling system on entire network, 4 pilot projects of lengths totalling 640 Route km at total cost of ₹ 1609 crores on Golden Quadrilateral and Diagonal routes have been sanctioned for trails of Modern Train Control Systems on following sections:
+                                                     
+S. No.  Section                 Railway              
+                                                     
+                                                     
+                                                     
+1       Nagpur-Badnera          Central Railway      
+                                                     
+                                                     
+                                                     
+2       Renigunta-Yerraguntala  South Central Railway
+                                                     
+                                                     
+                                                     
+3       Vizianagaram-Palasa     East Coast Railway   
+                                                     
+                                                     
+                                                     
+4       Bina-Jhansi             North Central Railway
+                                                     
+                                                     
+
+     1. Train Collision Avoidance System (TCAS) is an indigenous automatic Train Protection (ATP) System developed by Indian Railways in association with 3 Indian manufacturers. The system has been installed on Lingamapalli – Vikarabad – Wadi & Vikarabad – Bidar section (250 route km) on South Central Railway. The System is being further implemented on 1199 Route km on South Central Railway.
+
+
+    This information was given by the Minister of Railways and Commerce & Industry, Shri Piyush Goyal in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    SG/MKV
+
+    
+    
+    (Release ID: 1602103) Visitor Counter : 330
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+1.

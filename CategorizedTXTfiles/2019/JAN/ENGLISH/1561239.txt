@@ -1,0 +1,35 @@
+      Ministry of Electronics & IT
+
+      NIC Hosts conclave on New Technologies
+      
+      Experts discuss Technologies for NextGen Governance
+      
+      Posted On: 24 JAN 2019 1:59PM by PIB Delhi
+
+
+    National Informatics Centre (NIC) hosted a two-day Technology Conclave on 22 nd and 23 rd January 2019. The conclave was inaugurated by Shri Ajay Sawhney, Secretary, Ministry of Electronics and Information Technology.Speaking on the occasion,Sh Sawhney said data can be owned, protected and shared by using open APIs in a regulated ecosystem. He also said that as the first TechConclave moves from infancy, we must commit ourselves to a journey where more and more Indian Technology comes in ,which is worthy of being here. He said the country is passing through a decade of digital transformation and technology is well set to realise dream of new India. He said National Informatics Centre was playing a significant role in this.
+
+
+    Dr Neeta Verma, Director General, said that the National Informatics Centre has been instrumental in steering application of ICT at various levels in the Government. This leverages Digital India, a flagship program of the Government to transform India into a digital nation. Besides setting up National ICT Infrastructure for the Government, NIC has also designed and developed solutions/platforms for various sectors of the Government at the Centre and State. This facilitates wider transparency, data driven planning and management and enhancement in the quality of Services.
+
+
+    The Speakers in the conclave were technology experts from the IT industry and covered topics related to adoption of emerging technologies and their applications.The theme of the conclave was “ Technologies for NextGen Governance”. The technologies covered included Big Data and Advanced Analytics, Artificial Intelligence, Machine Learning, Deep Learning, DevOps / Agile Methodologies, Cloud Native Scalable Applications, Micro-services, Software Defined Infrastructure and Cyber Security.
+
+
+    Dr Anand Deshpande, Founder, Chairman and Managing Director, Persistent System, was the keynote speaker on day 1 of the conclave. He stated that we are moving from the "Internet of People" to the "Internet of things" and this will open up vast opportunities and also challenges. He stressed on the need for the right kind of alliances in order to be able to implement Block Chain technology.
+
+
+    Mr Lalitesh Katragadda, creator of Google’s Map-maker spoke about how the use of technology is the only way to solve the scale of problem that India faces. The conventional ways used by developed countries will require resources –human, financial and administrative – that are impossible to command quickly for a developing country like India. The use of digital technologies can cut the requirement of resources by a factor of 100, making it possible to make a positive impact on intractable problems, like healthcare and education for all in a reasonable period of time. He lauded the role of NIC in creating solutions for Governance in India, and urged it to adopt the ‘platform’ mindset by creating open APIs and thereby tapping into the creativity and enterprise of Indians, who are by nature entrepreneurs.
+
+
+    Other speakers spoke on a wide range of topics from smart cities to democratizing Artificial Intelligence and keeping the nation secure, a big challenge in the age of digital governance.
+
+
+    This Conclave was organized by a Technical Advisory Group (TAG) of NIC, to help the senior Government officers keep abreast of technological advancements and emerging technologies in view of the rapid advancements in ICT. The TAG has been constituted by NIC to help Project teams in the development of Enterprise solutions and standardization of solutions. This group has been helping the teams across the country to develop quality applications which are scalable & secure.
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1561239) Visitor Counter : 1227

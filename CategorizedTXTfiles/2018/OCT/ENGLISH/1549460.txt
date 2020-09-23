@@ -1,0 +1,98 @@
+      Ministry of Finance
+
+      World Bank’s Human Capital Index released
+      Posted On: 11 OCT 2018 6:45PM by PIB Delhi
+
+
+    The World Bank released today a Human Capital Index (HCI) as part of the World Development Report 2019.
+
+
+    Broader theme of the World Development Report (WDR) this year is “The Changing Nature of Work”. As part of this report, the World Bank has launched a Human Capital Project (HCP). The HCP programme is claimed to be a program of advocacy, measurement, and analytical work to raise awareness and increase demand for interventions to build human capital. There are three components of HCP- a cross-country human capital measurement metric called the Human Capital Index (HCI), a programme of measurement and research to inform policy action, and a programme of support for country strategies to accelerate investment in human capital.
+
+
+    The HCI has been constructed for 157 countries. It claims to seek to measure the amount of human capital that a child born today can expect to attain by age 18. The HCI index values are contended to convey the productivity of the next generation of workers, compared to a benchmark of complete standard education and full health.
+
+
+    The HCI has three components:
+
+
+    (i) Survival , as measured by under-5 mortality rates;
+
+
+    (ii) Expected years of Quality-Adjusted School which combines information on the quantity and quality of education ( quality is measured by harmonizing test scores from major international student achievement testing programs and quantity from number of years of school that a child can expect to obtain by age 18 given the prevailing pattern of enrolment rates across grades in respective countries); and
+
+
+    (iii) Health environment using two proxies of (a) adult survival rates and (b) the rate of stunting for children under age 5 .
+
+
+    UNDP constructs Human Development Index (HDI) for several years. The HCI uses survival rates and stunting rate instead of life expectancy as measure of health , and quality-adjusted learning instead of merely years of schooling as measure of education. HCI also excludes per capita income whereas the HDI uses it. Two significant changes from HDI are exclusion of income component and introduction of quality adjustment in learning. Exclusion of income element and introduction of quality adjustment makes HCI far less representative of Human Capital Development than the Index claims it to be.
+
+
+    The first HCI published today at the Annual Meetings of the Fund Bank comes with a conclusion that for 56% of the world’s population the HCI is at or below 0.50; and for 92% it is at or below 0.75. Hence only 8% of the population can expect to be 75% as productive as they could be.
+
+
+    The HCI measures the Index outcomes for each country as a fraction of maximum value of 1. As expected the advanced economies such as North America and Europe mostly have HCI value of above 0.75, while South Asia and Sub Saharan Africa have the lowest HCI among the regions. The HCI for India has been estimated at 0.44. The quality adjusted learning has been measured in case of India by using the data as old as 2009.
+
+
+    The key observations regarding HCI for India in the Report are as under:
+
+
+    · Human Capital Index: A child born in India today will be only 44 per cent as productive when she grows up as she could be if she enjoyed complete education and full health.
+
+
+    · The HCI in India for females is marginally better than that for males.
+
+
+    · Further, there has been marked improvement in the HCI components in India over the last five years.
+
+
+    · Probability of Survival to Age 5: 96 out of 100 children born in India survive to age 5.
+
+
+    · Expected Years of School: In India, a child who starts school at age 4 can expect to complete 10.2 years of school by her 18 th birthday.
+
+
+    · Harmonized Test Scores: Students in India score 355 on a scale where 625 represents advanced attainment and 300 represents minimum attainment.
+
+
+    · Learning-adjusted Years of School: Factoring in what children actually learn, expected years of school is only 5.8 years.
+
+
+    · Adult Survival Rate: Across India, 83 per cent of 15-year olds will survive until age 60.
+
+
+    · Healthy Growth (Not Stunted Rate): 62 out of 100 children are not stunted. 38 out of 100 children are stunted, and so at risk of cognitive and physical limitations that can last a lifetime.
+
+
+    · Gender Differences: In India, HCI for girls is marginally higher than for boys.
+
+
+    There are serious reservations about the advisability and utility of this exercise of constructing HCI. There are major methodological weaknesses, besides substantial data gaps. For instance, for the schooling parameter, though quantity is assessed using enrolment rates reported by UNESCO, quality is gauged using harmonized test scores from major international student achievement testing programs. Due to lack of availability of an authoritative and uniform test score, about 9 different test scores and systems using varying methodology have been claimed to have been harmonized by the World Bank. None of the 9 systems cover more than 100 countries, with some have very limited regional coverage. This makes the methodology quite complex and non-uniform. For some countries, average national scores in a particular year and in some cases in selected cities or states have been used as predictors of education potential and future economic growth. As most nations have country-wide assessments of elementary education, which could have been used, this is not a reasonable approach. For India, the data for quality of education pertains to 2009 assessment by PISA, which was conducted for only two states, namely Himachal Pradesh and Tamil Nadu. The methodology for harmonization is hugely suspect, the data quite dated and consequently the results quite non comparable.
+
+
+    The use of PISA and TIMSS scores raises questions of possible conflict of interest as the methodology for testing is largely controlled by non UN agencies and is not globalized unlike the methodology of UNICEF and WHO that are used for health and survival indicators.
+
+
+    The purpose of the Index has been stated to be to create political incentive for increased spending on health and education. Unfortunately, the indicators used for measured the Index are so slow moving that none can really be excited about setting out the programme of Index improvement. Adult survival rates, stunting, and under 5 mortality are outcome indicators will change at a relatively slow rate as compared to process indicators used in computing for example the Ease of Doing Business.
+
+
+    Several key factors, on the other hand, seem to have been neglected. As against the variability of outcomes for similar levels on investment, it would be more useful to developing countries if the Index focused on enabling them to measure and improve the cost-effectiveness of their spending on health and education. Also, the differences in development outcomes arising from governance issues, political systems, socio-cultural context, and legacy issues have been totally ignored. The metric of HCI is too simplistic at one level and too ignorant of development realities at another.
+
+
+    Analysed in the context of India, the HCI score for India does not reflect the key initiatives that are being taken for developing human capital in the country. The Samagra Shiksha Abhiyan has been launched to focus on access and quality of education for the benefit of 197 million school children. Through the Ayushman Bharat Programme , India has now launched the world’s largest Health Insurance initiative providing 500 million citizens with adequate health coverage, and transforming 150,000 Health Centres into Wellness Centres to provide comprehensive primary healthcare services. Sanitation coverage has expanded from 38% in 2014 to 83% in 2018 under the Swachh Bharat Mission . This has been made possible through the construction of over 72 million toilets and simultaneous societal reforms driven through strong political will. The Pradhan Mantri Ujjwala Yojana has reduced drudgery and improved the health of about 38 million women by providing them with LPG connection to replace firewood and coke based cooking stoves. In pursuing with the agenda of financial inclusion, the Pradhan Mantri Jandhan Yojana has provided access to formal banking services to over 328 million persons. The share of account ownership among rural adults has more than doubled from 33% in 2011 to 79% in 2017, significantly bridging the rural-urban gap. Financial inclusion and the Aadhaar identification system has enabled India to make direct cash transfer of about US$ 64 billion to citizens, thus improving governance and social protection.
+
+
+    These initiatives are transforming human capital in India at rapid pace and very comprehensively touching upon the lives of millions of people living in rural and tribal areas. The qualitative aspects of improved governance that have a strong correlation with human capital development cannot be and have not been captured by the way the HCI has been constructed. The gap in data and methodology overlook the initiatives taken by a country and, in turn, portray an incomplete and pre-determined picture. This infact makes the case for an adoption of the Index by more countries somewhat remote. The hasty introduction of the HCI by the World Bank may deny the larger Human Capital Project its due despite the lofty objectives of the latter. With the emphasis on country scores and rankings, the HCI could trivialize the importance of the Human Capital Project, which may in turn overshadow the critical issues discussed in the World Development Report on the changing nature of work.
+
+
+    The Government of India, therefore, has decided to ignore the HCI and will continue to undertake its path breaking programme for human capital development aiming to rapidly transforming quality and ease of life for all its children.
+
+
+    *****
+
+
+    DSM/RM/KA
+
+    
+    
+    (Release ID: 1549460) Visitor Counter : 3089

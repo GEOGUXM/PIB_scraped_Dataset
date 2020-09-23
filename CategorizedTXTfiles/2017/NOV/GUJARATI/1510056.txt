@@ -1,0 +1,35 @@
+      PIB Headquarters
+
+      NAVSARI POLLING BOOTHS
+      Posted On: 17 NOV 2017 6:08PM by PIB Ahmedabad
+
+
+    Detailed Description: An App developed for Voters to find the shortest possible path to reach their polling station. The App routes them from their current location to the polling station using Google Maps. This functionality enhances the ease with which voters can reach their respective polling station. Also, the App offers basic information about all the 1159 polling stations including the name of the PS, number of voters, name of Booth Level Officer and the contact details of the BLO. This basic information significantly improves the confidence of the voters to reach out to the BLO in case of any issue arising on the voting day.
+
+
+    The Zonal Magistrate/Sector Officer is the most critical election duty officer on the days leading to poll and assumes even higher significance on the day of poll. The officer allotted though has time to familiarise himself/herself about the Zone/Sector supposed to be supervised yet many a times it is difficult to fully remember the exact routes. Also the driver allotted with the vehicle might be a different one from the one with whom the earlier rounds were undertaken and other issues of not knowing the best route in terms of shortest distance travelled or least time taken et.al . The App is capable of obviating these issues as it creates shortest possible route for all the 131 Sector Officers to navigate their entire route. The App helps in better sector route movement and thereby brings in increased efficiencies of time, cost and effort. The App suggests to the ZM:
+
+
+    Ø The shortest route covering the assigned sector
+
+
+    Ø The distance between the different booths on the sector
+
+
+    Ø The time required to reach a particular booth from current location
+
+
+    The App has functionalities to suggest based on real time traffic conditions the shortest possible route in terms of distance covered or if the ZM wants to reach a particular location earliest then the route which takes least time (Very Useful in cities facing traffic congestion).
+
+
+    Further the App is of enormous utility to Observers, expenditure monitoring teams, and members of the flying squads who are not fully informed about the road networks of the constituencies. Also, time is of premium for all these officers to reach and respond to any complaints. And in the prevailing system there is excessive reliance on the driver accompanying the Officers. The App significantly reduces this reliance and gives real time information to the teams responding to any situation about the time needed, distance left to be covered et.al . The best part of the App is that all these route maps can be saved in offline mode as well thus removing completely the issues arising out of intermittent net connectivity in remote areas.
+
+
+    The App advances the cause of “Inclusive Voting, Ethical Voting” by putting all information related to the polling stations in public domain along with making it easy for the voters to reach polling stations. This transparency assures voters and is of immense importance to the election duty officials. The App is fully capable of being scaled up for any number of districts, assembly constituencies as the basic information about the polling stations such as their latitude, longitude, number of voters, name of BLO, sector officers, the routes of sector officers is readily available with all DEOs.
+
+    
+    
+    (Release ID: 1510056) Visitor Counter : 205
+    
+    
+      Read this release in: Gujarati

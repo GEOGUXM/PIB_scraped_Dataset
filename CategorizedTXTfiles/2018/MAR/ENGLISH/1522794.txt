@@ -1,0 +1,46 @@
+      Ministry of Railways
+
+      Ministry of Railways instructs Zonal Railways to link the arrival & departure of trains with Data Loggers
+      
+      A data logger (also data recorder) is an electronic device that records data over time or in relation to location either with a built-in instrument or sensor or via external instruments and sensors
+      
+      41 stations across India records Punctuality of trains through Data Loggers
+      
+      Punctuality of almost 80% of mail/express trains is being monitored through this system
+      
+      This system will improve punctuality of trains & provide real time train movement information to passengers.
+
+      Posted On: 06 MAR 2018 6:28PM by PIB Delhi
+
+    Ministry of Railways have eliminated the practice of manually recording punctuality performance at 41 major railway junctions across zones to ensure correct reporting of such data. The Railway Board has instructed zonal railways to link the arrival and departure of trains with data loggers from January 1 2018 without the fear of drop in punctuality and report authentic punctuality status.
+
+
+    A data logger (also data recorder) is an electronic device that records data over time by sensing status of relays. Railway zones have provided such data loggers this across 41 stations which include Howrah, Mumbai CST, Mughalsarai, Lucknow, Kanpur, Chennai Central, Ahmedabad and Bangalore.
+
+
+    It has been an endeavour of Indian Railways to run trains punctually and provide information to their customers more current, reliable and accurate, with minimal human intervention. Data Loggers were provided at Stations to monitor the status of functioning of signaling gears. For train control, Optical Fibre network has also been laid and linked to control centres of the Divisions.
+
+
+    It was decided to utilize these data loggers for capturing trains running information & update Control Office Application (COA) automatically at the central server. For this purpose, to start with, the data loggers of one terminal station and one more station at each zonal railway is linked with COA through optical fibre backbone for automatically picking up the train running status. The work at 17 terminal stations and 17 other stations has been implemented as a pilot project. The system has been working since 1 st Jan.2018 and extended to total 41 stations. (List attached)
+
+
+    As on date, punctuality of almost 80% of mail/express trains is being monitored through this system. It has been planned to further expand the network covering all the terminal stations. With the implementation of this system, the information available to the passenger is reliable and more current.
+
+
+    List of Railway stations zones where data loggers have been provided :
+
+
+    *****
+
+
+    SBS/pm
+
+
+    
+    
+
+    
+    (Release ID: 1522794) Visitor Counter : 408
+    
+    
+      Read this release in: Tamil

@@ -1,0 +1,44 @@
+      Ministry of Science & Technology
+
+      IIA scientists connect Lithium abundance in interstellar space to new Lithium rich red giants
+      Posted On: 19 APR 2020 2:15PM by PIB Delhi
+
+
+    Researchers at the Indian Institute of Astrophysics (IIA), an autonomous institute under the Department of Science &Technology, Govt. of India, have discovered hundreds of Li-rich giant stars indicating that Li is being produced in the stars and accounts for its abundance in the interstellar medium. They have also associated such Li enhancement with central He-burning stars, also known as red clump giants, thereby opening up new vistas in the evolution of the red giant stars.
+
+
+    Dr. Eswar Reddy and his students Deepak and Raghubar Singh at IIA in their study published recently in the Astrophysical Journal Letters and Monthly Notices of royal astronomical society (MNRAS) discovered a number of super Li-rich giants which have Li quantity which is equal to or in some cases, more than 10 times the present value, A(Li) =3.2 dex ( measured in logarithmic scale relative to hydrogen).
+
+
+    Lithium (Li), is one of the three primordial elements, apart from Hydrogen and Helium (He), produced in the big bang nucleosynthesis (BBN) whose models predict primordial Li abundance (A(Li) ~2.7~dex). However, the present measurement of Li in the interstellar medium and very young stars is about 4 times more than the primordial value. Thus, identifying sources of Li enrichment in our Galaxy has been a great interest to researchers to validate Big Bang Nucleosynthesis as well as a stellar mixing process. Apart from reactions, in which high energy cosmic ray particles bombard with heavier nuclei such as carbon and oxygen-producing lighter particles such as Li, stars are also proposed as likely Li source in the Galaxy. In general, stars are considered as Li sinks. This means that the original Li, with which stars are born, only gets depleted over stars’ life-time as Li burns at relatively very low temperatures of about 2.5X10 6 K – a range which is easily encountered in stars.
+
+
+    The team embarked on cracking this long-standing problem in stellar astrophysics. They followed a two-fold strategy by increasing the sample by systematically searching for high Li among low mass evolved stars in the Galaxy and determining the exact evolutionary phase of these high Li abundance stars. By employing data from large scale ground and space missions, they discovered hundreds of Li-rich giants. Though their study increased the number of Li-rich giants by many-fold Li-rich giants still accounts for only about 1 in 100 in the Galaxy.
+
+
+    The researchers determined the evolutionary phase of these giants by analyzing relative positions of thousands of stars using their temperature and luminosity and also subjecting their independent data set to atmospheric oscillations analysis using data from Kepler Space Telescope, a NASA mission for discovering planets. By determining their characteristic frequency and period spacing of pressure (p)-modes and gravity (g)-modes, they could differentiate between the stars that have a He-burning core, or inert He ash at the center due to Hydrogen fusion reaction.
+
+
+    Importantly, they showed for the first time that the Li enhancement in giants is associated only with central He-burning stars, which are also known as red clump giants. This is an important discovery that will help to eliminate many proposed theories such as planet engulfment or nucleosynthesis during the red giant evolution in which helium at the center is not burning.
+
+
+    Fig: All the Li-rich giants (red squares) for which asteroseismic data available are in a region of core He-burning phase (Singh et al. ApJL, 2019).
+
+
+    [Publication details : Astrophysical Journal Letters (Singh et al. 2019): https://iopscience.iop.org/article/10.3847/2041-8213/ab2599/pdf
+
+
+    Monthly Notices of royal astronomical society (MNRAS) (Deepak & Reddy: 2019, Deepak et al.: 2020). https://doi.org/10.1093/mnras/staa729 ; https:// doi.org/10.1093/mnras/stz128 ]
+
+
+    ****
+
+
+    KGS/( DST)
+
+    
+    
+    (Release ID: 1616003) Visitor Counter : 1123
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Bengali , Tamil

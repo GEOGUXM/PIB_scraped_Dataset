@@ -1,0 +1,47 @@
+      Ministry of Science & Technology
+
+      Portable Sterilization unit using new hybrid sterilization technology can decontaminate PPEs rapidly
+      Posted On: 04 SEP 2020 7:20PM by PIB Delhi
+
+
+    Scientists have developed a portable sterilisation unit using a new technology called the hybrid sterilization system that can decontaminate personal protective equipment (PPE) necessary for combating COVID 19, easily and rapidly, allowing them to be used multiple times.
+
+
+    It can be used by health professionals and other COVID warriors for whom PPEs are essential and can prevent generation of hazardous solid waste from PPEs.
+
+
+    IIT Tirupati (IITT) and IISER Tirupati have jointly developed the Portable Optical Cavity
+
+
+    Sterilization Unit (POSCU) to provide efficient and rapid decontamination of personal protective equipment (PPE) and other household items. A working point-of-use sterilization unit has been developed with the support of Science and Engineering Research Board (SERB), a statutory body under the Department of Science and Technology (DST).
+
+
+    UV radiation is a proven method for sterilization. However, the lower penetration depth of UV-C and faster divergence from the source can result in nonuniform treatment. The team consisting of Dr. Reetesh Kumar Gangwar (Asst. Prof., Physics), Dr. Arijit Sharma (Asst. Prof., Physics), and Dr. Shihabudheen M. Maliyekkal (Asst. Prof., Civil & Environmental Engineering) from IITT have developed this hybrid sterilization system consisting of a UV radiation cavity, cold plasma, and H 2 O 2 spray.
+
+
+    Unlike the traditional UV systems, this unit follows the optical cavity concept to optimize the use of photon flux in the treatment area. The system confines the UV radiation and enhances photon-flux and sterilization efficacy. The coherent operation of UV-C, cold plasma, and H 2 O 2 spray further strengthens the sterilization efficiency due to more hydroxyl radical production.
+
+
+    Dr. VasudharaniDevanathan from IISER Tirupati will assist the IITT team in evaluating the sterilizing efficiency of the portable unit. Dr. R. Jyaprada (MD Microbiology), SVIMS hospital, Tirupati, will also test the system's effectiveness in the SVIMS microbiology laboratory.
+
+
+    The team is currently optimizing the design parameters, including UV dose, plasma, and H 2 O 2 concentration, to get the optimum sterilization performance in short contact time of less than 2 min. Due to the non-thermal nature of the treatment, the proposed unit shall also find application in the sterilization of other items such as packed and unpacked food, currency, and other household items.
+
+
+    For more details, please contact: Dr. Reetesh Kumar Gangwar, IIT Tirupati, Email: reetesh@iittp.ac.in, Mob: 8018119014
+
+
+    The schematic design of the sterilization unit, along with the contributors Dr. Reetesh Kumar Gangwar (top, left), Dr. Arijt Sharma (bottom, left), Dr. Shihabudheen M. Maliyekkal (top, right), and Dr. VasudharaniDevanathan (bottom, right).
+
+
+    *****
+
+
+    NB/KGS/(DST Media Cell)
+
+    
+    
+    (Release ID: 1651390) Visitor Counter : 253
+    
+    
+      Read this release in: Urdu , Hindi , Punjabi , Tamil , Telugu

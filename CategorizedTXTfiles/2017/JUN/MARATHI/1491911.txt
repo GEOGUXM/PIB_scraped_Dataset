@@ -1,0 +1,22 @@
+      Department of Space
+
+      First Developmental Flight of India's GSLV Mk III Successfully launches GSAT-19 Satellite
+      Posted On: 05 JUN 2017 8:30PM by PIB Mumbai
+
+
+    The first developmental flight (GSLV MkIII-D1) of India's heavy lift launch vehicle GSLV Mk-III was successfully conducted today (June 05, 2017) evening from Satish Dhawan Space Centre SHAR, Sriharikota with the launch of GSAT-19 satellite. This was the first orbital mission of GSLV MkIII which was mainly intended to evaluate the vehicle performance including that of its fully indigenous cryogenic upper stage during the flight. Weighing 3136 kg at lift-off, GSAT-19 is the heaviest satellite launched from the Indian soil.
+    
+    After a twenty five and a half hour smooth countdown, the mission began with the launch of the 640 ton GSLV Mk-III at 5:28 pm IST from the Second Launch Pad as scheduled with the ignition of its two S200 solid strap-on boosters. Following this, the major phases of the flight occurred as scheduled. The upper stage of GSLV MkIII vehicle is a new cryogenic stage (C25) indigenously configured, designed and realised by ISRO. The cryogenic stage used liquid Hydrogen and liquid Oxygen as propellants with a total loading of 28 tons. The stage is powered by a 20 ton thrust cryogenic engine (CE20) operating on ‘gas generator cycle’. The performance of the engine and stage during the mission was as predicted. About sixteen minutes after lift-off, GSAT-19 satellite was successfully placed in orbit.
+    
+    Soon after its separation from GSLV, the Master Control Facility (MCF) at Hassan in Karnataka assumed control of the satellite. GSAT-19 is a high throughput communication satellite.
+    
+    In the coming days, GSAT-19 orbit will be raised from its present Geosynchronous Transfer Orbit (GTO) to the final circular Geostationary Orbit (GSO) by firing the satellite's Liquid Apogee Motor (LAM) in stages. During the final phase of this operation, the solar panels and antenna reflectors of the satellite will be deployed. The satellite will be commissioned into service after its positioning in the designated slot in the GSO following in-orbit testing of its payloads.
+
+    ____________
+
+
+    NS/SB
+
+    
+    
+    (Release ID: 1491911) Visitor Counter : 347

@@ -1,0 +1,27 @@
+      Ministry of Finance
+
+      Cybercrime audit on banks to check loopholes
+      Posted On: 17 MAR 2017 6:35PM by PIB Delhi
+
+
+    To address the issue of cyber resilience, RBI vide circular dated December 9, 2016 had instructed all authorised entities / banks issuing PPIs in the country to:
+
+
+    (i) Carry out a special audit by the empanelled auditors of Indian Computer Emergency Response Team (CERT-In) on a priority basis and take immediate steps thereafter to comply with the findings of the audit report. The audit should cover compliance as per security best practices, specifically the application security lifecycle and patch/vulnerability and change management aspects for the system authorised and adherence to the process flow approved by the Reserve Bank.
+    (ii) Take appropriate measures on mitigating phishing attacks considering that the new customers are likely to be first time users of the digital channels. Safety and security best practices may be disseminated to the customers periodically.
+    (iii) Implement additional measures dynamically depending upon the risk perception or threats as they emerge.
+
+    RBI has set up a Cyber Security and IT Examination (CSITE) Cell within its Department of Banking Supervision in 2015. The Bank issued a comprehensive circular on Cyber Security Framework in Banks on June 2, 2016 covering best practices pertaining to various aspects of cyber security. The circular requires banks to have among other things, a cyber-security policy, cyber crisis management plan, a gap assessment vis-a-vis the baseline requirements indicated in the circular, monitoring certain risk indicators in this area, report unusual cyber security incidents within 2 to 6 hours.
+
+    RBI has been carrying out IT Examination of banks from last year. RBI has also set up a Cyber Crisis Management Group to address any major incidents reported including suggesting ways to respond and recover to/from the incidents.
+
+    This was stated by Shri Santosh Kumar Gangwar, Minister of State in the Ministry of Finance in written reply to a question in Lok Sabha today.
+
+    *****
+
+
+    DSM/KA
+
+    
+    
+    (Release ID: 1484838) Visitor Counter : 72

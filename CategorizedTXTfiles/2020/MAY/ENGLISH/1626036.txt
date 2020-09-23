@@ -1,0 +1,49 @@
+      Ministry of Earth Science
+
+      7 services hosted on http://mausam.imd.gov.in web site of IMD have been onboarded to UMANG Application
+      Posted On: 22 MAY 2020 2:33PM by PIB Delhi
+
+
+    The Unified Mobile Application for New-age Governance (UMANG) has been inaugurated by Dr. M .Rajeevan, Secretary, Ministry of Earth Sciences in the presence of Dr. M Mohapatra DG , IMD and Shri Abhishek Singh , President and CEO of NeGD on today the 22 May,2020
+
+
+    UMANG is a Government of India all-in-one single, unified, secure, multi-channel, multi-platform, multi-lingual, multi-service mobile app, powered by a robust back-end platform providing access to high impact services of various organization (Central and State). The Prime Minister, Shri Narendra Modi launched the UMANG App in 2017 to bring all government services on a single mobile app, with a larger goal to make the government accessible on the mobile phone of our citizens. About 660 services from 127 department & 25 states, including utility payments are live and more are in pipeline.
+
+
+    India Meteorological Department (IMD) has taken various initiatives in recent years for improvement in dissemination of weather forecast and warning services based on latest tools and technologies. To further enhance this initiative, IMD has taken the leverage of Digital India Programme to utilise “ UMANG App ”.
+
+
+    The following 7 services hosted on http://mausam.imd.gov.in web site of IMD have been onboarded to UMANG Application:
+
+
+      * Current Weather - Current temperature, humidity, wind speed, direction for 150 cities updated 8 times a day. Information on Sunrise/ sunset and moonrise/ moonset are also given.
+
+      * Nowcast - Three hourly warnings of localized weather phenomena and their intensity issued for about 800 stations, and districts of India by State Meteorological Centers of IMD. In case of severe weather, its impact also is included in the warning.
+      * City Forecast – Past 24 hours and 7 day forecast of weather conditions around 450 cities in India are given.
+      * Rainfall Information - All India district Rainfall information daily, weekly, monthly and cumulative series are available.
+      * Tourism Forecast- Past 24 hours and 7 day forecast of weather conditions of around 100 Tourist cities in India are provided.
+      * Warnings- The alert issued to warn citizens of approaching dangerous weather. It is colour coded in Red, Orange and yellow are the alert levels with Red as the most severe category. Issued twice a day for all districts for the coming five days.
+      * Cyclone- Cyclone warnings and alerts provides the track of cyclonic storms along with likely time and point of crossing of coast. Impact based warnings, area/district wise, are issued so that appropriate preparation including evacuation of vulnerable areas can be done.
+
+    The App is available at following links for download:
+
+     1. Web: https://web.umang.gov.in/web/#/
+     2. Android: https://play.google.com/store/apps/details?id=in.gov.umang.negd.g2c
+     3. iOS: https://apps.apple.com/in/app/umang/id1236448857
+
+    ****
+
+
+    KGS/(MoES/IMD release)
+
+    
+    
+    (Release ID: 1626036) Visitor Counter : 977
+    
+    
+      Read this release in: Hindi , Urdu , Marathi , Manipuri , Punjabi , Odia , Tamil , Telugu
+    
+    
+    
+
+3.

@@ -1,0 +1,89 @@
+      Ministry of Railways
+
+      Indian Railways announces slew of Incentives for Freight Traffic during COVID pandemic
+      
+      No Haulage Charge for movement of empty containers and empty flat wagons from 24.03.2020 till 30.04.2020
+      
+      More Customers can register their demands and also receive Railway Receipt for goods electronically instead of having to visit the goods sheds physically, making it more convenient and speedier for customers.
+      
+      In case customer does not avail electronic Receipt, they can take delivery of goods without submitting Railway Invoice (Railway Receipt) at destination point by using alternate procedure.
+      
+      Minimum number of BCNHL (covered wagons used for bagged consignments like foodgrains, agricultural produce etc) required to be loaded in order to avail train load rates has been reduced from 57 to 42 wagons now, with a view to support loading of essential items.
+      
+      The distance related conditions governing mini rake, two point rake etc have been relaxed to encourage industry.
+      
+      These incentives expected to enhance price-competitiveness and ease of doing business to give a boost to the economy.
+
+      Posted On: 22 APR 2020 5:00PM by PIB Delhi
+
+    Considering the pandemic COVID-19, Indian Railways has announced slew of incentives to the freight customers. These incentives are expected to boost the economy by aiding country’s export. These incentives will make customers to register their demands for goods electronically instead of going to goods shed physically, thus making it more convenient, speedier and transparent process.
+
+     1. Non levy of Demurrage, Wharfage and other ancillary charges
+
+    Demurrage, Wharfage, Stacking, Stabling Charges are levied after expiry of prescribed free time. To facilitate freight customers and to provide logistics support for movement of essential goods in view of COVID pandemic, the competent authority has decided that under force majeure, Demurrage, Wharfage, Stacking, Stabling charges will not arise in case of goods/parcel traffic. Similarly Detention Charge and Ground Usage Charge will not arise for container traffic. These guidelines are applicable from 22.03.2020 to 03.05.2020.
+
+     1. Extension of Electronic registration of demand (e-RD) and Electronic Transmission of Railway Receipt (eT-RR) facility in case of Freight Forwarders, Iron & Steel, Iron Ore and Salt traffic
+
+    Electronic registration of demand (e-RD) provides the facility to customers to register their demands for goods electronically instead of having to visit the goods sheds physically. It is simpler, convenient, speedier and transparent.
+
+
+    Electronic Transmission of Railway Receipt (eT-RR) is a step-above paperless transaction system where Railway receipt is also generated and transmitted electronically to customer through FOIS, and even delivery of goods is given through e-surrender of eT-RR. Guidelines have been issued extending the benefit of e-RD and eT-RR in case of Freight Forwarders, Iron & Steel, Iron Ore and Salt traffic. This eliminates the need for customer to travel to goods shed for demand registration, receiving RR/invoice and for taking delivery of goods.
+
+     1. Delivery of goods in absence of Railway Receipt (RR)
+
+    As far as possible, customers are being encouraged to opt for eT-RRs, so that Original paper RRs do not have to be carried to destination points for taking delivery of goods.
+
+
+    However, in case a customer books goods on normal paper RR, then as per extant rules, customer receives RR/Rail invoice at originating station against payment of freight. It has to submit original RR at destination point to take delivery of goods. Or in the absence of RR, delivery is given on the submission of stamped indemnity note by the consignee at the destination.
+
+
+    But because of countrywide lockdown, it is difficult for customers to send the RR from originating point to destination point. Therefore, to facilitate freight customers, it has been decided that as far as possible eT-RRs may be issued where delivery is given on e-surrender of eT-RR.
+
+
+    In case of normal non eT-RRs (paper RRs), consignor will provide details of consignee/receiver like name, designation, Aadhar, PAN, GSTIN at the origination station which will be conveyed to destination through commercial control. Delivery will be given after verification of these details in TMS and collecting unstamped indemnity note stating that any claim arising thereof would be their responsibility and fax/scanned/photocopy of RR.
+
+
+    Further, i n case of self RR (where consignor & consignee are same), the originating division will take back the original RR from consignor, after duly recording endorsement in the name of consignee who will take delivery of RR consignment at destination. This RR will be scanned by Commercial Control of booking division and sent by mail and indicating details of name, PAN, Aadhar and GSTIN as mentioned in Board’s letter under reference. The destination station will verify these details and affect physical as well system delivery. After completion of lockdown the original RR kept at originating division shall be delivered at destination Division for purpose of accounting. Sr. DCMs at both ends should monitor. “No claims” declaration be obtained at originating Division as procedure is followed under force majeure. These guidelines are valid upto 03.05.2020.
+
+     1. Policy measure to encourage container traffic: Indian Railway has since long recognised the need and has initiated several measures for diversification of freight traffic. That is, to carry non-conventional traffic too along-with the bulk goods like coal, iron ore etc. Following are the recent most steps in this direction:
+         1. Non levy of Haulage Charge for movement of empty containers and empty flats
+
+    Indian Railway levies a separate Haulage Charge for transportation of empty containers and empty flat wagons. A discount of 25% discount was granted wef 01.01.2019 on these with the view to gain higher inter-modal share of container traffic.
+
+
+    Now, in view of force majeure condition due to COVID19, the competent authority has decided that no Haulage Charge will be levied for movement of empty containers and empty flat wagons from 24.03.2020 till 30.04.2020. This is expected to give a boost not only to IR but also the economy by aiding exports.
+
+         1. Relaxation under Hub & Spoke system of charging for container traffic
+
+    Railways permit telescopic rate benefit to containers than are transported from one point to another, with a break/transit point in between. This is called Hub & Spoke system. Under extant guidelines, the break at in-between transit point is limited to five days. Keeping in view the fact that ICDs are choked due to delays in clearance of cargo due to the impact of corona virus, the competent authority has decided to relax the limit from five days to fifteen days for availing the telescopic benefit from 16.04.2020 to 30.05.2020.
+
+     1. Relaxations in Freight transportation:
+
+    Railways has transportation products/schemes for customers who want to book less than standard length rakes, rakes originating at two points, rakes with two destinations etc. These are offered with certain conditions like distance restrictions etc due to operational optimisation. Following relaxations have been affected during covid:-
+
+     1. Distance restriction for mini rake was 600 km, which was increased to 1000 kms for intra zonal traffic. Now the same has been permitted uo to 1500 km for both infer zonal and intra zonal traffic.
+     1. Similarly, there is a distance restriction for rakes originating at two points that two loading points should not be apart by more than 200 km in lean season and 400 km in busy season. This is so to ensure optimal utilization of rakes. The distance restriction has now been relaxed to allow loading points to be apart upto 500 km, regardless of the season.
+     2. Further, there are a prescribed number of wagons to be loaded for availing train load benefit. If lesser than this number of wagons are booked than wagon-load rates apply, which are a bit higher.
+
+    A relaxation in this has been granted to BCNHL wagons, which are a type of covered wagons primarily used for bagged consignments, like foodgrains, agricultural produce like onions etc. Minimum number of wagons to be loaded for availing train load benefit in these has been reduced from 57 to 42 wagons now, with a view to support loading of essential food items.
+
+
+    All these relaxations in para 5 are valid till 30.09.2020.
+
+
+    ***
+
+
+    SG/MKV
+
+    
+    
+    (Release ID: 1617136) Visitor Counter : 1013
+    
+    
+      Read this release in: Urdu , Marathi , Hindi , Manipuri , Bengali , Assamese , Punjabi , Gujarati , Tamil , Telugu , Kannada
+    
+    
+    
+
+2.

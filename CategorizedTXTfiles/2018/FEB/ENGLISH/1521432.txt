@@ -1,0 +1,59 @@
+      Ministry of Science & Technology
+
+      Indian scientists develop next generation technology loop to generate clean energy
+      Posted On: 22 FEB 2018 5:43PM by PIB Delhi
+
+
+    Indian scientists have developed a super critical carbon di oxide Brayton test loop facility that would help generate clean energy from future power plants including solar thermal. This next generation technology loop was developed indigenously by Indian Institute of Science, Bangalore.
+
+
+    This is India’s first test-bed for next generation, efficient, compact, waterless super critical carbon dioxide Brayton cycle test loop for power generation. The technology is perhaps the first test loop coupled with solar heat source in the world.
+
+
+    This early stage research could potentially be useful for meeting the energy needs of the country. The new generation high efficiency power plants with closed cycle CO2 as the working fluid have the potential to replace steam based nuclear and thermal power plants, thus reducing the carbon foot print significantly.
+
+
+    The facility was inaugurated by Science & Technology Minister Dr Harsh Vardhan at the IISc campus in Bengaluru on Thursday.
+
+
+    “I am sure all these intense scientific efforts and collective endeavours would enable us to realise the vision of an affordable, efficient, compact, reliable Clean Energy systems which will be robust and suitable in diverse geographic conditions,” said Dr. Harsh Vardhan, while addressing the scientists. “ We will be facilitating all such efforts and complementing and supplementing both in terms of technical knowledge and finances, wherever required.”
+
+
+    This test loop is designed to generate the necessary data for future development of scaled up S-CO2 power plants, which would require overcoming several technological challenges –developing critical components such as the turbine, compressor and heat exchangers that can work at the desired pressure and temperature ranges and using materials that can withstand these conditions.
+
+
+    This effort has already been identified as a possible national initiative for the next generation of solar thermal power plants. This gives India an opportunity to become a world leader in this technology, and fulfil a major objective of the National Solar Mission which emphasizes indigenous manufacturing.
+
+
+    “This breakthrough research could potentially be game changer for meeting the energy needs of the country in terms of higher efficiency and capacity at lower operating costs and size. I am sure this would result in research, development and demonstration of state-of-art tools, techniques and products which are of critical importance for our energy security,” said Dr Vardhan.
+
+
+    The minister announced plans to set up a research centre on Clean Coal Technologies at IISc. He said, the Science & Technology Ministry has already made an investment of Rs. 500 crores in research endeavours at IISc during the last three years.
+
+
+    Today’s thermal power plants use steam to carry heat away from the source and turn a turbine to generate power. However, it could generate more power if, instead of steam, supercritical CO2 (SCO2) is used. The term “supercritical” describes the state of carbon dioxide above its critical temperature of 31°C and critical pressure of 73 atmospheres making it twice as dense as steam.
+
+
+    In order to make this technology a reality, a research group at Interdisciplinary Center for Energy Research at Indian Institute of Science (ICER, IISc.) has been set up - India’s first S-CO2 Brayton Cycle based solar thermal test loop at the laboratory scale.
+
+
+    The group has made tremendous progress and have developed optimized thermodynamic cycle designs, heat transfer and fluid flow codes for designing the test loop, critical components such as compact heat exchangers and solar receivers, and state -of-the-art instrumentation along with loop control sequence algorithm.
+
+
+    The efficiency of energy conversion could also be significantly increased─by as much as 50 percent or more─if S-CO2 is operated in a closed loop Brayton cycle. Besides increasing power generation and making the process more efficient, there are other advantages of using this new technology. Smaller turbines and power blocks can make the power plant cheaper, while higher efficiency would significantly reduce CO2 emissions for fossil fuel based plants. Moreover, if the power plant used solar or nuclear heat source, it would mean higher capacity at lower operating costs.
+
+
+    Prof. Pradip Dutta and Prof. Pramod Kumar of the Department of Chemical Engineering, IISc were the key scientists involved in this path-breaking innovation.
+
+
+    <><><><>
+
+
+    SRD
+
+    
+    
+    (Release ID: 1521432) Visitor Counter : 809
+    
+    
+      Read this release in: Tamil

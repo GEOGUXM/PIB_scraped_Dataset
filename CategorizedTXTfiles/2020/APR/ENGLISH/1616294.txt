@@ -1,0 +1,41 @@
+      Ministry of Science & Technology
+
+      Fish gills used to develop efficient low-cost electro-catalysts for rechargeable metal-air battery
+      Posted On: 20 APR 2020 12:45PM by PIB Delhi
+
+
+    Scientists at the Institute of Nano Science and Technology (INST), Mohali, an autonomous institute under the Department of Science and Technology, Govt. of India, have recently come up with an efficient, low-cost electro-catalyst from fish gills that can help develop environmentally friendly energy conversion devices.
+
+
+    This bio-inspired carbon nanostructure can help overcome the bottleneck in the realization of several renewable energy conversion and storage technologies such as fuel cell, biofuel cell, and metal−air battery.
+
+
+    The present strategy enriches a route to synthesize low-cost, highly efficient bioinspired electrocatalyst that is better than commercial Platinum on carbon (Pt/C) catalyst and could be utilized as next-generation nonprecious carbon-based electrocatalyst for energy conversion and storage applications. The results have been recently published in the journal Inorganic Chemistry published by the American Chemical Society , 2020, (DOI: 10.1021/acs.inorgchem.0c00446). https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.0c00446
+
+
+    Dr. Ramendra Sundar Dey and his team from INST have explored a highly active Oxygen Reduction Reaction (ORR) electrocatalyst based on binary transition metals Iron (Fe), and Manganese (Mn) and N-doped porous carbon (Fe, Mn, N-FGC), derived from fish gills (FG) acquired as animal waste, which has a unique porous structure and could provide conductive carbon networks after heat treatment and could be an efficient electrode material. The catalyst was able to show active oxygen reduction reaction in a wide range of pH (pH < 1, 7, and >13) and outperformed the commercial Pt/C catalyst.
+
+
+    They fabricated a homemade rechargeable Zn−air battery (ZAB) with the catalyst as an air cathode, which showed almost stable charge−discharge voltage plateaus after rigorous cycling for a long duration. It surpassed the commercial Pt/C based ZAB performance. The scientists found that the reason behind the outstanding performance of this catalyst is the presence of Fe−Mn based binary moiety, which is actually beneficial for the Oxygen (O 2) binding and boosting Oxygen Reduction Reaction (ORR) catalytic performances in alkaline medium by weakening the Oxygen-Oxygen bonds.
+
+
+    The researchers have suggested that the careful selection of transition metals and heteroatoms together with engineering the synthesis protocol can pave a new way for exploring highly active low-cost electrocatalyst for efficient and environmentally friendly energy conversion devices.
+
+
+    [Reference: Unravelling the Role of Fe–Mn Binary Active Sites Electrocatalyst for Efficient Oxygen Reduction Reaction and Rechargeable Zn-Air Batteries
+
+
+    Subhajit Sarkar, Ashmita Biswas, Taniya Purkait, Manisha Das, Navpreet Kamboj & Ramendra Sundar Dey, ACS , 2020, (DOI: 10.1021/acs.inorgchem.0c00446). ]
+
+
+    ***
+
+
+    KGS/( DST)
+
+    
+    
+    (Release ID: 1616294) Visitor Counter : 1031
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Bengali , Tamil

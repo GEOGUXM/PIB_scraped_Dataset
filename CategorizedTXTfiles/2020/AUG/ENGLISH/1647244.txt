@@ -1,0 +1,47 @@
+      Ministry of Science & Technology
+
+      A Tattoo sensor for monitoring vital health parameters
+      
+      The Skin conformal sensor has the ability to perform non-invasive and continuous monitoring of vital health parameters. Further, it has the potential to replace rigid and bulky health monitoring devices.
+      
+      Posted On: 20 AUG 2020 2:14PM by PIB Delhi
+
+
+    Active research in the field of epidermal electronics has spawned an important class of wearable sensors that aim to deliver point of care diagnostics with comfortable and robust user experience. Conventional medical devices are bulky, rigid, and non-practical because they do not allow continuous monitoring of vital health parameters while continuing day to day life schedule. The soft and curvilinear shape of human body needs skin like sensors that can be tattooed on the body with an easy transfer process.
+
+
+    Dr. Saurabh Kumar from Centre for Nanoscience and Engineering (CeNSE) at Indian Institute of Science, Bangalore, India, a recipient of the INSPIRE Faculty Fellowship instituted by the Department of Science & Technology, Govt. of India is currently working on wearable sensors that can retract information from human body using its largest organ, the skin.
+
+
+    In his recent work published in the journal ‘ACS Sensors’ , his group has fabricated a skin conformal tattoo sensor about 20 μm thick. The sensor promises inconspicuous and continuous monitoring of vital health parameters of an individual, like pulse rate, respiration rate, and surface electromyography. The sensor serves as a single conduit for sensing respiration rate and pulse, dispensing with the need of mounting multiple sensors. Its remarkably high sensitivity with a gauge factor (GF) has been ascribed to the development of nano-cracks and their propagation through the film upon application of strain. The fast response and highly repeatable sensor follows easy fabrication steps and can be patterned into any shape and size using a laser.
+
+
+    Figure: Skin conformal tattoo sensor for wearable application
+
+
+    The Skin conformal sensor has the ability to perform non-invasive and continuous monitoring of vital health parameters. Further, it has the potential to replace rigid and bulky health monitoring devices.
+
+
+    These sensors do not interfere with the daily activities of the user, thus enabling continuous monitoring of vital signs like pulse rate, respiration rate, UV rays exposure, skin hydration level, glucose monitoring, and so on.
+
+
+    Apart from pursuing his research on sensors, Dr. Kumar is also training students in cutting-edge research in biosensor technologies while actively engaging them in the development of tools for bio-research and clinical diagnosis.
+
+
+    [Publication link: (https://doi.org/10.1021/acssensors.0c00647)
+
+
+    For more details, contact Dr. Saurabh Kumar (Email: saurabh2203@iisc.ac.in, sau2203.inspire@gmail.com).]
+
+
+    *****
+
+
+    NB/KGS(DST Media Cell)
+
+    
+    
+    (Release ID: 1647244) Visitor Counter : 394
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Bengali , Assamese , Punjabi , Tamil

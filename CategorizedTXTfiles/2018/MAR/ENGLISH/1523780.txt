@@ -1,0 +1,768 @@
+      Ministry of Shipping
+
+      Implementation of UNNATI Project
+      Posted On: 12 MAR 2018 2:19PM by PIB Delhi
+
+
+    The aims and objectives of Project UNNATI of the Ministry of Shipping are as follows:
+
+     1. Benchmark operational and financial performance of the 12 major ports with selected Indian private ports and best-in-class international ports for identifying improvement areas.
+     2. Undertake capability maturity assessment for key processes and functional capabilities (e.g., IT, HR, Environment, and Health) and identify gaps and areas for further strengthening.
+     3. Detailed deep-dive diagnosis and root cause analysis for the identified opportunity areas in each of the 12 major ports to understand underlying reasons for performance bottlenecks.
+     4. Develop practical and actionable solutions on the basis of root cause findings, and develop a comprehensive improvement roadmap for each of the 12 major ports.
+
+    Under Project UNNATI 116 initiatives have been identified for various major ports. Out of the 116 initiatives, 86 have been implemented so far. Details in this regard are given below :
+
+
+    LIST OF 116 UNNATI INITIATIVES
+
+                                                                                                                                                                                                                                                                                                                               
+Sl.No.  Port Name                       Initia-tive No.                                                                                                                                            Initiative                                                                                              Status              
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+1       Paradip                         1.1                                                                                                                                                        Modification of existing berthing policy and setup of penal berth charges linked to productivity norms  Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+2       1.2                             Generate additional demand                                                                                                                                 Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+3       1.3                             Creation of dual loading slots at mechanized coal handling plant                                                                                           Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+4       1.4                             End to end scheduling between Paradip –Kamarajar (Ennore) for Panamax ships                                                                                Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+5       2.1                             Use IHP for export coal cargo and handle Haldia top/up vessels and smaller players                                                                         Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+6       3.1                             Rationalization of existing plots in MCHP and development of additional land (if required)                                                                 Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+7       3.2                             Improve RRS monitoring to improve mntc. and reduce rake TRT Upgrade coal loading system at MCL                                                             Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+8       3.5                             Regular operation of 5 long haul BOBR rakes in Talcher-Paradip sector                                                                                      Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+9       4.1                             Operate 8 HMCs across EQ 1/3, CQ1/2 berths to upgrade productivity                                                                                         Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+10      4.2                             Penal charges linked to productivity norms for different cargo for each HMC and each vessel                                                                Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+11      5.1                             Develop additional storage capacity and full rake sidings for conventional operations                                                                      Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+12      5.2                             Setup norms and penalty structure for managing yard to incentivize better performance and reallocate siding plots to players as per cargo handling volume  Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+13      5.3                             Add new dumpers to the fleet and reduce shift changeover times for dumper operations                                                                       Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+14      6.1                             Mechanization of EQ 1/3                                                                                                                                    Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+15      Deendayal                       2.1                                                                                                                                                        Increasing crane throughput by optimizing grab sizes to commodities                                     Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+        (Kandla)                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+16      2.2                             Bunching of TIL ELL 2 cranes in fewer berths to increase crane density on the berths                                                                       Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+17      2.3                             Improving 2 performance of own MHC by optimizing boom length and grab volume                                                                               Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+18      2.4                             Increase crane density by adding 4 100T MHCs                                                                                                               Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+19                                      3.1                                                                                                                                                        Reduce tug fuel consumption                                                                             Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+20      3.2                             Improve night navigation by using advanced navigational aids                                                                                               Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+21      3.3                             Mechanization of fertilizer berth                                                                                                                          Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+22      4.1                             Increase overall dry bulk productivity by instituting berth productivity norms                                                                             Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+23      4.2                             Reduce non-working time by instituting hot seat changes                                                                                                    Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+24      4.3                             Reduce non working time by changing shift schedule                                                                                                         Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+25      4.4                             Increase overall liquid productivity by instituting berth productivity norms                                                                               Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+26      5.1                             Increase utilization of POL berth OJ6 to create capacity at OJ 3,4 by shifting cargo and proper scheduling of vessels                                      Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+27      6.1                             Re-bunching of cranes between CJ 1-5 to increase its utilization and improve productivity                                                                  Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+28      7.1                             Implement discount/incentive scheme to drive productivity                                                                                                  Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+29      V.O.Chid-ambaranar (Tuticorin)  1.1                                                                                                                                                        Incorporate specific productivity norms in berthing policy                                              Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+30      1.2                             Installation of MHCs at berths III and IV                                                                                                                  Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+31      1.3                             Mechanization of evacuation on berth IX                                                                                                                    Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+32      2.1                             Consolidation and improvement of spare capacity on TNEB berths                                                                                             Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+33      2.2                             Short/term agreement with DBGT for us of berth VIII for copper concentrate vessels                                                                         Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+34      Kolkata                         3.1                                                                                                                                                        Increase container handling capacityby adding HMC to berth 3 in KDS,NSD                                 Under Implementation
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+35      3.2                             Reduce NWT by instituting hot seatchanges and reducing marine waittime                                                                                     Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+36      4.1                             Improvement of truck trafficduring night by facilitating nightpayment and customs clearance                                                                Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+37      4.2                             Reduce rake turnaround time at KDS by improving railway infrastructure                                                                                     Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+38      6.1                             Reduce loco hiring cost by relocating 2 good quality locos to from KDS to HDC instead of leasing new ones                                                  Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+39      6.3                             Reduce security cost at KDS byreducing security cover for areaswith lower activity                                                                         Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+40      Haldia*                         1.1                                                                                                                                                        Increase crane density at berths 2,8 by adding HMCs, hardstand 100 sqm behind to add storage capacity   Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+41      1.2                             Increase crane density at berths 9 by adding a HMC, hardstand 150sqm behind to add storage capacity                                                        Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+42      1.3                             Reduce non-working time byreducing shift change time, marinewait time                                                                                      Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+43      1.4                             Increase capacity of mechanizedcoal export berth 4, use excesscapacity for coastal imports ifexports do not pick up                                        Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+44      2.1                             Making transloadingoptionattractive by reducing overall costand creating a combined package                                                                Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+45      5.1                             Dredging                                                                                                                                                   Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+46      6.2                             Reduce tug operation cost atHDC by scrapping own tugs andreplacing them by hired tugs                                                                      Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+47      7.1                             Increase in flow-rate of liquid cargo as per new norms                                                                                                     Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+48      7.2                             Reduction of Non-Working time in Oil Jetties and Reduction of non-Berthing time in Oil Jetties                                                             Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+49      Jawaharlal Nehru                1.1                                                                                                                                                        Reduce shift change losses to improve QC productivity                                                   Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+50      1.2                             Increase twin/lift ratio                                                                                                                                   Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+51      1.3                             Redesign operator incentive scheme                                                                                                                         Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+52      1.4                             Improve QC productivity through dual cycling                                                                                                               Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+53      2.1                             Dynamic deployment of RTGCs based on actual demand                                                                                                         Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+54      2.2                             Ensure 100% yard integrity through real/time update of container location by RTGC operators                                                                Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+55      2.3                             Acquire additional RTGCs                                                                                                                                   Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+56                                      2.4                                                                                                                                                        Improve yard layout by converting shallow draught berth yard to RTGC- operable IM yard                  Under Implementation
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+57      3.1                             Improve pre/gate traffic management                                                                                                                        Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+58      3.2                             Install OCR portals at 3 import & export gates                                                                                                             Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+59      3.3                             Frontload import EIR generation to import yard                                                                                                             Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+60      4.1                             Implement chassis positioning system                                                                                                                       Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+61      4.2                             Reduce waiting time for TT                                                                                                                                 Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+62      4.3                             Operator training program                                                                                                                                  Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+63      4.4                             Liquid norms imposition                                                                                                                                    Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+64      4.5                             Reduce container dwell time for export containers                                                                                                          Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+65      4.6                             Implement VBS                                                                                                                                              Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+66      Mumbai                          1.1                                                                                                                                                        Install quick release systems on berths                                                                 Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+67      1.2                             Policy change to mandate usage of common testing facilities at JD                                                                                          Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+68      1.3                             Improve flow rate by leasing tank farms at JD and implementing low performance penalties                                                                   Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+69      2.1                             Shift coal to nearby ports                                                                                                                                 Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+70      3.1                             Provide better customer service to OEMs – Dedicated storage area and fuel supply at port                                                                   Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+71      3.2                             Reduce vehicle damage – Core team for vehicle management and clearing pathway                                                                              Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+72      4.2                             Installation of higher capacity shore crane and use of 2nd OCT berth for steel handling                                                                    Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+73      Mormugao                        1.1                                                                                                                                                        Implementation of hot seat shift change                                                                 Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+74      1.2                             Improve HMC operator performance                                                                                                                           Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+75      1.3                             Addition of HMC on general cargo berths                                                                                                                    Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+76      2.1                             Improve gate process through automation                                                                                                                    Implemented                                                                                           
+                                        and process simplification                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+77      3.1                             Enhance draft for JSW coal berth to increase cargo handling capacity                                                                                       Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+78      3.2                             Development of 10MTPA new coal                                                                                                                             Under Implementation                                                                                  
+                                        terminal                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+79      5.1                             SVRS announcement and redeployment                                                                                                                         Implemented                                                                                           
+                                        of MOHC employees                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+80      New Mangalore                   1.1                                                                                                                                                        Increase container cargo by attracting customers from Mysore and adjoining areas                        Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+81      1.2                             Improving service level of containers & providing equipment’s at berth no.8 for handling of containers                                                 Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+82      2.1                             Setup an LNG terminal at NEW MANGALORE on a PPP basis                                                                                                      Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+83      3.1                             Setup a mechanized fertilizer handling berth with silo storage and a bagging plant                                                                         Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+84      4.1                             Reduce overtime costs by migrating to a three shift deployment for tugs, pilot launches and mooring boats                                                  Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+85      Cochin                          1.1                                                                                                                                                        Incentivize and increase reliability of rail movement of containers between Coimbatore and Cochin       Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+86      1.2                             Reduce checkpoint delays for containers moving by road from Coimbatore to Cochin                                                                           Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+87      1.3                             Relaxation of cabotage on coastal goods – bulk and containers                                                                                              Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+88      2.1                             Develop coastal movement of rice & wheat from North India with FCI and 3rd party logistics players                                                         Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+89      2.2                             Attract fertilizer imports through investment in mechanized bagging plant                                                                                  Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+90      Visakhap-atnam                  1.1                                                                                                                                                        Setup new Business Development team to convert customers for VPT                                        Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+91      1.2                             Reconfigure cargo handling volumes of existing customers along S. Central Railway from low to high productive berths                                       Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+92      2.1                             Allocate additional land to high productive berths to drive higher productivity                                                                            Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+93      2.2                             Revisit storage cost in PPP BOT to make them competitive                                                                                                   Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+94      3.1                             Setup dashboard and regularize weekly meetings to track performance. Subsequently use inputs to set productivity norms                                     Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+95      Kamarajar (Ennore)              1.1                                                                                                                                                        Implement governance mechanism for improving productivity at coal handling terminals                    Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+96      2.1                             Increase in non –Tangedco cargo at Chettinad terminal                                                                                                      Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+97      3.1                             Modification of existing empty Iron Ore berth to handle coal and serve hinterland demand                                                                   Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+98      4.1                             Improve productivity at liquid terminal through installation of additional pipeline                                                                        Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+99      5.1                             Revise foreign vessel schedule for Tangedco                                                                                                                Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+100     5.2                             Introduce anchorage charges for coal vessels                                                                                                               Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+101     5.3                             Implement appointment system based priority berthing for high performance coastal coal vessels                                                             Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+102     6.1                             Maximize coal sent to ECHS and Additional yard from CB1                                                                                                    Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+103     6.2                             Upgrade conveyor links and decouple plant and berth operations for CB1                                                                                     Under Implementation                                                                                  
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+104     6.3                             Repair pipe conveyor for CB2                                                                                                                               Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+105     6.4                             Reduce NWT in CICT through reduction in stone picking, draft check & pay loader placement times                                                            Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+106     6.5                             Reduce variation in equipment productivity                                                                                                                 Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+107     6.6                             Engage with Poompuhar& other stakeholders to replace Handymax/ Handysize/ Supramax vessels with Panamax/ Post Panamax vessels                              Under                                                                                                 
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                   Implementation                                                                                        
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                               
+108     Chennai                         1.1                                                                                                                                                        Monitor &incentivise yard productivity of private terminals                                             Implemented         
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                         
+109     1.3                             Frontload pre-gate processing & entry of trailer details to CFS                                                                                            Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+110     1.4                             Automate container verification by installing cameras                                                                                                      Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+111     1.5                             Discount charges on rake operations for Bangalore ICD                                                                                                      Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+112     1.6                             Develop common railway yard inside the port                                                                                                                Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+113     1.7                             Test run rail-road wagons                                                                                                                                  Under                                                                                                 
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                   Implementation                                                                                        
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+114     3.1                             Match Chennai port charges to Krishnapatnam for edible oil                                                                                                 Implemented                                                                                           
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+115     3.2                             Start edible oil rakes between Chennai and Madurai                                                                                                         Under                                                                                                 
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                   Implementation                                                                                        
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+116     4.1                             Attract fertilizer imports through investment in mechanized bagging plant                                                                                  Under                                                                                                 
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                   Implementation                                                                                        
+                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                         
+
+    *Haldia Dock Complex is part of Kolkata Port.
+
+
+    Shri Mansukh L Mandavia, Minister of State for Shipping gave this information in a written reply to a question in Rajya Sabha today.
+
+
+    *****
+
+
+    NP/
+
+
+    
+
+    
+    (Release ID: 1523780) Visitor Counter : 1331
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+4.

@@ -1,0 +1,43 @@
+      Ministry of Finance
+
+      More Security Features in ATM/Debit Cards
+      Posted On: 16 JUL 2019 6:13PM by PIB Delhi
+
+
+    Reserve Bank of India (RBI) has issued various instructions to banks in respect of security and risk mitigation measures related to card transactions, which are as follows:
+
+     1. Provide online alerts for all card transactions.
+     2. Introduce additional security measures, inter-alia, including the following:
+
+     1. All new debit cards and credit cards to be issued only for domestic usage, unless international use is specifically sought by the customers.
+
+     2. To ensure that the terminals installed at the merchants for capturing card payments (including the double swipe terminals used) should be certified for PCI-DSS (Payment Card Industry-Data Security Standards) and PA-DSS (Payment Applications-Data Security Standards).
+     3. To ensure that all acquiring infrastructure that is currently operational on IP (Internet Protocol) based solutions are mandatorily made to go through PCI-DSS and PA-DSS certification. This should include acquirers, processors / aggregators and large merchants.
+
+      * (iii) To convert all existing Magstripe cards issued by them to EMV Chip and PIN cards.
+
+      * (iv) To mandatorily put in place Additional Factor of Authentication (AFA) for all Card Not Present (CNP) transactions.
+
+    As apprised by Reserve Bank of India (RBI), no specific studies have been conducted by RBI pertaining to existing practices in European Countries and other foreign nations. However, global best practices are also considered at the time of preparing any policy.
+
+
+    This was stated by Shri Anurag Singh Thakur, Minister of State for Finance & Corporate Affairs in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    DSM/RM/PD
+
+
+    
+
+    
+    (Release ID: 1578984) Visitor Counter : 570
+    
+    
+    
+    
+    
+
+*

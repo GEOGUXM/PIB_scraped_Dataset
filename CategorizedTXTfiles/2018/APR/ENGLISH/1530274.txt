@@ -1,0 +1,40 @@
+      Ministry of Science & Technology
+
+      CSIR and DoT enter into MoU for establishing a nationwide Time Stamping & Time Synchronization network
+      Posted On: 25 APR 2018 6:22PM by PIB Delhi
+
+
+    A Memorandum of Understanding (MoU) on technical knowledge sharing for establishing a nationwide Time Stamping & Time Synchronization network and traceability of Time signal to UTC NPL Time, was signed between Council of Scientific and Industrial Research -National Physical Laboratory (CSIR-NPL) and Department of Telecommunications (DoT), Ministry of Communications.
+
+
+    The MoU was signed by Dr. D.K. Aswal, Director, CSIR-NPL and by Mr. Amit Mishra, DDG, Department of Telecommunications in the presence of Dr.Girish Sahni, Director General, CSIR and Secretary, DSIR and Shri Prabhash Singh, Member (Technology), Department of Telecommunications, senior officials from DoT, CSIR and CSIR-NPL.
+
+
+    Dr. D K Aswal, Director, CSR-NPL, emphasized that the Nationwide, Time Stamping & Time Synchronization network consisting of 22 numbers of Time Synchronization Centers (TSC’s) will be set up by DoT with technical assistance from CSIR-NPL. This network will provide synchronizing pulse in Indian Standard Time(IST) to all Telecom & Internet Service providers in all the 22 LSA (Licensed Service Areas) in the country. The project will be implemented in two phases. In the first phase TSC’s is to be set up in four metro LSA’s and in the second phase remaining of the 22 LSA’s will be covered.
+
+
+    The primary purpose of synchronizing the telecom network with IST time stamp is to enable the security agencies to overcome the difficulty in analyzing and correlating the cyber events in this era of greatly increasing network speed with advancement of telecom technology (2G to 3G to 4G to 5G etc.).The implementation of the project will also improve the telecom network efficiency by reducing packet loss due to reduced slips in better synchronized digital network.
+
+
+    Dr. Girish Sahni, DG, CSIR and Secretary, DSIR, on the occasion said that the time set on Indian Telecom Networks should be in Indian Standard Time ( IST) zone to uniquely identify the user(subscriber) of network on tracing of the IP address and other parameters. Presently,Telecom Service Provider (TSP) / Internet Service Provider (ISP) are taking the reference time from different sources viz. GPS from GNSS, he pointed out. These sources do not have the traceability with IST. “ Telecom Networks” should be in IST t i me zone sy nchronized w ith CSIR-National Ph y sical Laboratory (CSIR-NPL) – the keeper of Indian Standard Time.
+
+
+    Shri Prabhash Singh, Member (Technology), appreciated the technologies developed by CSIR and its laboratories. They are of high value to Indian stakeholders, they be industry or Government Department and Ministries. He pointed out that after establishment & implementation of a PAN India Time Synchronization and Time Stamping across the Indian Telecom Network , all the network of the TSP/ISPs will be traceable with the Indian Standard Time which will eliminate the problem of the Time Synchronization among the TSP/ISPs. He elaborated that this will lead to better efficiency of Telecom Network and reduce the Voice Over Internet Protocol (VOIP) call drop, improve the Quality of Service of the network, Voice, Video. The Time Standardization will help to curb cybercrimes and will also help to identify and correlate the various digital financial transactions, Shri Singh opined.
+
+
+    Accuracy of the time depends upon the distance between the Time Synchronization Centre (reference source) and the location of the TSP/ISPs Centres. Therefore, stratum-1Time Synchronization centre shall be established at all the 22 LSAs across the country.
+
+
+    ***
+
+
+    SRD
+
+
+    
+
+    
+    (Release ID: 1530274) Visitor Counter : 594
+    
+    
+      Read this release in: Tamil

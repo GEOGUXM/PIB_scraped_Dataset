@@ -1,0 +1,690 @@
+      Ministry of Statistics & Programme Implementation
+
+      Quick Estimates of Index of Industrial Production and Use-Based Index for the month of April, 2017 (Base 2011-12=100)
+      Posted On: 12 JUN 2017 6:55PM by PIB Delhi
+
+
+      The Quick Estimates of Index of Industrial Production (IIP) with base 2011-12 for the month of April 2017 have been released by the Central Statistics Office of the Ministry of Statistics and Programme Implementation. IIP is compiled using data received from 14 source agencies viz. (i) Department of Industrial Policy & Promotion (DIPP); (ii) Indian Bureau of Mines; (iii) Central Electricity Authority; (iv) Joint Plant Committee, Ministry of Steel; (v) Ministry of Petroleum & Natural Gas; (vi) Office of Textile Commissioner; (vii) Department of Chemicals & Petrochemicals; (viii) Directorate of Sugar & Vegetable Oils; (ix) Department of Fertilizers; (x) Tea Board; (xi) Office of Jute Commissioner; (xii) Office of Coal Controller; (xiii) Railway Board; and (xiv) Coffee Board.
+
+
+      2. The General Index for the month of April 2017 stands at 117.9, which is 3.1 percent higher as compared to the level in the month of April 2016. The cumulative growth for the period April-March 2016-17 over the corresponding period of the previous year stands at 5.0 percent.
+
+
+      3. The Indices of Industrial Production for the Mining, Manufacturing and Electricity sectors for the month of April 2017 stand at 99.9, 117.9 and 150.6 respectively, with the corresponding growth rates of 4.2 percent, 2.6 percent and 5.4 percent as compared to April 2016 (Statement I). The cumulative growth in these three sectors during April-March 2016-17 over the corresponding period of 2015-16 has been 5.4 percent, 4.9 percent and 5.8 percent respectively.
+
+
+      4. In terms of industries, fourteen out of the twenty three industry groups ( as per 2-digit NIC-2008) in the manufacturing sector h ave shown positive growth during the month of April 2017 as compared to the corresponding month of the previous year (St atement II). The industry group ‘Manufacture of pharmaceuticals, medicinal chemical and botanical products’ has shown the highest positive growth of 29.1 percent followed by 17.9 percent in ‘Manufacture of tobacco products’ and 9.5 percent in ‘Manufacture of machinery and equipment n.e.c.’. On the other hand, the industry group ‘Manufacture of beverages’ has shown the highest negative growth of (-) 19.2 percent followed by (-) 15.6 percent in ‘Manufacture of motor vehicles, trailers and semi-trailers’ and (-) 14.4 percent in ‘Manufacture of electrical equipment’.
+
+
+      5. As per Use-based classification, the growth rates in April 2017 over April 2016 are 3.4 percent in Primary goods, (-) 1.3 percent in Capital goods, 4.6 percent in Intermediate goods and 5.8 percent in Infrastructure/ Construction Goods (Statement III). The Consumer durables and Consumer non-durables have recorded growth of (-) 6.0 percent and 8.3 percent respectively.
+
+
+      6. Some important items showing high positive growth during the current month over the same month in previous year include ‘Digestive enzymes and antacids (incl. PPI drugs)’ (113.4%), ‘Printing machinery’ (57.2%), ‘Meters (electric and non-electric)’ (45.1%), ‘Bidi’ (38.7%), ‘Tea’ (33.8%), ‘HR plates of mild steel’ (26.6%), ‘Industrial Valves of different types- safety, relief and control valves(non-electronic, non-electrical)’ (25.2%), ‘HR coils and sheets of mild steel’ (24.6%) and ‘Steel frameworks or skeletons for construction of towers including pit props’ (21.3%).
+
+
+      7. Some important items that have registered high negative growth include ‘Shelled cashew kernel, whether or not processed/ roasted/ salted’ [(-) 72.9%], ‘Axle’ [(-) 60.3%], ‘API & formulations of hypo-lipidemic agents incl. anti-hyper-triglyceridemics; anti-hypertensive’ [(-) 44.8%], ‘Rice (excluding basmati)’ [(-) 39.9%], ‘Plastic jars, bottles and containers’ [(-) 39.7%], ‘Air filters’ [(-) 31.9%], ‘Tooth Paste’ [(-) 31.8%], ‘Air/ gas compressors of all types (incl. compressors for refrigerators)’ [(-) 31.6%], ‘Stainless steel utensils’ [(-) 29.6%], ‘Commercial Vehicles’ [(-) 28.8%], ‘Aerated drinks/ soft drinks (incl. soft drink concentrates)’ [(-) 26.5%], ‘Beer & other undistilled and fermented alcoholic liqueurs other than wines’ [(-) 26.1%] and ‘Vaccine for veterinary medicine’ [(-) 24.2%].
+
+
+      8. Taking into account the weights, the dominant item groups (five each) which have positively and negatively contributed to the overall growth of IIP are given below:
+
+                                                                                           
+Item Group                                                        Weights (%)  Contribution
+                                                                                           
+                                                                                           
+                                                                
+High Positive Contributors                                      
+                                                                
+                                                                
+                                                                                           
+Digestive enzymes and antacids (incl. PPI drugs)                  0.22         1.9551      
+                                                                                           
+                                                                                           
+                                                                                           
+Electricity                                                       7.99         0.5381      
+                                                                                           
+                                                                                           
+                                                                                           
+Mining                                                            14.37        0.5025      
+                                                                                           
+                                                                                           
+                                                                                           
+HR coils and sheets of mild steel                                 1.35         0.3961      
+                                                                                           
+                                                                                           
+                                                                                           
+HR plates of mild steel                                           0.83         0.1511      
+                                                                                           
+                                                                                           
+                                                                
+High Negative Contributors                                      
+                                                                
+                                                                
+                                                                                           
+Axle                                                              0.34         -0.4678     
+                                                                                           
+                                                                                           
+                                                                                           
+Commercial Vehicles                                               0.94         -0.2056     
+                                                                                           
+                                                                                           
+                                                                                           
+Air Coolers                                                       0.04         -0.1829     
+                                                                                           
+                                                                                           
+                                                                                           
+Shelled cashew kernel, whether or not processed/ roasted/ salted  0.18         -0.1244     
+                                                                                           
+                                                                                           
+                                                                                           
+Air filters                                                       0.19         -0.1207     
+                                                                                           
+                                                                                           
+
+      9. Along with the Quick Estimates of IIP for the month of April 2017, the indices for March 2017 have undergone the first revision and those for January 2017 have undergone the final revision in the light of the updated data received from the source agencies.
+
+
+      10. Statements giving Quick Estimates of the Index of Industrial Production at Sectoral, 2-digit level of National Industrial Classification (NIC-2008) and by Use-based classification for the month of April 2017, along with the growth rates over the corresponding month of the previous year including the cumulative indices are enclosed.
+
+
+  
+  
+  
+
+      Note: -
+
+       1. This Press release information is also available at the Website of the Ministry - http://www.mospi.nic.in
+       2. Release of the index for May 2017 will be on Wednesday, 12 July 2017.
+
+       1. Revisions in the months of January and March 2017 as per IIP with base 2004-05 have also been undertaken and are available at the Website of the Ministry - http://www.mospi.nic.in .
+
+                                                                                       
+STATEMENT I: INDEX OF INDUSTRIAL PRODUCTION - SECTORAL                                 
+                                                                                       
+                                                                                       
+                                                                                       
+(Base : 2011-12=100)                                                                   
+                                                                                       
+                                                                                       
+                                                                                                                                        
+Month                                                                                    Mining      Manufacturing  Electricity  General
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                               
+(14.372472)                                                                              (77.63321)  (7.994318)     (100)      
+                                                                                                                               
+                                                                                                                               
+                                                                                                                                                                                                       
+2015-16                                                                                  2016-17     2017-18        2015-16      2016-17  2017-18  2015-16  2016-17  2017-18  2015-16  2016-17  2017-18
+                                                                                                                                                                                                       
+                                                                                                                                                                                                       
+                                                                                                                                                                                                              
+Apr*                                                                                     89.9        95.9           99.9         108.9    114.9    117.9    124.9    142.9    150.6    107.4    114.4    117.9
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+May                                                                                      95.9        101.4                       113.8    123.6             137.6    146.0             113.1    122.2         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Jun                                                                                      89.3        98.4                        112.7    122.4             131.4    144.3             110.8    120.7         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Jul                                                                                      87.6        88.4                        113.5    120.6             139.6    142.5             111.9    117.7         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Aug                                                                                      88.5        84.7                        113.4    120.9             140.5    143.5             112.0    117.5         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Sep                                                                                      88.8        87.7                        114.4    122.1             138.5    145.6             112.6    119.0         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Oct                                                                                      100.0       101.0                       115.7    122.5             140.9    145.1             115.5    121.2         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Nov                                                                                      98.2        106.2                       111.2    116.6             123.2    134.9             110.3    116.6         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Dec                                                                                      103.0       114.1                       121.4    122.5             129.5    137.8             119.4    122.5         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Jan                                                                                      105.3       114.4                       120.8    123.1             132.1    138.9             119.5    123.1         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Feb                                                                                      105.6       110.5                       119.6    121.3             128.6    130.2             118.3    120.5         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Mar                                                                                      116.0       127.9                       129.1    132.2             139.3    147.9             128.0    132.8         
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Average                                                                                                                                                                                                       
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Apr-Mar                                                                                  97.3        102.6          --           116.2    121.9    --       133.8    141.6    --       114.9    120.7    --   
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                          
+Growth over the corresponding period of previous year                                                                                                     
+                                                                                                                                                          
+                                                                                                                                                          
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Apr                                                                                      -4.0        6.7            4.2          1.4      5.5      2.6      0.5      14.4     5.4      0.6      6.5      3.1  
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+Apr-Mar                                                                                  4.3         5.4            --           3.0      4.9      --       5.7      5.8      --       3.4      5.0      --   
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                                                                                                                                              
+                                                                                       
+* Indices for Apr 2017 are Quick Estimates.                                            
+                                                                                       
+                                                                                       
+                                                                                       
+NOTE : Indices for the months of Jan'17 and Mar'17 incorporate updated production data.
+                                                                                       
+                                                                                       
+                                                                 
+STATEMENT II: INDEX OF INDUSTRIAL PRODUCTION - (2-DIGIT LEVEL)   
+                                                                 
+                                                                 
+                                                                 
+(Base: 2011-12=100)                                              
+                                                                 
+                                                                 
+                                                                                                                                                                                                                                                      
+Industry                                                           Description                                                                                                                   Weight   Index    Cumulative Index  Percentage growth
+                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                        
+code                                                                                                                                                                                                      Apr'16   Apr'17            Apr-Mar            Apr'17   Apr-Mar
+                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                          2015-16  2016-17                              2016-17
+                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+10                                                                 Manufacture of food products                                                                                                  5.3025   95.1     90.9              104.7              98.9     -4.4     -5.5 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+11                                                                 Manufacture of beverages                                                                                                      1.0354   133.8    108.1             109.7              106.0    -19.2    -3.4 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+12                                                                 Manufacture of tobacco products                                                                                               0.7985   62.5     73.7              135.8              116.2    17.9     -14.4
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+13                                                                 Manufacture of textiles                                                                                                       3.2913   114.3    116.7             119.4              117.5    2.1      -1.6 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+14                                                                 Manufacture of wearing apparel                                                                                                1.3225   151.3    152.5             131.8              154.4    0.8      17.1 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+15                                                                 Manufacture of leather and related products                                                                                   0.5021   128.9    131.3             123.6              122.2    1.9      -1.1 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+16                                                                 Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials  0.1930   90.3     85.1              97.5               93.1     -5.8     -4.5 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+17                                                                 Manufacture of paper and paper products                                                                                       0.8724   112.6    111.9             116.5              113.9    -0.6     -2.2 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+18                                                                 Printing and reproduction of recorded media                                                                                   0.6798   102.6    103.7             103.9              106.1    1.1      2.1  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+19                                                                 Manufacture of coke and refined petroleum products                                                                            11.7749  114.7    116.4             113.7              119.1    1.5      4.7  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+20                                                                 Manufacture of chemicals and chemical products                                                                                7.8730   109.6    110.4             113.7              116.6    0.7      2.6  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+21                                                                 Manufacture of pharmaceuticals, medicinal chemical and botanical products                                                     4.9810   140.3    181.1             133.5              176.4    29.1     32.1 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+22                                                                 Manufacture of rubber and plastics products                                                                                   2.4222   117.2    117.9             118.2              120.3    0.6      1.8  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+23                                                                 Manufacture of other non-metallic mineral products                                                                            4.0853   113.3    111.6             110.4              109.9    -1.5     -0.5 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+24                                                                 Manufacture of basic metals                                                                                                   12.8043  122.4    131.5             124.3              130.6    7.4      5.1  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+25                                                                 Manufacture of fabricated metal products, except machinery and equipment                                                      2.6549   103.2    96.8              103.5              105.8    -6.2     2.2  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+26                                                                 Manufacture of computer, electronic and optical products                                                                      1.5704   116.8    119.0             123.6              126.7    1.9      2.5  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+27                                                                 Manufacture of electrical equipment                                                                                           2.9983   117.0    100.2             128.3              122.8    -14.4    -4.3 
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+28                                                                 Manufacture of machinery and equipment n.e.c.                                                                                 4.7653   97.9     107.2             105.5              113.4    9.5      7.5  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+29                                                                 Manufacture of motor vehicles, trailers and semi-trailers                                                                     4.8573   113.1    95.5              104.4              112.1    -15.6    7.4  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+30                                                                 Manufacture of other transport equipment                                                                                      1.7763   115.3    124.3             112.5              117.5    7.8      4.4  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+31                                                                 Manufacture of furniture                                                                                                      0.1311   176.6    167.6             162.5              174.0    -5.1     7.1  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+32                                                                 Other manufacturing                                                                                                           0.9415   130.5    141.5             119.8              125.5    8.4      4.8  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+05                                                                 Mining                                                                                                                        14.3725  95.9     99.9              97.3               102.6    4.2      5.4  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+10-32                                                              Manufacturing                                                                                                                 77.6332  114.9    117.9             116.2              121.9    2.6      4.9  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+35                                                                 Electricity                                                                                                                   7.9943   142.9    150.6             133.8              141.6    5.4      5.8  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                   General Index                                                                                                                 100.00   114.4    117.9             114.9              120.7    3.1      5.0  
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                        
+Industry codes are as per National Industrial Classification 2008                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                        
+                                                                                       
+STATEMENT III: INDEX OF INDUSTRIAL PRODUCTION - USE-BASED                              
+                                                                                       
+                                                                                       
+                                                                                       
+(Base :2011-12=100)                                                                    
+                                                                                       
+                                                                                       
+                                                                                                                                                                                                                       
+                                                                                         Primary goods  Capital goods  Intermediate goods  Infrastructure/ Construction goods  Consumer durables  Consumer non-durables
+                                                                                                                                                                                                                       
+                                                                                                                                                                                                                       
+                                                                                                                                                                                                                       
+Month                                                                                    (34.048612)    (8.223043)     (17.221487)         (12.338363)                         (12.839296)        (15.329199)          
+                                                                                                                                                                                                                       
+                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                         2015-16        2016-17        2017-18             2015-16                             2016-17            2017-18                2015-16  2016-17  2017-18  2015-16  2016-17  2017-18  2015-16  2016-17  2017-18  2015-16  2016-17  2017-18
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Apr*                                                                                     100.4          113.1          117.0               85.9                                92.9               91.7                   115.6    115.6    120.9    118.6    119.6    126.5    110.6    125.9    118.3    113.7    113.8    123.3  
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+May                                                                                      112.4          117.6                              88.3                                100.6                                     117.4    122.7             121.9    130.9             113.2    129.8             115.8    130.2           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Jun                                                                                      107.9          116.7                              92.4                                105.6                                     114.5    121.6             120.9    128.9             116.6    127.7             110.3    124.0           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Jul                                                                                      108.6          113.2                              89.6                                97.0                                      120.2    123.1             120.6    119.5             119.7    125.5             108.2    125.0           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Aug                                                                                      111.1          110.0                              93.7                                94.3                                      118.3    123.7             117.3    124.9             114.4    128.4             110.6    124.6           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Sep                                                                                      107.4          109.8                              106.6                               98.6                                      119.1    121.3             114.7    124.7             122.7    140.3             110.3    125.8           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Oct                                                                                      113.3          119.2                              98.4                                93.8                                      116.9    122.4             116.2    124.8             128.8    135.6             116.0    124.0           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Nov                                                                                      110.9          117.0                              93.3                                98.3                                      111.5    117.8             109.4    113.7             110.8    122.9             117.0    121.2           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Dec                                                                                      114.8          123.3                              102.9                               96.6                                      119.5    122.0             119.2    125.8             126.7    121.2             132.0    133.5           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Jan                                                                                      117.5          122.0                              99.0                                98.8                                      120.0    123.9             125.4    128.7             122.8    116.7             126.7    138.5           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Feb                                                                                      114.3          115.2                              104.0                               100.8                                     118.1    120.7             125.0    122.5             125.4    121.8             124.1    139.5           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Mar                                                                                      125.2          132.6                              122.4                               134.2                                     130.2    133.8             134.1    135.3             132.4    127.3             126.4    134.2           
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Average                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Apr-Mar                                                                                  112.0          117.5          --                  98.0                                101.0              --                     118.4    122.4    --       120.3    124.9    --       120.3    126.9    --       117.6    127.9    --     
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                             
+Growth over the corresponding period of previous year                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Apr                                                                                      -3.0           12.6           3.4                 1.9                                 8.1                -1.3                   -1.1     0.0      4.6      4.0      0.8      5.8      2.0      13.8     -6.0     6.0      0.1      8.3    
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+Apr-Mar                                                                                  5.0            4.9            --                  2.1                                 3.1                --                     1.5      3.4      --       2.8      3.8      --       4.2      5.5      --       2.7      8.8      --     
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                   
+                                                                                       
+* Indices for Apr 2017 are Quick Estimates.                                            
+                                                                                       
+                                                                                       
+                                                                                       
+NOTE : Indices for the months of Jan'17 and Mar'17 incorporate updated production data.
+                                                                                       
+                                                                                       
+
+    
+
+    
+    (Release ID: 1492598) Visitor Counter : 136
+    
+    
+    
+    
+    
+
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+1.

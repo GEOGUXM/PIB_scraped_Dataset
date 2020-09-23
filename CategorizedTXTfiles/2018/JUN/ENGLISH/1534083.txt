@@ -1,0 +1,46 @@
+      Ministry of Earth Science
+
+      MoES Commissions High Resolution Ensemble Prediction Systems for Probabilistic Weather Forecasts
+      Posted On: 01 JUN 2018 4:27PM by PIB Delhi
+
+
+    The Ministry of Earth Sciences (MoES) has commissioned two very high resolution (12 km grid scale) state-of-the-art global Ensemble Prediction Systems (EPS) for generating operational 10-days probabilistic forecasts of weather. The EPS involves the generation of multiple forecasts using slightly varying initial conditions.
+
+
+    This critical service level augmentation became possible due to the consistent efforts made by the scientists at Indian Institute of Tropical Meteorology (IITM), Pune, National Centre for Medium Range Weather Forecasting (NCMRWF), Noida and India Meteorological Department (IMD). The frameworks of the new EPSs are among the best weather prediction systems in the world at present. Very few forecasting centres in the world use this high resolution for short-medium range probabilistic weather forecasts.
+
+
+    The EPS will enhance the weather information being provided by the current models by quantifying the uncertainties in the weather forecasts and generate probabilistic forecasts.
+
+
+    The probabilistic forecasts of severe weather events at 12 km grid scale across India will greatly help the disaster management authorities and other users in making better emergency response decisions by explicitly accounting for the uncertainty in weather forecasts.
+
+
+    The probabilistic forecasts will also be very useful for various sectors of the economy including agriculture, water resources, tourism and renewable energy.
+
+
+    The forecast products from these two prediction systems are available at the following links ( http://nwp.imd.gov.in/gefspro.php ) and ( http://www.ncmrwf.gov.in/product_main.php). IMD will work further to bring out more useful service level products using these prediction systems.
+
+
+    The Ministry of Earth Sciences (MoES) provides Weather and Climate Services to various users round the year and on 24/7 basis. Both operational and research aspects for these services are implemented through its constituent units like IMD, NCMRWF, IITM and Indian National Centre for Ocean Information Services (INCOIS).
+
+
+    Over the past few years, the quality of weather and climate services provided by this Ministry has improved significantly due to systematic efforts in augmenting atmospheric and ocean observing systems in the region, improving the high performance computational capability to 8.0 petaflops, implementing high-resolution global models and advanced data assimilation techniques for ingesting data from Indian and International satellites, conducting cutting edge research and investing in human resources development. The successes in predicting the Tropical Cyclones Phailin/Hudhud, heavy rainfall events and heat waves are the best examples of the improvement in prediction capability during the recent years.
+
+
+    MoES is also working to implement more effective mechanism for dissemination of weather and climate forecasts to different stake holders using different communication channels. MoES is committed to transform India into a “Weather Ready” Nation.
+
+
+    ***
+
+
+    SRD
+
+
+    
+
+    
+    (Release ID: 1534083) Visitor Counter : 849
+    
+    
+      Read this release in: Tamil

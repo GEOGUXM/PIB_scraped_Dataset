@@ -1,0 +1,524 @@
+      Ministry of Statistics & Programme Implementation
+
+      First Revised Estimates of National Income, Consumption Expenditure, Saving and Capital Formation, 2016-17
+      Posted On: 31 JAN 2018 5:30PM by PIB Delhi
+
+
+    The Central Statistics Office (CSO), Ministry of Statistics and Programme Implementation has released the First Revised Estimates of National Income, Consumption Expenditure, Saving and Capital Formation for the financial year 2016-17along with Second Revised Estimates for the financial year 2015-16 and Third Revised Estimates for the financial year 2014-15 (with Base Year 2011-12) as per the revision policy * . Estimates for the years 2011-12 to 2015-16 released vide press note dated 31 st January, 2017 were subsequently revised by incorporating the new series of Index of Industrial Production (IIP) and Wholesale Price Index (WPI) released on 31 st May, 2017 and presented in National Accounts Statistics (NAS) 2017.
+
+     1. The First Revised Estimates for the year 2016-17 have been compiled using industry-wise/institution-wise detailed information instead of using the benchmark-indicator method employed at the time of release of Provisional Estimates on 31 st May, 2017. The estimates of GDP and other aggregates for the years 2014-15and 2015-16 have undergone revision due to use of latest available data on agricultural production; industrial production especially those based on the provisional results of Annual Survey of Industries (ASI): 2015-16 and final results of ASI: 2014-15; government expenditure (replacing Revised Estimates with Actuals for the year 2015-16) and also more comprehensive data available from various source agencies and State/UT Directorates of Economics and Statistics.
+     2. The salient features of the estimates at aggregate level are indicated below:
+
+    Gross Domestic Product
+
+
+     1. Nominal GDP or GDP at current prices for the year 2016-17 is estimated as Rs. 152.54 lakh crore while that for the year 2015-16 is estimated as Rs. 137.64 lakh crore, exhibiting a growth of 10.8 per cent during 2016-17 as against 10.4 per cent during 2015-16.
+
+
+     1. Real GDP or GDP at constant (2011-12) prices for the years 2016-17 and 2015-16 stands at Rs. 121.96 lakh crore and Rs. 113.86 lakh crore, respectively, showing growth of 7.1 per cent during 2016-17 and 8.2 per cent during 2015-16.
+
+
+    Industry-wise Analysis
+
+
+     1. The changes in the Gross Value Added (GVA) at basic prices in different sectors of the economy at current and constant (2011-12) prices are presented in Statements 4.1 and 4.2 respectively. At the aggregate level, nominal GVA at basic prices increased by 10.1 per cent during 2016-17 as against 9.2 per cent during 2015-16. In terms of real GVA, i.e., GVA at constant (2011-12) basic prices, there has been a growth of 7.1 per cent in 2016-17, as against growth of 8.1 per cent in 2015-16.
+
+
+     1. The shares of different sectors of the economy in terms of overall GVA during 2011-12 to 2016-17 and corresponding annual growth rates are mentioned below:
+
+                                                                                                   
+Sector     Share in GVA at current prices (in %)  Growth in GVA at constant (2011-12) prices (in %)
+                                                                                                   
+                                                                                                   
+                                                                                                                                                                           
+2011-12    2012-13                                2013-14                                            2014-15  2015-16  2016-17  2012-13  2013-14  2014-15  2015-16  2016-17
+                                                                                                                                                                           
+                                                                                                                                                                           
+                                                                                                                                                                                  
+Primary    21.7                                   21.3                                               21.4     20.9     20.1     20.4     1.4      4.8      1.2      2.6      7.4  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+Secondary  29.3                                   28.7                                               27.9     27.3     27.4     26.9     3.6      4.2      6.7      9.4      6.1  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+Tertiary   49.0                                   50.0                                               50.6     51.8     52.5     52.8     8.3      7.7      9.8      9.6      7.5  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+All        100.0                                  100.0                                              100.0    100.0    100.0    100.0    5.4      6.1      7.2      8.1      7.1  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+                                                
+           Aggregate GVA (Rs. in lakh crore)    
+                                                
+                                                
+                                                                                                   
+           at current prices                      at constant prices                               
+                                                                                                   
+                                                                                                   
+                                                                                                                                                                                  
+Total      81.1                                   92.0                                               103.6    115.0    125.7    138.4    85.5     90.6     97.1     105.0    112.5
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+
+     1. The growth in real GVA during 2016-17has been lower than that in 2015-16 mainly due to lower growth in ‘manufacturing’ (7.9%), ‘construction’ (1.3%), ‘transport, storage, communication & services related to broadcasting’ (4.3%), ‘trade, repair, hotels and restaurants’ (8.9%), ‘financial services’ (1.3%) and‘real estate, ownership of dwelling & professional services’ (8.0%) as may be seen from Statement 4.2.At constant prices, the growth rates of primary (comprising agriculture, forestry, fishing and mining & quarrying), secondary (comprising manufacturing, electricity, gas, water supply & other utility services, and construction) and tertiary (services) sectors have been estimated as 7.4 per cent, 6.1 per cent and 7.5 per centduring 2016-17 as against a growth of 2.6 per cent, 9.4 per cent and 9.6 per cent, respectively, in the previous year.
+
+
+    Net National Income
+
+     1. Nominal Net National Income (NNI) at current prices for the year 2016-17 stands at Rs. 134.9 lakh crore as against Rs. 121.5 lakh crore in 2015-16, showing an increase of 11.0 per cent during 2016-17 as against an increase of 10.7 per cent in the previous year.
+
+    Gross National Disposable Income
+
+     1. Gross National Disposable Income (GNDI) at current prices is estimated as Rs. 154.6 lakh crore for the year 2016-17, while the estimate for the year 2015-16 stands at Rs. 140.2 lakh crore, showing a growth of 10.3 per cent as against 10.2 per cent in the year 2015-16.
+
+    Saving
+
+     1. Gross Saving during 2016-17 is estimated as Rs. 45.73 lakh crore as against Rs. 43.02 lakh crore during 2015-16. Rate of Gross Saving to GNDI for the year 2016-17 is estimated as 29.6 per cent as against 30.7 per cent, estimated for 2015-16.
+
+     1. The highest contributor to Gross Saving is the household sector, with a share of 54.2 per cent in the year 2016-17. However, this share has declined from 56.9 per cent in 2015-16. This decline can be attributed to decline in households gross financial savings, which has declined from Rs. 15.21 lakh crore in 2015-16 to Rs. 14.05 lakh crore in 2016-17. On the other hand, as shown in Statement 5, the share of Non-Financial Corporations and Financial Corporations have increased from 39.8 per cent in 2015-16 to 41.0 per cent in 2016-17 and 6.8 per cent in 2015-16 to 7.3 per cent in 2016-17, respectively. The dis-saving of General Government has decreased from 3.5 per cent of Gross Saving in 2015-16 to 2.5 per cent in 2016-17.
+
+
+    Capital Formation
+
+     1. Gross Capital Formation (GCF) at current and constant prices is estimated by two approaches :– (i) through flow of funds, derived as Gross Saving plus net capital inflow from abroad; and (ii) by the commodity flow approach, derived by the type of assets. The estimates of GCF through the flow of funds approach are treated as the firmer estimates, and the difference between the two approaches is taken as “errors and omissions”. However, GCF by industry of use and by institutional sectors do not include “valuables”, and therefore, these estimates are lower than the estimates available from commodity flow approach.
+
+     1. Gross Capital Formation (GCF) at current prices is estimated as Rs. 46.71 lakh crore for the year 2016-17 as compared to Rs. 44.42 lakh crore during 2015-16. The rate of GCF to GDP declined from 32.3 per cent during 2015-16 to 30.6 per cent in the year 2016-17. The rate of GCF excluding valuables to GDP stands at 30.8 per cent and 29.5 per cent for the years2015-16 and 2016-17 respectively. The rate of capital formation in the years 2011-12 to 2016-17 has been higher than the rate of saving because of net capital inflow from Rest of the World (ROW).
+
+
+     1. In terms of the share to the total GCF (at current prices), the highest contributor is Non-Financial Corporations. However, its share has declined from 56.0 percent in 2015-16 to 55.1 percent in 2016-17(Statement 9). Share of household sector in GCF is also significant, which has risen from 30.5 percent in 2015-16 to 31.4 percent in 2016-17. The share of General Government in GCF has increased from 11.9 per cent in 2015-16 to 12.9 per cent in 2016-17.
+
+
+     1. Within the Gross Capital Formation at current prices, the Gross Fixed Capital Formation (GFCF) amounted to Rs. 43.52 lakh crore in 2016-17 as against Rs. 39.18 lakh crore in 2015-16. The rate of GFCF to GDP at current prices continues to be the same at 28.5 per cent in both the years 2015-16 and 2016-17. The change in stocks of inventories, at current prices, decreased from Rs. 2.55 lakh crore in 2015-16 to Rs. 1.00 lakh crore in 2016-17, while the valuables decreased from Rs. 2.03 lakh crore in 2015-16 to Rs. 1.76 lakh crore in 2016-17.
+
+
+     1. The rate of Gross Capital Formation to GDP at constant (2011-12) prices has decreased from 34.5 per cent in 2015-16 to 33.5 per cent in 2016-17.
+
+
+    Consumption Expenditure
+
+     1. Private Final Consumption Expenditure (PFCE) at current prices is estimated at Rs. 90.05 lakh crore for the year 2016-17as against Rs. 80.91 lakh crore in 2015-16. In relation to GDP, the rates of PFCE at current prices during 2015-16 and 2016-17 are estimated at 58.8 per cent and 59.0 per cent respectively.
+
+     1. At constant (2011-12) prices, the PFCE is estimated as Rs. 63.51 lakh crore and Rs. 68.12 lakh crore, respectively for the years 2015-16 and 2016-17. The corresponding rates of PFCE to GDP for the years 2015-16 and 2016-17 are 55.8 per cent and 55.9 per cent respectively.
+
+
+     1. Government Final Consumption Expenditure (GFCE) at current prices is estimated as Rs. 16.64 lakh crore for the year 2016-17 as against Rs. 14.28 lakh crore during 2015-16. At constant (2011-12) prices, the estimates of GFCE for the years 2015-16 and 2016-17 stand at Rs. 11.25 lakh crore and Rs. 12.62 lakh crore respectively.
+
+
+    Estimates at per capita level
+
+     1. Per Capita Income, i.e., Per Capita Net National Income at current prices, is estimated as Rs. 94,731 and Rs. 1,03,870 respectively for the years 2015-16 and 2016-17. Correspondingly, Per Capita PFCE at current prices, for the years 2015-16 and 2016-17 is estimated at Rs. 63,065 and Rs. 69,322 respectively.
+
+     1. More details of these estimates are available in Statements 1-9 appended to this Press Note.
+
+
+    Summary of Revision in the GDP Estimates
+
+     1. The use of latest available data from various agencies have resulted in some changes in both the levels of GVA and growth estimates for the years 2014-15 and 2015-16. The reasons for revision in the estimates of the years 2014-15 and 2015-16, released on 31.05.2017 are mentioned in the Annexure.
+
+    Revision in the estimates of 2016-17:
+
+     1. The following statement gives the major reasons for variation between the Provisional Estimates (released in May 2017) and the First Revised Estimates of GVA for 2016-17.
+                                                                               
+Sector                     GVA growth in 2016-17    Major reasons for variation
+                                                                               
+                                                                               
+                                                  
+Prov. Estimate, May 2017   First Revised Estimate,
+                                                  
+                                                  
+                           Jan 2018               
+                                                  
+                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+Primary[i]                 4.4                      7.4                          Use of Fourth Advance estimates of Crop production and Final estimates of horticulture crops as against Third Advance estimates of Crop production and Second Advance estimates of horticulture crops used in the Provisional estimates; revision in estimates of livestock products; and use of annual financial reports of public & private sector companies in place of IIP in the case of ‘mining & quarrying’.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+Secondary[ii]              6.0                      6.1                          Actual analysis of financial reports of a larger sample of public & private sector companies instead of key financial indicators derived from advance filings of a small sample of Companies used earlier.                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+Tertiary[iii]              7.7                      7.5                          Use of Revised Estimates of sales tax and other items in central & state government budget documents instead of Budget Estimates; and replacement of key financial indicators derived from advance filings of a small sample of Companies with actual analysis of financial reports of a larger sample of public & private sector companies.                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+Total GVA at Basic Prices  6.6                      7.1                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+GDP                        7.1                      7.1                          No Change                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+    Upcoming Releases
+
+     1. The upcoming releases on GDP are indicated below:
+
+    a) Second Advance Estimates for the year 2017-18, along with quarterly estimates for Q1 (April-June), Q2 (July-September) and Q3 (October-December) of 2017-18 on February 28, 2018; and
+
+
+    b) Provisional Estimates for the year 2017-18, along with estimates for all the four quarters of the year on May 31, 2018.
+
+
+    *****************
+
+
+    List of Statements
+
+
+    1. Statement 1.1: Key aggregates of national accounts at current prices
+
+
+    2. Statement 1.2: Key aggregates of national accounts at constant (2011-12) prices
+
+
+    3. Statement 2:Per Capita Income, Product and Final Consumption
+
+
+    4. Statement 3.1:Output by economic activity and Capital Formation by industry of use at current prices
+
+
+    5. Statement 3.2:Output by economic activity and Capital Formation by industry of use at constant (2011-12) prices
+
+
+    6. Statement 4.1:Gross Value Added by economic activity at current basic prices
+
+
+    7. Statement 4.2:Gross Value Added by economic activity at constant (2011-12) basic prices
+
+
+    8. Statement 5:Finances for Gross Capital Formation
+
+
+    9. Statement 6.1:Gross Capital Formation by industry of use at current prices
+
+
+    10. Statement 6.2:Gross Capital Formation by industry of use at constant (2011-12) prices
+
+
+    11. Statement 7.1:Gross Fixed Capital Formation by asset & institutional sector at current prices
+
+
+    12. Statement 7.2:Gross Fixed Capital Formation by asset & institutional sector at constant (2011-12) prices
+
+
+    13. Statement 8.1:Private Final Consumption Expenditure at Current Prices
+
+
+    14. Statement 8.2:Private Final Consumption Expenditure at Constant (2011-12) Prices
+
+
+    15. Statement 9:Institutional Sectors – Key economic indicators at current prices
+
+
+    Annexure: Reasons for revision in the estimates of the years 2014-15 to 2015-16
+
+
+    NOTES ON THE STATEMENTS
+
+
+    ACRONYMS USED IN THE PRESS RELEASE
+
+
+    CE: Compensation of Employees
+
+
+    CFC: Consumption of Fixed Capital
+
+
+    CIS: Changes in Stock
+
+
+    GCF: Gross Capital Formation
+
+
+    GDI: Gross Disposable Income
+
+
+    GDP: Gross Domestic Product
+
+
+    GFCE: Government Final Consumption Expenditure
+
+
+    GFCF: Gross Fixed Capital Formation
+
+
+    GNDI: Gross National Disposable Income
+
+
+    GNI: Gross National Income
+
+
+    GVA: Gross Value Added
+
+
+    MI: Mixed Income
+
+
+    NDP: Net Domestic Product
+
+
+    NNDI: Net National Disposable Income
+    NNI: Net National Income
+
+
+    OS: Operating Surplus
+
+
+    PFCE: Private Final Consumption Expenditure
+
+
+    ROW: Rest of the World
+
+
+    FORMULAE
+
+
+    1. GVA at basic prices = CE + OS/MI + CFC + Production taxes less Production subsidies
+
+
+    2. GDP = ∑ GVA at basic prices + Product taxes - Product subsidies
+
+
+    3. NDP/NNI = GDP/GNI - CFC
+
+
+    4. GNI = GDP + Net primary income from ROW (Receipts less payments)
+
+
+    5. Primary Incomes = CE + Property and Entrepreneurial Income
+
+
+    6. NNDI =NNI + other current transfers from ROW, net (Receipts less payments)
+
+
+    7. GNDI = NNDI + CFC = GNI + other current transfers from ROW, net (Receipts less payments)
+
+
+    8. Gross Capital Formation= Gross Savings+ Net Capital Inflow from ROW
+
+
+    9. GCF = GFCF + CIS + Valuables + “Errors and Omissions”
+
+
+    10. Gross Disposable Income of Govt. = GFCE + Gross Saving of General Government
+
+
+    11. Gross Disposable Income (GDI) of Households = GNDI – GDI of Govt. – Gross Savings of All Corporations
+
+
+    REMARKS ON THE FORMULAE:
+
+
+    1. Production taxes or subsidies are paid or received with relation to production and are independent of the volume of actual production. Some examples are:
+
+
+    Production Taxes - Land Revenues, Stamps and Registration fees
+
+
+    Production Subsidies - Subsidies to Railways, Subsidies to village and small industries
+
+     1. Product taxes or subsidies are paid or received on per unit of product. Some examples are:
+
+    Product Taxes: Excise Tax, Sales tax, Service Tax and Import and Export duties
+
+
+    Product Subsidies: Food, Petroleum and fertilizer subsidies
+
+     1. Other Current Transfers refers to current transfers other than the primary incomes
+     2. Estimate of GCF derived from this formula is taken as the “firmer” estimate and the difference between this estimate and the sum of GFCF, CIS and valuables is taken as “errors and omissions”, as referred in 9 above.
+
+    Annexure
+
+
+    REASONS FOR REVISION IN THE ESTIMATES OF THE YEARS 2014-15 AND 2015-16
+
+
+    Revision in major aggregates
+
+
+    The level of revisions in the major aggregates at current and constant (2011-12) prices is given in the following table:
+
+
+    Changes at the aggregate level
+
+
+    (Amount in Rs. Lakh Crores)
+
+                                                                    
+S.No.                         Item                 2014-15   2015-16
+                                                                    
+                                                                    
+                                                                                     
+Old                           New                  % change  Old      New    % change
+                                                                                     
+                                                                                     
+                            
+At current prices           
+                            
+                            
+                                                                                                   
+1                             GVA at basic prices  114.82    115.04   0.20   124.59    125.67  0.87
+                                                                                                   
+                                                                                                   
+                                                                                                   
+2                             GDP                  124.45    124.68   0.18   136.82    137.64  0.60
+                                                                                                   
+                                                                                                   
+                                                                                                   
+3                             GNI                  122.98    123.21   0.19   135.22    136.04  0.61
+                                                                                                   
+                                                                                                   
+                                                                                                   
+4                             NNI                  109.54    109.78   0.22   120.77    121.54  0.64
+                                                                                                   
+                                                                                                   
+                                                                                                   
+5                             GNDI                 127.03    127.26   0.18   139.35    140.17  0.59
+                                                                                                   
+                                                                                                   
+                            
+At constant (2011-12) prices
+                            
+                            
+                                                                                                   
+1                             GVA at basic prices  97.19     97.12    -0.07  104.91    105.03  0.12
+                                                                                                   
+                                                                                                   
+                                                                                                   
+2                             GDP                  105.37    105.28   -0.09  113.81    113.86  0.05
+                                                                                                   
+                                                                                                   
+                                                                                                   
+3                             GNI                  104.12    104.03   -0.09  112.46    112.51  0.05
+                                                                                                   
+                                                                                                   
+                                                                                                   
+4                             NNI                  92.32     92.24    -0.08  99.82     99.85   0.03
+                                                                                                   
+                                                                                                   
+
+    The reasons for revision in GVA/GDP are as under:
+
+
+    Year 2014-15
+
+
+    · Use of updated estimates of production and prices of some crops, livestock products, fish and forestry products.
+
+
+    · Use of final results of ASI: 2014-15 in place of provisional results.
+
+
+    · Use of updated information on local bodies & autonomous institutions.
+
+
+    Year 2015-16
+
+
+    · Use of updated estimates of production and prices of some crops, livestock products, fish and forestry products.
+
+
+    · Use of provisional results of ASI: 2015-16
+
+
+    · Replacement of ‘Revised Estimates’ of different items of expenditure and receipts in the central & state government budgets by ‘Actuals’
+
+
+    · Use of updated information on local bodies & autonomous institutions
+
+
+    · Use of updated MCA21 database received from the Ministry of Corporate Affairs
+
+
+    Click here to see Complete Press Note:
+
+
+    ********************************
+
+
+    * Available on www.mospi.gov.in
+
+
+    [i] Primary indicates agriculture, forestry, fishing and mining & quarrying industries
+
+
+    [ii] Secondary indicates manufacturing, electricity, gas, water supply & other utility services and construction
+
+
+    [iii] Tertiary indicates all services
+
+    
+    
+    (Release ID: 1518448) Visitor Counter : 2440
+    
+    
+    
+    
+    
+
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+1.                    
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+2.

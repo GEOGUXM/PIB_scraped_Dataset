@@ -1,0 +1,75 @@
+      Ministry of Social Justice & Empowerment
+
+      100 accessible websites of various state governments/uts under accessible india campaign launched
+      
+      Shri Thaawarchand Gehlot inaugurates ‘national conference on improving accessibility’
+      
+      Posted On: 19 JAN 2018 3:12PM by PIB Delhi
+
+
+    In a path breaking initiative to empower Persons with Disabilities, 100 Accessible websites of various State Governments/UTs under Accessible India Campaign were launched by the Union Minister for Social Justice and Empowerment Shri Thaawarchand Gehlot on the occasion of ‘National Conference on Improving Accessibility’ here today. Ministers of State for Social Justice and Empowerment Shri Vijay Sampla and Shri Krishna Pal Gurjar were present. Secretary, DEPwD Shri Shakuntala D. Gamlin and the officials from Ministry of Road Transport and Highways, Ministry of Electronics and Information Technology, Ministry of Civil Aviation, Ministry of Information and Broadcasting, Ministry of Railways, Ministry of Housing and Urban Development participated in the conference and submitted their valuable inputs on implementation of accessibility in various walks of life.
+
+
+    Accessible Websites are those websites into which Persons with Disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web. The Department of Empowerment of Persons with Disabilities (Divyangjan) initiated a “Website Accessibility Project” for State Government/Union Territories under Accessible India Campaign through ERNET India, an autonomous scientific society under the Ministry of Electronics & Information Technology (MeitY), to make total 917 websites accessible and providing funds for the same. Now 100 accessible websites are made accessible under the project.
+
+
+    The aim of the conference was to sensitize and bring awareness among different stakeholders including the officials of state government on accessibility in the context of recently enacted Rights of Persons with Disabilities, 2016. The Accessible India Campaign has three important components viz Built Environment; Transport and Information and Communication Eco-system accessibility.
+
+
+    In his address, Union Minister for Social Justice and Empowerment said that the Divyangjans are an integral part of our society and we have to play an active role for their welfare. He said that Accessible India Campaign is a nationwide flagship campaign of Department of Empowerment of Persons with Disabilities, Ministry of Social Justice and Empowerment. The aim of the campaign is to make a barrier free environment for persons with disabilities all over the country for safe, dignified life of Persons with Disabilities. He said that around 5800 ADIP camps had been organised nationwide by his ministry for distribution of assistive device to Divyangjans. He opined that such Accessible websites will play an important role in proper dissemination of Governments policies and schemes for the welfare of Divyangjans.
+
+
+    Shri Vijay Sampla in his address said that today we have moved ahead are more step towards Accessible India campaign by launching 100 Accessible websites of various State Governments/UTs under Accessible India Campaign . He said that DEPwD is doing a commendable job in this regard.
+
+
+    In his address Shri Krishan Pal Gurjar said that during past three and a half years many revolutionary steps have been taken by DEPwD, Ministry of Social Justice & Empowerment for the welfare of Divyangjans. He said that we need to empower the Divyangjans so that they can lead a normal life.
+
+
+    Addressing the gathering, Mrs. Shakuntala D Gamlin urged the Central and State Government Departments to adopt accessibility standards while providing any service be it physical, infrastructural and IT etc.
+
+
+    Mrs. Dolly Chakrabarty Joint Secretary, DEPwD emphasised on ensuring rural access as there is substantial difference in planning accessibility in rural areas and it is a less talked about topic in the growing era of urbanisation.
+
+
+    ERNET India (MEITY) is executing the project which is f unded by DEPwD under Accessibility India Campaign so far 917 websites across 27 States & UT have been chosen from the l ist of websites which have been provided by the State Social Welfare Departments through DEPwD .
+
+
+    
+    Accessible Website Design Principles : - Provide appropriate alternative text, Caption video; Provide transcripts for audio; All documents (e.g., PDFs) to be accessible; Do not rely on color alone to convey meaning; and Make sure content is structured, clearly written and easy to read.
+
+
+    Current Status of Accessible Websites : - Total no. of websites: 917; Under Development: 244; Developed and Internally Audited: 208; and Live: 100
+
+
+    Web content accessibility guidelines –WCAG 2.0 :- Websites are made accessible by complying it as per Web Content Accessibility Guidelines (WCAG 2.0) published by the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C), the main international standard organisation for the World Wide Web.
+
+
+    The guideline establish three levels of accessibility on basis of which websites are designed, namely:-
+
+      * Level A: This Indicates the basic level of accessibility that any web page must have
+      * Level AA: This indicates an intermediate level of accessibility that any web page should have
+      * Level AAA: This indicates the highest level of accessibility that any web page can achieve
+
+    The founding principles of the guidelines state information and user interface components must be presentable to user in ways they can perceive, user interface components and navigation must be operable and information and the operation of user interface must be understandable. Moreover, content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+
+
+    *****
+
+
+    Sanjay Kumar/jk/SJ&E/19-01-2018
+
+
+    
+
+    
+    (Release ID: 1517187) Visitor Counter : 3314
+    
+    
+      Read this release in: Urdu , Hindi
+    
+    
+    
+
+  
+  
+*

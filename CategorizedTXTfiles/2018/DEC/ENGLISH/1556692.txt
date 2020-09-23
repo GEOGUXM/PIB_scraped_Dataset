@@ -1,0 +1,55 @@
+      Department of Space
+
+      GSLV-F11 successfully launches GSAT-7A
+      Posted On: 19 DEC 2018 6:24PM by PIB Delhi
+
+
+    Indian Space Research Organisation’s (ISRO) Geosynchronous Satellite Launch Vehicle (GSLV-F11) successfully launched the communication satellite GSAT-7A from the Satish Dhawan Space Centre (SDSC) in Sriharikota today.
+
+
+    The GSLV-F11 lifted off from the Second Launch Pad at SDSC at 04:10 pm IST, carrying 2250 kg GSAT-7A and about 19 minutes later, injected GSAT-7A into a Geosynchronous Transfer Orbit (GTO) of 170.8 km x 39127 km which is very close to the intended orbit.
+
+
+    An ISRO team lead by Chairman Dr K Sivan, Vikram Sarabhai Space Centre (VSSC) S Somanath, U R Rao Satellite Centre (URSC) Director P Kunhikrishnan, Space Applications Centre (SAC) Director D K Das, SDSC Director S Pandian, Liquid Propulsion Systems Centre (LPSC) Dr V Narayanan and ISRO Propulsion Complex (IPRC) Director T Mookiah witnessed the launch.
+
+
+    Mission Director Mohan M and Satellite Director Killedar Pankaj Damodar oversaw the launch proceedings.
+
+
+    Soon after the separation of the satellite, ISRO's Master Control Facility (MCF) at Hassan in Karnataka took over the command and control of GSAT-7A.The satellite’s health parameters are normal.
+
+
+    In the next few days, scientists at MCF will perform various orbit-raising manoeuvres, using GSAT-7A’s onboard propulsion system, to place the satellite in its final geostationary orbit.
+
+
+    In his post-launch address, Dr Sivan said the team has achieved another spectacular milestone by launching GSAT-7A.
+
+
+    “In the last 35 days, ISRO has successfully launched three missions from SDSC starting with GSLV MkIII-D2 on November14, PSLV-C43 on November 29 and finally GSLV-F11 today. GSLV has successfully injected GSAT-7A into a super synchronous transfer orbit,” Dr Sivan said.
+
+
+    He said GSAT-7A is the heaviest satellite being launched by GSLV with an indigenously developed cryogenic stage.
+
+
+    “The cryogenic stage of this vehicle has been modified to increase the thrust rate. GSAT-7A is an advanced communication satellite with a Gregorian Antenna and many other new technologies. The testing and realisation of this satellite has been carried out meticulously by ISRO team. We have signed off year 2018 on a high and positive note,” Dr Sivan added.
+
+
+    GSLV is ISRO’s fourth generation launch vehicle with three stages. The four liquid strap-ons and a solid rocket motor at the core form the first stage. The second stage is equipped with a high thrust engine using liquid fuel. The cryogenic upper stage forms the third and final stage of the vehicle. GSLV-F11 was the seventh flight carrying indigenously developed cryogenic upper stage.
+
+
+    GSAT-7A is the 39th Indian communication satellite of ISRO to provide services to the users in Ku-band over the Indian region. Most of the functional requirements of the communication payloads and the other systems have been derived from ISRO’s earlier geostationary INSAT/GSAT satellites.
+
+
+    Today’s launch was the 7th mission of ISRO from SDSC in the year 2018. This was the 13th flight of GSLV-MkII.
+
+
+    *************
+
+
+    BB/NK/PK/SS
+
+
+    
+
+    
+    (Release ID: 1556692) Visitor Counter : 1841

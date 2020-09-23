@@ -1,0 +1,43 @@
+      NITI Aayog
+
+      Comments Invited for Creation of National Health Stack
+      Posted On: 06 JUL 2018 8:53PM by PIB Delhi
+
+
+    India today is witnessing significant trends in health: increasing prevalence of non-communicable diseases for instance, as well as marked demographic shifts. Climbing out-of-pocket costs is becoming difficult for most households.
+
+
+    The National Health Stack (NHS) envisages a centralized health record for all citizens of the country in order to streamline the health information and facilitate effective management of the same. The proposed NHS is an approach to address the challenge and seeks to employ latest technology including Big Data Analytics and Machine Learning Artificial Intelligence, a state of the art Policy Mark-up Language and create a unified health identity of citizens - as they navigate across services across levels of care, i.e. Primary, Secondary and Tertiary and also across Public and Private.
+
+
+    To address the health needs of citizens, the Government of India had announced comprehensive policy response – the Ayushman Bharat Yojana. This flagship health programme is designed with a powerful yet simple objective in mind: to develop a wellness focused strategy, ensuring cost effective healthcare for all. The program leverages a two-pronged approach:
+
+
+     1. On the supply side, substantial investments will be made to build 1.5 lakh health and wellness centers offering preventive and primary care; and
+
+     2. On the demand side, the Pradhan Mantri-Rashtriya Swasthya Suraksha Mission (PM-RSSM) will create a national insurance cover of up to 5 lakhs per year per family for over 10 crores households, towards secondary and tertiary care.
+
+    Achieving such scale requires a rethink the core technology backbone of our system and leverage cutting edge digital solutions to tackle the challenge.
+
+
+    The innovativeness of the proposed National Health Stack design lies in its ability to leverage a shared public good – a strong digital spine built with a deep understanding of the incentive structures of the system. Once implemented, the National Health Stack will significantly bring down the costs of health protection, converge disparate systems to ensure a cashless and seamlessly integrated experience for the poorest beneficiaries, and promote wellness across the population.
+
+
+    In order to arrive at a well-informed conclusion, NITI Aayog invites comments from all the stake holders on the consultation paper, which has been uploaded at NITI website and can be found at www.niti.gov.in . Please send your comments to our email at healthstackniti@gmail.com by 1 st August 2018 .
+
+
+    *****
+
+
+    AKT/KP
+
+    
+    
+    (Release ID: 1538061) Visitor Counter : 1108
+    
+    
+    
+    
+    
+
+2.

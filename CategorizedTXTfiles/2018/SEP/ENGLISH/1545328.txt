@@ -1,0 +1,71 @@
+      Ministry of Railways
+
+      Indian Railways undertakes various IT initiatives to improve train operations and provide better passenger experience
+      Posted On: 07 SEP 2018 4:30PM by PIB Delhi
+
+
+    Indian Railways has always focussed on adoption of new technologies to improve train operations and provide better passenger experience to its customers. In this series, Indian Railways has introduced various IT initiatives. Following are the major initiatives taken by Indian Railways in this regard.
+
+
+    Tracking of trains using newer technologies:
+
+
+    Railways have experimented with tracking of trains using GPS devices with these GPS devices located in the locomotive. For a sustainable solution, a Real Time Train Information System (RTIS) is being implemented, whereby GPS tracking devices would communicate using satellite communications. The trials have been successful. Apart from this, data logger systems already available in track circuited stations are being used at major interchange points to capture arrival/departure information on trains.
+
+
+    In an effort to computerise the transactions of the station master, a Computerised Train Signal Register is going live at 650 stations and this enables arrival/departure information to be transmitted to the Control Office Application (COA) and the National train Enquiry System (NTES) directly from the station master’s desk.
+
+
+    Handheld Devices on trains:
+
+
+    Handheld Terminals (HHTs) are being provided to the Train Ticket Examiners (TTEs) to be able to check the reserved coaches, allot the vacant berths and transmit information on available berths to the subsequent stations. The HHT can also access the ticketing application and collect excess fares as per rules. The terminal can potentially connect to a Point of Sale (POS) machine and charges can be collected digitally.
+
+
+    Modernisation of Ticketing Website (IRCTC):
+
+
+    Over the last four years, the capacity of the website has increased to 20,000 tickets per minute starting from 2000 tickets per minute in 2014, a ten-fold increase. Apart from the capacity, the entire user experience has been improved substantially with the launch a new interface with easier navigation and standard views that enable the passengers to transact smoothly. New features have been added that enable better planning of journeys aiding the passenger to obtain confirmed tickets.
+
+
+    Paperless Unreserved Ticketing through Mobile Phones:
+
+
+    Paperless Unreserved ticketing on mobile phones was launched on 25.12.2014 at Mumbai and has since been expanded to suburban sections of Mumbai, Chennai, Kolkata and Secunderabad and New Delhi-Palwal section of Northern Railway. This has eliminated the need for passengers to stand in queue for getting tickets for journey in unreserved compartments of trains. The ticket is delivered on the Mobile Phone and is embedded with QR Code. This service has added to passenger convenience. About 4 lakh passengers per day are booking tickets on Mobile phones.
+
+                                                                
+Time Period  Average per day Unreserved Tickets booked on Mobile
+                                                                
+                                                                
+                                                                
+2014-18      2014-15 : 195 tickets per day                      
+                                                                
+                                                                
+             2015-16 : 1929 tickets per day                     
+                                                                
+                                                                
+             2016-17 : 7257 tickets per day                     
+                                                                
+                                                                
+             2017-18 : 16223 tickets per day                    
+                                                                
+                                                                
+                                                                
+2018-19      67000 tickets per day                              
+                                                                
+                                                                
+
+    Indian Railway e-Procurement System (IREPS):
+
+
+    Complete tendering activity of Indian Railways for procurement of goods, services & works and e-auction of scrap sale is on IREPS. IREPS system is largest such G to B portal in India. It has helped in achieving objectives of transparency, efficiency and improving of ease of doing business. During 2017-18, 4,44,000 e-tenders valuing more than Rs.1,50,000 crore were issued on IREPS. Online scrap sale of Rs.2800 crores was also done last year through e-auction. 90,000 vendors have registered themselves on IREPS website. Central Vigilance Commission has recognized and awarded the system under “Vigilance Excellence Award – 2017” for outstanding contribution in the category of “IT initiatives for transparency in the organization”.
+
+
+    *****
+
+
+    APS/MKV
+
+    
+    
+    (Release ID: 1545328) Visitor Counter : 5005

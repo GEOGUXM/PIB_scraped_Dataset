@@ -1,0 +1,45 @@
+      Ministry of Education
+
+      IIT KGP Researchers Design Award-winning Testing Technology for Cardiovascular Devices
+      Posted On: 21 AUG 2020 6:26PM by PIB Kolkata
+
+
+    Kolkata, August 21, 2020
+
+
+    Researchers from IIT Kharagpur, has designed an automated smart device for Online Testing of Cardiac Medical Devices and Prosthetics. The device is capable of creating life-like simulations in cardiac failure cases, due to various diseases and tests, the performance of implantable devices and prosthetics, such as Ventricular assist devices.
+
+
+    
+    The World Health Organization (WHO) reported 17.9 million deaths in 2016 from cardiovascular diseases (CVD) accounting to about 31% of global deaths. In India, over 28% of the deaths are due to CVD in 2016 according to a study published in 2018.
+
+
+    According to the business intelligence company Fior Markets, the global cardiovascular devices market is expected to grow from USD 42.61 billion in 2019 to USD 71.05 billion by 2027, at a CAGR of 6.6% during the forecast period 2020-2027. These devices would include surgical devices as well as diagnostic and monitoring devices covering a large range of CVDs – Cerebro-vascular Heart Disease, Stroke, Sudden Cardiac Arrest and Coronary Heart Disease. With rapid development in medical devices, especially for the implants, rigorous testing and assessment are essential during the developmental stage.
+
+
+    
+    “The intriguing complexity of physiology and function of the heart makes it difficult to carry out an in-depth study of the live organ. For researchers, the study of a cadaver heart does not provide many clues regarding its functioning in live conditions. This limitation led us to design a novel heart analogue model, Cardiovascular Replicator (CVR), which can serve as a platform for studying the cardiovascular system,” said lead researcher Prof. Prasanta Kumar Das from the Dept. of Mechanical Engineering.
+
+
+    
+    The Cardiovascular Replicator (CVR) developed by the team is an electromechanical system that can mimic the entire hemodynamics of the human heart along with its pulmonic and systemic circulations. “The device enables us to simulate a long-range of heart diseases and conditions like aortic valve stenosis, ventricular septal defects, fetal circulation, cross circulation, single ventricle conditions and Fontan correction etc. along with hardware in the loop simulation. We can also run tests prior to animal trials,” said the researcher Sumanta Laha.
+
+
+    
+    The design is equipped with sensors and a widescreen display which facilitates online real-time data monitoring and logging. This system is made in a modular way to ease transportation and enable improvisation.
+    
+    Prof. Indranil Ghosh from the Cryogenic Engineering Centre pointed out the pedagogical advantage of the device for the medical community. “Cardiovascular Replicator will not only be of great value for researchers working in medical technology innovation but also for medical students during their practical training due to the experiential learning from real-life simulations of the diseases,” he said.
+
+
+    
+    The research has been awarded the prestigious SITARE – Gandhian Young Technological Innovation Award 2020 for this work titled ‘Automated Cardiovascular Replicator for Online Assessment of Cardiac Assist Devices, Prosthetics and beyond’.
+
+
+    SSS
+
+    
+    
+    (Release ID: 1647658) Visitor Counter : 1
+    
+    
+      Read this release in: Bengali

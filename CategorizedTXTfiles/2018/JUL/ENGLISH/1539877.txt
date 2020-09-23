@@ -1,0 +1,1343 @@
+      Ministry of Health and Family Welfare
+
+      Hospitals in the Country
+      Posted On: 24 JUL 2018 5:03PM by PIB Delhi
+
+
+    Number of hospitals in other countries in comparison to India is not available. However as per the World Bank data available in the link ‘https://data.worldbank.org/indicator/SH.MED.BEDS.ZS’, beds per 1000 Population in India are less than a number of countries.
+
+
+    Public health & Hospitals being a State subject, State Governments are primarily responsible for up-keeping, providing health care to people and maintaining information of hospitals. However, the following information is given in below:
+
+     1. Number of Primary Health Centers(PHCs), Community Health Centers(CHCs), Sub-District/Divisional Hospitals(SDHs), District Hospitals(DHs) and beds, India, State/UT wise as uploaded by the State/UTs on the Health Management Information System (HMIS) portal of the Ministry.
+     2. Number of Govt. Hospitals and beds in Rural and Urban Areas, India, State/UT wise, as available in the Publication National Health Profile 2018.
+     3. Number of AYUSH hospitals and beds State/UT-wise, as provided by the Ministry of AYUSH.
+
+     1. Number of Hospitals and beds maintained by Ministry of Defence, State wise and Total.
+
+     2. Number of Railway Hospitals and beds, as available in the Publication National Health Profile 2018.
+     3. Number of Employees State Insurance Corporation Hospitals and beds, State/UT and Total, as available in the Publication National Health Profile 2018.
+
+    State/UT–wise Number of PHCs, CHCs, SDHs, DHs and beds in the Country.
+
+                                                                                               
+State/UT/India             No. of Public facilities  No. of beds available in public facilities
+                                                                                               
+                                                                                               
+                                                                                                             
+PHC                        CHC                       SDH                                         DH     Total
+                                                                                                             
+                                                                                                             
+                                                                                                                               
+Andaman & Nicobar Islands  27                        4                                                  3      34      1246    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Andhra Pradesh             1417                      198                                         31     20     1666    60799   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Arunachal Pradesh          122                       62                                                 15     199     2320    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Assam                      1007                      166                                         14     33     1220    19115   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Bihar                      2007                      63                                          33     43     2146    17796   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Chandigarh                 40                        2                                           1      4      47      3756    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Chhattisgarh               813                       166                                         12     32     1023    14354   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Dadra & Nagar Haveli       9                         2                                           1      1      13      568     
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Daman & Diu                4                         2                                                  2      8       298     
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Delhi                      534                       25                                          9      47     615     20572   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Goa                        31                        4                                           2      3      40      2666    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Gujarat                    1770                      385                                         44     37     2236    41129   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Haryana                    500                       131                                         24     28     683     13841   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Himachal Pradesh           516                       79                                          61     15     671     8706    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Jammu & Kashmir            702                       87                                                 29     818     11342   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Jharkhand                  343                       179                                         13     23     558     7404    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Karnataka                  2547                      207                                         147    42     2943    56333   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Kerala                     933                       229                                         82     53     1297    39511   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Lakshadweep                4                         3                                           2      1      10      250     
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Madhya Pradesh             1420                      324                                         72     51     1867    38140   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Maharashtra                2638                      430                                         101    70     3239    68998   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Manipur                    87                        17                                          1      9      114     2562    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Meghalaya                  138                       29                                                 13     180     4585    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Mizoram                    65                        10                                          3      9      87      2312    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Nagaland                   134                       21                                                 11     166     1944    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Odisha                     1360                      377                                         27     35     1799    16497   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Puducherry                 40                        4                                           5      4      53      4462    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Punjab                     521                       146                                         47     28     742     13527   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Rajasthan                  2463                      579                                         64     33     3139    51844   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Sikkim                     25                        2                                           1      4      32      1145    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Tamil Nadu                 1854                      385                                         310    32     2581    72616   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Telangana                  788                       82                                          47     15     932     17358   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Tripura                    114                       22                                          12     9      157     4895    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Uttar Pradesh              3277                      671                                                174    4122    58310   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+Uttarakhand                275                       69                                          19     20     383     6660    
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+West Bengal                1374                      406                                         70     55     1905    51163   
+                                                                                                                               
+                                                                                                                               
+                                                                                                                               
+All India                  29,899                    5,568                                       1,255  1,003  37,725  7,39,024
+                                                                                                                               
+                                                                                                                               
+
+    Source: Data as uploaded by States-UTs on HMIS portal, status as on 20 July 2018
+
+
+    India, State/UT wise Number of Government Hospitals and Beds in Rural & Urban Areas
+
+                                                                  
+States/UTs                 Rural hospitals  Urban hospitals  As on
+                                                                  
+                                                                  
+                                                                          
+                           No.              Beds             No.    Beds  
+                                                                          
+                                                                          
+                                                                                      
+Andhra Pradesh             193              6480             65     16658   01.01.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Arunachal Pradesh*         208              2136             10     268     31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Assam                      1176             10944            50     6198    31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Bihar                      930              6083             103    5936    31.12.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Chhattisgarh               169              5070             45     4342    01.01.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Goa*                       17               1405             25     1608    31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Gujarat                    364              11715            122    20565   31.12.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Haryana*                   609              6690             59     4550    31.12.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Himachal Pradesh*          705              5665             96     6734    31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Jammu & Kashmir            56               7234             76     4417    30.12.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Jharkhand                  519              5842             36     4942    31.12.2015
+                                                                                      
+                                                                                      
+                                                                                      
+Karnataka*                 2471             21072            374    49093   31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Kerala                     981              16865            299    21139   01.01.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Madhya Pradesh             334              10020            117    18819   01.01.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Maharashtra                273              12398            438    39048   31.12.2015
+                                                                                      
+                                                                                      
+                                                                                      
+Manipur                    23               730              7      697     01.01.2014
+                                                                                      
+                                                                                      
+                                                                                      
+Meghalaya*                 143              1970             14     2487    31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Mizoram*                   56               604              34     1393    31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Nagaland                   21               630              15     1250    31.12.2015
+                                                                                      
+                                                                                      
+                                                                                      
+Odisha*                    1655             6339             149    12180   31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Punjab*                    510              5805             172    12128   31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Rajasthan                  602              21088            150    10760   31.12.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Sikkim*                    24               260              9      1300    31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Tamil Nadu*                692              40179            525    37353   31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Telangana*                 802              7668             61     13315   31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Tripura*                   99               1140             56     3277    31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Uttar Pradesh*             4442             39104            193    37156   31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Uttarakhand                410              3284             50     5228    31.12.2015
+                                                                                      
+                                                                                      
+                                                                                      
+West Bengal                1272             19684            294    58882   01.01.2015
+                                                                                      
+                                                                                      
+                                                                                      
+Andaman & Nicobar Islands  27               575              3      500     31.12.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Chandigarh                 0                0                4      778     31.12.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Dadra & Nagar Haveli*      10               273              1      316     31.12.2017
+                                                                                      
+                                                                                      
+                                                                                      
+Daman & Diu                5                240              0      0       31.12.2015
+                                                                                      
+                                                                                      
+                                                                                      
+Delhi                      0                0                109    24383   01.01.2015
+                                                                                      
+                                                                                      
+                                                                                      
+Lakshadweep                9                300              0      0       01.01.2016
+                                                                                      
+                                                                                      
+                                                                                      
+Puducherry                 3                96               11     3473    01.01.2016
+                                                                                      
+                                                                                      
+                                                                                      
+INDIA                      19810            279588           3772   431173            
+                                                                                      
+                                                                                      
+
+    Source: National Health Profile 2018 /Directorate General of State Health Services.
+
+
+    Notes: Government hospitals includes Central government, State government and local govt. bodies.
+
+
+    Figures are Provisional
+
+
+    *States/UTs provided information for the year 2017 and PHCs are also included in the number of hospitals.
+
+
+    State-Wise Distribution of AYUSH Hospitals and Beds as on 1-4-2017
+
+                                                                                        
+Srl no.                   State / UT                 Number of Hospitals  Number of Beds
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                        
+                                                                                                                          
+Govt.                     Local Body                 Others               Total           Govt.  Local Body  Others  Total
+                                                                                                                          
+                                                                                                                          
+                                                                                                                                        
+(1)                       (2)                        (3)                  (4)             (5)    (6)         (7)     (8)    (9)    (10) 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+1                         Andhra Pradesh             8                    0               0      8           365     0      0      365  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+2                         Arunachal Pradesh          11                   0               1      12          100     0      25     125  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+3                         Assam                      4                    0               0      4           205     0      0      205  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+4                         Bihar                      8                    0               0      8           950     0      0      950  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+5                         Chhattisgarh               7                    0               8      15          370     0      470    840  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+6                         Delhi                      4                    0               1      5           390     0      210    600  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+7                         Goa                        0                    2               0      2           0       150    0      150  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+8                         Gujarat                    35                   29              0      64          1495    1763   0      3258 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+9                         Haryana                    4                    0               7      11          145     0      600    745  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+10                        Himachal Pradesh           34                   0               0      34          710     0      0      710  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+11                        Jammu & Kashmir            2                    0               0      2           75      0      0      75   
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+12                        Jharkhand                  1                    4               0      5           50      300    0      350  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+13                        Karnataka                  156                  0               57     213         2455    0      7740   10195
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+14                        Kerala                     162                  0               0      162         4054    0      0      4054 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+15                        Madhya Pradesh             23                   0               0      23          690     0      0      690  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+16                        Maharashtra                5                    0               66     71          812     0      8024   8836 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+17                        Manipur                    10                   0               0      10          0       0      0      0    
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+18                        Meghalaya                  10                   0               0      10          100     0      0      100  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+19                        Mizoram                    2                    0               0      2           100     0      0      100  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+20                        Nagaland                   2                    0               0      2           10      0      0      10   
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+21                        Odisha                     9                    0               5      14          593     0      310    903  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+22                        Punjab                     5                    0               4      9           100     0      108    208  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+23                        Rajasthan                  137                  0               0      137         1391    0      0      1391 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+24                        Sikkim                     1                    0               0      1           10      0      0      10   
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+25                        Tamil Nadu                 293                  0               0      293         2381    0      0      2381 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+26                        Tripura                    4                    0               0      4           60      0      0      60   
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+27                        Uttar Pradesh              2315                 0               1      2316        11361   0      100    11461
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+28                        Uttarakhand                404                  0               1      405         2023    0      50     2073 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+29                        West Bengal                11                   0               11     22          530     0      620    1150 
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+30                        Andaman & Nicobar Islands  5                    0               0      5           90      0      0      90   
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+31                        Chandigarh                 0                    0               2      2           0       0      80     80   
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+32                        Dadra &Nagar Haveli        0                    0               0      0           0       0      0      0    
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+33                        Daman &Diu                 2                    0               0      2           20      0      0      20   
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+34                        Lakshdweep                 0                    0               0      0           0       0      0      0    
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+35                        Puducherry                 0                    0               0      0           0       0      0      0    
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+36                        Telangana                  20                   0               0      20          841     0      0      841  
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                          TOTAL (A)                  3694                 35              164    3893        32476   2213   18337  53026
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                 
+B. CGHS & Central         50                         0                    0               50     2216        0       0      2216 
+Government organizations                                                                                                         
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+TOTAL (A+B)               3744                       35                   164             3943   34692       2213    18337  55242
+                                                                                                                                 
+                                                                                                                                 
+
+    Source: Ministry of AYUSH.
+
+
+    Number of Hospitals and beds maintained by Ministry of Defence, State wise.
+
+                                                                
+S. No.  Name of State              No. of Hospitals  No. of beds
+                                                                
+                                                                
+                                                                
+1       Assam                      08                2357       
+                                                                
+                                                                
+                                                                
+2       Andhra Pradesh             01                306        
+                                                                
+                                                                
+                                                                
+3       Andaman & Nicobar Islands  01                107        
+                                                                
+                                                                
+                                                                
+4       Arunachal Pradesh          01                198        
+                                                                
+                                                                
+                                                                
+5       Bihar                      02                348        
+                                                                
+                                                                
+                                                                
+6       Delhi                      02                1993       
+                                                                
+                                                                
+                                                                
+7       Goa                        02                175        
+                                                                
+                                                                
+                                                                
+8       Gujarat                    05                666        
+                                                                
+                                                                
+                                                                
+9       Haryana                    03                1458       
+                                                                
+                                                                
+                                                                
+10      Himachal Pradesh           06                699        
+                                                                
+                                                                
+                                                                
+11      Jammu & Kashmir            11                2643       
+                                                                
+                                                                
+                                                                
+12      Jharkhand                  02                649        
+                                                                
+                                                                
+                                                                
+13      Karnataka                  03                1090       
+                                                                
+                                                                
+                                                                
+14      Kerala                     05                744        
+                                                                
+                                                                
+                                                                
+15      Madhya Pradesh             07                1402       
+                                                                
+                                                                
+                                                                
+16      Maharastra                 11                4202       
+                                                                
+                                                                
+                                                                
+17      Manipur                    01                74         
+                                                                
+                                                                
+                                                                
+18      Meghalaya                  01                247        
+                                                                
+                                                                
+                                                                
+19      Nagaland                   02                398        
+                                                                
+                                                                
+                                                                
+20      Odisha                     02                147        
+                                                                
+                                                                
+                                                                
+21      Punjab                     10                2990       
+                                                                
+                                                                
+                                                                
+22      Rajasthan                  11                2115       
+                                                                
+                                                                
+                                                                
+23      Sikkim                     02                247        
+                                                                
+                                                                
+                                                                
+24      Tamil Nadu                 03                373        
+                                                                
+                                                                
+                                                                
+25      Telangana                  03                764        
+                                                                
+                                                                
+                                                                
+26      Tripura                    01                49         
+                                                                
+                                                                
+                                                                
+27      Uttarakhand                05                1402       
+                                                                
+                                                                
+                                                                
+28      Uttar Pradesh              15                4570       
+                                                                
+                                                                
+                                                                
+29      West Bengal                07                2107       
+                                                                
+                                                                
+                                                                
+        Total                      133               34520      
+                                                                
+                                                                
+
+    Source: Ministry of Defence
+
+
+    Number of Hospitals and beds in Railways (as on 21/03/2018)
+
+                                                                                                   
+S.No.  Zone / PU                                   Total No. of Hospitals  Total No. of Indoor Beds
+                                                                                                   
+                                                                                                   
+                                                                                                   
+1      Central Railway                             11                      1164                    
+                                                                                                   
+                                                                                                   
+                                                                                                   
+2      Eastern Railway                             8                       1587                    
+                                                                                                   
+                                                                                                   
+                                                                                                   
+3      East central Railway                        9                       819                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+4      East coast Railway                          4                       339                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+5      Northern Railway                            9                       1101                    
+                                                                                                   
+                                                                                                   
+                                                                                                   
+6      North Central Railway                       5                       586                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+7      North East Railway                          6                       927                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+8      North East Frontier Railway                 10                      1107                    
+                                                                                                   
+                                                                                                   
+                                                                                                   
+9      North Western Railway                       8                       584                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+10     Southern Railway                            10                      1131                    
+                                                                                                   
+                                                                                                   
+                                                                                                   
+11     South Central Railway                       7                       714                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+12     South Eastern Railway                       6                       1086                    
+                                                                                                   
+                                                                                                   
+                                                                                                   
+13     South East Central Railway                  5                       250                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+14     South Western Railway                       3                       300                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+15     Western Railway                             9                       976                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+16     West Central Railway                        7                       456                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+17     Intergral Coach Factory                     1                       101                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+18     Rail Coach Factory                          1                       60                      
+                                                                                                   
+                                                                                                   
+                                                                                                   
+19     Chittaranjan Locomotive Works               1                       197                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+20     Diesal Locomotive Works                     1                       105                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+21     Diesel Loco Modernisation Works             1                       50                      
+                                                                                                   
+                                                                                                   
+                                                                                                   
+22     Rail Wheel Factory                          1                       46                      
+                                                                                                   
+                                                                                                   
+                                                                                                   
+23     Research Design and Standards Organization  1                       30                      
+                                                                                                   
+                                                                                                   
+                                                                                                   
+24     Metro/ Kolkata                              1                       30                      
+                                                                                                   
+                                                                                                   
+                                                                                                   
+25     MCF/Raibareli                               1                       2                       
+                                                                                                   
+                                                                                                   
+                                                                                                   
+26     Total                                       126                     13748                   
+                                                                                                   
+                                                                                                   
+
+    Source: National Health Profile 2018 (as on 21/3/2018).
+
+
+    Employees State Insurance Corporation Hospitals and beds (as on 31.03.2017)
+
+                                                                   
+S. No.  States /UTs        Total No. of Hospital  Total No. of Beds
+                                                                   
+                                                                   
+                                                                   
+1       Andhra Pradesh     5                      345              
+                                                                   
+                                                                   
+                                                                   
+2       Assam              1                      75               
+                                                                   
+                                                                   
+                                                                   
+3       Bihar              3                      50               
+                                                                   
+                                                                   
+                                                                   
+4       Chandigarh [Adm.]  1                      70               
+                                                                   
+                                                                   
+                                                                   
+5       Chhattisgarh       0                      0                
+                                                                   
+                                                                   
+                                                                   
+6       Delhi              4                      1416             
+                                                                   
+                                                                   
+                                                                   
+7       Goa                1                      15               
+                                                                   
+                                                                   
+                                                                   
+8       Gujarat            12                     910              
+                                                                   
+                                                                   
+                                                                   
+9       Himachal Pradesh   2                      150              
+                                                                   
+                                                                   
+                                                                   
+10      Haryana            7                      781              
+                                                                   
+                                                                   
+                                                                   
+11      Jammu & Kashmir    1                      50               
+                                                                   
+                                                                   
+                                                                   
+12      Jharkhand          3                      210              
+                                                                   
+                                                                   
+                                                                   
+13      Karnataka          11                     1675             
+                                                                   
+                                                                   
+                                                                   
+14      Kerala             12                     1178             
+                                                                   
+                                                                   
+                                                                   
+15      Madhya Pradesh     7                      725              
+                                                                   
+                                                                   
+                                                                   
+16      Meghalaya          0                      0                
+                                                                   
+                                                                   
+                                                                   
+17      Maharashtra        13                     2390             
+                                                                   
+                                                                   
+                                                                   
+18      Nagaland           0                      0                
+                                                                   
+                                                                   
+                                                                   
+19      Odisha             6                      325              
+                                                                   
+                                                                   
+                                                                   
+20      Puducherry         1                      75               
+                                                                   
+                                                                   
+                                                                   
+21      Punjab             8                      647              
+                                                                   
+                                                                   
+                                                                   
+22      Rajasthan          6                      495              
+                                                                   
+                                                                   
+                                                                   
+23      Sikkim             0                      0                
+                                                                   
+                                                                   
+                                                                   
+24      Tamil Nadu         10                     1856             
+                                                                   
+                                                                   
+                                                                   
+25      Telangana          7                      907              
+                                                                   
+                                                                   
+                                                                   
+26      Tripura            0                      0                
+                                                                   
+                                                                   
+                                                                   
+27      Uttar Pradesh      16                     1886             
+                                                                   
+                                                                   
+                                                                   
+28      Uttarakhand        0                      0                
+                                                                   
+                                                                   
+                                                                   
+29      West Bengal        14                     3534             
+                                                                   
+                                                                   
+                                                                   
+        Total              151                    19765            
+                                                                   
+                                                                   
+
+    Source: National Health Profile 2018.
+
+
+    The Minister of State (Health and Family Welfare), Shri Ashwini Kumar Choubey stated this in a written reply in the Rajya Sabha here today.
+
+
+    *****
+
+
+    MV/LK
+
+
+    
+
+    
+    (Release ID: 1539877) Visitor Counter : 24776
+    
+    
+    
+    
+    
+
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+3.

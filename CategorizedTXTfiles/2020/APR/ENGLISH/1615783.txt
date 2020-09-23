@@ -1,0 +1,62 @@
+      Ministry of Science & Technology
+
+      A predictive model by JNCASR can help prepare for medical needs for COVID 19
+      
+      "Mathematical models are important for predicting the spread of a disease and thus are of value in rational planning and decision making on a variety of fronts such as containment and mitigation strategies and inventory management", says Prof Ashutosh Sharma, Secretary, DST.
+
+      Posted On: 18 APR 2020 6:14PM by PIB Delhi
+
+    A team of researchers from Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) an autonomous institute under the Department of Science &Technology (DST), Government of India along with collaborator from IISc Bengaluru have developed a heuristic predictive model for COVID-19 that provides short-term predictions about the evolution of the disease and the medical needs that are generated as a consequence.
+
+
+    The model focuses on the ‘Achilles’ heel’ of COVID-19 response – medical inventory management. By providing key figures for medical inventories such as PPEs and ventilators, this model can greatly aid a systematic and meticulously planned response to the pandemic. It will provide a full layout of the medical inventory needs, including intensive care, acute care, and medical supplies requirements, district-wise, for the coming weeks. It will also provide a pan-India overview of the development of the pandemic, as well as a state and district-level insight into its progress.
+
+
+    This research is under review, and a version is available in the public domain at medRxiv. The work was carried out by Prof. Santosh Ansumali and Dr. Meher Prakash from JNCASR along with Prof. Aloke Kumar from IISC as an initiative of the office of the Principal Scientific Advisor to Government of India along with Prof P. Sunthar IIT Mumbai and a team from AFMC Pune led by Lieutenant General (Dr) Madhuri Kanitkar. The initial motivation for the work was a request from the Caring Indians team, which is a crowd-sourced response to the pandemic. When this crowd-sourced project started, a key question was what will be India’s projected need for critical medical supplies such as PPEs, ventilators, and so on.
+
+
+    Responding to the question, the team assessed that most modeling and forecasting work for COVID-19, focusing on India, was clustered around the popular epidemiological models like Susceptible-Infected-Recovered (SIR) model. These models have a serious shortcoming because many aspects of the disease are yet unknown, and models were proceeding with ‘educated guesses’ on key parameters. However, they realized that in many nations, COVID-19 evolution had key similarities, and as these nations were ahead in the curve, these key similarities could be exploited for predictive heuristics -- allowing rapid calculation of disease evolution.
+
+
+    "Mathematical models are important for predicting the spread of a disease and thus are of value in rational planning and decision making on a variety of fronts such as containment and mitigation strategies and inventory management. Since there are many uncertainties in the parameters of such models, a different approach pursued here could be valuable in that the model adopts or tunes to the data and knowledge gained from other countries in similar phases of evolution of the disease", saidProf Ashutosh Sharma, Secretary, DST.
+
+
+    Prof. K.R. Sreenivas, Chairman, Engineering Mechanics Unit, JNCASR, says that the adoptive model is successful in monitoring the progression of the disease and is handy for planers to mitigated Covid19 crisis in India.
+
+
+    According to Dr. M. Vidyasagar, FRS, National Science Chair and Distinguished Professor: The predictive model for the progress of COVID-19 developed by Profs. Ansumali and Kumar is quite novel and has wider applicability than almost any other existing model. The model can help Indian authorities to get accurate projections of the requirements for critical resources such as ICU beds, ventilators, and the like.
+
+
+    https://www.medrxiv.org/content/10.1101/2020.04.08.20057414v1
+
+
+    https://arxiv.org/submit/31335
+
+      
+  
+    
+
+
+    Fig: Detecting the “stable phase” (colored
+
+
+    yellow), which represents the broad peak
+
+
+    among the fluctuations of daily new cases. The exponentially rising (red) and declining phases (green) are also shown).
+
+
+    [For more details, please contact Prof. Ansumali ansumali@jncasr.ac.in ansumali@gmail.com Mob: 9449799801]
+
+
+    ****
+
+
+    KGS/(DST)
+
+    
+    
+    (Release ID: 1615783) Visitor Counter : 456
+    
+    
+      Read this release in: Urdu , Hindi , Gujarati , Tamil , Telugu

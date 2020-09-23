@@ -1,0 +1,143 @@
+      Ministry of Railways
+
+      Latest technology for railway safety
+      Posted On: 20 JUL 2018 4:44PM by PIB Delhi
+
+
+    Initiative for following systems which are partly ‘Make in India’ have been taken:-
+
+  * An Automatic Train Protection (ATP) System called Auxiliary Warning System (AWS) is presently functional on 364 RKMs in the Mumbai suburban section of Central Railway (240 RKMs) and Western Railway (124 RKMs).                                               
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+  * Complete Track Circuiting of stations to enhance safety for verification of track occupancy by electrical means instead of human element is completed at about 5989 stations upto 31.05.2018.                                                                   
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+  * Axle Counter for Automatic clearance of Block Section (BPAC) to ensure complete arrival of train without manual intervention before granting line clear to the next train and to reduce human element have been provided on 5117 block sections upto 31.05.2018.
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+  * Interlocking of Level Crossing Gates to protect Level Crossing Gate with signals to avoid accidents has been done at 11057 gates upto 31.05.2018.                                                                                                               
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+  * Integrated Track Monitoring System (ITMS) capable of recording identifiable track component defects.                                                                                                                                                            
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+  * Self Propelled Ultrasonic Rail Testing (SPURT) Cars for detection of internal flaws in rails.                                                                                                                                                                   
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+  * Axle box level accelerometers to monitor track defects daily                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    
+
+    Following improvements in techniques/technology have been adopted during last 2 years:-
+
+  * Automatic Train Protection (ATP) System called Train Protection and Warning System (TPWS) has been implemented on 342 RKMs (200 RKMs Delhi-Agra Section, 117 RKMs Chennai Suburban section and 25 RKMs of Metro Railway, Kolkata).                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * An ATP System being indigenously developed called Train Collision Avoidance System (TCAS) is under trial on 250 RKMs of South Central Railway as a pilot project.                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * Automatic Train Protection system (ETCS Level-2) has been included in the Works Programme 2018-19 for implementation for complete 60,000 RKMs on Broad Gauge network of Indian Railways subject to expenditure on this project to be made only after following due processes/mandatory approvals and sanctions.                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * Electrical/Electronic Interlocking System with centralized operation of points and signals are being provided to eliminate human failure and to replace old mechanical systems. These systems have been provided at 5781 stations upto 31.05.2018.                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * Crew Voice/Video recording system ensures the effective and temper proof video and voice recording of locomotive cab for post failure event analysis. Loco No. 32001 fitted with Crew Voice/Video recording system has been commissioned in December, 2017 on trial basis                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * Online Monitoring of Rolling Stock (OMRS) system monitors defective bearing, wheel flats and defect report are generated on real time basis and corrective action is taken. Of the 65 OMRS planned for installation on Indian Railways network, the first one has been installed at Panipat Station and the remaining are at various stages of installation.                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * 15 Nos. of Wheel Impact Load Detectors (WILDs) to automatically identify the defective wheels in Rolling Stock by measuring the impact of wheels on track are operational in Indian Railways                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * Mechanised preheating, Three piece prefabricated mould, Auto Tapping Thimble, Single short crucible has been provided for improved quality of welding.                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * New specifications for Ultrasonic Flaw Detection (USFD) testing machines have been issued by Research Design & Standards Organization (RDSO) which has features for location tagging, time stamping of recording and improved scan (B-scan) capability.                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * Thick web Switches & Weldable CMS Crossings have been introduced. This will help in better track maintenance and safety.                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * Advanced Integrated Track Monitoring System (ITMS) and Self Propelled Ultrasonic Rail Testing (SPURT) cars.                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * A work for daily track health monitoring through deploying Axle Box Level Accelerometers on one/two bogies of Rajdhani type trains on Group–A route has been sanctioned. This will ensure daily monitoring of track defects on routes covered.                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                            
+  * Indian Railways has already adopted the technological upgradation in safety aspects of coaches and wagons by way of introducing Modified Centre Buffer couplers, Bogie Mounted Air Brake System (BMBS). Improved suspension design and provision of Automatic fire and smoke detection system in coaches are being carried out which would eventually lead to enhanced safety standards.
+                                                                                                                                                                                                                                                                                                                                                                                            
+
+    This information was given by the Minister of State of Railways Shri Rajen Gohain in a written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    APS/MKV/ENS
+
+    
+    
+    (Release ID: 1539461) Visitor Counter : 976
+    
+    
+    
+    
+    
+
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+* 
+  
+*

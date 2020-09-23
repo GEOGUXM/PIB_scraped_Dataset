@@ -1,0 +1,107 @@
+      Ministry of Finance
+
+      Financial Resolution and Deposit Insurance (FRDI) Bill, 2017 seeks to protect and enhance the depositors’ existing rights and bring in a comprehensive and efficient resolution regime for financial firms.
+      Posted On: 02 JAN 2018 4:07PM by PIB Delhi
+
+
+    Rationale for the Financial Resolution and Deposit Insurance Bill, 2017
+
+
+    There is no comprehensive and integrated legal framework for resolution, including liquidation, of financial firms in India presently.
+
+
+      * The powers and responsibilities for resolution of financial services providers are given under multiple laws to regulators, Government and the Courts, which does not facilitate development of specialised resolution capabilities. Also, because of this dispersed role definition, resolution of financial conglomerates becomes difficult.
+
+
+      * The resolution instruments presently available under the respective legislations are limited, and so is guidance on the process leading up to the resolution. For example, the Reserve Bank of India (RBI) is empowered to take certain resolution actions with respect to banks, branches of foreign banks in India, and cooperative banks. However, these resolution powers are quite limited. RBI can effect change in bank management, or impose moratorium and recommend mandatory mergers. In the case of a bank, typically either of the two methods of resolution has been used, that is, amalgamation or merger of a weak bank with another bank; or winding up of the bank. Other resolution instruments are not available.
+
+
+      * The Central Government has the power to restructure public sector banks, and regional rural banks. Non-banking financial companies can be liquidated or wound up under law by High Courts only, either voluntarily or on the application of RBI. Resolution regimes for insurance companies, financial market infrastructure, and other financial services providers are also quite inadequate. The current resolution regime is especially inappropriate for private sector financial firms in the light of significant expansion of private financial firms and many of these acquiring systemically important status in India. The Insolvency and Bankruptcy Code, 2016 has introduced in the country a comprehensive resolution regime for mainly non-financial firms, but such a regime is not available in the country for financial firms.
+
+
+        The Financial Resolution and Deposit Insurance Bill, 2017 (FRDI Bill) will replace the existing resolution regime by providing a comprehensive resolution regime that will help ensure that, in the rare event of failure of a financial service provider, there is a system of quick, orderly and efficient resolution in favour of depositors.
+
+
+      * The impact of failures of financial services providers is much wider and can have a systemic effect on the economy and financial stability of a country, unlike traditional insolvency, where the affected parties are mostly limited to the creditors of the insolvent entity. Since financial service providers handle consumer funds, some of them are critical for financial stability, and therefore, it is important to resolve failing financial service providers expeditiously through a specialised resolution process, as lengthy resolution proceedings can lead to losses for consumers, or instability in the financial system.
+
+
+      * The FRDI Bill proposes to establish a Resolution Corporation and a comprehensive resolution regime to enable timely and orderly resolution of a failing financial firm. Such institutional framework for expeditious resolution of financial firms exists in most other comparable countries. Further, it is favourable for depositors if in case of bank failures, a bank is resolved rather than liquidated, because the depositors are expected to get a much higher value in resolution of the bank as a going concern than in liquidation.
+
+
+      * It provides for detecting incipient insolvencies in financial firms by introducing a five-stage health classification of financial firms and stepping in to appropriately nurse a financial firm at the stage when its health becomes weak and it is classified in the category of material risk to viability, much before it is it is classified in the category of critical risk to viability when there might be no option but to resolve or liquidate the financial firm.
+
+
+      * FRDI Bill also introduces a menu of resolution tools, including transfer of whole or parts of the assets and liabilities of a financial firm to another person, acquisition, merger or amalgamation, bridge service provider, and bail-in, and mandates recovery and resolution planning obligations to enable careful monitoring of risk to viability of a financial firm.
+
+
+      * The FRDI Bill also transfers the deposit insurance functions from the Deposit Insurance and Credit Guarantee Corporation to the Resolution Corporation, targeting at an integrated approach to the depositor protection and resolution.
+
+
+        Protection and enhancement of depositors’ rights under the FRDI Bill
+
+
+        The FRDI Bill does not modify present protections to the depositors adversely at all. The FRDI Bill provides only additional protections to the depositors in a more transparent manner, the details of which are as follows.
+
+
+      * At present, deposits with banks are insured upto Rs. 1 lakh. The similar protection would continue under the FRDI Bill and the Resolution Corporation is empowered to increase the deposit insurance amount.
+
+
+      * The uninsured depositors, that is, beyond Rs. 1 lakh, of a banking company are treated on par with unsecured creditors under the present law and paid after preferential dues, including Government dues, in the event of its liquidation. As per the provisions of the FRDI Bill, the claims of uninsured depositors in the case of liquidation of a bank will be higher than those of the unsecured creditors and Government dues. Therefore, the rights of uninsured depositors will be better protected and such depositors will have an elevated status in the FRDI Bill compared to the existing legal arrangements.
+
+
+      * Thus, the interests of depositors (both insured and uninsured) would be better protected under the FRDI Bill.
+
+
+        Bail-in provision
+
+
+        Indian Banks have adequate capital and are also under prudent regulation and supervision to ensure safety and soundness, as well as systemic stability. The existing laws ensure the integrity, security and safety of the banking system. In India, all possible steps and policy measures are taken to prevent the failure of banks and protection of interests of depositors (e.g. issue of directions / prompt corrective action measures, capital adequacy and prudential norms).
+
+
+        Bail in has been proposed as one of the resolution tools in the event a financial firm is sought to be sustained by resolution. Certain misgivings have been expressed in the media, especially social media, regarding the depositor protection in the context of “bail-in” provisions of the FRDI Bill. These misgivings are entirely misplaced. The Government always stands ready to take care of the capital needs of the public sector banks. Bail-in amounts to liabilities’ holders bearing a part of the cost of resolution by reduction in their claims. Bail-in is only one of many resolution tools in the FRDI Bill; others are acquisition, merger and bridge service provider, and is to be used either singly or in combination with other tools. Bail in provision may not be required to be used in case of any specific resolution. Most certainly, it will not be used in case of a public sector bank as such a contingency is not likely to arise.
+
+
+        Following formal safeguards have been built in the FRDI Bill pertaining to the appropriate use of bail-in, whereas the rights or interests of depositors can be, inter-alia, reduced in case of forced merger of a banking company with another bank under the present law without these explicit safeguards.
+
+
+      * Insured deposits of banks can not be used in case of bail-in.
+
+
+      * The Resolution Corporation will have the option to design an appropriate bail-in instrument, which will be subject to Government scrutiny and oversight of the Parliament.
+
+
+      * Cancellation of the liability of the depositor beyond insured amount will be possible only with the prior consent of the depositor. On the other hand, in case of the forced mergers of banks under the Banking Regulation Act, 1949, the right of depositors of a merging bank (transferor bank) can be reduced and has been reduced, without the consent of depositors.
+
+
+      * Bail-in power can be used in a judicious and reasonable manner only by the Resolution Corporation and it will have to ensure that all creditors, including uninsured depositors, get at least such value, which they would have received in the event of liquidation of a bank. In case of injudicious and unreasonable exercise of bail-in power by the Resolution Corporation, for example, where the depositors of a bank get less value than in liquidation, such affected depositors will have the right to get compensation from the Resolution Corporation on an order of the National Company Law Tribunal.
+
+
+        The FRDI Bill does not prohibit the Government from extending support to banks
+
+
+        The FRDI Bill does not propose in any way to limit the scope of powers for the Government to extend financing and resolution support to banks, including public sector banks. Government’s implicit guarantee for solvency of public sector banks remains unaffected as the Government remains committed to adequately capitalise the public sector banks and improve their financial health. The Government is committed to protecting the existing protection to depositors and providing additional protection to them.
+
+
+        Examination of the FRDI Bill by the Joint Committee of Parliament on FRDI Bill
+
+
+        The FRDI Bill, introduced in the Lok Sabha on August 10, 2017, is presently under the consideration of the Joint Committee of the Parliament, which is consulting all the stakeholders on the provisions of the FRDI Bill. The Joint Committee of Parliament has been asked to submit their Report to the Parliament by the last day of the Budget Session, 2018. The Government is awaiting the recommendations of the Joint Committee of Parliament in regard to the FRDI Bill and would favourably consider the recommendations.
+
+
+    *****
+
+
+    DSM/SBS/KA
+
+
+    
+
+    
+    (Release ID: 1514988) Visitor Counter : 6675
+    
+    
+    
+    
+    
+
+*

@@ -1,0 +1,21 @@
+      Ministry of Women and Child Development
+
+      Adoption Services through CARINGS portal continue to remain secure and functional inspite of “unauthorised intrusion” into CARA Website
+      Posted On: 24 MAR 2017 7:32PM by PIB Delhi
+
+
+    On 24 Mar 2017 around 1:45 pm, CARA website faced "unauthorised intrusion" wherein the Home page of the website www.cara.nic.in was defaced and a message was posted by the Hacker. Although there wasn’t any disruption in the services being provided, the website was immediately blocked by the National Informatics Centre after an attempted hack was noticed.
+    
+    The application providing the adoption services i.e. Child Adoption Resource Information and Guidance System (CARINGS) is secure and functional. Hence, no sensitive data has been compromised and the services have been restored by placing the link directly for access by all our stake holders.
+    
+    The logs of the server firewall are being checked by the National Informatics Centre and the complete page on the website would be hosted back after checking the vulnerabilities through a security audit.
+    *****
+
+    
+
+    
+    NB/UD
+
+    
+    
+    (Release ID: 1485658) Visitor Counter : 111

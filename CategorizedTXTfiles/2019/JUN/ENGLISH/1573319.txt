@@ -1,0 +1,36 @@
+      Ministry of Finance
+
+      Clarifications on filing of Annual Return (FORM GSTR-9)
+      Posted On: 04 JUN 2019 11:21AM by PIB Delhi
+
+
+    The last date for filing of Annual return in FORM GSTR-9 is 30 th June 2019. The trade and industry have raised certain queries with respect to filing of this Annual return which are being clarified as follows:
+
+         1. Information contained in FORM GSTR-2A as on 01.05.2019 shall be auto-populated in Table 8A of FORM GSTR-9 .
+         2. Input Tax Credit on inward supplies shall be declared from April 2018 to March 2019 in Table 8C of FORM GSTR-9 .
+         3. Particulars of the transactions for FY 2017-18 declared in returns between April 2018 to March 2019 shall be declared in Pt. V of FORM GSTR-9 . Such particulars may contain details of amendments furnished in Table 10 and Table 11 of FORM GSTR-1 .
+         4. It may be noted that irrespective of when the supply was declared in FORM GSTR-1 , the principle of declaring a supply in Pt. II or Pt. V is essentially driven by when was tax paid through FORM GSTR-3B in respect of such supplies. If the tax on such supply was paid through FORM GSTR-3B between July 2017 to March 2018 then such supply shall be declared in Pt. II and if the tax was paid through FORM GSTR-3B between April 2018 to March 2019 then such supply shall be declared in Pt. V of FORM GSTR-9 .
+         5. Any additional outward supply which was not declared by the registered person in FORM GSTR-1 and FORM GSTR-3B shall be declared in Pt.II of the FORM GSTR-9 . Such additional liability shall be computed in Pt.IV and the gap between the “tax payable” and “Paid through cash” column of FORM GSTR-9 shall be paid through FORM DRC-03 .
+         6. Many taxpayers have reported a mismatch between auto-populated data and the actual entry in their books of accounts or returns. One common challenge reported by taxpayer is in Table 4 of FORM GSTR-9 where details may have been missed in FORM GSTR-1 but tax was already paid in FORM GSTR-3B and therefore taxpayers see a mismatch between auto-populated data and data in FORM GSTR-3B . It may be noted that auto-population is a functionality provided to taxpayers for facilitation purposes, taxpayers shall report the data as per their books of account or returns filed during the financial year.
+         7. Many taxpayers have represented that Table 8 has no row to fill in credit of IGST paid at the time of import of goods but availed in the return of April 2018 to March 2019. Due to this, there are apprehensions that credit which was availed between April 2018 to March 2019 but not reported in the annual return may lapse. For this particular entry, taxpayers are advised to fill in their entire credit availed on import of goods from July 2017 to March 2019 in Table 6(E) of FORM GSTR-9 itself.
+         8. Payments made through FORM DRC-03 for any supplies relating to period between July 2017 to March 2018 will not be accounted for in FORM GSTR-9 but shall be reported during reconciliation in FORM GSTR-9C .
+
+    All the taxpayers are requested to file their Annual Return ( FORM GSTR-9 ) at the earliest to avoid last minute rush.
+
+
+    *****
+
+
+    DSM/RM/PM
+
+    
+    
+    (Release ID: 1573319) Visitor Counter : 2013
+    
+    
+      Read this release in: Urdu , Hindi , Bengali
+    
+    
+    
+
+8.

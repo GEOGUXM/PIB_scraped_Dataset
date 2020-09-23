@@ -1,0 +1,95 @@
+      Ministry of Civil Aviation
+
+      Conditional exemption to Government entities for COVID-19 related Drone/RPAS operations via GARUD portal
+      Posted On: 05 MAY 2020 7:06PM by PIB Delhi
+
+
+    Ministry of Civil Aviation (MoCA) and Directorate General of Civil Aviation (DGCA) have launched the GARUD portal ( https://garud.civilaviation.gov.in ) for providing fast track conditional exemptions to government agencies for COVID-19 related RPAS (Remotely Piloted Aircraft System)/ drone operations.
+
+
+    GARUD is an acronym for ‘Government Authorisation for Relief Using Drones’. Getting the necessary approvals from Competent Authority and launching the portal in less than two weeks is a testimony of the hard work and dedication of various officials at MoCA, DGCA, AAI and NIC involved in the process. In a short period of eight days after getting the go-ahead, the portal was designed, developed, beta-tested, and launched by Mr. Vikram Singh, Senior System Analyst, National Informatics Centre (NIC) New Delhi, working alone at home.
+
+
+    The rules and regulations related to operation of Remotely Piloted Aircraft ("RPA") are covered under Rule 15A of Aircraft Rules, 1937 and Civil Aviation Requirements ("CAR") Section 3 Series X Part I dated 27.8.2018 issued by Directorate General of Civil Aviation (DGCA).
+
+
+    The Conditional Exemption, if granted, is subject to the following conditions:
+
+      * The Conditional Exemption shall be limited to RPA deployed by a Government entity for aerial surveillance, aerial photography and public announcements related to COVID-19. For other RPA activities, even if related to COVID-19 operations, permission shall be sought separately from MoCA and DGCA as per normal procedure.
+
+      * The Conditional Exemption shall be limited to battery-operated rotary-wing RPA only. Use of any other type of RPA, including but not limited to, fixed-wing RPA and autonomous RPA etc. is strictly prohibited.
+
+
+      * The responsibility of safe operation of the RPA shall rest entirely with the Government entity. Each RPA operation shall be carried out under the overall supervision and control of the Government Entity. The RPA shall, at no time, pose a risk to life, property or any other manned/ unmanned aircraft.
+
+
+      * The Government Entity may operate its own RPA or engage a third-party RPA service provider ("RSP") to provide and/or operate the RPA. The security verification and capability assessment of the RSP and the RSP's RPA operators shall be the sole responsibility of the Government Entity and should be completed before operating the RPA.
+
+
+      * The Government Entity shall be responsible for the custody, security and access control of the RPA at all times and shall be responsible for any third-party liability in case of any damage caused by the RPA.
+
+
+    The RPA and its operation shall comply with the following conditions :
+
+
+      * The RPA shall have a Unique Identification Number (UIN) and/or Drone Acknowledgement Number (DAN) issued by DGCA;
+
+      * The RPA shall not exceed a total all-up weight of 25 kg;
+      * The RPA shall be equipped with an automatic return-to-home feature in case of any loss of the command-and-control link;
+      * The operation shall be restricted to a height of 200 feet Above Ground Limit (AGL);
+      * The RPA shall be operated within visual line of sight (VLOS) at all times;
+      * The RPA shall be operated while maintaining safe distance from people, buildings, vehicles and property at all times;
+      * The RPA shall not pick, drop, spray or discharge any substance ;
+      * The RPA operation shall be restricted to a period between local sunrise and local sunset.
+      * RPA operation shall be avoided during adverse weather conditions, including but not limited to, heavy winds, rain, dust storms, low visibility etc.;
+      * The operator shall be adept in handling the RPA at all stages of flight especially emergency recovery actions in case of any component failure;
+      * All RPA flights shall be immediately terminated when the battery reserve is reduced to 15 minutes; and
+      * No person shall act as a remote pilot for more than one RPA operation at any time.
+
+    No RPA operation shall be undertaken in the following geographical areas:
+
+
+      * Within a distance of 5 km from the perimeter of airports at Mumbai, Delhi, Chennai, Kolkata, Bengaluru and Hyderabad;
+
+      * Within a distance of 3 km from the perimeter of any civil, private or defence airports, other than those mentioned in Para (a) abov.e;
+      * Within permanent or temporary Prohibited, Restricted and Danger Areas including Temporary Reserved Airspace (TRA), and Temporarily Segregated Areas (TSA}, as notified in the Aeronautical Information Publication (AIP);
+      * Within 25km from international border which includes Line of Control (LoC), Line of Actual Control (LAC) and Actual Ground Position Line (AGPL);
+      * Beyond 500m (horizontal) into sea from coast line provided the location of ground station is on fixed platform over land;
+      * Within 3 km from perimeter of military installations/ facilities/ where military activities/ exercises are being carried out unless clearance is obtained from the local military installation/facility;
+      * Within 5 km radius from Vijay Chowk in Delhi. This is subject to additional conditions/ restrictions imposed by local law enforcement agencies/ authorities.
+      * Within 2 km from perimeter of strategic locations/ vital installations notified by Ministry of Home Affairs (MHA) unless clearance is obtained from MHA;
+      * From a mobile platform such as a moving vehicle, ship or aircraft; and
+      * Over eco-sensitive zones around National Parks and Wildlife Sanctuaries notified
+
+    by Ministry of Environment , Forests and Climate Change without prior permission.
+    Within 3 km radius from State Secretariat Complex in State Capitals
+
+
+    The provisions of this Public Notice shall remain in force until further orders.
+
+
+    The Government of India reserves the right to modify, withdraw or extend the provisions of this Public Notice, without providing any reasons whatsoever.
+
+
+    Any violation of the provisions of this Public Notice shall make the Conditional Exemption null and void; and shall lead to penal action as per applicable law.
+
+
+    Link to Public Notice .
+
+
+    ****
+
+
+    RJ/NG
+
+    
+    
+    (Release ID: 1621250) Visitor Counter : 903
+    
+    
+      Read this release in: Urdu , Hindi , Marathi , Assamese , Punjabi , Odia , Tamil , Telugu
+    
+    
+    
+
+*

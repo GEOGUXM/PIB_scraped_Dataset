@@ -1,0 +1,39 @@
+      Election Commission
+
+      Voter registration services get more accessible with Helpline at number 1950
+      Posted On: 22 FEB 2019 8:00PM by PIB Delhi
+
+
+    In view of the impending General Elections, the Election Commission of India has strengthened its Voter Helpline to make it easy for the Voters to get authentic information pertaining to their voter registration. The range of services provided by the Helpline Number 1950 have been refurbished and made easily accessible.
+
+
+    The enrolled electors in the Electoral Roll can check the details of their personal information, the Polling Station planned for them to visit on the Poll Day and to know the contact details of Booth Level Officers, Electoral Registration Officers and District Election Officers, by using the Voter Helpline Mobile App or through www.nvsp.in portal or by calling 1950 Helpline Number. In the same line, services through SMS can also be availed by citizens by sending SMS without any cost to 1950. Formats in which such SMSs can be sent are:
+
+     1. ECI <EPIC Number> <0 (for reply in English) or <1 (for reply in the regional language).
+     2. ECIPS <EPIC Number>
+
+    This will fetch the address of the Polling Station, where the said EPIC Number bearer needs to go to cast the vote.
+
+     1. ECICONTACT <EPIC Number>
+
+    This will fetch the reply providing the sender with contact details of Booth Level Officers, Electoral Registration Officers and District Election Officers.
+
+
+    Since mere possession of EPIC Card is not enough for the electors but their names should also be there in the electoral roll for enabling them to cast their vote on the poll day, it is necessary that the citizens/electors should check that their names figure in the electoral rolls. If they are not enrolled, they can submit Form 6 online through www.nvsp.in or submit the form through Mobile APP or hard copy to the respective ERO Offices. If there is any correction needed, they can submit Form 8 for necessary correction online through NVSP or through Mobile App or hard copy to respective ERO offices. Also if their addresses are changed within the part, they need to submit Form 8A on the same lines as above.
+
+
+    It is also clarified that all these services can be obtained directly or by approaching the concerned officials appointed by the Election Commission of India. ECI has not authorized any intermediaries to provide these services.
+
+
+    SBS
+
+    
+    
+    (Release ID: 1566029) Visitor Counter : 657
+    
+    
+    
+    
+    
+
+1.

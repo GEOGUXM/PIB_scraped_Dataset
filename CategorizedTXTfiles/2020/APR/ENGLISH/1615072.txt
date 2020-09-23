@@ -1,0 +1,32 @@
+      Ministry of Science & Technology
+
+      CeNS develops portable sensor to ease heavy metal detection in water
+      Posted On: 16 APR 2020 6:47PM by PIB Delhi
+
+
+    C entre for Nano and Soft Matter Sciences (CeNS) has developed a compact solid-state sensor to detect the heavy metal ions in water. It is a portable device which can help onsite detection in remote areas.
+
+
+    Heavy metal ions such as lead, mercury and cadmium pose severe potential threats to living beings as they can easily be accumulated in the body and cannot be detoxified by any chemical or biological processes. The health hazards associated with heavy metal ions in water demands the development of efficient and portable sensors for rapid onsite detection of these ions. There is an urge to develop visual sensors, which can effectively detect heavy metal ions rapidly (within seconds) under ambient conditions.
+
+
+    A team of researchers led by Dr. Pralay K. Santra at Centre for Nano and Soft Matter Sciences have developed a compact solid-state sensor to detect the heavy metal ions, e.g., lead ions (Pb2+) down to 0.4 parts per billion (ppb) for efficient onsite detection. The sensor film was prepared by forming a composite between manganese doped zinc sulfide quantum dots and reduced graphene oxide on a glass substrate. These particular quantum dots are water-soluble and have high photoluminescence (~ 30 %) quantum yield, making them suitable for luminescence-based sensing. These quantum dots can be excited with handheld UV light of 254 nm, thus making it a portable device even to remote areas. If a drop of water containing heavy metal ions such as mercury, lead, cadmium, etc. are added to the composite film, the emission of the film quenches within seconds.
+
+
+    This study demonstrates the easy detection of heavy metal ions in water; however, the team is developing strategies to improve the selectivity of the detection.
+
+
+    [Reference: Origin of Luminescence-based Detection of Metal Ions by Mn doped ZnS Quantum Dots; TrupthiDevaiahChonamada, Bhagwati Sharma, Jayashree Nagesh, Abhishek Shibu, Shyamashis Das, KommulaBramhaiah, NasaniRajendar, Neena S. John, Pralay K. Santra; Chemistry Select. 2019, 4, 13551 (DOI:10.1002/slct.201903769)]
+
+
+    ****
+
+
+    KGS/(DST)
+
+    
+    
+    (Release ID: 1615072) Visitor Counter : 656
+    
+    
+      Read this release in: Hindi , Gujarati , Tamil

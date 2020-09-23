@@ -1,0 +1,98 @@
+      Department of Space
+
+      Year End review: Department of Space
+      Posted On: 28 DEC 2018 3:12PM by PIB Delhi
+
+
+    Announcement of Manned mission: While addressing the nation from the ramparts of the Red Fort on the 72nd Independence Day, the Prime Minster, Shri Narendra Modi announced that India has resolved to send manned spacecraft to the space by 2022 and India will be the fourth country to do this. So far, only the USA, Russia and China have launched human spaceflight missions. While addressing a press conference in New Delhi on 28 th August, ISRO Chairman, Dr. K. Sivan said that Indian Space Research Organisation (ISRO) has the capabilities to accomplish this task by the given timeframe. ISRO has developed some critical technologies like re-entry mission capability, crew escape system, crew module configuration, thermal protection system, deceleration and floatation system, sub-systems of life support system etc. required for this programme. Some of these technologies have been demonstrated successfully through the Space Capsule Recovery Experiment (SRE-2007), Crew module Atmospheric Reentry Experiment (CARE-2014) and Pad Abort Test (2018). These technologies will enable ISRO in accomplishing the programme objectives in a short span of 4 years.
+
+
+    Launches by ISRO
+
+
+    i). ISRO’s Polar Satellite Launch Vehicle, in its forty second flight, PSLV-C40 successfully launched the 710 kg Cartosat-2 Series Remote Sensing Satellite along with 30 co-passenger satellites on 12 th January, 2018, from Satish Dhawan Space Centre SHAR, Sriharikota. The 11 kg INS-1C and the 100 kg class Microsat were the two Indian co-passenger satellites of Cartosat-2. The 28 international customer satellites belonged to Canada, Finland, France, Republic of Korea, UK and the USA.
+
+
+    ii). India's Geosynchronous Satellite Launch Vehicle (GSLV-F08) successfully launched GSAT-6A Satellite into Geosynchronous Transfer Orbit (GTO) on 29 th March, 2018. This was the fifth consecutive success achieved by GSLV carrying indigenously developed Cryogenic Upper Stage. GSAT-6A is a communication satellite built by ISRO to provide mobile communication services through multi beam coverage. For this, it is equipped with S and C band transponders.
+
+
+    iii). In its forty third flight, ISRO’s Polar Satellite Launch Vehicle PSLV-C41 successfully launched the 1,425 kg IRNSS-1I Navigation Satellite on 12 th April, 2018, from Satish Dhawan Space Centre SHAR, Sriharikota. IRNSS-1I is the latest member of the ‘Navigation with Indian Constellation (NavIC)’ system. NavIC, also known as Indian Regional Navigation Satellite System (IRNSS), is an independent regional navigation satellite system designed to provide position information in the Indian region and 1,500 km around the Indian mainland.
+
+
+    iv). The Polar Satellite Launch Vehicle (PSLV-C42) of ISRO successfully launched two satellites -- NovaSAR and S1-4-- from the Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota on 16 th September, 2018. The satellites belong to UK-based Surrey Satellite Technology Limited (SSTL), which has a contract with Antrix Corporation Ltd, the commercial arm of ISRO. NovaSAR carries S-band Synthetic Aperture Radar (SAR) and an Automatic Identification Receiver payloads. The satellite applications include forestry mapping, land use and ice cover monitoring, flood and disaster monitoring and maritime missions. It will be operated from SSTL’s Spacecraft Operations Centre in Guildford, UK. S1-4 is a high resolution earth observation satellite meant for surveying resources, environment monitoring, urban management and disaster monitoring.
+
+
+    v). ISRO’s Polar Satellite Launch Vehicle (PSLV-C43) successfully launched 31 satellites from Satish Dhawan Space Centre (SDSC) on 29 th November, 2018, in Sriharikota. HysIS is an earth observation satellite built around ISRO’s Mini Satellite2 (IMS-2) bus weighing about 380kg. The mission life of the satellite is five years. The primary goal of HysIS is to study the earth’s surface in both the visible, near infrared and shortwave infrared regions of the electromagnetic spectrum. HysIS had the company of one micro and 29 nano-satellites from eight countries, including Australia (1), Canada (1), Columbia (1), Finland (1), Malaysia (1), Netherlands (1), Spain (1) and USA (23).
+
+
+    vi). India’s GSAT-29 communication satellite was successfully launched by the second developmental flight of Geosynchronous Satellite Launch Vehicle MarkIII (GSLV MkIII-D2) today from the Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota, on 14 th November, 2018. GSLV Mk III is a three-stage heavy lift launch vehicle developed by the Indian Space Research Organisation (ISRO). GSAT-29 is a multiband, multi-beam communication satellite, intended to serve as test bed for several new and critical technologies. Its Ku-band and Ka-band payloads are configured to cater to the communication requirements of users including those from remote areas especially from Jammu & Kashmir and North-Eastern regions of India.
+
+
+    vii). ISRO’s heaviest and most-advanced high throughput communication satellite GSAT-11 was successfully launched from the Spaceport in French Guiana during the early hours on 5 th December, 2018. GSAT-11 will act as a forerunner to all future high throughput communication satellites. The 5,854-kg GSAT-11 will provide high data rate connectivity to users of Indian mainland and islands through 32 user beams in Ku-band and 8 hub beams in Ka-band.
+
+
+    viii). ISRO’s Geosynchronous Satellite Launch Vehicle (GSLV-F11) successfully launched the communication satellite GSAT-7A from the Satish Dhawan Space Centre (SDSC) in Sriharikota on 19 th December, 2018. GSAT-7A is the heaviest satellite launched by GSLV with an indigenously developed cryogenic stage. GSAT-7A is an advanced communication satellite with a Gregorian Antenna and many other new technologies.
+
+
+    On 6 th June, 2018, the Union Cabinet chaired by Prime Minister Shri Narendra Modi has approved the PSLV Continuation Programme (Phase 6) and funding of thirty PSLV operational flights under the Programme. The Programme will also meet the launch requirement of satellites for Earth observation, Navigation and Space Sciences. This will also ensure the continuity of production in Indian industry. The total fund requirement is Rs. 6131.00 Crores and includes the cost of thirty PSLV vehicles, essential facility augmentation, Programme Management and Launch Campaign. The Cabinet also approved funding for the Geosynchronous Satellite Launch Vehicle Mark-III (GSLV Mk-III) continuation programme (Phase-I) consisting of ten (10) GSLV (Mk-III) flights, at a total estimated cost of Rs. 4338.20 crores.
+
+
+    Discovery of a sub-Saturn or super-neputune size planet
+
+
+    A Team of scientists and engineers led by Prof. Abhijit Chakraborty of Physical Research Laboratory (PRL), Ahmedabad, discovered a sub-Saturn or super-neputune size planet (mass of about 27 Earth Mass and size of 6 Earth Radii) around a Sun-like star. The planet will be known as EPIC 211945201b or K2-236b. With this discovery, India has joined a handful of countries, which have discovered planets around stars beyond our solar system. Further, PARAS is the first of its kind spectrograph in Asia, which can measure the mass of a planet going around a star. Very few spectrographs exist around the world that can do such precise measurements.
+
+
+    Pad Abort Test successful to qualify Crew Escape System required for Human Spaceflight The ISRO carried out Pad Abort Test successfully to qualify Crew Escape System required for Human Spaceflight, on 5th July 2018 from Satish Dhawan Space Centre, Sriharikota. As part of the activities for development of critical technologies for future Human Spaceflight, Pad Abort Test was carried out to demonstrate the Crew Escape System during any exigency at launch pad. The Crew Escape System is configured using specially designed quick acting solid motors that deliver a relatively large thrust to take the crew module to a safe distance. Experimental data from this mission will serve as a useful input to undertake human spaceflight programme. An amount of Rs.173.00 crores is approved for development of critical technologies including Crew Escape System.
+
+
+    Transfer of the in-house developed Li-ion cell technology to competent Indian Industries. One of the major Centres of ISRO, Vikram Sarabhai Space Centre (VSSC), offered to transfer the in-house developed Li-ion cell technology to competent Indian Industries on non-exclusive basis to establish Li-ion cell production facilities in the country. This initiative is expected to enable Zero Emission Policy of India and accelerate the development of indigenous electric vehicle industry.
+
+
+    MoU between ISRO and Central University of Jammu
+
+
+    ISRO signed an MoU with the Central University of Jammu (CUJ) in Jammu for setting up of the Satish Dhawan Center for Space Science in the University, on 11 th October, 2018. Another MoU was signed between CUJ and the Central Scientific Instruments Organization (CSIR-CSIO) to create awareness about space research and to motivate young minds to take up research related to space, astronomy, geology, atmospheric sciences and related fields, a two day workshop was also inaugurated at the CUJ campus.
+
+
+    MoU between MHA and ISRO
+
+
+    The Ministry of Home Affairs (MHA) and ISRO, Department of Space signed a MoU in New Delhi on 20 th September, 2018, for setting up of an state-of-the-art Integrated Control Room for Emergency Response (ICR-ER) in Ministry of Home Affairs. ISRO will render its technical expertise for setting up of proposed ICR-ER whereas the project will be executed under overall supervision of MHA. The proposed Control Room is expected to be established in next one-and-a-half year.
+
+
+    MoUs with foreign countries. During the year 2018, India signed various MoUs with foreign countries. The Union Cabinet chaired by Prime Minister Shri Narendra Modi was apprised of these MoUs. These agreements are:
+
+
+    MoU between India and Tajkistan on Cooperation on Peaceful uses of Space Technology for Development. The MoU was signed on 8 th October 2018 at Dushanbe, Tajkistan. The MoU would lead to set up a Joint Working Group, drawing members from DOS/ISRO and the State Committee of Land Management and Geodesy of Republic of Tajikistan, which will further work out the plan of action including the time-frame and the means of implementing this MoU.
+
+
+    Agreement between India and Uzbekistan on Cooperation in the exploration and uses of Outer Space for peaceful purposes. The Agreement was signed on 1 st October 2018 at New Delhi during the State visit of the President of Uzbekistan to India. The signing of the Agreement will strengthen the cooperation between India and Uzbekistan and would provide impetus to explore newer research activities and application possibilities in the field of remote sensing; satellite communication; satellite navigation; space science and exploration of outer space.
+
+
+    MoU between India and Morocco for Cooperation in the Peaceful Uses of Outer Space. The MoU was signed at New Delhi on 25 th September 2018. The MoU would lead to set up a Joint Working Group, drawing members from DOS/ISRO and Royal Centre for Remote Sensing (CRTS) and the Royal Centre for Space Research and Studies (CRERS), which will further work out the plan of action including the time-frame and the means of implementing the MoU.
+
+
+    Agreement between India and Algeria on Cooperation in the field of Space Sciences, Technologies and Applications. The Agreement was signed at Bengaluru on 19 th September 2018. Signing of the Agreement will strengthen the cooperation between India and Algeria, and provide impetus to explore newer research activities and application possibilities in the field of remote sensing of the earth, satellite navigation, space science and exploration of outer space.
+
+
+    MoU between India and Brunei Darussalam on Cooperation in the operation of Telemetry Tracking and Telecommand station for satellite and launch vehicles, and for cooperation in the field of Space Research, Science and Applications. The MoU was signed in New Delhi on 19th July 2018.
+
+
+    MoU between India and South Africa on cooperation in the exploration and uses of outer space for peaceful purposes. The MoU was signed in Johannesburg on 26th July 2018. Signing of this MoU shall enable pursuing the potential areas of cooperation such as space science, technology and applications including remote sensing of the earth, satellite communication and satellite-based navigation; space science and planetary exploration; use of spacecraft and space systems and ground systems; and application of space technology.
+
+
+    MoU signed between India represented by the ISRO and Oman represented by the Ministry of Transport and Communications on Cooperation in the peaceful uses of outer space, in February, 2018 at Muscat. This MoU shall enable the following areas of cooperation such as, space science, technology and applications including remote sensing of the earth; satellite based navigation; Space science and planetary exploration; use of spacecraft and space systems and ground system; and application of space technology.
+
+
+    ******
+
+
+    BB/NK/PK/SS
+
+    
+    
+    (Release ID: 1557574) Visitor Counter : 7831
+    
+    
+      Read this release in: Tamil , Bengali

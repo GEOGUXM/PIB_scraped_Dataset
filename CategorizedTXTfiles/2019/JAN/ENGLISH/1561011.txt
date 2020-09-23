@@ -1,0 +1,43 @@
+      Election Commission
+
+      ECI reaffirms Non-Tamperability of EVMs
+      Posted On: 22 JAN 2019 7:50PM by PIB Delhi
+
+
+    In the wake of the motivated controversy about ECI EVMs, attempted to be created by one so called ‘cyber expert’ Mr Syed Shuja, the Technical Experts Committee (TEC) members - Prof D T Shahani, Prof Emeritus IIT Delhi and Prof Rajat Moona, Director IIT Bhilai and Prof D K Sharma, Prof Emeritus IIT Bombay (Mumbai), have reconfirmed to the ECI today that :
+
+     1. The ECI-EVMs are stand-alone machines designed to connect only amongst ECI-EVM units (Ballot Unit, Control Unit and VVPAT) through cables that remain in full public view.
+
+    There is no mechanism in ECI-EVMs to communicate with any device through wireless communication on any Radio Frequency.
+
+
+    All versions of ECI-EVMs are regularly and rigorously tested against low to high wireless frequencies. These tests include and go beyond the standard tests specified for electronic equipments
+
+     1. ECI-EVMs are regularly tested for proper functioning under all kind of operating conditions.
+     2. ECI-EVMs are also regularly tested for code authentication and verification.
+
+    In the context of Sh Syed Shuja alleging about the two side printing of VVPAT paper which allegedly retains lower tampered print while the front side print as verified by the voter, getting erased, the TEC clarified that VVPATs use thermal printers which can print only on one side of thermal paper. The print is fully visible through the viewing window. The paper rolls used in VVPATs have only one-sided thermal coating and hence can be printed only on one side. The VVPAT paper print lasts atleast for five years.
+
+
+    CMDs of Bharat Electronics Limited and Electronics Corporation of India Limited, who are the sole manufacturers of EVMs and now also VVPATs, also reaffirmed that all the TEC prescribed Standard Operating Procedures are scrupulously adhered to and observed.
+
+
+    It is however reiterated that while ECI-EVMs might malfunction sometimes like any other machine due to component failures and stop working, but even such a malfunctioning ECI-EVM would not record any vote incorrectly. It is reaffirmed that ECI-EVMs are not tamperable.
+
+
+    ECI has also lodged an FIR u/s 505(1)(b) of IPC against Mr Shuja with DCP, New Delhi district.
+
+
+    SBS/AC
+
+    
+    
+    (Release ID: 1561011) Visitor Counter : 1184
+    
+    
+      Read this release in: Urdu
+    
+    
+    
+
+2.

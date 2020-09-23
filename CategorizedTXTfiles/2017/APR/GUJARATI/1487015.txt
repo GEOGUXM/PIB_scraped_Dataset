@@ -1,0 +1,24 @@
+      Ministry of Communications
+
+      Problem of call drops is more severe indoors, says DoT
+      Posted On: 06 APR 2017 5:50PM by PIB Ahmedabad
+
+
+    Department of Telecommunications (DoT) has been taking various initiatives to address the problem of call drops in mobile networks. The Telecom Service Providers (TSPs) have installed about 2,12,917 additional BTSs (Base Transceiver Stations) across the country during the period from June 2016 to February 2017.
+    
+    However, in order to obtain direct feedback from subscribers, DoT had launched an Integrated Voice Response System (IVRS) system in Delhi, Mumbai, UP, Uttarakhand, Maharashtra and Goa on 23rd December 2016, which was extended to other states on 12th January 2017 except in Punjab and Manipur. IVRS system was launched in Punjab and Manipur on 16th March 2017. Through this system, subscribers receive an IVRS call from short code 1955 and are asked a few questions on the call drop problem. They can also send a toll-free SMS to the same short code 1955, containing the name of city/town/village, where they face frequent call drops.
+    
+    Since the launch of the IVRS system on 23/12/2016 till 28/02/2017 16,61,640 successful outbound calls have been made to subscribers of all TSPs across the country. About 2,20,935 subscribers participated in the survey out of which, about 1,38,072 (62.5%) subscribers have reported call drops. From the feedback it has been observed that the problem of call drops is more severe indoors. The feedback is shared with the Telecom Service Providers every week for taking action in a time bound manner. The TSPs have set up an elaborate mechanism for using the IVRS feedback data sent by DoT.
+    
+    TSPs are submitting action taken report (ATR) to DoT Task Force every fortnight. For the fortnight 15-28 Feb 2017, 43,403 feedback cases were taken up for investigation by TSPs. After telephonic calls and SMS to the subscribers to seek additional information on their call drop problem, 7,210 cases were identified for resolution. During the fortnight, 2467 cases were resolved through optimization, rectifying hardware/power problems, through field visits etc. and on cumulative basis, since launch of IVRS, 9,328 cases have been resolved through this initiative.
+    
+    In addition, 5529 cases which were not related to call drop problem but other issues like problem related to data, roaming, billing, MNP, mobile device etc., were also identified by the TSPs for taking necessary action. About 603 new sites/boosters have also been planned by TSPs for installation in due course. DoT Task Force is also meeting with the TSPs once every month to discuss various issues related to the IVRS system. Regular reviews are also being held by the office of Hon’ble Minister about the operation of the IVRS system.
+
+    <><><><><>
+
+    
+    
+    (Release ID: 1487015) Visitor Counter : 7
+    
+    
+      Read this release in: Gujarati

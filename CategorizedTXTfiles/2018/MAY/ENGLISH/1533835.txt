@@ -1,0 +1,40 @@
+      Ministry of Railways
+
+      Ministry of Railways Launches New User Interface of its Next Generation e-Ticketing System
+      Posted On: 30 MAY 2018 12:36PM by PIB Delhi
+
+
+    In line with Union Minister of Railways Shri Piyush Goyal’s vision to ensure better user experience by recommending best Information Technology industry practices, Railway's Online Travel Portal – www.irctc.co.in has now launched beta version of its new User Interface. The new link has more user friendly features for easier navigation.
+
+
+    The ‘Digital India’ initiative has paved way for government organizations to harness power of technology and in making lives easier for citizens of India. By creating Next Generation e-Ticketing (NGeT) system the new online ticket booking system of Railways provides easy and fast way of booking rail tickets by automating the journey planning and purchase of tickets.
+
+
+    E-ticketing today constitutes about two third of total reserved tickets on Indian Railways.
+
+
+    Salient features of the New User Interface:
+
+      * With the launch of new interface of e-Ticketing Website, user can now enquire / search trains and check availability of seats without login also, thereby saving precious time of the users. User can now change font size throughout the website for comfortable viewing experience.
+      * The new look and feel will have enhanced class-wise, train-wise, destination-wise, departure/arrival time wise and quota-wise filters for facilitating customer while planning their journeys. Single screen information about the train including the train no, train name, originating and destination station and distances between them, arrival and departure time and journey time has now been arranged.
+      * In addition, more features such as new filters on ‘My Transactions’ where user can also view their booked tickets based on Journey Date, Booking Date, Upcoming Journey and completed journey.
+      * To enhance customer’s booking experience, interesting features like ‘Waitlist prediction’, etc have been introduced. Using this feature, user can get the probability of a Waitlisted or RAC ticket getting confirmed. This technique uses algorithm based on historical booking trends of the particular train. This feature will add new value to the online e-ticket booking system of the railways. New attractive colour scheme for different trains with facility to modify the journey details on the journey planner page itself will bring further ease of booking to the users.
+      * The new look and feel is providing the facility for the user to find out the availability up to the entire Advance Reservation Period i.e. 120 days at present, except few trains. In the new system, user can perform multiple activities through booked history with improved interface for cancellation of tickets, printing of tickets, request for additional SMS, selecting alternative train by exercising the option of ‘Vikalp’ and change of boarding point if required. Technological advancements in the development of New User Interface also facilitate seamless navigation in mobiles, desktops, laptops and tablets.
+      * Users have been invited to initially, switch to the beta version of the website and get the first hand experience of its look, feel and usage for a period of 15 days during which Railways will take suggestions from them for further changes and improvement of the site. After this the beta version of the new interface will replace the old interface of IRCTC e-ticketing portal enabling a smooth transition of the users to the new interface.
+
+    *****
+
+
+    SBS/MKV/PM
+
+    
+    
+    (Release ID: 1533835) Visitor Counter : 8457
+    
+    
+      Read this release in: Hindi , Tamil
+    
+    
+    
+
+*

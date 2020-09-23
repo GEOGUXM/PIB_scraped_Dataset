@@ -1,0 +1,23 @@
+      Department of Atomic Energy
+
+      Cyber Security Audit Kknpp
+      Posted On: 27 NOV 2019 3:45PM by PIB Delhi
+
+
+    Complete check of the administrative network of Kudankulam Nuclear Power Plant (KKNPP) was done by Indian Computer Emergency Response Team (CERT-In) along with Computer & Information Security Advisory Group (CISAG) of Department of Atomic Energy (DAE).Certain measures for immediate and short term implementation has been recommended. Several measures have been taken for further strengthening of Information Security in administrative networks viz. hardening of internet and administrative intranet connectivity, restriction on removable media, blocking of websites & IPs which have been identified with malicious activity etc.
+
+
+    This information was provided by the Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, Dr Jitendra Singh in written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    VRRK/NK/JM/PJ
+
+    
+    
+    (Release ID: 1593768) Visitor Counter : 631
+    
+    
+      Read this release in: Urdu

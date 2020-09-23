@@ -1,0 +1,44 @@
+      Ministry of Railways
+
+      Automatic Ticket Vending Machines
+      Posted On: 20 NOV 2019 5:38PM by PIB Delhi
+
+
+    One-touch ticketing facility through Automatic Ticket Vending Machines (ATVMs) has been launched in 486 ATVMs over Western Railway and 92 ATVMs over Central Railway in Mumbai Suburban Railway Network. The salient features and objectives of these ‘one-touch ATVMs’ are as follows:
+
+
+    i) Selection of destination station can be done with one touch.
+
+
+    ii) One can select station within the distance slab.
+
+
+    iii) Issue of tickets to top 20 destination stations can be done.
+
+
+    iv) Platform tickets can also be issued with single touch.
+
+
+    v) One screen can be used for selecting single and return journey tickets.
+
+
+    vi) The objective is to reduce waiting time and transaction time of passengers and to avoid standing in long queues.
+
+
+    In regular ATVMs, unreserved tickets for all stations over Indian Railways for which route is defined in UTS can be bought using the smart card. However, in one-touch ATVMs, unreserved tickets can be bought only for 20 select destination stations.
+
+
+    An outlay of ₹ 26.5 Cr. has been provided during 2019-20 under the Project ‘Extension of Automatic Ticket Vending Machines’ over all Zonal Railways. The passenger can get the ticket within 6 seconds. This has reduced the transaction time and waiting time of passengers. Application is already developed for all zonal railways and software changes have to be enabled to make this facility functional.
+
+
+    This information was given by the Minister of Railways and Commerce & Industry, Shri Piyush Goyal in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    SG/MKV
+
+    
+    
+    (Release ID: 1592453) Visitor Counter : 178

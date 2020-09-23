@@ -1,0 +1,47 @@
+      Ministry of Finance
+
+      Linking of Aadhaar with PAN Cards
+      Posted On: 09 MAR 2018 5:58PM by PIB Delhi
+
+
+    As per the latest available information as on 05.03.2018, number of Aadhaar cards linked with PAN is 16,65,82,421 . Further, as on 02.03.2018, 8779.65 Lakhs Current Accounts and Savings Accounts have been linked with Aadhaar.
+
+
+    There are number of security features with regard to Aadhaar linked financial transactions. Aadhaar linked financial transactions pass through multi-entity model such as, Bank (AUA- Authentication User Agency), NPCI (ASA- Authentication Service Agency) & UIDAI (Authentication/Biometric Data Custodian).
+
+
+    Security features as laid down by UIDAI are adhered by each entity for example:
+
+
+      * Biometric/authentication data is encrypted using PKI (Public Key Infrastructure). Only, authentication success or failure message is conveyed back to the user.
+
+      * The connectivity between bank, NPCI and UIDAI is also through secured encrypted private network.
+      * UIDAI has issued number of security guidelines, circulars and registered device security specification for AUA, ASA and Technology Solution Provider to comply.
+
+    Sharing of information or seeding of Aadhaar information with the authorised agencies is governed as per the provisions of the Aadhaar Act 2016.Section 29 (1) of the Aadhaar Act 2016 read together with Regulation 3(1) of the Aadhaar (Sharing of information) Regulations, 2016 categorically states that no core biometric information, collected or created under the Aadhaar Act, shall be shared with anyone for any reason whatsoever; or used for any purpose other than generation of Aadhaar numbers and authentication under the Act. Also, Regulation 4(1) of the Aadhaar (Sharing of information) Regulations, 2016 provides that core biometric information collected or captured by a requesting entity from Aadhaar number holder at the time of authentication shall not be shared for any reason whatsoever. Further, Section 30 of the Aadhaar Act, 2016 applies the rigours of the IT Act, 2000 and the rules thereunder whereby Biometric Information is deemed to be Sensitive personal information. Additionally, Chapter VII of the Act lays down monetary penalties and imprisonment for unauthorized sharing of residents’ identity information. Any violation to the provisions of The Aadhaar Act is a criminal offence.
+
+
+    As per the latest information available as on 02.03.2018, total of 6811 Aadhaar enrolment/update centres are operational in bank branches.
+
+
+    This was stated by Shri Shiv Pratap Shukla, Minister of State for Finance in written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    DSM/RM/KA
+
+
+    
+
+    
+    (Release ID: 1523541) Visitor Counter : 669
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+*

@@ -1,0 +1,62 @@
+      Ministry of Railways
+
+      Steps taken to bring Energy/Fuel Efficiency in Railways
+      Posted On: 10 APR 2018 3:37PM by PIB Delhi
+
+
+    Steps taken by Railways to cut down use of diesel fuel and energy/fuel efficiency in its operation system as under-
+
+     1. Minimum Inventories of all major Railway Consumer Depot (RCD)s have been reduced from 15 to 5 days.
+     2. Use of B-5 blended High Speed Diesel (HSD) with 5% Biodiesel in the Diesel Locomotives has been started.
+     3. Trip ration is being reviewed properly to tighten the slack trip rationing.
+     4. The performance of loco pilots is being monitored regularly. List of bad & good runners are being identified on the basis of fuel consumption vis-a-vis trip ration. Bad runners are being counseled & monitored by loco inspectors. Monitoring of Loco Pilots using dynamic brakes and performing coasting according to the topography are being done.
+     5. To avoid idle running of the Engine of Diesel locomotive, a Joint Procedure Order (JPO) has been jointly issued at Railway Board level with operating department and accordingly at Zonal Railways level also for shutting down of diesel locos in case of idling of the locomotive. Monitoring of idling of diesel locomotives has been started through Remote Monitoring and Management of Locomotive and Trains (REMMLOT) fitted in Diesel Locomotive.
+     6. Rationalization of fueling pattern has been implemented based on landed price of HSD oil. The cheaper RCDs are fueling more to diesel locomotive to avoid fueling at costlier location of RCDs.
+     7. All Overaged Broad Gauge Diesel Mixed Traffic Engine (WDM2) locos have been withdrawn from mainline service.
+     8. Conversion of Driving Power Car (DPC) of DEMU trains in dual fuel (Diesel + LNG/CNG) mode has been started to use CNG in place of HSD.
+     9. Auxiliary Power Unit has been introduced in Diesel locos for automatic shutting down of the diesel locomotive while standing idle.
+    10. Retro-fitment of Micro-processor control system in diesel Locomotives have been executed to achieve fuel efficiency.
+    11. Common Rail electronic Direct Injection (CReDI) system has been developed and are being fitted in Diesel Locomotive.
+    12. Miller cycle based turbochargers and Variable Turbine Geometry (VTG) Turbochargers have been developed for ALCo locomotives to achieve fuel efficiency.
+
+    Expected positive results yielded are as under:-
+
+             1. 4 % saving in fuel consumption has been realized at Eng Test Bed with the use of CReDI on ALCo locomotive engine and 2.5% saving in fuel consumption on HHP locomotives.
+             2. Approx. 23 nos. of DPCs have been converted and running in duel fuel (Diesel + CNG) Mode. Diesel displacement of upto 20% has been achieved.
+             3. Reliability verification testing of Miller cycle based turbocharger has been completed in field. Approx. 2% fuel saving and 20% reduction in NOx is expected by use of miller cycle based turbocharger. Performance evaluation on engine test bed is scheduled in next month.
+             4. Variable Turbine Geometry (VTG) turbocharger has been fitted on a WDG3A loco and 2.5% fuel saving (approx.) has been realized on test bed.
+
+    Details of plan for use of solar energy are as under:-
+
+
+     1. Indian railways has planned for 1000 MW of solar power plants by 2020-21 with 500 MW at railway rooftops for non-traction use and 500 MW land based for mostly in traction use. The solar power from land based plants shall be mostly used in train operation.
+
+     2. IROAF is implementing provision of Solar Panels on roof top of coaches and Brake Vans of freight trains for taking up part hotel load (electric lighting and fans load).
+     3. In Goods train, Solar Panels on trial basis have been fitted on the roof top of 50 Nos. Guard Brake Vans.
+     4. In passenger Trains Solar panels on trial basis has been fitted on the roof top of 06 Nos. Trailer Coaches of Diesel Electric Multiple Units (DEMU).
+     5. Indian Railways has planned for 1000 MW of solar power plants by 2020-21 with 500 MW at railway rooftops for non-traction use and 500 MW land based for traction use. The solar power from land based plants shall be used in train operation.
+     6. Tender for 700 Nos. more Guard Brake Vans is likely to be uploaded by March, 2018 end.
+     7. Tender case for 250 Nos. Trailer Coaches of DEMU for Flexi Solar Panels was discharged and Re-Tender is expected to be completed by the end of March, 2018.
+     8. The fitment of Solar Panel is also planned in 10 Exhibition Coaches of Swachhata Express, which is to be flagged off in April, 2018.
+
+    This information was made available in reply to a question in Rajya Sabha.
+
+
+    ****
+
+
+    SBS/MKV/PM
+
+
+    
+
+    
+    (Release ID: 1528462) Visitor Counter : 746
+    
+    
+      Read this release in: Tamil
+    
+    
+    
+
+8.

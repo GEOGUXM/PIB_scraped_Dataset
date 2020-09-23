@@ -1,0 +1,31 @@
+      Ministry of Housing & Urban Affairs
+
+      Agra Smart city monitors COVID-19 hot-spots using GIS dashboard
+      Posted On: 30 APR 2020 1:58PM by PIB Delhi
+
+
+    Agra Smart City has created a GIS dashboard which will show various hotspots, heat map, positive cases, recovered cases etc. The dashboard updated on daily basis can be accessed from the link: http://covid.sgligis.com/agra
+
+
+    This dashboard is developed on IGiS platform an indigenous technology which brings GIS, Image Processing, Photogrammetry, and CAD together on a single platform which can also cater to multitude of solutions across industries like Agriculture, Defence, Forestry, Disaster Management, Land Information, Mining, Power, Smart City, Urban Planning, Utilities and Location Based Service.
+
+
+    Some of the features of the dashboard are illustrated below:
+
+
+    HEAT MAPPING, DATE-WISE AND ZONE-WISE ANALYSIS, INFECTION/RECOVERY TRENDS
+
+
+    ****
+
+
+    RJ/NG
+
+
+    
+
+    
+    (Release ID: 1619520) Visitor Counter : 827
+    
+    
+      Read this release in: Punjabi , Urdu , Hindi , Marathi , Manipuri , Assamese , Bengali , Gujarati , Odia , Tamil , Telugu

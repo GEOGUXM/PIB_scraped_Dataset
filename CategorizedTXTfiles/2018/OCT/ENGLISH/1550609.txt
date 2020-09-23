@@ -1,0 +1,179 @@
+      Vice President's Secretariat
+
+      Improve farm income by value addition to agricultural production: Vice President
+      
+      Develop Smart Villages along with Smart Cities focusing technological innovations in agriculture;
+      
+      We need transformational approach towards agriculture;
+      
+      Agricultural Renaissance are the need of the hour;
+      
+      Centre should address urban-rural divide;
+      
+      Inaugurates International Conference 'AFITA/WCCA2018' on Research Frontiers in Precision Agriculture
+
+      Posted On: 24 OCT 2018 5:40PM by PIB Delhi
+
+    The Vice President of India, Shri M. Venkaiah Naidu has said that value addition for agricultural production is one of the solutions for improving farmers' income. He was addressing the inaugural session of the International Conference 'AFITA/WCCA2018' on Research Frontiers in Precision Agriculture, jointly organized by Asia-Pacific Federation for Information Technology in Agriculture, International Network for Information Technology in Agriculture and Indian Society for Agricultural Information Technology, in Mumbai today.
+
+
+    The Vice President said that farming community needs to diversify and take up allied activities like fisheries, dairy and poultry as well to supplement on-farm incomes.
+
+
+    Expressing concern over the increasing urban rural divide, the Vice President said that such divide would consolidate majority population in urban areas only. He suggested developing Smart Villages along with Smart Cities with a greater focus on technological innovations in agriculture.
+
+
+    The Vice President said that we need smart farmers who absorb new knowledge and skills. Technology cannot be confined to urban areas and it must spread quickly to the rural population and enable farmers to harness its potential. It must be remembered that, agricultural renaissance can take shape only on a strong digital foundation, he added.
+
+
+    The Vice President said that India’s digital revolution must be expanded to rural areas enabling the population to adopt use of digital tools. He suggested taking the leap forward in agricultural productivity using digital applications and technological innovations, he said.
+
+
+    The Vice President opined that adopting state of the art technology can help in sustaining food security and enhanced livelihood opportunities. He said that transformation in agriculture can come not merely from the government cooperation but from a wide range of individuals and institutions such as Krishi Vigyan Kendras, Agriculture research centers and scientists. He stressed the need to transfer knowledge and technology to farmers so that they put it into practice.
+
+
+    The Governor of Maharashtra, Shri C. Vidyasagar Rao, the Minister for School Education, Sports and Youth Welfare, Higher and Technical Education, Maharashtra, Shri Vinod Tawde and other dignitaries were present on the occasion.
+
+
+    Following is the text of Vice President's address :
+
+
+    " It gives me immense pleasure to share my views on agriculture in general and precision agriculture in particular at this international conference on research frontiers in precision agriculture.
+
+
+    I am delighted to learn that this conference is organized as a part of the Diamond Jubilee celebrations of IIT Bombay.
+
+
+    It is a unique event which brings on to a single forum two different international entities -- AFITA (Asia-Pacific Federation for Information Technology in Agriculture) and INFITA (International Network for Information Technology in Agriculture) and our own INSAIT (Indian Society for Agricultural Information Technology).
+
+
+    I am happy to note that CSRE (Centre of Studies in Resources Engineering) of IIT Bombay, which deals with geo-spatial information and communication technologies (Geo-ICTs) in natural resources management, is hosting the conference.
+
+
+    As you all are aware, agriculture plays an important role in the Indian economy, both in terms of its contribution to GDP as well as employment. Although, India is among the biggest producers of pulses, rice, wheat, spices and spice products, Indian agriculture’s operational efficiency has to be further enhanced.
+
+
+    Although, nearly half of India’s population depends on agriculture for livelihood, the agriculture sector contributes less than a fifth of India’s GDP (approximately 18%). And this fact matters a lot in a country with a population of about 1.3 billion. This means that there is considerable scope for further improvement in productivity and efficiency.
+
+
+    These improvements can be triggered and sustained only by harnessing the potential of the latest technological advances.
+
+
+    I am glad that these national and international forums are focusing on the much-needed technological advances and creating awareness about them.
+
+
+    Conventional, traditional Indian agriculture has been greatly influenced by the monsoon conditions and, as a result, until the late 1970s, India had relatively low economic growth rates - around 3.5 percent per annum with large fluctuations due to frequent floods and famines.
+
+
+    However, we have made significant progress as well. The Green Revolution ushered in a new era with the adoption of modern methods and technology, including high yielding variety (HYV) seeds (particularly wheat), tractors and pump sets. Initiated by Dr Norman Borlaug and Dr. M.S. Swaminathan, these changes resulted in the rate of growth of agricultural productivity increasing rapidly.
+
+
+    A major problem in India is the fragmentation of land holdings and the large number of small farmers.
+
+
+    As farmers’ landholding sizes declined significantly, it has become necessary to intensify the cultivation practices and cultivate more crop per drop.
+
+
+    We are now witnessing the 2 nd Green Revolution, in which Precision Agriculture has emerged as an extremely vital strategy. Precision irrigation, precision protection and greenhouse technology are now gaining ground.
+
+
+    Precision agriculture seeks to make agriculture remunerative even to small and marginal farmers by reducing the cost of cultivation and enhancing yields.
+
+
+    Agriculture production has gone up. So has horticulture production which touched 305 million tonnes this year. Two very prominent programmes which brought about substantial changes in Indian agriculture are the introduction of Special Foodgrains Production Programme (SFPP) and the Special Rice Production Programme (SRPP). I am happy to know that ICAR is playing a vital role in revitalizing the agriculture sector.
+
+
+    The primary limiting factor in agricultural production, however, has been the scarce resources. A farmer’s landholding size is reducing with increased population and water resources are becoming scarce. The yields have been getting affected in a cyclical fashion due to the impact of climate change and the resultant droughts and floods.
+
+
+    Sisters and Brothers,
+
+
+    The entire farming sector needs a new orientation. We need precision in targeting our efforts.
+
+
+    Precision Agriculture or site specific crop management is therefore the key to optimally manage the resources for a better yield, reducing pollution and saving environment.
+
+
+    With a majority of farmers-around 80 per cent belonging to the small and marginal category - it is extremely vital that they derive adequate income from agriculture. Farmer’s welfare is essential for the overall growth of the Indian economy. For this to happen, we have to use the power of technology. The Indian farmer should be able to use new tools, new gadgets and make farming more cost effective.
+
+
+    As you all are aware, satellite technology and GIS can play a crucial role in improving agricultural production. Ultimately, technological tools can help in providing farmers with vital information relating to weather and marketing, which are the two most important factors in ensuring enhanced incomes to farmers.
+
+
+    I am happy to know that mobile apps are being used to provide farmers with weather information and provide early warning. Research by an organization involved in precision agriculture has showed that mobile-based agricultural extension system among farmers in Gujarat had resulted in increase in each farmer getting Rs.7,000 more per year, while the yields went up by 8.6 per cent for cotton and 28 per cent for cumin.
+
+
+    Precision Agriculture is a concept which needs implementation through ICTs, Wireless Sensor Networks, Geospatial methods and automated positioning systems. I am told that in recent times even drones have provided very good solutions to precision farming with very fine resolution images.
+
+
+    All these technologies facilitate to give each plant exactly what it needs to grow optimally, with the aim to improve the agronomic output while reducing the input. This means producing ‘more with less’, which coincides with our 2 nd Green Revolution concept of ‘more crop per drop’.
+
+
+    As you all are aware, there is a need to increase output per hectare in India as it is low compared to other countries. One of the reasons for the low output is lack of access to modern technology. There is a need for judicious use of water, energy and efficient use of various inputs like seeds to enhance productivity.
+
+
+    As India takes rapid strides to enhance access to digital tools, it is an opportune moment to think of ways in which the rural areas and farmers can benefit from the digital revolution. The next big step we have to take is to link the leap forward in agricultural productivity with digital applications and technological innovations.
+
+
+    I am happy to note that the aim of this Conference is to provide digital solutions for agriculture through ICTs, sensor networks, image processing techniques, geospatial technologies, robotics and farm machinery.
+
+
+    Almost every country has realized the significance of technology in agriculture and they have dedicated societies which systematically work for its implementation. AFITA is a federation of such societies from the Asia-Pacific region viz. India, Japan, China, Indonesia, Thailand, Australia, etc.
+
+
+    I am glad that AFITA, since its inception in January 1998 in Wakayama City, Japan, as an autonomous non-governmental forum is promoting the use of information technology in the improvement of all aspects of the agriculture sector.
+
+
+    In order to make agriculture sustainable and profitable, the Government has initiated several programmes. Some of the schemes like PMKSY’s (Per Drop More Crop) in fact involve Precision Agriculture practices.
+
+
+    The need of the hour is to adopt state of the art technology to make agriculture sustainable and profitable.
+
+
+    I am sure the adoption of technology will help in sustaining food security and enhanced livelihood opportunities. In addition, the farming community needs to diversify and take up allied activities like fisheries, dairy and poultry as well to supplement on-farm incomes.
+
+
+    What we need is a transformative approach to agriculture.
+
+
+    This transformation can come not merely from the government but from a wide range of individuals and institutions.
+
+
+    In addition to the missions launched by the government, I am pleased that a number of entrepreneurs have launched start-ups for agricultural development. A number of academic institutions like IIT-Mumbai are engaged in trying out new solutions powered by technology.
+
+
+    I am happy that the Digital India and Make in India programmes cover around 25 sectors of Indian economy including agriculture. With a number of platforms for conducting large experiments and using robots and wireless sensor networks, the benefits of digital smart farming are already being realized.
+
+
+    For example, drone technology is being used in quantifying the field status and crop damages. The objective of these initiatives has been to ensure holistic development of rural India.
+
+
+    We cannot afford to have a huge rural-urban divide any longer. Technology cannot be confined to urban areas. It must spread quickly to the rural population and enable farmers to harness its potential.
+
+
+    Agricultural renaissance can take shape only on a strong digital foundation.
+
+
+    Smart Villages must be built along with Smart Cities. We need smart farmers who absorb new knowledge and skills. We need a greater focus on technological innovations in agriculture.
+
+
+    I congratulate the organizers of this conference for making a good beginning in that direction.
+
+
+    My best wishes for your continued efforts to transform the lives of farmers in India and the world.
+
+
+    JAI HIND! "
+
+
+    ***
+
+
+    AKT/BK/MS/RK
+
+
+    
+
+    
+    (Release ID: 1550609) Visitor Counter : 734

@@ -1,0 +1,54 @@
+      Ministry of Communications
+
+      C-DOT develops CCSP (C-DOT Common Service Platform) to make smart cities more efficient, economical and future proof
+      DOT PDO is ready to bring yet another telecom revolution by taking internet connectivity to every nook and corner of the country
+
+      Posted On: 20 APR 2017 3:58PM by PIB Delhi
+
+      Government of India’s announcement of Smart Cities project in mission mode has generated a lot of interest. The concept of smart cities is incomplete without intervention of communication and Information Technology.
+
+
+      A network of wireless sensors, a reliable public communication infrastructure and innovative applications working on big data and analytics will help us realise smart cities. Innovative local solutions will have to be found for local problems. Though this offers great opportunities to industry, including, MSMEs and start-ups. But adoption of standards will ensure that solution developers do not reinvent the wheel but devote their energies to the actual building of product and on innovations. Further, the interoperability will be another dividend of a standards based approach.
+
+
+      Telecommunications Standards Development Society, India (TSDSI), the Indian telecom Standards Development Organisation (SDO) and European Telecommunications Standards Institute (ETSI), an established and highly respected, 29 years old telecom SDO have joined hands to unroll a collaboration project on ICT Standardisation in an endeavour of creating awareness about telecom standards and promoting their wider adoption that
+
+
+      Recognising C-DOT’s R&D strengths, an India - European Union project called ‘India-EU Cooperation on ICT-Related Standardisation, Policy and Legislation’ is organising a workshop on “Future proof smart cities with a common service layer: a standards driven approach” at C-DOT campus at Mehrauli, New Delhi on 21st April 2017. Some of the global smart cities will be sharing the standards driven approach they have adopted for building smart cities in their countries.
+
+
+      The workshop aims to provide a platform where foreign and Indian experts from IoT and M2M forums, academia, R&D, industry and senior officials from Ministries of Communications, Urban Development and Electronics and Information Technology and cities named in Indian Smart Cities project can interact to share knowledge and experiences. It is also planned to enrich the interaction by inviting City Councillors from Europe and Korea who have actually implemented smart city projects in their respective cities.
+
+
+      C-DOT’s offering:
+
+
+      C-DOT has developed CCSP(C-DOT Common Service Platform), the oneM2M standards compliant common service platform which can be deployed on any off-the-shelf generic server platforms or cloud infrastructure. The business application providers can deploy their oneM2M compliant applications in either co-located infrastructure or on any public or private cloud.
+
+
+      Using the CCSP platform from C-DOT, the smart cities can reap all the benefits of using a standards compliant horizontal service layer and thus be more efficient, economical and future proof.
+
+
+      Along with the CCSP C-DOT has also developed various oneM2M indigenously designed hardware nodes like AND (Application Dedicated Node), ASN (Application Service Node) and MN(Middle node).
+
+
+      To effectively showcase the strength of the platform, C-DOT has also developed various applications like Smart Living, Smart Street Light, Carbon Footprint Monitoring Application and Power Monitoring which are fully oneM2M compliant.
+
+
+      C-DOT has also participated in two international interoperability events where the CCSP and the ADN were tested for interoperability with many other oneM2M compliant nodes from various international organisations like Interdigital, Herit, Huawei, HPE, NTT, KETI, LAAS-CNRS etc. C-DOT also participated in the conformance testing with ETSI.
+
+
+      Brief on P.D.O. (Public Data Office)
+
+
+      C-DOT PDO is ready to bring yet another revolution by taking internet connectivity to every nook and corner of the country like it did in the 1980s when PCOs changed the Indian telecom scene in by taking telephones to rural India. C-DOT hopes that PDOs would bring next telecom revolution by taking internet connectivity to the masses. Like PCOs, the PDOs would enable small shop owners increase their income by selling data vouchers. This will also encourage village-level entrepreneurship and provide strong employment opportunities, especially in rural and semi urban areas.
+
+
+      <><><><>
+
+
+      SNC
+
+    
+    
+    (Release ID: 1488290) Visitor Counter : 76

@@ -1,0 +1,81 @@
+      Ministry of Railways
+
+      Ministry of Railway launches Smart Freight Operation Optimisation & Real Time Information (SFOORTI) Application.
+      
+      Both passenger and freight trains can be tracked over Zones/Divisions/ Sections can be viewed through this application.
+      
+      Position of Rakes for Specific Type of Stock can be viewed through this application.
+
+      Posted On: 11 JAN 2018 2:09PM by PIB Delhi
+
+    In a major digital initiative to help plan the traffic flows and optimize freight operations, Ministry of Railways have launched S mart F reight O peration O ptimisation & R eal T ime I nformation ( SFOORTI ) App for Freight Managers which provides features for monitoring and managing freight business using Geographic Information System (GIS) Views and Dashboard.
+
+
+    Salient features of SFOORTI Application are as below:
+
+      * With this application, movement of freight trains on Geographic Information System (GIS) view can be tracked.
+      * Both passenger and freight trains can be tracked over Zones/Divisions/ Sections in single GIS View.
+      * Freight business can be monitored.
+      * Comparative Analysis of Zonal/Divisional Traffic.
+      * Analysis of new traffic captured and traffic lost.
+      * This app provides a Bird’s eye view of all Freight Assets in a single window.
+      * Provides end to end Rake movement on Geospatial view
+      * Expected Traffic at Interchange points to evaluate daily performance can be viewed.
+      * Performance of each zone and divisions with respect to loading and utilization of freight assets can be viewed.
+      * Sectional performance monitoring for sections, divisions and zones shall help in traffic routing.
+      * Freight terminal and sidings can be better monitored to ensure better turnaround of rakes.
+
+    FEATURES OF SFOORTI APPLICATION:
+
+     1. Freight Operation Information System Map View – A Geographic Information System (GIS) based monitoring and management tool has been designed and developed in CRIS which provides layered views of freight trains on Indian Railways network which can help plan the traffic flows and optimize freight operations. The FOIS Map View has been designed to cater to Divisional, Zonal and Board levels of management for improved freight operations. It provides Geo-Spatial view of freight train performances, some of which are:
+     1. Position of all freight trains on Indian Railways Network on basis of their last reporting in system.
+     2. Movement of freight trains from one zone/division to another zone/division across IR.
+     3. Position of Rakes on the network detailing commodity wise loading.
+     4. Position of all freight stock on Indian Railways - both loaded and empty on the network.
+     5. Monitor Inward/ Expected traffic flow at Interchange points along with real time monitoring of forecast for day against actual interchange.
+     6. Indicates new traffic Origination-Destination (OD) captured over IR network.
+     7. Indicates Rakes detaining beyond permissible free time on the network.
+     8. Loading trends of major commodities is available identifying the loading performances of terminals and their Origination-Destination (OD) on the network.
+     9. Section wise speed performance of freight trains across the network which is updated on real time basis. This is done by making use of real time sectional running data captured through Control Office Application and comparing it with the historical freight running data to work out the level of performance in the section on real time basis.
+     1. Forecasted Rakes Awaiting Interchange:
+
+    Monitoring of all the loads, which have been forecasted for the divisional interchange, but the same interchange has not yet reported. Forecasted Loads Awaiting Interchange are plotted on two colour themes, based on their divisional interchange direction.
+
+     1. Stock Specific / Commodity specific Rake Position:
+
+    Position of Rakes for Specific Type of Stock can be viewed. Loaded and Empty Rakes of specific Rake Types are plotted on the Indian Railways network map in Different colours. Further drill down along with load path can also be viewed on the Geo-Spatial view.
+
+     1. New Origination-Destination Added in IR:
+
+    Monitoring of New Origination Destination flows captured during the specified period in comparison with those loaded in previous 3 years data. Detail are represented either Commodity wise or Origination Destination (O-D wise).
+
+     1. Loading Trends for Major Commodities:
+
+    Monitoring of Loadings across Indian Railways for major commodities during a period. Terminals are presented on the GIS View, with different commodity shown in different colour. Further drill down is also provided to view Individual Origination-Destination (O-D Flows).
+
+     1. Freight Train Performance:
+
+    Performance of Freight Train Running on Indian Railways Sections can be viewed through this option for each working shift. Performance is determined through comparison of current sectional speed with the benchmark average speed.
+
+
+    Section Performance is represented as Below Average, Average or Good based on section performance against benchmarks (Shown in different colours). Entire section is plotted on the map on its congestion colour theme.
+
+
+    Congestion status is available in three shifts (00:00 to 08:00), (08:00 to 16:00) and (16:00 to 24:00).
+
+
+    *******
+
+
+    AKS/MKV/ENS
+
+    
+    
+    (Release ID: 1516345) Visitor Counter : 9388
+    
+    
+    
+    
+    
+
+1.

@@ -1,0 +1,74 @@
+      विज्ञान आणि तंत्रज्ञान मंत्रालय
+
+      जागतिक अनुवांशिक बदलाचा मागोवा, व्हायरल सिक्वेन्सच्या संभाव्यतेतून कोविड-19 आव्हानचा मुकाबला करणे
+      Posted On: 13 SEP 2020 4:56PM by PIB Mumbai
+
+
+    नवी दिल्‍ली, 13 सप्‍टेंबर 2020
+
+
+    भारतातील शास्त्रज्ञांची एक चमू कोविड-19 विषाणूवर सर्वोत्तम तोडगा मिळवण्यासाठी भारतासह जगभरातील जीनोमिक सार्स-सीव्हीओ2, अनुवांशिक बदल आणि विषाणूतील संभाव्य आण्विक लक्ष्य यावर काम करत आहेत.
+
+
+    नॅशनल इन्स्टिट्यूट ऑफ टेक्निकल टीचर्स ट्रेनिंग अँड रिसर्च, कोलकाता येथील संगणक विज्ञान आणि अभियांत्रिकी विभागाचे सहाय्यक प्राध्यपक डॉ इंद्रजीत साहा यांनी सांगितले, कोरोनाविषाणू आव्हानाचे अनेक तुकड्यात विभाजन करुन त्याचे मूळ आणि विविध बाजूंनी विचार करण्यासाठी त्यांच्या टीमने वेब-आधारीत कोविड-प्रेडिक्टर तयार केला आहे. या माध्यमातून कोविड- पॉईंट म्युटेशन आणि सिंगल न्यूक्लियोटाइड पॉलिमॉर्फिझमच्या अनुवांशिक परिवर्तनासाठी 566 भारतीयांचे सार्स-सीओव्ही-2 जीनोमांचे विश्लेषण करून मशीन लर्निंगच्या आधारे व्हायरसच्या अनुक्रमाचा ऑनलाइन अंदाज वर्तवला जाणार आहे.
+
+
+    विज्ञान आणि तंत्रज्ञान विभागाच्या अखत्यारितील विज्ञान आणि अभियांत्रिकी संशोधन मंडळाने (SERB) हा अभ्यास पुरस्कृत केला आहे, आणि इन्फेक्शन, जेनेटीक्स अँड इव्होल्युशन या पत्रिकेत प्रकाशित करण्यात आले आहे. त्यांना आढळून आले की सार्स-सीओव्ही-2 जीनोमच्या 6 कोडिंग भागात 64 एसएनपीपैकी 57 एसएनपी अस्तित्वात आहेत, आणि सर्व अज्ञात आहेत.
+
+
+    शास्त्रज्ञांनी या संशोधनाचा विस्तार 10 हजार जागतिक अनुक्रमात करुन पाहिला, 20260, 18997 आणि 3514 युनिक म्युटेशन पॉईंस अनुक्रमे भारतासह, भारताव्यतिरिक्त आणि फक्त भारतासाठी आढळून आले.
+
+
+    भारत आणि जगभरातील सार्स-सीओव्ही -2 जीनोममधील अनुवांशिक परिवर्तनशीलता शोधण्यासाठी, सिंगल न्यूक्लियोटाइड पॉलिमॉर्फिझम (एसएनपी) च्या सहाय्याने विषाणूच्या ताणांची संख्या शोधण्यासाठी, विषाणूचे संभाव्य लक्ष्य प्रथिने आणि मानवी होस्ट आधारीत प्रथिन-प्रथिन संवादाच्या माध्यमातून वैज्ञानिक घेत आहेत. त्यांनी अनुवांशिक परिवर्तनशीलतेचे ज्ञान एकत्रित केले, अत्यंत इम्युनोजेनिक आणि अँटीजेनिक qaअसलेल्या संरक्षित जीनोमिक प्रदेशांवर आधारित ठराविक उमेदवारांना कृत्रिम लस देऊन आणि मानवी आरएनए (miRNAs) नियमन करण्यात गुंतलेले विषाणू शोधून काढले.
+
+
+    त्यांनी वेगवेगळ्या देशांच्या अनुक्रमात उत्परिवर्तन समानतेची गणना केली आहे. निकालात असे आढळले की, अमेरिका, इंग्लंड आणि भारत हे भूमितीय मध्य असलेले अव्वल तीन देश आहेत, ज्यांचे गुण अनुक्रमे 3.27%, 3.59%, आणि 5.39% आहेत, इतर 72 देशांशी समान आहेत. वैज्ञानिकांनी जागतिक स्तरावर आणि देशानुसार सार्स-सीओव्ही -2 जीनोममधील उत्परिवर्तन बिंदू शोधण्यासाठी वेब अॅप्लिकेशन विकसित केले आहे. याव्यतिरिक्त, ते आता प्रथिने-प्रथिने परस्परसंवाद, एपिटॉप्स शोधन आणि विषाणू आरएनए (miRNA) संभाव्यतेवर अधिक कार्य करीत आहेत
+
+
+    [The link of the COVID-Predictor
+
+
+    http://www.nitttrkol.ac.in/indrajit/projects/COVID-Predictor/index.php
+
+
+    Link to publicationhttps://doi.org/10.1016/j.meegid.2020.104457.
+
+
+    The link to the work on mutations which is under review now.
+
+
+    Link: http://www.nitttrkol.ac.in/indrajit/projects/COVID-Mutation-10K/
+
+
+    Link: https://www.frontiersin.org/research-topics/15309/sars-cov-2-from-genetic-variability-to-vaccine-design
+
+
+    For more details, please contact: Dr. IndrajitSaha, NITTTR, Kolkata,
+
+
+    Email: indrajit@nitttrkol.ac.in, Mob: 9748740602]
+
+
+     1. Venn Diagrams between Global without India and India for all unique Mutation, Substitutions, Deletions, Insertions and SNP, (b) BioCircos plots to illustrate the frequency of Mutations across the Global excluding India and Indian SARS-CoV-2 genomes through different tracks, e.g., Substitution as outer track 1, Deletion as track 2, Insertion as track 3 and SNP as inner track 4 while in other images Substitution as outer track 1 and SNP as inner track 2, (c) SNPs present in more than 10% of SARS-CoV-2 population for Global and India, (d) Screenshots of the web application before and after executing search query
+
+
+    
+    * * *
+
+
+    B.Gokhale/S.Thakur/D.Rane
+
+
+    सोशल मिडियावर आम्हाला फॉलो करा @PIBMumbai / PIBMumbai /pibmumbai pibmumbai@gmail.com
+
+    
+    
+    (Release ID: 1653780) Visitor Counter : 8
+    
+    
+      Read this release in: English , Urdu , Hindi , Manipuri , Bengali , Assamese , Punjabi , Tamil , Telugu
+    
+    
+    
+
+1.

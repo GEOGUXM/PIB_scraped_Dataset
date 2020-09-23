@@ -1,0 +1,48 @@
+      Ministry of Commerce & Industry
+
+      Government e-Marketplace
+      gem.gov.in
+      
+      Procurement Made Smart
+
+      Posted On: 23 JAN 2017 8:29PM by PIB Delhi
+      
+      
+      
+
+    A. Introduction:Public procurement forms a very important part of Government activity and reform in Public Procurement is one of the top priorities of the present Government. Government e-Marketplace (GeM) is a very bold step of the Government with the aim to transform the way in which procurement of goods and services is done by the Government Ministries/Departments, PSUs, autonomous bodies etc.
+
+
+    B. Background:GeM owes its genesis to the recommendations of two Groups of Secretaries made to the Hon’ble PM in January 2016. They recommended setting up of a dedicated e-market for different goods & services procured/sold by Government/PSUs besides reforming DGS&D. Subsequently, the Hon’ble FM in his Budget speech for FY 2016-17, announced setting up of a technology driven platform to facilitate procurement of goods and services by various Ministries and agencies of the Government.
+
+
+    DGS&D with technical support of NeGD (MeitY) has developed GeM portal for procurement of both Products & Services. The portal was launched on 9th August 2016 by the Hon’ble Commerce & Industry Minister. Procurement on GeM has been authorized by GFR by adding Rule 141A (DoE OM dated 3rd May 2016). Presently more than 7400 products in about 150 product categories and hiring of transport service are available on GeM POC portal. Transactions for more than Rs 140 Crore have already been processed through GeM.
+
+
+    GeM is a completely paperless, cashless and system driven e-market place that enables procurement of common use goods and services with minimal human interface.
+
+
+    C. Benefits of GeM to the Government, Sellers and the Indian industry and economy
+
+    1. Transparency: GeM eliminates human interface in vendor registration, order placement and payment processing, to a great extent. Being an open platform, GeM offers no entry barriers to bonafide suppliers who wish to do business with the Government. At every step, SMS and e-Mail notifications are sent to both buyer, his/her head of organization, paying authorities as well as sellers. Online, cashless and time bound payment on GeM is facilitated through integration with PFMS and State Bank Multi Option System (SBMOPS); web-services integration is being extended to payment systems of Railways, Defence, major PSUs and State Governments. Seamless processes and online time-bound payment, which is also mandated by the OM issued by Department of Expenditure, has given confidence to the vendors and reduced their ‘administrative’ cost involved in pursuing officers for timely payment.
+
+    2. Efficiency: Direct purchase on GeM can be done in a matter of minutes and the entire process in online, end to end integrated and with online tools for assessing price reasonability. For procurements of higher value, the bidding/RA facility on GeM is among the most transparent and efficient, in comparison to e-procurement systems in vogue within the Government sector. For creating a bid/RA, the buyer does not need to create his/her own technical specifications as they have been standardized on GeM. The bid/RA can be created in a matter of minutes and finalized within a minimum of 7 days.The bid/RA is notified via e-mail and SMS to all the eligible suppliers; new suppliers are also notified once they get themselves registered online on GeM and are determined as ‘eligible’ by the system. GeM bidding/RA therefore ensures competition, fair play, speed & efficiency and leads to proper price discovery. The reasonableness of the rates can also be confirmed through online comparison with market price on leading e-Commerce portals. Very soon, GeM will also start getting feeds from various other public procurement portals in order to ensure that the same item has not been procured at a lesser rate by any other Government agency, from the same or a different vendor.The reasonability of price would be further strengthened by way of integration with GSTN and ICEGATE that will enable the buyer to ascertain the price of an item when it exited the factory gate or when it got imported into the country. These would make GeM an extremely powerful tool in the hands of Government organizations to plan and procure.
+
+
+    3. Secure and safe : GeM is a completely secure platform and all the documents on GeM are e-Signed at various stages by the buyers and sellers. The antecedents of the suppliers are verified online and automatically through MCA21, Aadhar and PAN databases. In addition, SEBI empaneled credit rating agencies are also being used for conducting third-party assessment of suppliers. This would further strengthen due diligence about the veracity of suppliers wanting to do business on GeM.For high value bids/RA on GeM, an e-Bank Guarantee is also being introduced.
+
+    GeM is a far better system than the existing one which relies more on financial instruments (EMD in case of tenders for large procurements only) to guarantee good conduct by the suppliers. In the existing system, there is zero check on the antecedents of the suppliers for small value procurements (uptoRs 1 lakh) whose cumulative value is huge across the Government organizations. GeM does a 100% online verification of all vendors irrespective of the value of procurement.
+
+    4. Potential to support Make in India: On GeM, the filters for selecting goods which are Preferential Market Access (PMA) compliant and those manufactured by Small Scale Industries(SSI), enables the Government buyers to procure Make in India and SSI goods very easily. Easily accessible MIS also enables the administrators and policy makers to easily and effectively enforce the Government regulations on PMA and SSI sourcing. After the launch of GeM it has been noticed that several leading computer manufacturers have placed PMA compliant products on GeM.
+
+    5. Savings to the Government : The transparency, efficiency and ease of use of the GeM portal has resulted in a substantial reduction in prices on GeM, in comparison to the tender, Rate Contract and direct purchase rates. The average prices on GeM are lower by atleast 15-20%, and in some cases even upto 56%. GeM is also doing Demand Aggregation for items that are to be procured by various Central/State Government Departments. Demand Aggregation is expected to further drive the prices south, by way of standardization of specifications and economy of scale. Demand aggregation for most of the common use goods and services is estimated to result in annual savings to the tune ofRs 40,000 Crore per annum. If pursued to its logical conclusion, GeM would eventually emerge as the National Public Procurement Portal, keeping in tune with the Global best practices; most of the OECD countries, like USA, South Korea, UK, Singapore etc, have a single NPPP and as a result annual savings of billions of dollars are made in public procurement, besides giving a fillip to the domestic industry.
+
+
+    ****
+
+
+    MJPS
+
+    
+    
+    (Release ID: 1481064) Visitor Counter : 141

@@ -1,0 +1,66 @@
+      Cabinet Committee on Economic Affairs (CCEA)
+
+      Cabinet approves extension of implementation of Crime and Criminal Tracking Network and Systems Project by one year
+      Posted On: 05 APR 2017 8:17PM by PIB Delhi
+
+
+    The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi has approved the proposal of the Ministry of Home Affairs for extension of the implementation phase of the Crime and Criminals Tracking Network and Systems (CCTNS) Project for another year beyond 31st March 2017.
+    
+    The extension would help in achieving the remaining objectives of the project comprehensively. The maintenance phase of the Project will continue till 2022 as approved earlier. With a total outlay of Rs. 2000 crore, a sum of Rs. 1550 crore, which was the total allocation to the project so far, has been spent till 2016-17.
+    
+    The Inter-operable Criminal Justice System (ICJS) aims to integrate the CCTNS project with the e-courts and e-prisons databases in the first instance and with the other pillars of the criminal justice system - Forensics, Prosecution, Juvenile homes and a nationwide Fingerprint data base of criminals in a phased manner. The integration will be achieved by providing access to the Judiciary, Police and Prisons through a desktop dashboard to facilitate expeditious and informed decisions and aid investigations.
+    
+    Impact of the CCTNS Project will lead to:
+    
+    i. Citizen portals in all states and Centre that will facilitate transparency and speed in police service delivery, online registration of complaints and reporting and search of missing persons and stolen goods in self-service mode.
+    
+    ii. Pan-India search on complete National Crime and Criminal database that is accessible to the Investigating Officers throughout the country.
+    
+    iii. Search facility will be available to Police in regional languages for improved inter-state tracking of criminal movement.
+    
+    iv. Reliable network connectivity to all Police Stations in the country.
+    
+    v. National level crime analytics that will be published at, increased frequency to help policy and law makers in taking data backed timely actions and in making appropriate policy interventions.
+    
+    vi. Integration with various e-Governance projects such as Aadhaar, National Population Register, Vaahan Project of the Ministry of Surface Transport, Passport Seva and National Emergency Response System Project thus increasing the synergies and benefit accrued from these individual systems. It will expedite various kinds of police verification requests and investigation.
+    
+    vii. Advanced features such as biometric based identification, trend and pattern analytics etc. that will be incorporated to enhance hi-tech investigation capability.
+    
+    viii. ICJS that will be available to all pillars of the criminal justice system helping improve its service delivery.
+    
+    Achievements under CCTNS Project:
+    
+    In the last one year following significant outcomes have been achieved by the Project:
+    
+    • More than 83% Police Stations in the country are entering 100% FIRs through CCTNS software.
+    
+    • 120 lakhs FIR have been entered in CCTNS system till date. Legacy Crime records since 2004 have also been migrated to the CCTNS database. In all around seven crore records are now available in the national crime database.
+    
+    • 31 States/UTs have launched their portals which provide various services like registration of complaints, verification of criminal antecedents/litigation of individuals/property, obtaining NOC from police for events for law and order clearance, search of missing person search, matching unidentified dead bodies, Vehicle related enquiries, antecedent verification for issue of passport etc.
+    
+    • The ICJS dashboard has been implemented by integrating CCTNS with e-Courts and e-prisons and has been launched on a trial basis with select central investigation agencies. v • Software for Prosecutions and Forensics has been developed and is currently being rolled out in Bihar, Telangana and Puducherry.
+    
+    Background:
+    
+    Originally approved in 2009, the Project aims to:
+    
+    a) deliver various web based police related services to citizens.
+    
+    b) facilitate a pan-India search of crime and criminal records of individuals through a national database.
+    
+    c) generate crime and criminal reports at the state and central level to inform policy interventions and
+    
+    d) computerise police processes.
+    
+    In 2015, an additional objective of establishing a basic platform for an Inter-operable Criminal Justice System (ICJS) was added to the Project.
+
+    ******
+
+
+    
+    
+    AKT/VBA/SH
+
+    
+    
+    (Release ID: 1486826) Visitor Counter : 259

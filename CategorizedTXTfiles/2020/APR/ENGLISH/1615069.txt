@@ -1,0 +1,41 @@
+      Ministry of Science & Technology
+
+      Inactivated virus vaccine in focus for novel coronavirus
+      Posted On: 16 APR 2020 6:45PM by PIB Delhi
+
+
+    Researchers from the Centre for Cellular and Molecular Biology (CCMB) have embarked upon developing an inactivated virus vaccine for the dreaded novel coronavirus. Inactivated vaccines are known for their safety and easy production. Vaccination is thought to be the most effective and sure way to arrest the progress and deadly effect of this virus. Various organisationsacross the world are working towards finding a vaccine and the World Health Organisation (WHO) has listed more than 42 promising candidates currently under development.
+
+
+    Active virus is cultured in large numbers and then killed either by a chemical or heat. Although the pathogen is killed, or made to lose its reproduction capacity, various parts of the virus are intact. For example, the spike protein with which it enters the cells. The antigen (the chemical structure) that is recognised by the immune system is left unimpaired. When this dead microbe is introduced, the immune system is tricked to respond by producing antibodies against specific antigens still left intact, without knowing that the pathogen is dud. Inactivated polio vaccine and the rabies vaccines are made this way.
+
+
+    As the pathogen is dead, it cannot reproduce nor cause even a mild disease. Thus, it is safe to administer to even people with lesser immunity, like the old and those who have co-morbidity.
+
+
+    “If we grow a large amount of virus and we can inactivate it, that will be material for candidate vaccine to be injected. Now the virus will not be active but the human body will recognise the proteins of the virus and start making antibodies against it. So, it acts as inactivated virus vaccine”, said Dr Rakesh Mishra, Director, CCMB while speaking with India Science Wire . Once the cell-culture-based production of the virus is in place, it would be handed over to the industry partner, he told.
+
+
+    The important technological challenge is culturing the virus outside of the human host. As the novel coronavirus has evolved to life on human cells, especially in cells with active ACE2 receptors, locating the right source of the cell line to culture the virus outside of the human body is key to this technology. CCMB is using the epithelial cell line from African green monkey grown in Petri dish to artificially culture and harvest the deadly virus. Afew more options of cell lines will be explored to find the right one on which the novel coronavirus can infect, grow and multiply. The cells will be observed and if the cells show changes, including dying of cells and release of the virus, then the culture is positive. “We are growing the cells in the culture that will harbour the virus so we can make an in-vitro system, which can be checked for its potential”, said Dr Mishra. The novel coronavirus grown in the cell culture will be harvested, inactivated and the vaccine would be developed.
+
+
+    Finding a right cell culture technology for the novel coronavirus will also help in drug development. Once a virus infects the cells, the potential drug candidate can be tested against the same.
+
+
+    “If we infect fresh cells with the virus, after 2-3 days the cells would be dead and lots of viruses would be produced. However, if you administer the potential drug, the cell will not die and the replication of viruses would be arrested if the drug is effective”, he explained. This way, one can check if a particular drug is effective as antiviral.
+
+
+    Apart from this, CCMB will also pool in samples and use its facilities to test a large number of suspects harbouring virus infection.
+
+
+    ****
+
+
+    KGS/(DST- (India Science Wire) )
+
+    
+    
+    (Release ID: 1615069) Visitor Counter : 577
+    
+    
+      Read this release in: Urdu , Marathi , Hindi , Assamese , Bengali , Gujarati , Tamil , Telugu , Kannada

@@ -1,0 +1,59 @@
+      Ministry of Science & Technology
+
+      A non-caloric natural sweetener that can make cancer therapy using magnetic nano particles more efficient
+      Posted On: 04 JUL 2020 3:01PM by PIB Delhi
+
+
+    Stevioside (STE), isolated from the leaves of Honey yerba and widely used as the non-caloric natural sweeteners, can sweeten our lives in more ways than one, say scientists.
+
+
+    Researchers at the Institute of Nano Science & Technology an autonomous institute of Department of Science and Technology (INST), Government of India in their recent study have found that stevioside, a natural plant-based glycoside found in leaves of Honey yerba (‘ Stevia rebaudiana Bertoni’) when coated on nanoparticles can increase the efficiency of Magnetic hyperthermia-mediated cancer therapy (MHCT).
+
+
+    MHCT method of cancer therapy is based on heating the tumor tissues using magnetic nanoparticles in comparison to the routinely used surfactant moieties (oleic acid and polysorbate-80) and is based on generation of localised heat at the tumour site on exposure to AMF (alternating magnetic field) in the presence of magnetic nanoparticles.
+
+
+    Ruby Gupta and Deepika Sharma in their research published in the International Journal of Hyperthermia showed that coating the nanoparticles with the stevioside, a biosurfactant not only improved the cellular uptake of the nano-magnets in glioma C6 cancer cells (one of the most common and aggressive form of glial cancer cells) but also enhanced its retention time. The researchers have modified the stevioside structure to make it more effective as a biosurfactant for magnetic nanoclusters synthesized in the Lab. The Manuscript related to the same was submitted to the Journal of ACS Molecular Pharmaceutics.
+
+
+    The stevioside coating exhibited significant improvement in the calorimetric hyperthermia activity, through particle size reduction of magnetic nanoparticles, thereby intensifying the magnetic hyperthermia-mediated cancer therapy. Exposure of magnetic nanoparticles to alternating magnetic field leads to temperature rise from 37 to 42−45°C inducing tumour cell death by triggering activation of certain intracellular and extracellular degradation mechanisms.
+
+
+    Controlling the magnetic properties of a nanoparticle efficiently via its particle size to achieve optimized heat under AMF is the critical point for magnetic hyperthermia-mediated cancer therapy. The INST team has shown that the use of stevioside as a promising biosurfactant controls the magnetic properties of Fe 3 O 4 nanoparticles by controlling the particle size.
+
+
+    The hyperthermia output measured in terms of specific absorption rate (SAR), defined as the power dissipation per unit mass of magnetic content (W/g), for stevioside-coated nanoparticles obtained was 3913.55 W/g Fe which was significantly higher than those for other existing nanosystems at a field strength of 405 kHz and 168 Oe. Stevioside coating increases the switching speed of magnetic spin of synthesized nanomaterial, increasing the thermal fluctuations and resulting in a higher amount of heat generated in comparison to other nanosystems.
+
+
+    Hyperthermia output of nano-magnets reduces dramatically on the agglomeration of nanoparticles. Hence, the INST team developed water-stable nanomaterial with a biomolecule as the surfactant to address two of the main concerns regarding translation of nanotechnology-based strategies to clinical applications -- biocompatibility of the material used and therapeutic response of these nano-systems. Stevioside stands out for being antihyperglycemic, immunomodulatory, and sports antitumor action. Therefore, surface modification of magnetite nanoparticles with stevioside may provide dual targeting of cancer cells, namely with magnetite nanoparticles based cancer therapy and antitumor effect of the stevioside coating onto the particles.
+
+
+    Stevioside-coated nanoparticles also demonstrated successful uptake and highest cellular persistence inside the glioma cells upto 72 h. Thus the research suggests that the nano-magnets are capable of being available inside the cells for a sufficient period (upto at least 72 h) during which further treatment strategies can be employed for cancer therapy, this avoiding the need to re-administer the nanomaterials.
+
+
+    Publication:
+
+
+    [Publication link:
+
+
+    https://www.tandfonline.com/doi/full/10.1080/02656736.2019.1565787
+
+
+    DOI:10.1080/02656736.2019.1565787.
+
+
+    For further details, Deepika Sharma ( deepika@inst.ac.in ) can be contacted.]
+
+
+    *****
+
+
+    NB/KGS/(DST)
+
+    
+    
+    (Release ID: 1636379) Visitor Counter : 1124
+    
+    
+      Read this release in: Urdu , Hindi , Manipuri , Tamil

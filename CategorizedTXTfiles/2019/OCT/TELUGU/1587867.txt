@@ -1,0 +1,20 @@
+      PIB Headquarters
+
+      UNRAVELING THE MOLECULAR MECHANISMS OF COLD-INDUCED AUTO-INFLAMMATION
+      Posted On: 11 OCT 2019 6:51PM by PIB Hyderabad
+
+
+    The immune system in our body has receptors to detect proteins of pathogenic micro-organisms that gain entry into it. Our cells respond by secreting cytokines, causing inflammation and fever. However, there are cases of auto inflammation where the individuals suffer from inflammation without an infection. Familial cold auto inflammatory syndrome (FCAS) is an example where patients show symptoms of inflammation only upon exposure to sub-normal temperatures. Certain mutations in the cytoplasmic immune receptor proteins are known to cause FCAS. One such mutation in the receptor NLRC4 causes activation of the enzyme caspase-1, which is critical for the maturation and release of cytokine interlekin-1 beta that causes inflammation. Exposure to subnormal temperature leads to hyper activation of caspase-1 but the mechanisms are not known.
+
+
+    A study led by Drs. Ghanshyam Swarup and Vegesna Radha at the CSIR-Centre for Cellular and Molecular Biology (CCMB), Hyderabad has provided mechanistic insights into how the FCAS-causing mutant of NLRC4, H433P, causes temperature dependent caspase-1 hyperactivation and cytokine maturation. Published in the Proceedings of National Academy of Sciences, USA, the study identifies a protein, HSC70, as a negative regulator of caspase-1 activation by H443P mutant. At normal temperature (37 ◦ C), HSC70 binds, and keeps the activity of mutant receptor under control. Exposure of cells to subnormal temperature results in loss of interaction of HSC70 with H443P mutant leading to caspase-1 hyperactivation. In this mechanism, the temperature sensor is proposed to be HSC70, which has previously been shown by others to undergo a conformational change in response to temperature. This is the first study which describes a mechanism of cold-induced inflammation caused by a mutation in an immune receptor.
+
+
+    The mechanism described here is likely to have wider implications for cold-induced inflammation caused by mutations in other cytoplasmic immune receptors. This study also raises the possibility of devising strategies/drugs for modulating the activity of HSC70 (and perhaps related proteins) for controlling inflammation.
+
+
+    ***
+
+    
+    
+    (Release ID: 1587867) Visitor Counter : 25

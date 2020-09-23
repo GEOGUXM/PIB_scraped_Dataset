@@ -1,0 +1,33 @@
+      Ministry of Environment, Forest and Climate Change
+
+      Dr. Harshvardhan launches “Sagar Vani” - An Integrated Information Dissemination System
+      Posted On: 27 JUL 2017 6:05PM by PIB Delhi
+
+
+    
+
+    Minister of Science & Technology, Earth Sciences and Environment, Forests & Climate Change, Dr. Harshvardhan launched an app “Sagar Vani” on the occasion of Foundation Day of Ministry of Earth Sciences in New Delhi today.
+
+    
+    ESSO-Indian National Centre for Ocean Information Services (INCOIS) under Ministry of Earth Sciences (MoES) provides ocean information services for the benefit of various user communities in the country. The services are more fruitfully utilized when the advisories reaches the end user in timely manner and in user readable format. Now-a-days ICT facilities in the country are accessible to large population of the country and that plays a major role in effective dissemination of information to the end user. ESSO-INCOIS has adopted the state-of-the-art technologies and tools available in the country for the timely dissemination of Ocean Information and Advisory Services that includes Potential Fishing Zone (PFZ) advisories, Ocean State Forecast (OSF), High Wave Alerts and Tsunami early warnings.
+    
+    There are 3288 marine fishing villages and 1511 marine fish landing centres with marine fisher folk population of 3,999,214. About 37.8% (1,511,703) of marine fisher folk are engaged in active fishing. About 927,120 fishermen were involved in actual fishing either full or part time. ESSO-INCOIS is serving about 3.17 lakhs of users directly through in-house efforts as well as through the partnering organizations including NGO’s and there is yet to cover. Hence, it is necessary to target the reach of information to the 9.27 lakh involved in actual fishing either full or part time.
+    
+    Presently, the advisories are being disseminated to the stakeholders from different service sections and through various stakeholders and partners, which might cause delay in dissemination of the services. In order to effectively and timely disseminate the advisories, directly from the lab to the end user, an Integrated Information Dissemination System (IDS) named as “SAGAR VANI” has been developed by ESSO-INCOIS through the Industry M/s. Gaian Solutions Pvt. Ltd.
+    
+    The ‘Sagar Vani’ is a software platform where various dissemination modes will be integrated on a single central server. The ‘Sagar Vani’ includes Multi Lingual SMS, Voice Call / Audio Advisory, Mobile Apps (User / Admin modules), Social Media (Facebook, Twitter, etc.), Email, GTS, Fax, Digital Display Boards, Radio / Television broadcast units, IVRS, Cloud Channels, etc. The system also has facility to provide access to various stakeholders (NGOs, State Fishery Departments, Disaster Management Authorities, etc.) so that they too will be able to further disseminate these ocean information and alerts to the user community.
+    
+    This ‘Sagar Vani’ system compares with the most advanced countries’ services in terms of speed of delivery, omni channel capabilities and diverseness of services. With this system, the services will be disseminated in local languages using advanced artificial intelligence and machine learning capabilities. For the first time in India, we are also using the power of television and cable network mediums for topical and alert dissemination services.
+    
+    The ‘Sagar Vani’ will now serve the coastal community, especially the fishermen community with the advisories and alerts towards their livelihood as well as their safety at Sea.
+
+    ***
+
+
+    
+    
+    RDS/nb
+
+    
+    
+    (Release ID: 1497459) Visitor Counter : 374

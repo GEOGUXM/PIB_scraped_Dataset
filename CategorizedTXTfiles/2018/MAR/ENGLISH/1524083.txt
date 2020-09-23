@@ -1,0 +1,47 @@
+      Ministry of Finance
+
+      Security and operational controls in SWIFT environment
+      Posted On: 13 MAR 2018 4:45PM by PIB Delhi
+
+
+    Reserve Bank of India (RBI) has apprised that it had issued two circulars to banks, related to security and operational controls in SWIFT (Society for Worldwide Interbank Financial Telecommunication) environment, in the months of August and November 2016. As per RBI inputs, compliance with RBI’s instructions is the bank’s responsibility and the Compliance Officer in the bank monitors the same. Further, RBI monitors compliance to its instructions on an ongoing basis and during RBI inspections and, where necessary, enforcement action is also initiated.
+
+
+    RBI has issued instructions mandating banks to implement, within stipulated deadlines, prescribed measures for strengthening the SWIFT operating environment in banks. Further, it has constituted an Expert Committee to look into, inter alia, factors leading to increasing incidence of frauds in banks and the measures (including information technology interventions) needed to curb and prevent it, and the role and effectiveness of various types of audits conducted in banks in mitigating the incidence of such frauds.
+
+
+    Government has issued an advisory to Public Sector Banks to take immediate action as per extant legal/regulatory framework to ensure that fraudulent activity is not prevalent in the bank. They have also been asked to ensure that robust systems and procedures are in place for confirming due approvals, necessary applications/documents and entry in the bank’s system in respect of all Letters of Undertakings/Comfort and SWIFT messages, and ensuring scrutiny and reconciliation of Nostro accounts, and to take all necessary steps to safeguard against occurrence of such frauds. Government has further advised nationalised banks to collectively prepare a report for effective management of operational risks, including technology risk, so as to safeguard against occurrence of frauds. Government has also asked nationalised banks to examine all accounts exceeding Rs. 50 crore, if classified as Non-Performing Asset (NPA), from the angle of possible fraud.
+
+
+    RBI has taken a number of measures to prevent and control frauds. These include the following:
+
+
+      * a framework for dealing with loan frauds of Rs. 50 crore and above, under which banks classify potential fraud accounts as red-flagged accounts based on observation/evaluation of early warning signals, and take time bound action;
+
+      * an online searchable database of frauds reported by banks, in the form of Central Fraud Registry, as a tool of timely identification, control and mitigation of fraud risk and for carrying out due diligence during credit sanction process;
+      * issuance of caution advices by RBI, detailing names of fraudsters and their modus operandi;
+      * re-verification of title deeds in respect of all credit exposures of Rs. 5 crore and above by banks, as mandated by RBI;
+      * issuance of various master circulars to banks, with a view to restricting imprudent practices and at the same time ensuring sound procedures for conduct of business;
+      * requiring banks to put in place adequate audit and compliance mechanisms with Board-level reporting through the Audit Committee of the Board; and
+      * subjecting the systems and procedures in banks to supervisory review by RBI as part of the Risk Based Supervisory framework for banks.
+
+    This was stated by Shri Shiv Pratap Shukla, Minister of State for Finance in written reply to a question in Rajya Sabha today.
+
+
+    ******
+
+
+    DSM/KA
+
+
+    
+
+    
+    (Release ID: 1524083) Visitor Counter : 687
+    
+    
+    
+    
+    
+
+*

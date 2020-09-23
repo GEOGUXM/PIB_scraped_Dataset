@@ -1,0 +1,29 @@
+      PIB Headquarters
+
+      Busting of illegal telecom setup
+      Posted On: 26 AUG 2019 5:22PM by PIB Chennai
+
+
+    A team of CBCID (TN Police) along with DoT officers (Security wing, TN LSA) jointly raided the premises of DRAV telecommunications at Thangam Colony, in Anna Nagar West, Chennai and busted an illegal telecom setup, based on the inputs provided by the Department of Telecommunications (DoT), TN LSA.
+
+
+    It was found that the setup consisting of Subscriber Identification Module (SIM) boxes, routed calls through Voice over Internet protocol (VoIP) to terminate international call as local call bypassing International long distance operators (ILDO). The SIM box fraud is a setup where fraudsters team up with partners abroad to route international calls through the internet using Voice over Internet Protocol (VoIP). These international calls will appear as calls with local/national CLI. The SIM box enabled telephone setup causes revenue loss to the Telecom Service Providers (ILDO, NLDO, CMTS operators) & Government exchequer. Such illegal setups may even pose threat to national security.
+
+
+    The illegal telephone setup was busted on 21.08.2019 (Wednesday). The equipments and setups were seized by CBCID. The setup consisted of 22 SIM boxes with approx. 1500 SIMs. 16 routers with pen drive. Foreign calling cards, Wifi dongles, mobile handsets and foreign currencies were also seized.
+
+
+    DoT has filed FIR against the accused for having performed such unlawful activities. One person identified as Muppiri Reddy and four of his employees were arrested.
+
+
+    DoT has notified a toll free number “1800 110 420 / 1963” on which the public can inform DoT call centre about receipt of an international call with local/national CLI (Caller Line Identification) or no number displayed on their phone, according the press release issued by Ms. G. Kalaivani, Dy. Director General, Department of Telecommunications, Chennai.
+
+
+    ********
+
+    
+    
+    (Release ID: 1583057) Visitor Counter : 195
+    
+    
+      Read this release in: Tamil

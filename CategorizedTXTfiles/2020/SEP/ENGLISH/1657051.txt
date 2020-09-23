@@ -1,0 +1,188 @@
+      Ministry of Health and Family Welfare
+
+      COVID hospitals in India
+      Posted On: 20 SEP 2020 8:13PM by PIB Delhi
+
+
+    As per the information provided by the States/ UTs on the Covid-19 Portal, State-wise details of Covid dedicated facilities and ICU beds in COVID dedicated facilities (Government and Private both) as on 18 th September 2020 is given at Annexure .
+
+
+    In view of cases being reported in various parts of the country, the situation is dynamic, and the bed utilization position changes day-to-day. Hence, the data on vacant beds will only be available with the state government/ respective health facilities.
+
+
+    Annexure I
+
+                                                                                                                                                                                                                               
+#      State / UT Name              No of Facility  No of District Covered  Total Isolation beds (excluding ICU beds)  Isolation beds of Confirmed Cases  Isolation beds for Suspected cases  O2 Supported beds  Total ICU beds
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+1      Andaman and Nicobar Islands  23              3                       1173                                       915                                258                                 165                24            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+2      Andhra Pradesh               581             13                      102867                                     85777                              16607                               16902              4846          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+3      Arunachal Pradesh            104             25                      2854                                       1449                               1403                                172                62            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+4      Assam                        387             33                      30558                                      24784                              5746                                1682               396           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+5      Bihar                        357             38                      36617                                      28440                              8173                                6814               650           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+6      Chandigarh                   21              1                       3439                                       2789                               650                                 885                113           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+7      Chhattisgarh                 228             27                      22231                                      18013                              4218                                1544               722           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+8      Dadra & Nagar Haveli         5               1                       1190                                       628                                560                                 200                46            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+9      Daman & Diu                  7               2                       559                                        229                                330                                 139                21            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+10     Delhi                        162             11                      25719                                      19929                              5790                                10023              2617          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+11     Goa                          45              2                       1678                                       1410                               268                                 178                134           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+12     Gujarat                      718             33                      49972                                      38741                              11410                               14708              4942          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+13     Haryana                      801             22                      56286                                      27905                              28381                               5985               2227          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+14     Himachal Pradesh             66              12                      3413                                       3109                               304                                 763                86            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+15     Jammu and Kashmir            297             20                      23122                                      19058                              4364                                3213               436           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+16     Jharkhand                    279             24                      17797                                      13885                              4014                                3185               393           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+17     Karnataka                    1809            30                      138725                                     92780                              46515                               17162              4963          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+18     Kerala                       327             14                      39698                                      25838                              13860                               4082               2822          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+19     Ladakh                       5               2                       276                                        246                                30                                  109                37            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+20     Lakshadweep                  11              1                       102                                        44                                 58                                  21                 14            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+21     Madhya Pradesh               939             52                      70094                                      37233                              32861                               14616              2673          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+22     Maharashtra                  3328            36                      350340                                     200266                             149917                              56737              14866         
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+23     Manipur                      38              16                      2471                                       2315                               156                                 358                47            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+24     Meghalaya                    58              11                      2212                                       1552                               660                                 345                83            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+25     Mizoram                      58              11                      2731                                       2370                               361                                 308                44            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+26     Nagaland                     14              11                      681                                        536                                145                                 142                54            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+27     Odisha                       246             30                      30206                                      17088                              13118                               4129               554           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+28     Puducherry                   17              4                       1318                                       901                                427                                 339                110           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+29     Punjab                       284             22                      26805                                      14187                              12648                               4266               1643          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+30     Rajasthan                    417             33                      43206                                      26365                              16817                               8449               1797          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+31     Sikkim                       14              4                       1065                                       842                                223                                 229                20            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+32     Tamil Nadu                   1259            37                      191301                                     127162                             64189                               25409              8439          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+33     Telangana                    56              18                      15604                                      14814                              790                                 2794               1782          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+34     Tripura                      27              8                       2058                                       1856                               202                                 230                74            
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+35     Uttar Pradesh                757             75                      154428                                     150384                             4044                                11413              4256          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+36     Uttarakhand                  434             13                      30635                                      19864                              10771                               2174               481           
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+37     West Bengal                  1224            23                      70591                                      14127                              56465                               12635              1284          
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+Total                               15403           718                     1554022                                    1037831                            516733                              232505             63758         
+                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
+
+    The Minister of State (Health and Family Welfare), Sh Ashwini Kumar Choubey stated this in a written reply in the Rajya Sabha here today.
+
+
+    ****
+
+
+    MV/SJ
+
+
+    HFW/20Sep2020
+
+    
+    
+    (Release ID: 1657051) Visitor Counter : 28
+    
+    
+      Read this release in: Marathi , Manipuri

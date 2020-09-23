@@ -1,0 +1,33 @@
+      Ministry of Communications
+
+      Government takes pro-active step towards improving the Quality of Mobile Services
+      Call Drops reduced 7% in 3 Months
+
+      Posted On: 26 APR 2017 2:55PM by PIB Delhi
+
+    In order to obtain direct feedback from subscribers about Quality of Mobile Services, the Department of Telecommunications (DoT) launched an Integrated Voice Response System (IVRS) in a phased manner between December 2016 and March 2017 covering all states in the country, through which, subscribers received an IVRS call from short code 1955 and were asked a few questions on the Quality of Mobile Services including problem of call drop, if any. The subscribers have been facilitated by the system to send a toll-free SMS to the same short code 1955, containing the name of city/town/village, where they face frequent call drops.
+
+
+    
+    Since its launch, the IVRS system has made 26.97 lakh calls to subscribers of all Telecom Service Providers (TSPs) across the country, out of which 3.56 lakh subscribers (about 13%) participated in the survey. Remaining 87% subscribers, who did not participate, were either not willing or did not have problem of frequent call drops. Among those who participated, 2.15 lakh (about 60%) subscribers have reported experiencing frequent call drops. From the feedback it has been observed that the complaint is mostly indoors. The feedback is shared with the TSPs to take corrective action in a time bound manner and submit the action taken report (ATR) to DoT Task Force every fortnight. TSPs contact each subscriber, who has reported frequent call drops, through telephonic calls and SMS in English and locallanguages to collect further details required for resolution of the complaint.
+
+
+    
+    On cumulative basis, since launch of IVRS, TSPs have resolved 13,631 cases related to call drop problem and also resolved another 7975 cases which were reported as frequent call drop problem but were found to be having other issues related to data, roaming, billing, MNP, mobile device etc.Out of these,1406 cases were resolved through optimization, rectifying hardware/power problems, through field visits etc. during the fortnight 15-31March 2017.
+    The results obtained through the IVRS platform and follow up efforts of DoT & TSPs are quite encouraging. The call drops reported by subscribers have dropped from 64% in Dec-2016 to 57% at the end of Mar-2017, a drop of nearly 7% in 3 months. In addition, the said initiatives of the Government have facilitated TSPs to identify black spots and plan new sites/ infrastructure to improve their services. TSPs have planned 987 new sites/boosters out of which 109 have been already installed and commissioned (Airtel-11, Idea-29, Reliance Jio - 69).
+
+
+    
+    The Ministry of Communications regularly reviews the efficacy of the system and suggests further areas of improvements. This system has provided a win-win situation for all stakeholders.
+
+
+    
+    <><><><>
+
+
+    
+    SNC
+
+    
+    
+    (Release ID: 1488648) Visitor Counter : 14

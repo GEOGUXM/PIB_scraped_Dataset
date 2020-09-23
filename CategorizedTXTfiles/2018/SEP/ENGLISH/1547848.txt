@@ -1,0 +1,34 @@
+      NITI Aayog
+
+      NITI Aayog and Oracle sign a Statement of Intent to pilot drug supply-chain using blockchain.
+      
+      Apollo Hospitals and Strides Pharma Sciences to partner.
+
+      Posted On: 28 SEP 2018 5:40PM by PIB Delhi
+
+    In order to fight the growing problem of counterfeit drugs in India, NITI Aayog and Oraclesigned a Statement of Intent (SoI) to pilot a real drug supply-chain using blockchain distributed ledger and Internet of Things (IoT) software. Apollo Hospitals and Strides Pharma Sciences will partner in this effort.
+
+
+    The SoI was signed by Adviser NITI Aayog, Ms. Anna Roy and Regional Managing Director of Oracle India, Shailender Kumar, in the presence of CEO of NITI Aayog, Shri. Amitabh Kant; Joint MD Apollo Hospitals Group, Ms. Sangita Reddy along with senior officials of all partnering organizations.
+
+
+    Amitabh Kant, CEO, NITI Aayog, said “The problem of fake and counterfeit drugs is a major issue, costing the Indian pharma industry billions. At the same time, it’s putting patients at higher risk. This agreement with Oracle and our partnership with Apollo Hospitals and Strides Pharma, will help ensure that Indian drug manufacturers and healthcare experts have access to a standards-based, modern technology platform – blockchain and IoT, to help eliminate fake drug distribution.”
+
+
+    The major advantages of blockchain software will be its ability to allow the sharing of information across the drug supply chain securely with every exchange of information getting recorded, inability to tamper with any record of the drug movement and inability to delete any records so there can be no dispute, if an offender is caught.
+
+
+    About Blockchain technology in drug supply-chain
+
+
+    Blockchain technology helps to permanently register a drug’s record in the manufacturer’s drug supply chain (serial number, labelling, scanning), leaving no scope for record tampering. At every point of hand change, it records the drug’s movement – from manufacturer to logistics, to stockist to hospital, or pharmacy to consumer. In case of a fake drug, the software will detect irregularity. Additionally, critical information such as chemical ingredients of the drug or maintenance of temperature control in case of life saving drugs or vaccines, can also be tracked.
+
+
+    ***
+
+
+    AKT/VJ/SBP
+
+    
+    
+    (Release ID: 1547848) Visitor Counter : 758

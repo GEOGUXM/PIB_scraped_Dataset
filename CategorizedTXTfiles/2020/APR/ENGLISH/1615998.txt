@@ -1,0 +1,49 @@
+      Ministry of Science & Technology
+
+      Gamma-ray flux variability of luminous and high energy blazars: clues to blazar emission mechanismsc
+      Posted On: 19 APR 2020 2:05PM by PIB Delhi
+
+
+    At the center of most galaxies, there’s a massive black hole that can have mass of millions or even billions of Suns that accrete gas, dust, and stellar debris around it. As these material falls towards the black hole, their gravitational energy gets converted to light forming active galactic nuclei (AGN). A minority of AGN (~15%) emit collimated charged particles called jets travelling at speeds close to the speed of light. Blazars are AGN whose jets are aligned with the observer’s line of sight. Some blazars are thought to host binary black holes in them and could be potential targets for future gravitational-wave searches.
+
+
+    Researchers from the Indian Institute of Astrophysics (IIA), Bangalore, an autonomous institute of the Department of Science & Technology, Govt. of India, have conducted the first systematic study on the gamma-ray flux variability nature on different types of blazars. Their study could provide clues to the processes happening close to the black hole, not visible through direct imaging.
+
+
+    The research work based on characterizing the flux variability nature on month-like time scales in the high energy gamma-ray (100 MeV to 300 GeV) band for different types of blazars has been published in the journal Astronomy and Astrophysics. The knowledge on the flux variability nature in the high energy gamma-rays on a month like timescales is limited. The results of this work will thus fill the gap on the knowledge of the high energy flux variability nature of blazars.
+
+    
+    Blazars are the most luminous and energetic objects in the known universe were found to be emitters of gamma-rays in the 1990s. It is only with the capability of Fermi Gamma-ray space telescope (launched in 2008) to scan the entire sky once in three hours one is able to probe the flux variability characteristics of blazars on a range of time scales. One of the open problems in high energy astrophysics is to localize the site for the production of gamma-rays. Variability studies in the high energy gamma-ray band can help one to locate the high energy emission site and the high energy emission process. Therefore, the variability analysis in the gamma-ray band carried out in this work is significant.
+
+
+    
+    Gamma-ray band is one of the bands of the electromagnetic spectrum on which there is limited knowledge on the flux variability of blazars. But this band needs to be explored as this is the energy range where the high energy emission from blazars peaks. Exploring this band of the electromagnetic spectrum will provide key inputs to constrain the high energy production site as well as the high energy emission processes. This is the key idea behind this work. Several explanations are available in the literature on the cause of the high energy emission in blazars.
+
+
+    With the availability of near-simultaneous data covering the gamma-ray, X-ray, ultra-violet, optical, and infrared bands, the existing notion on high energy emission in blazars is challenged. One of the ways to test the high energy emission in blazars is to look for similarities and differences in the gamma-ray flux variability characteristics of different types of blazars, and this forms the basic idea to carry out this work.
+
+
+    
+    This particular research by IIA researchers characterised the amplitude and time scale of flux variations and then look for similarity and/or differences in the amplitude and time scale between different types of blazars. The reduction of large volumes of data for a large number of sources was accomplished by the use of the High-Performance Computing facility of the Indian Institute of Astrophysics, Bangalore.
+
+
+    The results obtained from this particular piece of work will provide key inputs to the problem of finding the high energy gamma-ray production site in blazars. Thus it will have direct relevance to the enhancement of the knowledge on blazars. The expertise of handling high energy data from celestial sources gained in this work will build capacity to interpret the gamma-ray data that will emerge from India's upcoming facility, the Major Atmospheric Cerenkov Experiment Telescope as well as from any X-ray missions by India in the future.
+
+
+    Figure 1: One month binned gamma-ray light curve of the FSRQ 3FGL J0102.8+5825
+
+
+    [ Publication details : Bhoomika Rajput, C. S. Stalin, Suvendu Rakshit, 2020, Long term gamma-ray variability of blazars, Astronomy and Astrophysics, 634, A80, https://doi.org/10.1051/0004-6361/201936769 ]
+
+
+    ****
+
+
+    KGS/( DST)
+
+    
+    
+    (Release ID: 1615998) Visitor Counter : 665
+    
+    
+      Read this release in: Urdu , Hindi , Bengali , Tamil

@@ -1,0 +1,48 @@
+      Ministry of Science & Technology
+
+      Study initiated for low cost COVID 19 detection kit suitable for storage in less stringent conditions in rural areas
+      
+      Researchers are developing an aptamer-based diagnostic kit for detection of SARS-Co-V2 infection
+      
+      It can detect a number of infections in precise & efficient manner, besides making detection of COVID 19 infection less costly
+
+      Posted On: 21 AUG 2020 12:29PM by PIB Delhi
+
+    The COVID 19 pandemic has thrown up the novel challenge of setting up rapid diagnostic facilities in remote areas which do not have adequate infrastructure. This calls for low cost devices that do not require very stringent storage facilities. Scientists have put in a research plan to meet this urgent requirement.
+
+
+    With support from the Science and Engineering Research Board (SERB) , a statutory body under the Department of Science and Technology (DST), Birla Institute of Technology, Mesra, Ranchi , has initiated a research with the detection of a target protein using bioinformatics tool against which the diagnostic kit has to be developed. This study has taken the special domain of spike protein in consideration for the development of the diagnostic kit.
+
+
+    The researchers are developing an aptamer-based diagnostic kit for detection of SARS-Co-V2 infection. Their study will first ensure the detection of corona virus infection while subsequently, the kit will also differentiate the various types of corona virus infection (SARS Co-V1, MERS) including COVID 19 infection. The general corona virus infection may be detected on the basis of conserved domain present in all three corona virus infection (SARS Co-V1, MERS & COVID 19) while the differential kit will be developed on the basis of combination of conserved and non-conserved domain present in SARS-CoV2 virus, SARS-CoV2 virus & MERS virus respectively.
+
+
+    Armed with state-of-art expertise in molecular biology and drug delivery domain, Dr. Abhimanyu Dev, Assistant Professor at Birla Institute of Technology, Mesra (BIT Mesra) Ranchi, has teamed up with Dr. Venkatesan Jayaprakash, Associate Professor of the same Institute to carry out this research. The development of the diagnostic kit will be done at Birla Institute of Technology, Mesra lab while testing of kit will be conducted at Institute of Life Sciences (ILS), Bhubaneswar under supervision of Dr. Rajeeb Kumar Swain, Scientist E, ILS Bhubaneswar.
+
+
+    The aptamer-based technology is a relatively new technique. It can detect a number of infections in precise & efficient manner. Besides, it makes detection of COVID 19 infection less costly and the devices can be stored in less stringent conditions, making it more effective over conventional antibody-based detection techniques, especially for the rural and remotely located population. The detection of other corona virus infection (SARS-Co-V1 & MERS) will also be an added advantage of our research.
+
+
+    This kit also has the advantage of detecting corona virus infection in very less time as it will be a rapid diagnostic kit for detection based on the change in colour. Further, the kit will be less costly in comparison to antibody-based detection technique due to low production cost and requirement of the less stringent storage facility.
+
+
+    Figure showing schematic representation of aptamer-based detection of COVID 19 infection
+
+
+    [For more details, please contact: Dr. Abhimanyu Dev, Birla Institute of Technology, Mesra (BIT Mesra) Email: abhimanyudev@bitmesra.ac.in, Mob: 9955165915
+
+
+    Dr. Venkatesan Jayaprakash, Birla Institute of Technology, Mesra (BIT Mesra) Email: venkatesanj@bitmesra.ac.in, Mob: 9470137264 ]
+
+
+    *****
+
+
+    NB/KGS(DST Media Cell)
+
+    
+    
+    (Release ID: 1647531) Visitor Counter : 289
+    
+    
+      Read this release in: Urdu , Marathi , Hindi , Manipuri , Bengali , Punjabi , Tamil , Telugu

@@ -1,0 +1,55 @@
+      Ministry of Railways
+
+      Use of Advance Technology to Prevent Train Accidents
+      Posted On: 31 DEC 2018 3:31PM by PIB Delhi
+
+
+    Indian Railways (IR) has taken the following proactive measures to ensure safety and to prevent accidents at unmanned level crossings:
+
+     1. Elimination of unmanned level crossings through closure/merger/grade-separator/ manning etc. on a programmed basis. All unmanned level crossings on Broad Gauge have now been eliminated except 28 UMLCs, which have also been planned to be eliminated by closure, merger, subway and manning.
+     2. SMS-based campaigns to create awareness amongst road users.
+     3. Social awareness campaigns to educate road users with the use of various print and electronic media for observance of safe practices prescribed in Motor Vehicles Act and Indian Railways Act.
+     4. Public awareness campaigns at different places like villages, Gram Panchayat, weekly market, bus stands, schools and other public places.
+     5. Nukkad Nataks organized at public places with theme “Safety at Level Crossings”.
+     6. Drives to ensure availability of basic infrastructure at unmanned level crossings including whistle boards, road warning boards, speed breakers, visibility etc. as per the laid down standards.
+     7. Periodic inspection of such crossings by Railway officials to ensure the above and for taking corrective actions, if any.
+     8. Level crossing awareness week is organized each year by the Zonal Railways, which also includes the ‘International Level Crossing Awareness Day (ILCAD)’.
+     9. To ensure safety, all unmanned level crossings have been provided with Gate Mitra to counsel/warn the road users for observance of safe practices while negotiating the unmanned level crossings.
+
+    In addition, following technology upgradation has been adopted by the Indian Railways to prevent rail accidents and to enhance safety in railway operation and pertaining to infrastructure:
+
+
+         1. Fog Pass Devices have been provided on locomotives in fog prone areas. This is a portable equipment issued to Loco Pilots while working trains during fog season, which guides Loco Pilot about incoming signal location.
+
+         2. All Locos are provided with Vigilance Control Devices for checking alertness of Loco Pilots.
+         3. Remote Monitoring and Management of Locomotives and Trains enables remote monitoring of Diesel Locomotives and focused counseling and training of such crew, who are prone to unsafe working. It also monitors condition of locomotive and makes preventive maintenance of locomotives. The above system is already running on about 3520 locomotives and 113 DEMUs.
+         4. Heating, Ventilation and Air conditioning of locomotive Cabs (HVACs) – Improvement in the working conditions of loco crew is a priority area for Indian Railways. Provision of AC in loco cab will reduce fatigue level on run and will make working environment of crew better and improve their efficiency. Better working condition will also improve the alertness level of the loco pilots. So far, 895 diesel locos have been equipped with HVACs.
+         5. Simulator training is imparted to all Loco Pilots to gain hands on experience on the locomotives.
+         6. Linke Hofmann Busch (LHB) type coaches, which are of a superior design having better safety features like anti-climbing, etc., are being proliferated in main line trains. It has also been decided that only LHB coaches would be manufactured by Production Units of Indian Railways from April, 2018 onwards.
+         7. Several fire safety measures like provision of Smoke Detection System in Air Condition coaches, Fire Detection and Suppression System in Power car and Pantry car and availability of Fire Extinguishers in Non-AC coaches have been initiated. These systems/equipments are getting provided in a phased manner on identified coaches.
+         8. To automatically identify the defective wheels in rolling stock by measuring the impact of wheels on track, 15 Nos. of Wheel Impact Load Detectors (WILDs) are operational in Indian Railways. Further, Purchase Order has been placed for another advanced system called Online Monitoring of Rolling Stock (OMRS) which monitors defective bearing, wheel flats and generate defect reports on real time basis. Two such systems are operational in IR and two more systems are under installation.
+         9. To proactively detect cases of potential Hot Box at the initial stage of propagation, Hot Box Detectors are being tried out over Indian Railways’ network to mitigate en-route detachment and avoid serious repercussion on the operation of trains.
+        10. Indian Railways has already adopted the technological upgradation in safety aspects of coaches and wagons by way of introducing Modified Centre Buffer couplers, Bogie Mounted Air Brake System (BMBS), improved suspension design and provision of Automatic fire and smoke detection system in coaches. These modifications are being provided in newly manufactured coaches and wagons in a regular basis.
+        11. Long Rail panels are being used on track to minimize welded joints.
+        12. Ultrasonic Flaw Detection (USFD) testing of rails to detect flaws and timely removal of defective rails.
+        13. Thick Web Switches and Weldable CMS Crossing are being procured for use on track.
+        14. Mechanization of track maintenance is being carried out to reduce human errors.
+
+    This information was given in a written reply to a question in Rajya Sabha.
+
+
+    *****
+
+
+    SVS/MKV/AP
+
+    
+    
+    (Release ID: 1557915) Visitor Counter : 426
+    
+    
+    
+    
+    
+
+14.

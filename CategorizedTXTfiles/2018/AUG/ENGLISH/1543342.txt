@@ -1,0 +1,32 @@
+      Ministry of Statistics & Programme Implementation
+
+      Back Series of National Accounts Statistics - A Clarification
+      Posted On: 19 AUG 2018 2:03PM by PIB Delhi
+
+
+    The Ministry of Statistics and Programme Implementation (MoSPI) has been regularly bringing out macro-economic aggregates and indicators. The statistical processes involved in producing such estimates are open, transparent and in line with the best international practices and standards. The processes and estimates are evolved after detailed deliberations in various technical committees and the recommendations placed in the public domain. Efforts have also been made to increase the sample size and use of high frequency data released by various agencies. These measures are in accordance with international best practices and have been largely appreciated by different sections of society including research analysts, experts, international organisations etc. However, recently certain sections of the media have reported on the revision in base years of various statistical products and estimates brought out by the Government of India and the Back Series of these estimates. The Government would like to present a proper perspective on these issues so that the end users and public at large become aware of the processes involved in generation of these estimates and in the base revision exercise.
+
+
+    2. Change of base year to calculate macro-economic indicators area normal activity which is periodically undertaken. This is in line with the global effort in the G20 and other fora to capture economic information accurately and to analyse the changing structure of the economy. While undertaking revisions, it is also a global statistical practice to continuously identify and tap new data sources in the economy which have wider coverage and where data is available regularly. The Ministry of Statistics and Programme Implementation (MoSPI) has revised the base years of the Gross Domestic Product (GDP) and the Index of Industrial Production (IIP) to 2011-12 and for the Consumer Price Index (CPI) to 2012.For the IIP and CPI, the item baskets were revised to remove items that were no longer relevant and include those that had become relevant since the last base revision. For the National Accounts estimates, the new seriesis a structural breakaway from the old series, as it includes information sources which have newly become available or are more regular than the earlier ones. For instance, information on the corporate sector was taken from Ministry of Corporate Affairs MCA-21 database.
+
+
+    3. Normally, when a new series of National Account Statistics (NAS) is introduced with an updated base period, it is customary for the Central Statistical Office (CSO)to link the old series with the new series. For the compilation of a linked series, the standard methodology used by CSO is the splicing method and reworking the estimates as per the current series methodology at the component or detailed item level. CSO, in the past, has adopted the following broad guidelines for the compilation of linked series.For the years from the last base (2004-05) to the current base (2011-12), the components are re-estimated by following the same procedure as for the new series of NAS. For the years prior to previous base year (2004-05), the estimates are prepared by using the splicing technique. This implies that there would be no change in the growth rates of aggregates for the same years between the old series and new series. For back casting the series till 2004-05, various alternatives are being worked out and the back series will be finalized and released after due consultation with Advisory Committee on National Accounts.
+
+
+    4. The National Statistical Commission gives overall guidance to the Ministry of Statistics & PI in undertaking all statistical activities based on priorities and resource availability. The then Chairman, NSC, constituted 5 Committees to examine in-depth the issues facing various sectors of the economy and the measures needed to be taken including use of modern technology for addressing these challenges. The Committees formed were (a)Committee on Real Sector Statistics; (b) Committee on Online Reporting Systems; (c) Committee on Analytics; (d)Committee on Financial Sector Statistics; and (e) Committee on Fiscal Sector Statistics. These Committees had detailed discussions with experts and after deliberations, finalised their reports and presented them to the National Statistical Commission in July, 2018. The Committee on Fiscal Sector had not submitted its report. The NSC, in its meeting held on 16-17 July, 2018 decided to place these reports on the website of MoSPI for wider consultation.
+
+
+    5. The Committee on Real Sector Statistics also looked at the issue of data challenges in bringing out the Back Series of GDP (Base 2011-12) as several new sources had been used in the current series which were not available or not reliable in the earlier series (Base 2004-05). The Committee approached the data challenges using different approaches. Three possible approaches were considered for generating the back series. One approach was broadly based on the new GDP methodology by using the base data wherever available. Another method was based on production shift approach. A third approach was to project the old series using the base year 2004-05 forwards up to, say, 2014-15, then adjust it to the 2011-12 base by comparing it with the new series. The Committee used the production shift approach and came out with some experimental results to see how the approach compares with the earlier series. Thus the estimates in the Report are not official estimates and are meant only to facilitate taking a decision on the appropriate approach.
+
+
+    6. These recommendations of the NSC Committees will be examined by MoSPI and other experts for deciding on the appropriate methodology to be adopted for generating the Back Series estimates for each sector. The Advisory Committee on National Accounts Statistics will be deliberating on the Back Series estimates before finalising the same for continuity, consistency and reliability.
+
+
+    *******
+
+
+    AKT/ VJ
+
+    
+    
+    (Release ID: 1543342) Visitor Counter : 1107

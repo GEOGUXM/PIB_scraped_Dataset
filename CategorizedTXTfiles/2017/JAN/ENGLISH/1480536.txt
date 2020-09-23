@@ -1,0 +1,26 @@
+      Ministry of Commerce & Industry
+
+      App named 'SEZ India' launched by Commerce Ministry
+      Posted On: 15 JAN 2017 5:31PM by PIB Delhi
+
+      
+
+
+    A Mobile app named “SEZ India” has been launched by the Commerce Secretary on 06.1.2017. SEZ Division, Department of Commerce under its broader e-Governance initiative i.e. SEZ Online System, has developed mobile app for Special Economic Zones (SEZs). Commerce Secretary launched the app and mentioned that the App would help the SEZ Units and Developers to find information easily and track their transactions on SEZ Online System. Now the SEZ Developers & Units can file all their transactions digitally through SEZ Online system and track the status on the go through the SEZ India mobile app.
+
+
+    The app is available on Android Platform for use by SEZ Developers, Units, officials and others. The app has four sections i.e. SEZ Information, SEZ Online Transaction, Trade Information, and Contact details . Salient Features of the four sections are as under:-
+
+
+    1. SEZ INFORMATION: This is a compendium of the SEZ Act, 2005, SEZ Rules, 2006, MOCI Circulars, details of SEZs and Units etc. It gives up to date comprehensive details on all the above aspects.
+    2.TRADE INFORMATION: This provision gives access to important information / tools such as Foreign Trade Policy, Hand Book of procedure , Duty Calculator , Customs & Excise Notification and MEIS Rates.
+    3.CONTACT DETAILS: We see that the contact details of all Development Commissioners Office, DGFT, DG System, DGCI & S and SEZ online.
+
+
+    4. SEZ online Transaction This is a dynamic submenu that tracks the Bill of Entry / Shipping Bill processing status and also does verification. The app also helps the Importers / Exporters to track the status of 'Bill of Entry / Shipping Bill” integration and processing in the EDI system of the ICEGATE.
+
+
+    MJPS
+    
+    
+    (Release ID: 1480536) Visitor Counter : 115

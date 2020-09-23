@@ -1,0 +1,17 @@
+      Election Commission
+
+      Dissemination of Trends and Results of General Elections of 5 Assemblies to start at 8 am tomorrow through ECI website
+      A Novel Initiative: ECI website to provide Comparative Analysis on Results of 5 Assembly Elections, 2017 with the 2012 polls
+      Posted On: 10 MAR 2017 10:33AM by PIB Delhi
+
+      
+      
+          Election Commission has set up robust, fool proof and secured infrastructure facility for disseminating Trends and Results General Elections of 5 Assemblies in Feb - March 2017, through its popular website www.eciresults.nic.in which will start functioning from 8.00 AM tomorrow and will show trends update continuously. The IT solution captures number of votes secured by the candidates contested in elections round wise and after compilation shows Assembly constituency wise, Political party wise and Candidate wise trends. It is worthwhile to mention that this website has a track record of very large number of hits ranging from 36 Million to 16 Billion in a day in past, when Trends were being disseminated. The website can also be accessed through www.eci.nic.in website which is main official website of the Election Commission of India.
+          For the First Time , ECI to provide analytics through interactive dashboard
+          As a proof of Concept, ECI is presenting some interactive dashboards, for the first time, for public use which will comprise of both data and analysis in its official website (www.eci.nic.in) on 12.3.2017. The analysis will be presented in user friendly, clickable infographics which may be of immense interest to all stakeholders. The users can download data, crosstab, PDF and images for analysing the elections further at their end. It will include comparative analytics between 2012 and 2017. The users will get constituency analysis with respect to participation of electors (constituencies with more female electors, constituencies by slabs of voter turnout, turnout by poll days) and candidates (gender wise participants, winners and major competitors). To assess performance of political parties, analysis on seats won by them, the percentage vote-share in the State and the profile (Age and Social Category) of candidates fielded by them have been included. Candidates have been mapped to their constituencies and the votes polled in their favour.
+          RM/VM
+
+    
+
+    
+    (Release ID: 1484067) Visitor Counter : 53

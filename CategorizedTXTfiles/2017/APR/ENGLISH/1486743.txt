@@ -1,0 +1,56 @@
+      Ministry of Agriculture & Farmers Welfare
+
+      Geotagging of assets created under RKVY
+      Posted On: 05 APR 2017 4:50PM by PIB Delhi
+
+
+    1. What is geo tagging?
+
+
+    · Geotagging - It is the process of adding geographical identification like latitude and longitude to various media such as a photo or video. Geotagging can help users find a wide variety of location-specific information from a device. It provides users the location of the content of a given picture.
+
+
+    · Geomapping -a visual representation of the geographical location of geotagged assets layered on top of map or satellite imagery
+
+
+    2. Why is Geotagging important?
+
+
+    · Several assets are created in the states under various schemes of the Ministry of Agriculture. Under RKVY also, states have been utilising substantial amount of funds for creation of infrastructure/assets in agriculture and allied sectors such as soil testing labs, pesticide testing labs, bio fertiliser setting units, custom hiring centres, vaccine production units , veterinary diagnosis labs , dispensaries , milk collection centres , fish production units, godowns, cold storage, shade nets, pandals for vegetable cultivation etc. Monitoring of such wide spread activities is of paramount importance to states and Government of India to understand flow of funds, inventorising the assets, bringing in transparency, planning of assets for future, and finally informing the farmers about the facilities available.
+
+
+    · PM on several occasions emphasised on use of technology for reporting of assets created through geo-tagging (example: drought review meeting held on 14/ 05/2016).Finance Minister also highlighted monitoring of MGNREGA assets through Geotagging in his budget speech.
+
+
+    · Geotagging for monitoring of assets is already started in Ministry of Rural Development for MGNREGA and Department of Land Resources for monitoring of watershed activities in the states. Postal department has also geotagged the post offices using NRSC Bhuvan Platform.
+
+
+    3. Who does it?
+
+
+    · National Remote Sensing Agency (NRSA) , ISRO at Hyderabad : This centre of ISRO has a software platform, Bhuvan that allows users to explore a 2D/3D representation of the surface of the Earth. It also acts as a platform for hosting government data. Bhuvan Application Services that are diversified and relevant for many ministries were released.
+
+
+    · NRSC is involved in mapping of resources (Postal, GAIL, Forest etc) as well as monitoring of assets created under various schemes of Ministry of water Resources, Ministry of rural development etc.
+
+
+    · The assets created under RKVY could be monitored by Geotagging them using BHUVAN, a geoplatforn of National Remote Sensing Centre (NRSC) of ISRO, Hyderabad. In future, the location of the infrastructure created and distances from each other could also be utilised for arriving at distribution of assets and optimum number of that particular asset required in a district or state. The process involves development of a mobile app for mapping the assets through photographs and Geo-tagging (providing geo co-ordinates) before hosting on to DAC –RKVY platform that would be specially created for RKVY monitoring.
+
+
+    Proposal for geotagging of infrastructure /assets created under RKVY:
+
+
+    · Therefore, it is proposed to prepare inventory of the assets created in the last one decade (2007-2017) under RKVY through Geotagging technique. National Remote Sensing Centre (NRSC), wing of Indian Space Research Organisation is providing technical support to RKVY division and has come up with a detailed procedure for the same. The institute is involved in preparation of the required app, imparting training to the states etc..The trained officers at the field level will take the photographs (with details of latitude, longitude, year of creation etc.) of the assets and upload on to the Bhuvan-RKVY platform of NRSC.
+
+
+    · So far NRSC has developed RKVY app, training manual, imparted training to 17 states regarding use of the app. The organisation will provide technical backstopping till the Geotagging exercise is completed. Pilot work has been initiated in 4 sattes of Orissa, Maharashtra, Bihar and Karnataka.
+
+
+    · A formal MoU is proposed to be signed between DAC&FW and NRSC regarding use of BHUVAN for launching BHUVAN-RKVY platform. It is proposed to sign the MoU on 6 th April .Minsters of Agriculture, Department of Science, Secretary (DAC&FW), Director ISRO, Director NRSA and other senior officers from both the sides are expected to be present during the ceremony.
+
+
+    SS
+
+    
+    
+    (Release ID: 1486743) Visitor Counter : 163

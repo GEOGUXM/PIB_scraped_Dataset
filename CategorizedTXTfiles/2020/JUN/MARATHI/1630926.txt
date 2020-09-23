@@ -1,0 +1,92 @@
+      Ministry of Health and Family Welfare
+
+      India is definitely not in the stage of community transmission, prevalence of COVID-19 infection is low, less than 1%: DG, ICMR
+      
+      ICMR releases results of COVID-19 Sero Survey: Infection prevalence is low, however large proportion population is susceptible, mortality rate is very low
+      
+      We cannot lower our guard, need to continue and strengthen surveillance and containment measures: Chairman, Empowered Group I
+
+      Posted On: 11 JUN 2020 6:37PM by PIB Mumbai
+
+    Mumbai / New Delhi, June 11, 2020
+
+
+    Recovery rate of COVID-19 in India is increasing and it stands at 49.21% today. As on June 11, 2020, India has 1,41,028 individuals who have been cured and recovered from COVID-19. A highly positive development is that the number of recovered patients has exceeded the number of active cases at present. This was informed by Joint Secretary, Ministry of Health & Family Welfare, Shri Lav Agarwal at a media briefing on actions taken, preparedness and updates on COVID-19, at National Media Centre in New Delhi today.
+
+
+    
+    
+
+    The Joint Secretary observed that many a time while comparing the COVID-19 situation in India, vis-a-vis other countries, we look at absolute number of cases in various countries. In this context, Shri Agarwal emphasised that this comparison can be somewhat misleading and misconstrued at times. We should look at the countries having equivalent population as that of India. This comparison should not be done with countries having a much smaller population than India.
+
+    
+    DG, ICMR Prof. (Dr.) Balram Bhargava informed that the cases per lakh population in India is amongst the lowest in the world. Similarly, the number of deaths per lakh population in India is also amongst the lowest in the world. He said, this finding has been corroborated by the sero-survey undertaken to monitor the trend of SARS-CoV-2 infection transmission. The presentation given by the DG can be found here .
+
+
+    The DG, ICMR presented the results of Part-I of the survey, aimed at estimating the fraction of general population who has been infected with SARS-CoV-2:
+
+      * 0.73% population in the districts surveyed had evidence of past exposure to SARS-CoV-2
+      * Lockdown/containment has been successful in keeping the infection spread low and preventing rapid spread in 3 months.
+      * It however means that a large proportion of the population is still susceptible.
+      * It has also been found that risk of infection is slightly higher in urban areas (1.09), higher in urban slums (1.89) in comparison to rural areas.
+      * A positive side is that infection fatality rate is very low at 0.08%.
+      * Infection in containment zones was found to be high with significant variations and data related to this is still being gathered.
+
+    Prof Bhargava concluded that:
+
+      * Since large proportion of the population is susceptible and infection can spread, non-pharmacological interventions such as physical distancing, use of face mask/cover, hand hygiene, cough etiquette must be followed strictly.
+      * Urban slums are highly vulnerable for the spread of infection
+      * Local lockdown measures need to continue as advised by the Central Government, especially in containment areas.
+      * High risk groups, that includes elderly population, people with chronic morbidites, pregnant women and children less than 10 years of age need to be protected.
+      * Efforts to limit the scale and spread of the disease will have to be continued by strong implementation of containment strategies by the states
+      * The states cannot lower their guard and need to keep on implementing effective surveillance and containment strategies.
+
+    Explaining the process and objectives of sero-survey, DG, ICMR explained that blood samples are collected from general population and tested for IgG antibodies. If the antibody test is positive, it means they were infected with SARS-CoV-2 in the past. Explaining the expectations from sero-survey, Prof Bhargava stated, it presents the percentage of the general population who are at a higher risk of getting infected and thereby, the areas needing more strengthened containment efforts. The objective of conducting a sero-survey is to provide a scientific guidance from time to time. Being guided by this principle, a survey has been conducted and multiple such surveys will be done as we progress, further stated DG, ICMR.
+
+
+    In Part I of the survey, a total of 28,595 households were visited in the 83 districts surveyed for this purpose. Blood samples along with data was collected from 26,400 individuals in the survey. The survey was conducted in collaboration with the state health departments, NCDC and WHO in May 2020 and represents the situation that prevailed in April 2020. The second part of the survey aims to estimate fraction of population who has been infected with SARS-CoV-2 in containment zones of hotpsot cities. This part of the survey is in progress.
+
+
+    After obtaining written consent and ethics clearance, 3-5 ml of venous blood was collected from some individuals in the survey areas and then their sera was tested for IgG antibodies and infection using COVID KAVACH ELISA. The ELISA test is also being made available to the states to conduct sero-survey in different groups of individuals. On basis of the number of reported COVID-19 cases detected by RT-PCR test, the districts were divided into 4 groups for the purpose of survey. These groups are based on cases per million population - zero cases, low incidence (0-5 cases), medium incidence (5-10 cases)and high incidence (more than 10 cases). Taking 15 districts from each group, 400 inviduals were studied from each district. Further, 10 villages/urban areas were selected randomly and one adult from every household was studied from a total of 40 adults enrolled from each village/urban area.
+    
+    Dr. V.K. Paul, Chairman, National Task Force on COVID-19 and Empowered Group-I, observed that COVID-19 sero survey by ICMR shows that less than 1% of population in the studied districts has been infected. In this context he stated, it is a very big achievement that we have been able to contain the infection to this level, especially in a big nation as ours. Stating that the central goal in managing any pandemic is to minimize loss of life, he said, COVID-19 sero survey shows that we have been successful in keeping the mortality rate very low. He further said, the battle against COVID-19 will continue for many more months, hence we need to continue and strengthen our containment efforts and behavioural changes which we have begun to take.
+
+
+    Replying to a media query, Dr. V. K. Paul said: "The containment principles for COVID-19 faced around the world are essentially the same. Once the virus went out of China, the entire world was to face the pandemic in a very different way, because it came through travel at multiple points in every nation, including ours. India is doing pretty well in containment, virus has the nature of travelling very rapidly, but the nation has demonstrated that it can be lessened, contained and suppressed."
+
+
+    In reply to a media query on the heightened debate on community transmission, Prof Bhargava stated, India is such a large country, but the prevalence of COVID-19 infection is so slow and it is still less than 1%, as shown by sero survey conducted by ICMR. Hence, India is definitely not in the stage of community transmission, he concluded.
+    
+    Speaking on ramp-up of COVID-19 tests by ICMR, Prof Bhargava stated, starting with a single lab in January, we have more than 850 labs in the country now. He further said, COVID-19 testing guidelines are calibrated and presently there is a capacity of doing up to 2 lakh tests per day. Our testing strategy so far has been successful, said the DG, ICMR.
+    
+    In reply to a media query, Shri Agarwal said, we have requested states to further streamline their process of dealing with COVID-19 patients on the basis of seriousness of cases and symptoms, provide additional guidance to patients by means of call-centres and also use technology, as far as it is feasible, to display online the availability of beds in various COVID hospitals. The lockdown period has been utilised to ramp up infrastructure and beds. Sufficient beds are available and it is further being increased on basis of needs. States have also been told to use railway coaches for COVID-19 patients as per requirement, he further said.
+
+
+    Responding to another query, the Joint Secretary said that many state governments have held discussions with private hospitals and decided upon a price for COVID-19 tests, while some state governments are in the process of doing it.
+
+
+    ****
+
+
+    
+    DJM/SC
+
+
+    Follow us on social media: @PIBMumbai / PIBMumbai /pibmumbai pibmumbai@gmail.com
+
+    
+    
+    (Release ID: 1630926) Visitor Counter : 505
+    
+    
+    
+    
+    
+
+  
+  
+  
+  
+  
+  
+*

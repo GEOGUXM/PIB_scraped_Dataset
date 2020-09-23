@@ -1,0 +1,43 @@
+      NITI Aayog
+
+      NITI Aayog to Collaborate with IBM to develop Precision Agriculture using Artificial Intelligence
+      
+      Programme to be piloted across 10 Aspirational Districts in the First Phase
+
+      Posted On: 04 MAY 2018 7:06PM by PIB Delhi
+
+    NITI Aayog and IBM signed a Statement of Intent (SoI) today to develop a crop yield prediction model using Artificial Intelligence (AI) to provide real time advisory to farmers in Aspirational Districts.
+
+
+    The SoI was signed in the presence of Shri Amitabh Kant, CEO, NITI Aayog and Shri Karan Bajwa, MD, IBM India.
+
+
+    The partnership aims to work together towards use of technology to provide insights to farmers to improve crop productivity, soil yield, control agricultural inputs with the overarching goal of improving farmers’ incomes.
+
+
+    Highlighting the need of such collaborations, Shri Amitabh Kant said, “Bringing in future technologies like Artificial Intelligence into practical use will have tremendous benefits for the practice of agriculture in the country, improving efficiency in resource-use, crop yields and scientific farming. The ten Aspirational Districts chosen will be invigorated with cutting-edge technological support to leap-frog development of agri-based economies”.
+
+
+    First phase of the project will focus on developing the model for 10 Aspirational Districts across the States of Assam, Bihar, Jharkhand, Madhya Pradesh, Maharashtra, Rajasthan and Uttar Pradesh.
+
+
+    The scope of this project is to introduce and make available climate-aware cognitive farming techniques and identifying systems of crop monitoring, early warning on pest/disease outbreak based on advanced AI innovations.
+
+
+    It also includes deployment of weather advisory, rich satellite and enhanced weather forecast information along with IT & mobile applications with a focus on improving the crop yield and cost savings through better farm management.
+
+
+    IBM will be using Artificial Intelligence to provide all the relevant data and platform for developing technological models for improving agricultural output and productivity for various crops and soil types, for the identified districts. NITI Aayog, on its part, will facilitate the inclusion of more stakeholders on the ground for effective last mile utilisation and extension, using the insights generated through these models.
+
+
+    Speaking at the signing, Shri Karan Bajwa said, “IBM is proud to be associated with NITI Aayog for working on the first of a kind project leveraging AI in agriculture across 10 districts in India, in Phase One. We are committed to make this vision of Honourable Prime Minister, under able leadership of Mr Amitabh Kant, a success.”
+
+
+    *****
+
+
+    AKT/RKC/SBP
+
+    
+    
+    (Release ID: 1531374) Visitor Counter : 767

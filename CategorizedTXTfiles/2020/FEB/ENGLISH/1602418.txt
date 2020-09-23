@@ -1,0 +1,87 @@
+      Ministry of Railways
+
+      Steps taken to enhance railway safety
+      Posted On: 07 FEB 2020 4:59PM by PIB Delhi
+
+
+    Railways carry out studies on safety of tracks and vulnerable areas from time to time. Specific studies relating to safety of railway tracks were carried out in the year 2009, 2010 and 2017.
+
+
+    The following measures have been taken by Indian Railways to enhance Safety in vulnerable areas:
+
+     1. During 2018-19, 4181 km (in complete Track Renewal Units) track renewal had been carried out. For the current year i.e. 2019-20, 3474 km (in complete track renewal units) track renewal has been carried out upto December, 2019.
+     2. Modern track structure consisting of Pre-stressed Concrete Sleeper (PSC) Normal/Wide base sleepers with elastic fastening, 60kg, 90 or higher Ultimate Tensile Strength (UTS) rail, fanshaped layout turnout on PSC Sleepers, Steel Channel Sleepers on girder bridges is used while carrying out primary track renewals.
+     3. Long rail panels of 260M/130M length are being manufactured at the steel plant to minimize the number of Alumino Thermit joints in the track.
+     4. Provision of Thick Web Switches (TWS) is planned for all important routes of Indian Railways. To expedite provision of TWS, procurement of Thick Web Switches has been decentralized to Zonal Railways.
+     5. Cold weather patrolling of the railway tracks is done during the coldest part of the night in cold months of the year to look out for weld/rail fractures for ensuring safety.
+     6. Ultrasonic Flaw Detection (USFD) testing of rails to detect flaws and timely removal of defective rails. USFD Vehicular testing system has been introduced and implemented successfully on Northern Railway.
+     7. GPS trackers are being provided to keyman and patrolmen to monitor their movement and to report any unsafe condition noticed by them instantaneously.
+     8. Mechanization of track maintenance is being carried out to reduce human errors.
+     9. Track management system has been introduced on Indian Railways for development of database and decision support system and to decide/rationalize maintenance requirement and optimize inputs.
+    10. Safety drives and inspections at regular intervals are carried out to monitor and educate staff for observance of safe practices.
+    11. All Electric locomotives are equipped with Vigilance Control Devices (VCD) to ensure alertness of Loco Pilots.
+    12. Simulator based training is being imparted for improving the driving skills and the reaction time of Loco Pilots.
+    13. Special drives to check the alertness of Loco Pilots and other safety parameters are regularly being launched.
+    14. 6010 (96% of total stations) stations on Indian Railway have already been equipped with modern Electrical/Electronic Signalling Interlocking System upto 31.12.2019.
+    15. Electronic Interlocking are being adopted on a large scale to derive benefits of digital technologies in train operation and to enhance safety. So far 1814 stations have been provided with Electronic Interlocking upto 31.12.2019.
+    16. Axle Counters for Automatic clearance of Block Section (BPAC) are provided to ensure complete arrival of train without manual intervention before granting line clear to receive next train and to reduce human element. These systems have been provided on 5563 block sections upto 31.12.2019.
+    17. In order to increase line capacity to run more trains and lower per unit cost of train operations on existing High Density Routes of Indian Railways, Automatic Block Signaling is a cost effective solution. As on 31.12.2019, Automatic Block Signaling has been provided on 3181 Route km.
+    18. Enhancing Safety at Level Crossing Gates has been a major area of concern. Safety gets enhanced by interlocking level crossings with Signals. Indian Railways have provided interlocking with Signals at 11552 Level Crossing Gates to enhance the safety at Level Crossings as on 31.12.2019.
+
+    The following measures have been taken by Indian Railways to improve train operation in low visibility:
+
+     1. Retro-reflective sigma (∑) boards are being provided on the mast which is located two OHE masts prior to the signals in electrified territories to warn the crew about signal ahead.
+     2. A GPS based Fog Safe device is being provided to loco pilot in fog affected areas which enables loco pilots to know the exact distance of the approaching landmarks like signals, level crossing gates etc.
+     3. As a prelude to modernization work of signalling system on Indian Railways, four works totaling 640 Route km at total cost of ₹ 1609 crores have been sanctioned in Supplementary Works Programme 2018-19 for extensive trials on following sections:
+                                                      
+S. No.  Section                  Railway              
+                                                      
+                                                      
+                                                      
+1       Nagpur – Badnera         Central Railway      
+                                                      
+                                                      
+                                                      
+2       Renigunta -Yerraguntala  South Central Railway
+                                                      
+                                                      
+                                                      
+3       Vizianagaram - Palasa    East Coast Railway   
+                                                      
+                                                      
+                                                      
+4       Bina - Jhansi            North Central Railway
+                                                      
+                                                      
+
+     1. An indigenous Automatic Train Protection (ATP) System namely Train Collision Avoidance System (TCAS) has been developed by Indian Railways in association with Indian manufacturers. The system has been installed on Lingampalli – Vikarabad – Wadi & Vikarabad - Bidar section (250 Route km) of South Central Railway. Further works on additional 1199 Route km on South Central Railway are also in progress. The System shall provide protection against Signal Passed at Danger (SPAD).
+
+
+    This information was given by the Minister of Railways and Commerce & Industry, Shri Piyush Goyal in a written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    SG/MKV
+
+    
+    
+    (Release ID: 1602418) Visitor Counter : 279
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+1.

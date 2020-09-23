@@ -1,0 +1,91 @@
+      Ministry of Health and Family Welfare
+
+      Discharge policy has been changed as part of a shift from ‘test-based strategy to ‘symptom-based strategy or ‘time-based strategy’: Health Ministry
+      
+      Specificity of COVID Kavach ELISA kit is 97%, sensitivity is 92%: Health Ministry
+      
+      Out of 9.8 crore Aarogya Setu app users, data of only the nearly 13,000 COVID positive people is stored in the system, this too is deleted 60 days after date of cure: Chairman, Empowered Group 9
+      
+      Around 1.4 lakh Aarogya Setu App users have been alerted via blue-tooth contact tracing about possible risk of infection due to proximity to infected patients
+      
+      Posted On: 11 MAY 2020 6:48PM by PIB Mumbai
+
+
+    New Delhi / Mumbai, May 11, 2020
+
+
+    The number of COVID-19 positive cases stands at 67,152 as on date, while 44,029 people are under active medical supervision as on today. So far, 20,917 people have recovered from the disease as on date, which takes the recovery rate to 31.15 %. While 4,213 new cases have been reported, 1,559 cases of recovery have also been reported in the last 24 hours. This was informed by the Joint Secretary, Ministry of Health & Family Welfare, Shri Lav Agarwal, at the daily media briefing on the actions taken, preparedness and updates on COVID-19, held at National Media Centre, PIB New Delhi today. He further said, as a positive sign, we are constantly noticing a day on day increase in the number of recovered patients.
+
+
+    The Joint Secretary highlighted the importance of health-seeking behaviour. “We have to try together that whoever develops symptoms of COVID-19 should not hide, rather able to step out and get timely treatment. If we do not do this, we will not only be ill but put our families’ health at risk. Every patient, along with saving himself, must contribute to this fight, adopting the health facility provided by the Govt. to save his / her family.”
+
+
+    He further informed that the Ministry has issued a revised discharge policy for confirmed COVID-19 patients. “The earlier criteria for discharging RT-PCR positive were chest radiograph must be clear & two consecutive RT PCR test should result in negative test results.” According to the revised policy, for mild/very mild/pre-symptomatic cases and moderate cases, discharge will be based on clinical conditions, testing is not required.
+
+
+    He explained that the discharge policy was changed because several countries have changed their discharge criteria from ‘test-based strategy to ‘symptom-based strategy or ‘time-based strategy’. “As per ICMR review from lab surveillance data, in initial cases for RT-PCR positive results, patients turned negative after 10 days. A few recent studies have also shown that viral load peaks in the pre-symptomatic period (2 days before symptoms) and goes down over the next 7 days. It is also important to note that this discharge policy is not meant for home or facility quarantine patients in case of asymptomatic/ healthy person who has been exposed to the virus but does not show any symptoms. However, their stay at quarantine facility will remain 14 days from last exposure as per already issued MHA guideline on 5th May.” A detailed set of FAQs related to discharge policy is available on the Ministry's website.
+
+    Shri Agarwal said that the Ministry of Health has issued revised guidelines for home isolation of very mild/pre-symptomatic COVID-19 cases. According to the new guideline, for very mild/pre-symptomatic COVID cases there is no need for testing after the end of the home isolation period.
+
+
+    He further informed:
+
+      * Yesterday, the Health Minister visited COVID Care Centre at Mandoli Jail, New Delhi to review the status of COVID-19 management.
+      * On Saturday, the Health Minister held a VC meeting with the North Eastern States - Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura & Sikkim wherein he reviewed the ongoing COVID status.
+      * States were advised to ensure screening and quarantine measures for returning migrant labourers, students and those returning from abroad as per protocol by MoHFW and MEA. States were also asked to ensure prohibition of spitting in public spaces, to prevent the spread of the virus.
+      * National Institute of Virology at Pune has developed IgG Elisa test called “COVID Kavach ELISA” for antibody detection. The Health Mister added that “The indigenous test will play a critical role in the surveillance of COVID-19.”
+      * The PPE designed by the Indian Navy has been certified with the highest testing standard by INMAS (Institute of Nuclear Medicine and Allied Sciences) Dept of Biotechnology.
+      * DB and BIRAC-Biotechnology Industry Research Assistance Council shortlisted 70 proposals for funding in Vaccines, Diagnostic, therapeutics and other technologies.
+
+    Shri Ajay Sawhney, Chairman of Empowered Group 9 (which deals with Technology and Data Management) explained, through a presentation , the basic principles behind technology and data deployment for citizens and other stakeholders to fight COVID-19. “A special surveillance system in the form of Aarogya Setu App has been developed in order to make proper health data on testing and contact tracing available to health professionals and administrators. ‘Privacy first’ has been the principle on which the app has been developed. Aarogya Setu App has been playing and will continue to play a crucial role in India's fight against COVID-19. The app has been developed in order to alert people before they come in contact with infected patients, it also enables self-assessment. Government uses information on users in Aarogya Setu app, only for health interventions, not for any other purpose. Privacy is a very important feature of the app”.
+
+
+    He further informed:
+
+      * Personal identity of AarogyaSetu app users is not revealed to anyone, it is being used only for protecting the user and others from COVID19.
+      * Data for only 30 days is stored on the app; data of positive patients too is deleted from the server, 60 days after the date of cure.
+      * Location data is used in order to facilitate containment actions and to protect the community.
+      * When two Aarogya Setu app users come in contact, information of one contact is stored in the other person's device in encrypted form. This is stored in the server only when the user becomes COVID-19 positive.
+      * A unique anonymous randomized ID is generated for the device of a new user, only this ID is used, name of user is not used by the app.
+      * The movement history of positive patients is combined with the self-assessment data submitted by others, to enable identification of potential hot spot areas and take preventive action; Information on 697 such spots have been sent to states/districts.
+      * Around 1.4 lakh Aarogya Setu App users have been alerted via blue-tooth contact tracing about possible risk of infection due to proximity to infected patients.
+      * Aarogya Setu App will soon reach a user base of 10 crore; it has created a world record in being the fastest app to reach 5 crore users.
+      * Aarogya Setu IVRS platform has been enabled for feature phones and landlines, on giving a missed call on the number 1921, a return call will be given and further assistance will be given.
+      * When data of bluetooth contacts and self-assessment is received, they are called to find out their condition and needy patients are directed to health and district administration.
+      * An app has been developed which enables field level officers to mark hot spots and containment zones on map, so that required guidelines can be enforced in that area
+      * COVID-19 Saavdhaan enables giving alerts to people in a small area, Quarantine Alert System helps quarantine monitoring and Migration system helps people who migrate from one place to another. AYUSH Sanjivani App has been launched to assess impact of AYUSH interventions.
+
+    The Joint Secretary, Ministry of Home Affairs, Ms. Punya Salila Srivastava briefed that:
+
+      * INS Jalashwa has reached Kochi from Maldives with 698 passengers, including 105 women and 4 children. In the same way, INS Magar has also deported from Male in Maldives yesterday, with around 200 passengers to reach India.
+      * Under Vande Bharat Mission, till yesterday, around 4000 Indians have reached India in 23 flights.
+      * More than 5 lakh stranded workers have been taken to their destinations by Shramik Special trains till date. 468 special trains have run so far, out of which 101 trains were run yesterday.
+      * In the video conference of Cabinet Secretary with Chief Secretaries and Health Secretaries of all States and UTs yesterday, relaxations given for movement of stranded workers was reviewed. Home Ministry has also written to all state governments and requested them to ensure that migrant labourers do not walk on railway tracks under any condition and to make arrangements for their travel by trains or buses. Arrangements for their stay and meals at nearby shelter-homes also to be made till arrangements are made for journey to their home states.
+      * In yesterday’s video conference, Cabinet Secretary also stressed upon smooth movement of medical and para-medical staff. MHA has also written to Chief Secretaries for it.
+      * Today MHA conducted a video conference with railways and state governments’ nodal officers to review the operations of the special trains so that stranded people may reach their homes as soon as possible. MHA stressed upon running at least a 100 shramik special trains daily for the coming few weeks.
+      * Indian Railways will re-start passenger train services in a phased manner from May 12, 2020.
+      * Today, under Disaster Management Act, 2005, MHA has issued a SOP for movement of people by trains.
+
+    LIVE tweets by @PIB_India can be found on this thread .
+
+
+    ***
+
+
+    DJM/SC
+
+
+    Follow us on social media: @PIBMumbai / PIBMumbai /pibmumbai pibmumbai@gmail.com
+
+    
+    
+    (Release ID: 1623057) Visitor Counter : 628
+    
+    
+    
+    
+    
+
+  
+  
+*

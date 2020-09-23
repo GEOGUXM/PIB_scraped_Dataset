@@ -1,0 +1,38 @@
+      Ministry of Finance
+
+      Government to roll out facility to file NIL Form GSTR-1 through SMS from first week of July
+      Posted On: 27 JUN 2020 8:07PM by PIB Delhi
+
+
+    In a major move towards GST taxpayers’ facilitation, the Government has decided to provide the facility of SMS filing of NIL statement of FORM GSTR-1 from 1 st week of July 2020.
+
+
+    The Central Board of Indirect Taxes and Customs (CBIC) said that the filing of NIL statement in FORM GSTR-1 also through SMS would substantially improve ease of GST compliance for over 12 lakh registered taxpayers. At present, these taxpayers have to log into their account on the common portal and then file their statement of outward supplies in FORM GSTR-1 every month or each quarter.
+
+
+    GST taxpayers with NIL outward supplies would not be required to log on to the GST Portal and would be able to file their NIL statement in FORM GSTR-1 through just an SMS. The status confirmation of the filed statement or return application can be tracked by them on the GST Portal by logging in to their GSTIN account and navigating to Services>Returns>Track Return Status.
+
+
+    It may be noted that the facility to file NIL monthly GSTR-3B return through SMS has already been made available since 8 th June 2020. Taxpayers who have NIL FORM GSTR-3B return to file may avail the SMS facility.
+
+
+    To initiate the SMS facility, the taxpayers who wish to file Nil statement in their FORM GSTR-1 are to send SMS to 14409 as NIL<space>R1<space>GSTIN number<space>Tax period (in MMYYYY). For example: NIL R1 09XXXXXXXXXXXZC 042020 (for monthly return of April 2020) or NIL R1 09XXXXXXXXXXXZC 062020 (for quarterly return of April-June 2020).
+
+
+    After this, they will get a six-digit code with validity up to 30 minutes and can confirm their Nil statement filing by sending: CNF<space>R1<space> CODE to 14409. On successful code validation, return will be filed and taxpayers will be receiving an Acknowledgement number through SMS.
+
+
+    By using the similar steps taxpayers can file their NIL return in FORM GSTR-3B also however they need to use 3B instead of R1 in their SMS to 14409. For more details, one may visit ‘ help’ at: www.gst.gov.in
+
+
+    ****
+
+
+    RM/KMN
+
+    
+    
+    (Release ID: 1634831) Visitor Counter : 742
+    
+    
+      Read this release in: Urdu , Hindi , Bengali , Manipuri , Punjabi , Tamil

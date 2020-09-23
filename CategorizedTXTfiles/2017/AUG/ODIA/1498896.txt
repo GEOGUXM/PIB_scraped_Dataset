@@ -1,0 +1,28 @@
+      Department of Space
+
+      Joint Project between NASA and ISRO
+      Posted On: 03 AUG 2017 7:55PM by PIB Bhubaneshwar
+
+
+    ISRO and NASA are working towards realisation of NASA-ISRO Synthetic Aperture Radar (NISAR) mission by 2021.
+
+
+    In NISAR mission, NASA is responsible for development of L-band SAR and ISRO is responsible for development of S-band SAR. The L & S band SAR will be integrated with ISRO’s spacecraft and launched on-board India’s GSLV. The total cost of the project includes ISRO’s work share cost of about Rs. 788.00 Cr and the cost of JPL’s work share of about USD 808 million. After the launch in 2021, the plan of action includes (i) calibration of instruments & validation of data products; (ii) development of science acquisition plan; (iii) development of data processing procedures & applications; and (iv) conduct of outreach activities in research institutes & academia.
+
+
+    NISAR employs a futuristic SweepSAR technique, which enables very wide swath of more than 200 km and very high resolution of the order of 5-10m. The L & S band microwave data obtained from this satellite will be useful for variety of application, which include estimating agricultural biomass over full duration of crop cycle; assessing soil moisture; monitoring of floods & oil slicks; coastal erosion, coastline changes; assessment of mangroves; surface deformation studies, ice sheet dynamics etc.
+
+
+    ISRO and NASA have a framework agreement for cooperation in the exploration and use of outer space for peaceful purposes signed in 2008. Under this framework agreement, ISRO and NASA have executed an implementing arrangement for cooperation in NISAR mission, which is valid until 2034 and provides scope for joint activities on science & applications of NISAR data after the launch.
+
+
+    This information was provided by the Union Minister of State (Independent Charge) Development of North-Eastern Region (DoNER), MoS PMO, Personnel, Public Grievances & Pensions, Atomic Energy and Space, Dr Jitendra Singh in a written reply to a question in Rajya Sabha today.
+
+
+    ****
+
+
+    
+
+    
+    (Release ID: 1498896) Visitor Counter : 161

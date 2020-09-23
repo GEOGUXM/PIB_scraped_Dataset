@@ -1,0 +1,58 @@
+      PIB Headquarters
+
+      CZT Imager of AstroSat measures first phase resolved X-ray polarisation of Crab pulsar
+      Posted On: 07 NOV 2017 6:50PM by PIB Chennai
+
+
+    AstroSat, I n d i a ’ s mu l t i -w a ve l e ng t h space t e l e sco p e , h as su cce ssf u ll y a cc o mp l i sh e d th e e xt re me l y d i ff i cu l t task of measuring X-ray polarisation. In a paper published in ‘Nature Astronomy’, the team has documented the results of their eighteen-month study of the Crab pulsar in the Taurus Constellation and measured the variations of polarisation as this highly magnetised object spins around 30 times every second. This landmark measurement puts up a strong challenge to prevailing theories of high energy X-ray emission from pulsars.
+
+
+    The universe is home to many types of exotic objects, with conditions drastically different from the Earth. Neutron stars and black holes are examples of such objects; they are so different from what we are used to, that it is essential to thoroughly study them to ensure that our theoretical predictions indeed describe what goes on in and around these objects. They have sizes less than a few tens of km but have masses more than that of the entire Sun and hence are known as compact objects. Having an extremely large mass condensed in a very small volume, these objects possess extremely strong gravitational and magnetic fields, both approximately trillion times that on the Earth! They are known to be sources of intense X-ray radiation, electromagnetic waves similar to light but having ten to hundred thousand times higher energy, which carries vital clues to understand them as well as the physical processes responsible for the radiation. Astronomers have extensively studied various properties of this radiation to piece together a complete picture of compact objects and their immediate surroundings. However, the puzzle often remains incomplete due the missing information about the elusive properties of X-rays known as polarization.
+
+
+    X-ray polarisation measurement is so difficult, that so far the only reliable measurement obtained worldwide is for the pulsar in the Crab Nebula – the ghostly remains of a massive stellar explosion known as supernova , observed in 1054 AD. Indian scientists using data from the CZT Imager instrument of the AstroSat satellite have performed the most sensitive measurement of X-ray polarisation of the Crab pulsar, the rotating neutron star which is the main energy source of the nebula. These measurements have, for the first time, enabled the study of polarization at different rotation phases of the pulsar. It has been observed that the polarization is varying the most in the ‘off-pulse’ duration when no contribution from the pulsar is expected, which poses a serious challenge to most of the current theories of how this object produces X-rays. These extraordinary results have been reported in a paper published on November 6, 2017 in the journal Nature Astronomy .
+
+
+    The CZT Imager (CZTI) instrument derives its name from the detectors that make up its heart, made of a semiconductor called “Cadmium Zinc Telluride”. It consists of 16384 tiny pixels, essentially independent detectors, to measure X-rays coming from the celestial objects. When high energy X-rays shine on these detectors, an extremely small electric signal is generated, which is further processed to measure the energy of the photon. The incident X-ray photon sometimes leaves a signal in two neighbouring pixels, due to an effect called “Compton scattering”. For regular X-ray light, the orientation of these neighbours is random. But if you start seeing more and more of these two-pixel pairs aligned in the same direction, then it is a signature of polarized photons. “The idea of using pixelated CZT detectors for X-ray polarization measurement has been around for a while, but this is for the first time that this idea was tested on ground before launch and then employed in space. This makes our measurements much more credible. Another important feature of our measurements is the study of polarization properties at different rotation phases of the pulsar, which has not been done so far.”, says Prof. Santosh Vadawale of PRL Ahmedabad, the lead author of this paper, who is a part of the CZTI team and has vast experience of handling CZT detectors at TIFR, Harvard, and later for the Chandrayaan-1 mission at PRL. The CZTI team put in years of effort to observe and understand every nuance of the instrument. As a result, CZTI is the only functional space telescope whose polarisation abilities were measured before launch. “It was a massive ground-calibration effort. We have detailed files on each and every one of the sixteen thousand pixels of CZTI”, says Prof. Varun Bhalerao of IIT Bombay, talking about pre-launch calibrations. An equally important role was played by the robust on-board CZTI software developed by the team at Vikram Sarabhai Space Centre, Thiruvananthapuram.
+
+
+    Despite all these preparations, the measurements did not come easy. Prof. A. R. Rao of TIFR, the principal investigator of CZTI, says: “Even the brightest sources in the sky give us very few X-ray photons. We had to observe the Crab pulsar many times, and combine data taken many months apart - a major challenge, given the very small rotation period of the pulsar.” To get the micro-second accuracy required for combining the data, the AstroSat team sought help from one of the world’s best radio telescopes – the Indian Giant Meter-wave Radio Telescope (GMRT), at Khodad near Pune. Prof. Bhal Chandra Joshi and a team from NCRA, Pune monitored the radio pulsations from Crab with GMRT and Ooty radio telescope, meticulously corrected for all known anomalies, and provided accurate ephemeris to CZTI. The full team then spent several months poring over the data, and came up with the best measurements of Crab X-ray polarisation in the world.
+
+
+    M o st theories predict that the polarisation of X-ray radiation will show changes during the emission of a pulse, but not at other times. So what does the team make of the surprising observation by CZTI of a sharp change of polarisation in the “off pulse” region? “This is a big challenge to theorists”, says Prof. Dipankar Bhattacharya of IUCAA, Pune. “It tells us that the pulsar emission extends into what was thought to be off pulse region”. Most likely the particle acceleration is happening outside the conventional boundary of the magnetosphere, in a region where the charged particles generated by the pulsar are spiralling out in the form of a wind.
+
+
+    Nature Astronomy publication doi:
+
+
+    10.1038/s4 1 550-017-0293 - z
+
+
+    ______________________________________________________________
+
+
+    C ZT - I m a g e r i s b u il t by a consortium of Institutes across India. The Tata Institute of Fundamental Research, Mumbai, led the effort with instrument design and development. Vikram Sarabhai Space Centre, Thiruvananthapuram provided the electronic design, assembly and testing. ISRO Satellite Centre (ISAC), Bengaluru provided the mechanical design, quality consultation and project management. The Inter University Centre for Astronomy and Astrophysics (IUCAA), Pune did the Coded Mask design, instrument calibration, and operates Payload Operation Centre. Space Application Centre (SAC) at Ahmedabad provided the analysis software. Physical Research Laboratory (PRL) Ahmedabad, provided the polarisation detection algorithm and ground calibration. A vast number of industries participated in the fabrication and the University sector pitched in by participating in the test and evaluation o f the payload. The Indian Space Research Organisation funded, managed and facilitated the project
+
+
+    Figure Caption:
+
+
+    - -- - -- - -
+
+
+    L e f t panel: The grey line shows the brightness of the Crab pulsar as observed by AstroSat CZTI. The horizontal axis (phase) represents time expressed in units of the pulsar’s spin period. Phase 0.0 to 1.0 stands for the full rotation cycle of the pulsar. The same result is shown repeated between phase 1.0 and 2.0, for a clear demonstration of the periodic pattern. Colored bars indicate how strongly polarized the observed radiation is. Sharp variation of polarization when the brightness is low is the surprising discovery by AstroSat.
+
+
+    R i gh t panel: The angle of X-ray polarization measured by AstroSat CZTI shown superposed on a composite optical and X-ray image of the Crab nebula, taken by NASA’s Hubble and Chandra telescopes respectively. The white arrow represents the projected spin axis of the pulsar located at the center of the nebula. Other arrows display the orientation of the observed polarization. The color of an arrow indicates the range of phase it belongs to, being equal to that spanned by bars of the corresponding shade in the left panel.
+
+
+    ********
+
+
+    
+
+    
+    (Release ID: 1508561) Visitor Counter : 43
+    
+    
+      Read this release in: Tamil

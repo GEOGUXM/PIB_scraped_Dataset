@@ -1,0 +1,45 @@
+      Ministry of Steel
+
+      Government Initiatives for Steel Industry
+      Posted On: 14 SEP 2020 3:28PM by PIB Delhi
+
+
+    The steps taken by the Indian steel industry for introduction of digital and analytics in the steel making processes include the following initiatives:-
+
+
+      * Identification of the finished product till the end customer through introduction of Quick Response (QR) code based traceable tags where quality and genealogy can be tracked.
+
+      * Centralized Yard Management for all finished products to reduce rake retention time and improved identification and handling of the material with wireless Hand Held Terminal (HHT).
+      * Steel Ladle Management System to automatically track the steel ladle through various shops like Laddle Preparation Bay, Converter, secondary metallurgy, caster and back. It is used to monitor ladle circulation time and effective heat loss in empty ladle. This system facilitates regulating the steel bath tapping temperature at LD to get optimum casting temperature at caster using Level-1 and Level-2 automation.
+      * SMS Grade Prediction System to predict Final (Tundish) Composition and Final Grade based on Converter Analysis and Ladle Furnace Additions using Machine Learning Algorithm.
+      * Optimisation of Coke, Pellet & Sinter quality to improve the yield & throughput of the Blast Furnaces.
+      * Modeling of iron making process inside a Blast Furnace to reduce coke consumption and further enhance the yield.
+      * Optimisation of casting speed in the Continuous Casting process to arrive at the target properties at the lowest cost and time.
+      * Operation Research based models to optimize logistics cost and improving yield by efficient production planning.
+      * doption of the Fourth Industrial Revolution (or Industry 4.0) technology in the steel sector for improving manufacturing processes, material usage, energy efficiency, plant & worker productivity, supply-chain and product life-cycle.
+
+    The Ministry of Steel scheme for “Promotion of Research & Development in Iron & Steel Sector” provides for grant of financial assistance to various institutions including CSIR laboratories and academic institutions for carrying out research in the iron & steel sector including environmental issues like utilisation of wastes, improvement in energy efficiency and reduction in GHG emission. Indian steel industry has also been taking measures to address the energy and environment issues in Steel plants through adoption of energy efficient and environment friendly technologies as part of technological up-gradation/ modernisation/expansion projects.
+
+
+    Stakeholder consultation with experts from the industry, research labs and academic institutions is integral part of the R&D Scheme of Ministry of Steel to utilise their domain knowledge while considering the R&D initiatives to address the technological challenges in the iron & steel sector.
+
+
+    This information was given by the Union Minister for Steel Shri Dharmendra Pradhan in a written reply in the Lok Sabha today.
+
+
+    *****
+
+
+    YKB/TFK
+
+    
+    
+    (Release ID: 1654015) Visitor Counter : 187
+    
+    
+      Read this release in: Assamese , Manipuri , Punjabi , Tamil
+    
+    
+    
+
+*

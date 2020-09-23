@@ -1,0 +1,40 @@
+      Ministry of Railways
+
+      Steps taken by Indian Railways to avoid delay of trains during the foggy weather
+      Posted On: 04 MAR 2020 6:03PM by PIB Delhi
+
+
+    A large number of trains are affected every year during foggy weather in the winter months in Northern parts of the country. The following steps have been taken by the Railways to avoid delay of trains during the foggy weather:
+
+     1. To enhance the level of safety for trains running in automatic block signaling sections, a modified automatic signaling system has been introduced in Northern Railway and North Central Railway which restricts the number of trains to two between two stations during foggy weather.
+     2. Luminous paints/strips have been provided on the Signal Sighting Boards viz., Passenger and Good warning boards, Signals at stations/interlocked Level Crossing Gates to enhance visibility of signal aspects to loco pilots.
+     3. Inspections at Officers and supervisors level, including night inspections, are being carried during foggy weather for spreading more awareness and alertness among the maintenance staff.
+     4. Railways have now decided to implement Automatic Train Protection (ATP) Systems on select sections. These systems enable Loco Pilots to drive trains even during heavy fog as movement authority/Signal aspect is displayed in Cab of the Loco. This helps Loco Pilot to run the train confidently even during impaired visibility. The following of ATP systems are working or/in-progress:
+     1. Train Protection and Warning System: Automatic Train Protection (ATP) System based on European Train Control System (ETCS Level-1) Technology i.e. Train Protection and Warning System (TPWS) has been implemented on 345 Route km (200 Route km Delhi - Agra Section, 117 Route km Chennai Suburban section and 28 Route km of Metro Railway Kolkata).
+     2. Train Collision Avoidance System (TCAS): Train Collision Avoidance System (TCAS) is an indigenous Automatic Train Protection (ATP) System developed in association with three Indian manufacturers. The system has been installed on Lingampalli – Vikarabad – Wadi and Vikarabad - Bidar sections (250 Route km) on South Central Railway.
+     3. Pilot projects for the provision of Modern Train Control System (MTCS) based on latest LTE based European Train Control System (Level 2) is under implementation on 4 pilot sections of 1840 Route Kms.
+
+    Two works of raising of speed upto 160kmph on existing New Delhi – Howrah and New Delhi – Mumbai Routes have been sanctioned. MTCS (based on ETCS Level-2) is also being provided on existing New Delhi-Howrah and New Delhi-Mumbai section to enable operation of trains at 160 Km.
+
+     1. To ensure that train services are not disturbed due to foggy conditions and to assist the Loco Pilots to run the train during foggy weather condition, Fog PASS Device, a Global Positioning System (GPS) based hand held portable device, is given to Loco Pilots in fog affected sections. It serves as an aid for the crew during foggy weather through audio visual alarm, wherever any landmark comes within the Geo-fence range. Locations of stations, warning boards, signals, level crossing gates and Whistle for Level crossing (W/L) boards in the section are fed in the equipment, which displays speed of the locomotive, distance and time to reach landmarks.
+
+    This press release is based on information given by the Minister of Railways and Commerce & Industry, Shri Piyush Goyal in a written reply to a question in Lok Sabha today.
+
+
+    ****
+
+
+    RCJ/MKV
+
+
+    
+
+    
+    (Release ID: 1605227) Visitor Counter : 255
+    
+    
+    
+    
+    
+
+1.

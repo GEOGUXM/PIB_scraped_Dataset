@@ -1,0 +1,56 @@
+      Ministry of Electronics & IT
+
+      CJI Launches Applications to Facilitate Litigants and Lawyers
+      Posted On: 23 AUG 2018 2:39PM by PIB Delhi
+
+
+    The Chief Justice of India Hon’ble Justice Dipak Misra launched various applications for the benefit of the litigants and lawyers during the third week of August, 2018 at an event in the Supreme Court of India. Honorable Sh. Ravi Shankar Prasad, Union Minister of Law and Justice released brochures to increase awareness about eCourt initiatives and user manuals on the applications and services provided under eCourts Project to publicize work done under eCourts Project and to enable litigants, lawyers and other stake holders to avail these services.
+
+
+    Honorable Justice M.B. Lokur, Judge in charge, eCommittee, Supreme Court of India, under whose guidance the eCourts project reached many milestones in the delivery of digital court services, explained the features and benefits of the applications. The path breaking citizen centric applications launched during the ceremony have been developed under the leadership of Honorable Justice M.B. Lokur, Judge in charge, eCommittee, Supreme Court of India. The principal components of the eCourts Project especially the crucial pan-Indian Wide Area Network (WAN) Connectivity programme has been steered by Dr. Alok Srivastava, Secretary, Department of Justice.
+
+
+    Three applications of e-filing, e-pay, and NSTEP (National Service and Tracking of Electronic Processes) created under the eCourts project were launched during the occasion. The second phase of the eCourts project is implemented by Department of Justice during 2015 – 19 under the guidance of eCommittee, Supreme Court of India for ICT enablement of all district and subordinate courts in the country.
+
+
+    The eFiling application is made available at efiling.ecourts.gov.in where online registration of lawyers and litigants can be done. Through the application, one can file cases from any part of India to any court on registration. Portfolio management of cases of litigants and lawyers is provided on this portal and one can get updates from time to time about filed cases, cases under objection or rejected cases. The facility of eSign is provided for those who cannot afford purchasing token for making digital signatures.
+
+
+    The eFiling application will facilitate efficient administration of Judicial System, as it will ease pressure on filing counters and will speed up work flow processing. Data entry will be more accurate which will help to take data driven decisions in court administration. It will start building digital repositories which will auto generate paper books and can be quickly transmitted to Higher Courts which will reduce delays. The application will help reduce touch point of litigants will also result in more productivity of staff members and can send documents for service to other locations or mail addresses which will be relatively easy and the requirement of scanning the record can be done away with.
+
+
+    The ePay application at pay.ecourts.gov.in is a unified portal wherein facility to pay online court fees is provided. The platform is user friendly which can be used with very little self help. ePayment is a safe and secure, quick and easy way to pay court fees . At present, the facility will be made operational in two states of Maharashtra and Haryana. OTP authentication provides secure way to financial transactions and one can get instant acknowledgement through SMS and print receipt. The application is beneficial to judicial administration since verification of court fees is more easy, secure and transparent and accurate figures of court fees collected can be generated for any court, district or State.
+
+
+    NSTEP - National Service and Tracking of Electronic Processes is another innovative application launched as part of the eCourts Project, which is an collaboration between Case Information Software (CIS), Web portal and Mobile Application. It is a transparent and secure system for transmission of process from one location to another, and shall address delays in process serving particularly for processes beyond jurisdiction.
+
+
+    NSTEP will lead to secured auto generation of processes with unique QR Code through CIS, publishing processes on portal and transmission of processes to other court complexes in the country and ultimately to mobile app of the bailiffs. A facility to send electronic processes directly to registered mail of the addressee by secured mechanism, to upload documents associated with process and facilities like tracking GPS where process is served or otherwise, obtaining photograph and on screen signature after service is provided. Immediate communication of status of service of process to Court and stake holders will be done and there is a secured dedicated system for transmission of processes from one district to another or from one state to another with travel time in seconds. The service will empower litigants with real time information relating to status of service of process and will entail litigants to take immediate follow up action which will reduce delays. The status of service can also be tracked on public portal.
+
+
+    The eCourts Mission Mode Project Phase I was implemented during 2011 - 2015; wherein Rs. 639.41 crores was released for computerisation of district and subordinate courts. At the end of Phase-I, of the total target of computerisation of 14,249 district and subordinate courts, sites for all 14,249 courts (100%) were made ready for computerisation, out of which LAN was installed at 13,643 courts, hardware provided in 13,436 courts and software was installed in 13,672 courts. Laptops were provided to 14,309 judicial officers and change management exercise was completed in all the High Courts. Over 14,000 Judicial Officers were trained in the use of UBUNTU-Linux Operating System and more than 4000 court staff have been trained in Case Information System (CIS) as System Administrators. Video Conferencing facility was operationalised between 488 court complexes and 342 corresponding jails.
+
+
+    Under the Phase II of the Project (2015-19), Rs. 1078 crores has been released till date, against the financial outlay of Rs.1670 crores. Computerisation of 16,089 district and subordinate courts has been completed, through provisioning of computer hardware, Local Area Network (LAN), and installation of standard application software in district and subordinate courts.
+
+
+    The National Judicial Data Grid (NJDG) for district & subordinate courts has been created as an online platform which now provides information relating to judicial proceedings/decisions of 16,089 computerized district and subordinate courts of the country. The portal provides online information to litigants such as details of case registration, cause list, case status, daily orders, and final judgments. Currently litigants can access case status information in respect of over 10 crore cases and more than 7 crore orders / judgments. Litigant centric information can be obtained through the website of the eCourts portal by accessing using the URL: https://ecourts.gov.in. Case information is thus available speedily to the petitioners and respondents. The eCourts portal and National Judicial Data Grid (NJDG) also serve as tools of efficient court and case management for judiciary which aids in disposal of pending cases.
+
+
+    The Department of Justice is administering a Wide Area Network (WAN) connectivity project connecting all the district and taluka courts through BSNL in a single network grid under the eCourts Project. Department of Justice has issued work order to BSNL in May 2018 for establishing Wide Area Network (WAN) connectivity at 3064 Court Complexes, including 458 unconnected court complex sites under e-Courts Project at a cost of Rs. 169.61 crores, to complete in six months.
+
+
+    The eCourts project also plays an important role in enabling Ease of Doing Business in the country through automation and technology enablement leading to generation of reports, and putting electronic case management tools in place for use by judges and lawyers to track the status of a given case (future hearings, deadlines, etc.), access court orders and decisions on a given case as well as automatic generation of a hearing schedule for all cases on the judge docket.
+
+
+    Hon'ble Mr. Justice A.M. Khanwilkar, Judge, Supreme Court of India and Judge Member of the eCommittee, Supreme Court of India, recounted the valuable efforts of the eCommittee and the contribution of all stakeholders such as Department of Justice, and National Informatics Centre, towards the successful implementation of various components of the eCourts project. The event was attended by Hon’ble Judges of the Supreme Court, Sh K. K. Venugopal, Learned Attorney General of India, Secretaries of Department of Justice and Ministry of Electronics and Information Technology, Ms. Neeta Verma, Director General, National Informatics Centre, members of the eCommittee, Supreme Court of India and other officers of Supreme Court registry and Government of India .
+
+
+    NNK/MD
+
+    
+    
+    (Release ID: 1543677) Visitor Counter : 1524
+    
+    
+      Read this release in: Bengali , Tamil

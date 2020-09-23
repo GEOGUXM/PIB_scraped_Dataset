@@ -1,0 +1,47 @@
+      Ministry of Science & Technology
+
+      INST scientists develop simple economical nonsurgical prevention of cataract
+      Posted On: 02 AUG 2020 11:20AM by PIB Delhi
+
+
+    Cataract a major form of blindness that occurs when the structure of crystallin proteins that make up the lens in our eyes deteriorates, causing damaged or disorganised proteins to aggregate and form a milky blue or brown layer, which ultimately affects lens transparency. Thus, prevention of the formation of these aggregates as well as their destruction in the early stage of disease progression is a major treatment strategy for cataracts, and materials that can carry out this task could make cataract prevention affordable and accessible.
+
+
+    A team of scientists from the Institute of Nano Science & Technology (INST) an autonomous institute under the Department of Science & Technology, Government of India has developed nanorods from the nonsteroidal anti-inflammatory drug (NSAID) Aspirin, a popular medication used to reduce pain, fever, or inflammation and found it to be an effective non–invasive small molecule-based nanotherapeutics against cataract.
+
+
+    Their research published in the Journal of Materials Chemistry B could help prevent cataracts in an economical and less complicated way. They have used the anti-aggregation ability of self-build aspirin nanorods as an effective non –invasive small molecule-based nanotherapeutics against cataract. Aspirin nanorods prevent the aggregation of crystallin protein and various peptides derived from its fragmentation, which play a crucial role in cataract formation. They prevent the protein/peptide aggregation through biomolecular interactions, which convert beta-turn like the structure of the crystallin peptides, responsible for amyloid formation into coils and helices, those fail to aggregate. These were found to prevent cataract formation by inhibiting aggregation of crystallin, and crystallin derived peptide aggregates. As with aging and under various conditions, the lens protein crystallin aggregates to form opaque structures in the eye lens, which impairs vision and cause cataract.
+
+
+    The targeted disaggregation of the accumulated alpha-crystallin protein and crystallin derived peptide aggregates in aged and cataractous human lenses are considered as a viable therapeutic strategy for the prevention of cataract formation. The aspirin nanorods are produced using the process of molecular self-assembly, which is a low cost and high –yield technique to generate the aspirin nanorods as compared to the high cost and laborious physical methods generally used for the synthesis of nanoparticles.
+
+
+    Computational studies based on molecular dynamics (MD) simulations were performed to investigate the molecular mechanism of aspirin’s anti-aggregation behaviour and the nature of protein (peptide)-inhibitor interactions between the synthetic peptides and aspirin. It was observed that the peptide-aspirin (inhibitor) interactions eventually transformed peptides secondary structures from beta-turns, those are responsible for the amyloids formation, into various coils and helixes, preventing its aggregation. These simulations revealed the secret behind aspirin’s ability to act as a potential inhibitor towards amyloid-like fibril formation by the model cataract peptides.
+
+
+    Many natural compounds have already been reported as potential aggregation inhibitors for crystallin aggregation, but the utility of nonsteroidal anti-inflammatory drugs ( NSAIDs) like aspirin in this direction will open a new paradigm. In addition, aspirin nanorods due to their nano-size will enhance bioavailability, improve drug loading, lower toxicity, etc. Hence, the delivery of the aspirin nanorods as eye drops is going to serve as an effective and viable option to treat cataract non-invasively.
+
+
+    This easy to use and low-cost alternative nonsurgical treatment method will benefit patients in developing countries who cannot access expensive cataract treatments and surgeries.
+
+
+    (Publication details:
+
+
+    Bisht, A., Sharma, M., Sharma, S., Ali, M. E., & Panda, J. J. (2019). Carrier-free self-built aspirin nanorods as anti-aggregation agents towards alpha-crystallin-derived peptide aggregates: potential implications in non-invasive cataract therapy. Journal of Materials Chemistry B, 7(44), 6945-6954.
+
+
+    For further details, Dr. Jiban Jyoti Panda (jyoti@inst.ac.in) can be contacted.)
+
+
+    *****
+
+
+    NB/KGS/(DST Media Cell)
+
+    
+    
+    (Release ID: 1642991) Visitor Counter : 1323
+    
+    
+      Read this release in: Urdu , Hindi , Bengali , Manipuri , Tamil
